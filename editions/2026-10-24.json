@@ -15,10 +15,20 @@
    "source": "AI Briefing · DOJ / Whistleblower Network News",
    "published": "2026-10-20T00:00",
    "url": "",
-   "image": "",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
    "kind": "briefing",
    "item_type": "rule",
-   "tier": "ai"
+   "tier": "ai",
+   "image_query": "whistle",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   }
   },
   {
    "id": "5847d3abab01",
@@ -32,10 +42,20 @@
    "source": "U.S. Department of Justice",
    "published": "2026-10-22T12:00+00:00",
    "url": "https://www.justice.gov/opa/pr/los-angeles-health-care-fraud-takedown-results-charges-against-15-defendants-including-6",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Los_Angeles_General_Hospital%2C_Los_Angeles%2C_California_%2863781%29.jpg/1280px-Los_Angeles_General_Hospital%2C_Los_Angeles%2C_California_%2863781%29.jpg",
    "kind": "link",
    "item_type": "enforcement",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "Los Angeles hospital",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Tichnor Brothers, Publisher",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Los_Angeles_General_Hospital,_Los_Angeles,_California_(63781).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Los Angeles General Hospital, Los Angeles, California (63781).jpg"
+   }
   },
   {
    "id": "e4f01950d479",
@@ -49,10 +69,20 @@
    "source": "U.S. Department of Justice",
    "published": "2026-10-22T12:00+00:00",
    "url": "https://www.justice.gov/opa/pr/justice-departments-civil-division-and-department-health-human-services-announce-anti-fraud",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg/1280px-Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
    "kind": "link",
    "item_type": "rule",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "hospital corridor",
+   "image_credit": {
+    "kind": "commons",
+    "author": "W.carter",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corridor on the second level - NÄL hospital 1.jpg"
+   }
   },
   {
    "id": "b74f7652e722",
@@ -66,10 +96,20 @@
    "source": "U.S. SEC",
    "published": "2026-10-23T14:10+00:00",
    "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Facade_of_the_U.S._Securities_and_Exchange_Commission_headquarters%2C_Washington%2C_D.C.jpg/1280px-Facade_of_the_U.S._Securities_and_Exchange_Commission_headquarters%2C_Washington%2C_D.C.jpg",
    "kind": "link",
    "item_type": "rule",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "Securities and Exchange Commission headquarters",
+   "image_credit": {
+    "kind": "commons",
+    "author": "David (Flickr user: dbking)",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Facade_of_the_U.S._Securities_and_Exchange_Commission_headquarters,_Washington,_D.C.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Facade of the U.S. Securities and Exchange Commission headquarters, Washington, D.C.jpg"
+   }
   },
   {
    "id": "aa9a7997523a",
@@ -83,10 +123,20 @@
    "source": "U.S. EEOC",
    "published": "2026-10-20T12:00+00:00",
    "url": "https://www.eeoc.gov/newsroom/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Shopping_cart_in_supermarket_-_Tokyo_area_Japan_-_Nov_24_2018.jpeg/1280px-Shopping_cart_in_supermarket_-_Tokyo_area_Japan_-_Nov_24_2018.jpeg",
    "kind": "link",
    "item_type": "enforcement",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "shopping cart supermarket aisle",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Nesnad",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shopping_cart_in_supermarket_-_Tokyo_area_Japan_-_Nov_24_2018.jpeg",
+    "provider": "Wikimedia Commons",
+    "title": "Shopping cart in supermarket - Tokyo area Japan - Nov 24 2018.jpeg"
+   }
   },
   {
    "id": "cabca81d142b",
@@ -100,10 +150,20 @@
    "source": "JD Supra",
    "published": "2026-10-23T21:49+00:00",
    "url": "https://www.jdsupra.com/legalnews/eeoc-cuts-response-deadlines-in-half-a-2049023/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Seattle_-_old_Federal_Building_01.jpg/1280px-Seattle_-_old_Federal_Building_01.jpg",
    "kind": "link",
    "item_type": "rule",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "federal office building Washington",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Joe Mabel",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seattle_-_old_Federal_Building_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Seattle - old Federal Building 01.jpg"
+   }
   },
   {
    "id": "7601551023b1",
@@ -117,10 +177,20 @@
    "source": "JD Supra",
    "published": "2026-10-23T18:58+00:00",
    "url": "https://www.jdsupra.com/legalnews/eeoc-moves-to-withdraw-disparate-impact-8074595/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg/1280px-Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
    "kind": "link",
    "item_type": "rule",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "office keyboard desk",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Shixart1985",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Doctor working at a desk using a computer mouse and keyboard in a medical office setting.jpg"
+   }
   },
   {
    "id": "933e2003f7d4",
@@ -134,10 +204,20 @@
    "source": "U.S. EEOC",
    "published": "2026-10-19T12:00+00:00",
    "url": "https://www.eeoc.gov/newsroom/eeoc-sues-bnsf-railway-disability-discrimination-and-retaliation",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/BNSF_2234_Interbay_Yard_Seattle_2023.jpg/1280px-BNSF_2234_Interbay_Yard_Seattle_2023.jpg",
    "kind": "link",
    "item_type": "enforcement",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "BNSF Railway locomotive",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guywelch2000",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BNSF_2234_Interbay_Yard_Seattle_2023.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BNSF 2234 Interbay Yard Seattle 2023.jpg"
+   }
   },
   {
    "id": "7ea9f46ce22a",
@@ -151,10 +231,20 @@
    "source": "U.S. Department of Labor",
    "published": "2026-10-22T12:00+00:00",
    "url": "http://www.dol.gov/newsroom/releases/whd/whd20261022",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Construction_Site_Activity_-_July_10%2C_2015_150710-F-LP903-046.jpg/1280px-Construction_Site_Activity_-_July_10%2C_2015_150710-F-LP903-046.jpg",
    "kind": "link",
    "item_type": "enforcement",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "drywall construction site",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Capt. David Murphy",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Construction_Site_Activity_-_July_10,_2015_150710-F-LP903-046.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Construction Site Activity - July 10, 2015 150710-F-LP903-046.jpg"
+   }
   },
   {
    "id": "64db37cbaf1a",
@@ -168,10 +258,20 @@
    "source": "JD Supra",
    "published": "2026-10-24T03:49+00:00",
    "url": "https://www.jdsupra.com/legalnews/false-claims-act-insurance-coverage-5259587/",
-   "image": "",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
    "kind": "link",
    "item_type": "ruling",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "Virginia federal courthouse",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
   },
   {
    "id": "f17ef9d21217",
@@ -185,10 +285,20 @@
    "source": "Whistleblower Network News",
    "published": "2026-10-21T17:48+00:00",
    "url": "https://whistleblowersblog.org/ctfc-rewards/recent-cftc-award-determination-sets-dangerous-precedent/",
-   "image": "https://whistleblowersblog.org/wp-content/uploads/2022/03/IMG_2450-scaled.jpg",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Commodity_Futures_Trading_Commission_entrance_Washington_DC_2026-03-15_08-47-48.jpg/1280px-Commodity_Futures_Trading_Commission_entrance_Washington_DC_2026-03-15_08-47-48.jpg",
    "kind": "link",
    "item_type": "enforcement",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "Commodity Futures Trading Commission",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Commodity_Futures_Trading_Commission_entrance_Washington_DC_2026-03-15_08-47-48.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Commodity Futures Trading Commission entrance Washington DC 2026-03-15 08-47-48.jpg"
+   }
   },
   {
    "id": "bb244a811f39",
@@ -202,10 +312,20 @@
    "source": "Whistleblower Network News",
    "published": "2026-10-23T21:07+00:00",
    "url": "https://whistleblowersblog.org/ai-tech/what-the-ai-whistleblower-protection-act-protects/",
-   "image": "https://whistleblowersblog.org/wp-content/uploads/2025/05/iStock-1998660059.jpg",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/IC_circuit_chip_board.JPG/1280px-IC_circuit_chip_board.JPG",
    "kind": "link",
    "item_type": "proposal",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "computer chip circuit board",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Kimmo Palosaari",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:IC_circuit_chip_board.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "IC circuit chip board.JPG"
+   }
   },
   {
    "id": "db279cae2b91",
@@ -219,10 +339,20 @@
    "source": "Corporate Compliance Insights",
    "published": "2026-10-19T11:30+00:00",
    "url": "https://www.corporatecomplianceinsights.com/before-employees-speak-up-what-uns-new-anti-corruption-guide-gets-right/",
-   "image": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2026/10/UN-Speak-up.png",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/United_Nations_Office_at_Vienna_%28UNOV%29_Austria_Ank_Kumar_Infosys_Limited_2014_04.jpg/1280px-United_Nations_Office_at_Vienna_%28UNOV%29_Austria_Ank_Kumar_Infosys_Limited_2014_04.jpg",
    "kind": "link",
    "item_type": "analysis",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "United Nations Office at Vienna",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:United_Nations_Office_at_Vienna_(UNOV)_Austria_Ank_Kumar_Infosys_Limited_2014_04.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "United Nations Office at Vienna (UNOV) Austria Ank Kumar Infosys Limited 2014 04.jpg"
+   }
   },
   {
    "id": "bbe1bc0bf202",
@@ -236,10 +366,20 @@
    "source": "Corporate Compliance Insights",
    "published": "2026-10-19T11:30+00:00",
    "url": "https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk/",
-   "image": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2026/10/Humans-create-AI-Risk.jpg",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
    "kind": "link",
    "item_type": "analysis",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "data center servers",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
   },
   {
    "id": "695d65581d16",
@@ -253,10 +393,20 @@
    "source": "Radical Compliance",
    "published": "2026-10-22T17:56+00:00",
    "url": "https://www.radicalcompliance.com/2026/10/22/bank-of-america-part-ii-transaction-monitoring/",
-   "image": "https://www.radicalcompliance.com/wp-content/uploads/2023/11/BankAmerica-e1701258298996.png",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/One_Bryant_Park_%288156006545%29.jpg/1280px-One_Bryant_Park_%288156006545%29.jpg",
    "kind": "link",
    "item_type": "analysis",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "Bank of America tower",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Eden, Janine and Jim from New York City",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:One_Bryant_Park_(8156006545).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "One Bryant Park (8156006545).jpg"
+   }
   },
   {
    "id": "02722cfc12c4",
@@ -270,10 +420,20 @@
    "source": "U.S. Department of Labor",
    "published": "2026-10-23T12:00+00:00",
    "url": "http://www.dol.gov/newsroom/releases/ilab/ilab20261023",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/U.S._Customs_%26_Border_Protection_Officers_Duty_at_Port_of_Nogales_-_8468738918.jpg/1280px-U.S._Customs_%26_Border_Protection_Officers_Duty_at_Port_of_Nogales_-_8468738918.jpg",
    "kind": "link",
    "item_type": "enforcement",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "Nogales border crossing",
+   "image_credit": {
+    "kind": "commons",
+    "author": "CBP Photography",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:U.S._Customs_%26_Border_Protection_Officers_Duty_at_Port_of_Nogales_-_8468738918.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "U.S. Customs & Border Protection Officers Duty at Port of Nogales - 8468738918.jpg"
+   }
   },
   {
    "id": "1131de2fa06e",
@@ -287,10 +447,20 @@
    "source": "Euractiv",
    "published": "2026-10-21T20:07+00:00",
    "url": "https://www.rapporteur.com/news/judge-orders-meta-to-pay-25-bn-to-new-mexico-in-cambridge-analytica-case/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Meta_Platforms_Headquarters_Menlo_Park_California.jpg/1280px-Meta_Platforms_Headquarters_Menlo_Park_California.jpg",
    "kind": "link",
    "item_type": "ruling",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "Meta headquarters Menlo Park",
+   "image_credit": {
+    "kind": "commons",
+    "author": "LPS.1",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Headquarters_Menlo_Park_California.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Meta Platforms Headquarters Menlo Park California.jpg"
+   }
   },
   {
    "id": "3ebbe498033a",
@@ -304,10 +474,20 @@
    "source": "JD Supra",
    "published": "2026-10-23T17:51+00:00",
    "url": "https://www.jdsupra.com/legalnews/preventing-workplace-sexual-harassment-2488752/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%E0%B8%AB%E0%B8%A7%E0%B8%8D_03-45_A_Large_Open-plan_Office.jpg/1280px-%E0%B8%AB%E0%B8%A7%E0%B8%8D_03-45_A_Large_Open-plan_Office.jpg",
    "kind": "link",
    "item_type": "analysis",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "open plan office",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E0%B8%AB%E0%B8%A7%E0%B8%8D_03-45_A_Large_Open-plan_Office.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "หวญ 03-45 A Large Open-plan Office.jpg"
+   }
   },
   {
    "id": "64d1d71a8528",
@@ -321,10 +501,20 @@
    "source": "Corporate Compliance Insights",
    "published": "2026-10-21T11:01+00:00",
    "url": "https://www.corporatecomplianceinsights.com/who-defines-compliance-when-regulators-leave-saas-shaped-gaps/",
-   "image": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2026/10/diamond-mining-diamond-in-tweezers.jpg",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Necklace_made_of_rough_diamonds.jpg/1280px-Necklace_made_of_rough_diamonds.jpg",
    "kind": "link",
    "item_type": "analysis",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "rough diamonds",
+   "image_credit": {
+    "kind": "commons",
+    "author": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Necklace_made_of_rough_diamonds.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Necklace made of rough diamonds.jpg"
+   }
   },
   {
    "id": "cdf8a37bb673",
@@ -338,10 +528,20 @@
    "source": "JD Supra",
    "published": "2026-10-23T19:01+00:00",
    "url": "https://www.jdsupra.com/legalnews/german-labor-court-draws-lines-between-7691416/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bundesarbeitsgericht_DSC_3338_b.jpg/1280px-Bundesarbeitsgericht_DSC_3338_b.jpg",
    "kind": "link",
    "item_type": "ruling",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "Bundesarbeitsgericht Erfurt",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Alupus",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bundesarbeitsgericht_DSC_3338_b.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Bundesarbeitsgericht DSC 3338 b.jpg"
+   }
   },
   {
    "id": "9bbfcc6b8737",
@@ -355,10 +555,20 @@
    "source": "JD Supra",
    "published": "2026-10-23T19:23+00:00",
    "url": "https://www.jdsupra.com/legalnews/the-real-estate-sector-in-spain-risks-5881479/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Buildings_in_the_Salamanca_neighborhood_of_Madrid_.jpg/1280px-Buildings_in_the_Salamanca_neighborhood_of_Madrid_.jpg",
    "kind": "link",
    "item_type": "analysis",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "Madrid apartment buildings",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Eric Titcombe",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Buildings_in_the_Salamanca_neighborhood_of_Madrid_.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Buildings in the Salamanca neighborhood of Madrid .jpg"
+   }
   },
   {
    "id": "0045914c1b70",
@@ -372,10 +582,20 @@
    "source": "Euractiv",
    "published": "2026-10-21T16:26+00:00",
    "url": "https://www.rapporteur.com/news/council-falls-short-of-purging-cookie-banners/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Justus_Lipsius_building%2C_2010%2C_Brussels_-_panoramio.jpg/1280px-Justus_Lipsius_building%2C_2010%2C_Brussels_-_panoramio.jpg",
    "kind": "link",
    "item_type": "proposal",
-   "tier": "press"
+   "tier": "press",
+   "image_query": "Justus Lipsius building Brussels",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Aulo Aasmaa",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Justus_Lipsius_building,_2010,_Brussels_-_panoramio.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Justus Lipsius building, 2010, Brussels - panoramio.jpg"
+   }
   },
   {
    "id": "10889710cb2d",
@@ -389,10 +609,20 @@
    "source": "Financial Consumer Agency of Canada",
    "published": "2026-10-23T10:25+00:00",
    "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/10/banking-fees-can-be-hard-to-see-and-compare-fcac-review-finds.html",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bank_of_Montreal_Branch%2C_Stratford%2C_Ontario%2C_2025-08-04.jpg/1280px-Bank_of_Montreal_Branch%2C_Stratford%2C_Ontario%2C_2025-08-04.jpg",
    "kind": "link",
    "item_type": "rule",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "Canadian bank branch",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bank_of_Montreal_Branch,_Stratford,_Ontario,_2025-08-04.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Bank of Montreal Branch, Stratford, Ontario, 2025-08-04.jpg"
+   }
   },
   {
    "id": "eadb4f4f19f9",
@@ -406,10 +636,20 @@
    "source": "Privacy Commissioner of Canada",
    "published": "2026-10-23T04:00+00:00",
    "url": "/en/opc-news/news-and-announcements/2026/nr-c_261023/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
    "kind": "link",
    "item_type": "proposal",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "Parliament Hill Ottawa",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
   },
   {
    "id": "d493838cdc45",
@@ -423,10 +663,20 @@
    "source": "Privacy Commissioner of Canada",
    "published": "2026-10-20T04:00+00:00",
    "url": "/en/opc-news/news-and-announcements/2026/nr-c_261020/",
-   "image": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tablet_computer.jpg/1280px-Tablet_computer.jpg",
    "kind": "link",
    "item_type": "rule",
-   "tier": "official"
+   "tier": "official",
+   "image_query": "tablet computer",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KK IN HK",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tablet_computer.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Tablet computer.jpg"
+   }
   }
  ],
  "briefings": {

@@ -9,12 +9,21 @@
   data-type="{{ c.item_type }}" data-tier="{{ c.tier }}" data-kind="{{ c.kind }}" data-date="{{ c.date_label }}"
   data-published="{{ c.published or '' }}" data-edition="{{ ed.date }}" data-action-label="{{ c.action_label }}"
   data-text="{{ (c.title ~ ' ' ~ c.summary ~ ' ' ~ c.impact ~ ' ' ~ c.source)|lower }}">
-  {% if c.image %}
-  <div class="card-img"><img loading="lazy" alt="" src="{{ c.image }}"
-       onerror="var k=this.closest('.card');this.parentNode.remove();k.classList.add('img-failed')"></div>
-  {% elif lead %}
-  <div class="card-img"><img alt="" src="{{ root }}img/topic-{{ c.topic }}.svg"></div>
-  {% endif %}
+  {% set cr = c.image_credit %}
+  <figure class="card-fig">
+    <div class="card-img">
+      {% if c.image %}<img loading="lazy" alt="" src="{{ c.image }}" onerror="tattImg(this,'{{ root }}img/topic-{{ c.topic }}.svg')">
+      {% else %}<img loading="lazy" alt="" src="{{ root }}img/topic-{{ c.topic }}.svg">{% endif %}
+    </div>
+    {% if c.image and cr %}
+    <figcaption class="credit">
+      {% if cr.kind == 'official' %}Image: {{ cr.text }}
+      {% else %}Photo: <a href="{{ cr.source_url }}" target="_blank" rel="noopener license">{{ cr.author }}</a> / Wikimedia Commons,
+        {% if cr.license_url %}<a href="{{ cr.license_url }}" target="_blank" rel="noopener license">{{ cr.license }}</a>{% else %}{{ cr.license }}{% endif %}
+      {% endif %}
+    </figcaption>
+    {% endif %}
+  </figure>
   <div class="card-body">
     <p class="dateline">
       <span class="pri"><span class="ms" aria-hidden="true">{{ pri_icon }}</span>{{ c.action_label }}</span>

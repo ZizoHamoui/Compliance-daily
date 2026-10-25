@@ -51,7 +51,12 @@ For every free card write:
 - `item_type`: one of `enforcement` (charges, suits, fines, settlements, orders), `rule` (final rules, guidance,
   priorities, new programs), `ruling` (court/tribunal decisions), `proposal` (proposed rules, consultations,
   legislative positions), `analysis` (commentary, law-firm or press analysis).
-- Copy `id`, `url`, `source`, `region`, `lang`, `published`, `image`, `tier`, `topic` exactly from the candidate
+- `image_query`: 3–6 words for a Wikimedia Commons search that would find a fitting photo: a named **building,
+  place, vehicle or object** tied to the story (e.g. `BNSF Railway locomotive`, `Berlaymont building Brussels`,
+  `hospital corridor`). Never a person's name, a face, a logo, a seal or anything graphic. Skip it only when the
+  candidate's `image_credit.kind` is `official`. A script finds a cleared image and writes the credit; you never
+  write image URLs or credits yourself.
+- Copy `id`, `url`, `source`, `region`, `lang`, `published`, `image`, `image_credit`, `tier`, `topic` exactly from the candidate
   (topic may be changed to a better-fitting key from `config/topics.yaml`). Set `"kind": "link"`.
 
 **Never write a URL yourself for a link card.** The validator rejects any link card whose URL is not
@@ -73,8 +78,8 @@ Process:
    `### What compliance teams should do` with 2–4 practical points. No quotes longer than 15 words, at
    most one quote per source, nothing copied from the paywalled article, no speculation beyond the sources.
 4. The card's `title` is your own headline, not the paywalled outlet's wording. `summary`/`impact` follow
-   the same rules as free cards. Set `"kind": "briefing"`, `"tier": "ai"`, an `item_type`, `"source": "AI Briefing · <main free source>"`,
-   `"url": ""`, `"image": ""`, `published` = date of the underlying news.
+   the same rules as free cards. Set `"kind": "briefing"`, `"tier": "ai"`, an `item_type`, an `image_query`,
+   `"source": "AI Briefing · <main free source>"`, `"url": ""`, `"image": ""`, `published` = date of the underlying news.
 
 Briefing object (stored under `briefings[<card id>]`):
 ```json

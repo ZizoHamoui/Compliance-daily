@@ -252,6 +252,15 @@ def main():
         if counts.get(it["image"], 0) > 1:
             it["image"] = ""
 
+    # rights-cleared images for every candidate (official preview image if reuse is allowed, else Wikimedia Commons)
+    try:
+        import images
+        cache = read_json(images.CACHE_FILE, {})
+        images.fill(chosen, cache)
+        write_json(images.CACHE_FILE, cache)
+    except Exception as e:  # noqa: BLE001  (images are nice-to-have; never block the paper)
+        print(f"image step skipped: {e}", file=sys.stderr)
+
     for it in items:  # everything scored today is marked seen, so nothing repeats tomorrow
         seen[it["id"]] = today
     horizon = (now_local() - timedelta(days=60)).strftime("%Y-%m-%d")

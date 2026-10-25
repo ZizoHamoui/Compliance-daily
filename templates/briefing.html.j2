@@ -8,6 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400..700&family=Roboto+Serif:opsz,wght@8..144,500..800&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,400,0..1,0&display=block" rel="stylesheet">
 <link rel="stylesheet" href="{{ root }}static/style.css">
+<script>function tattImg(i,fb){if(!i.dataset.r){i.dataset.r=1;setTimeout(function(){i.src=i.src.split('#')[0]+'#r'},1500);return}i.onerror=null;i.src=fb;var f=i.closest('figure');f&&(f=f.querySelector('.credit'))&&f.remove()}</script>
 </head>
 <body>
 <div class="wrap">
@@ -18,7 +19,11 @@
   <div class="kicker"><span class="region">{{ card.action_label }}</span><span>·</span><span>{{ card.region_label }}</span><span>·</span><span>{{ card.topic_label }}</span><span>·</span><span style="color:var(--ai)">AI briefing</span></div>
   <h1>{{ b.headline or card.title }}</h1>
   {% if b.dek %}<p class="dek">{{ b.dek }}</p>{% endif %}
-  <figure class="art-img"><img alt="" src="{{ root }}img/topic-{{ card.topic }}.svg"></figure>
+  <figure class="art-img">
+    <img alt="" src="{{ card.image or (root ~ 'img/topic-' ~ card.topic ~ '.svg') }}" onerror="tattImg(this,'{{ root }}img/topic-{{ card.topic }}.svg')">
+    {% set cr = card.image_credit %}{% if card.image and cr %}
+    <figcaption class="credit">{% if cr.kind == 'official' %}Image: {{ cr.text }}{% else %}Photo: <a href="{{ cr.source_url }}" target="_blank" rel="noopener license">{{ cr.author }}</a> / Wikimedia Commons, {% if cr.license_url %}<a href="{{ cr.license_url }}" target="_blank" rel="noopener license">{{ cr.license }}</a>{% else %}{{ cr.license }}{% endif %}{% endif %}</figcaption>{% endif %}
+  </figure>
   {% if card.impact %}
   <p class="impact impact-{{ card.impact_level|lower or 'medium' }}"><span class="impact-label">Why it matters.</span>{{ card.impact }}</p>
   {% endif %}

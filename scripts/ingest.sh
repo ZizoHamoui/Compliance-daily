@@ -18,6 +18,8 @@ for b in $branches; do
         if git cat-file -e "HEAD:$f" 2>/dev/null; then git checkout HEAD -- "$f"; else git rm -q --cached "$f" || true; rm -f "$f"; fi
         continue
       fi
+      python scripts/images.py "$f" || echo "::warning::image step failed for $f"
+      git add data/image_cache.json 2>/dev/null || true
     fi
     git add "$f"; changed=1
   done

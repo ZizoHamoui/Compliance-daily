@@ -177,7 +177,11 @@ kbd{font:600 11px var(--sans);border:1px solid var(--outline);border-radius:6px;
 /* soft rounded divider in the gap beneath each story, so stacked stories read as separate */
 .grid > .card::after{content:"";position:absolute;left:0;right:0;bottom:-31px;height:6px;border-radius:var(--r-full);background:var(--surface-mid);pointer-events:none}
 .grid > .card:last-child::after,.grid > .card.last-row::after{display:none}
+.card-fig{margin:0;display:flex;flex-direction:column;gap:6px}
 .card-img{aspect-ratio:16/9;border-radius:var(--r-li);overflow:hidden;background:var(--surface-mid)}
+.credit{position:relative;z-index:2;font:400 11px/1.4 var(--sans);color:var(--on-surface-3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.credit a{color:inherit;text-decoration:underline;text-decoration-color:var(--outline);text-underline-offset:2px}
+.credit a:hover{color:var(--primary)}
 .card-img img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s var(--ease)}
 .card:hover .card-img img{transform:scale(1.03)}
 .card-body{display:flex;flex-direction:column;gap:10px}
@@ -215,8 +219,9 @@ body[data-group="priority"] .feed .pri + .dl::before{content:none}
 .save{position:absolute;top:-6px;right:-6px;z-index:2;width:38px;height:38px;border-radius:50%;cursor:pointer;display:grid;place-items:center;color:var(--on-surface-2);
   background:rgba(255,255,255,.72);-webkit-backdrop-filter:var(--glass-blur);backdrop-filter:var(--glass-blur);border:1px solid var(--glass-border);
   box-shadow:0 0 0 1px var(--glass-edge);opacity:0;transition:opacity .2s var(--ease),transform .15s var(--ease)}
-.card-img ~ .save{top:10px;right:10px}
+.card-fig ~ .save{top:10px;right:10px}
 .card:hover .save,.card:focus-within .save,.save[aria-pressed="true"]{opacity:1}
+.save{background:rgba(255,255,255,.82)}
 @media (hover:none){.save{opacity:1}.byline .go{opacity:1;transform:none}}
 .save:hover{transform:scale(1.06);color:var(--on-surface)}
 .save[aria-pressed="true"]{background:var(--primary);color:#fff;border-color:transparent}
@@ -231,6 +236,7 @@ body[data-group="priority"] .feed .pri + .dl::before{content:none}
 .above-fold{position:relative;z-index:1;margin:0 0 88px}
 .card-lead{display:grid;grid-template-columns:1.15fr 1fr;gap:48px;align-items:center}
 .card-lead .card-img{aspect-ratio:4/3;border-radius:var(--r-xl)}
+.card-lead .card-fig{align-self:center}
 .card-lead .card-title{font:700 clamp(30px,3.4vw,46px)/1.08 var(--serif);letter-spacing:-.028em}
 .card-lead .why{font-size:18px}
 .card-lead .card-sum{font-size:16px;-webkit-line-clamp:4}
@@ -239,7 +245,7 @@ body[data-group="priority"] .feed .pri + .dl::before{content:none}
 /* ---------- list view: one line of thought per row ---------- */
 .view-compact .feed .grid{display:flex;flex-direction:column;gap:0}
 .view-compact .feed .card{flex-direction:row;gap:0;padding:18px 56px 18px 0;border-bottom:1px solid var(--outline-soft)}
-.view-compact .feed .card-img,.view-compact .feed .card-sum{display:none !important}
+.view-compact .feed .card-fig,.view-compact .feed .card-sum{display:none !important}
 .view-compact .feed .grid > .card::after{display:none}
 .view-compact .feed .card-body{display:grid;grid-template-columns:minmax(0,1fr) 300px;grid-template-areas:"date byline" "title byline" "why byline";gap:6px 32px;width:100%}
 .view-compact .feed .dateline{grid-area:date;padding-right:0}
@@ -274,6 +280,7 @@ body[data-group="priority"] .feed .pri + .dl::before{content:none}
 .article h1{font:700 clamp(34px,4.6vw,52px)/1.08 var(--serif);letter-spacing:-.03em;margin:12px 0 14px;color:var(--ink);text-wrap:balance}
 .dek{font:400 21px/1.45 var(--sans);color:var(--on-surface-2);margin:0 0 28px}
 .art-img{margin:0 0 28px}.art-img img{width:100%;aspect-ratio:21/9;object-fit:cover;display:block;border-radius:var(--r-xl)}
+.art-img .credit{margin-top:8px;white-space:normal}
 .impact{display:block;margin:0 0 20px;font:400 18px/1.5 var(--sans);color:var(--on-surface)}
 .impact-label{font-weight:700;color:var(--fyi);margin-right:4px}
 .impact-high .impact-label{color:var(--req)}.impact-medium .impact-label{color:var(--mon)}
