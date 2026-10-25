@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ paper.name }} — {{ ed.date_long }}</title>
+<meta name="description" content="{{ paper.tagline }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ root }}static/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='Georgia'>T</text></svg>">
+</head>
+<body>
+<div class="wrap">
+{% include "_masthead.html.j2" %}
+
+{% if ed.express %}
+<div class="notice">Express edition — today's headlines arrived before the editor did, so summaries and impact notes are not ready yet. Every card still links to its official source.</div>
+{% endif %}
+{% if not is_latest %}
+<div class="notice">You are reading a past edition. <a href="{{ root }}index.html">Go to today's paper →</a></div>
+{% endif %}
+
+{% if ed.editor_note %}
+<section class="brief-line"><span class="brief-tag">Today in GRC</span> {{ ed.editor_note }}</section>
+{% endif %}
+
+{% if ed.lead %}
+<section class="above-fold">
+  {% with c = ed.lead, lead = True %}{% include "_card.html.j2" %}{% endwith %}
+</section>
+{% endif %}
+
+<section class="filters" aria-label="Filter stories">
+  <div class="chips" data-group="region">
+    <button class="chip on" data-v="all">All regions</button>
+    {% for r in ed.regions_present %}<button class="chip" data-v="{{ r }}">{{ regions[r] }}</button>{% endfor %}
+  </div>
+  <div class="chips" data-group="topic">
+    <button class="chip on" data-v="all">All topics</button>
+    {% for t in ed.topics_present %}<button class="chip" data-v="{{ t }}">{{ topics[t].label }}</button>{% endfor %}
+    {% if ed.cards|selectattr('kind','equalto','briefing')|list %}<button class="chip chip-brief" data-v="briefing">AI Briefings</button>{% endif %}
+  </div>
+  <input class="search" type="search" placeholder="Search today's paper…" aria-label="Search">
+</section>
+
+<main class="grid" id="grid">
+  {% for c in ed.rest %}{% with lead = False %}{% include "_card.html.j2" %}{% endwith %}{% endfor %}
+</main>
+<p class="empty" hidden>No stories match these filters.</p>
+
+<footer class="foot">
+  <p>{{ ed.cards|length }} stories from official regulators, courts, agencies and trusted free publications in the United States, Canada and the European Union.
+  Cards marked <b>AI Briefing</b> are short articles compiled by AI from free public sources, written when an important story was only available behind a paywall. Summaries and impact notes are AI-generated, so check the source before relying on them.</p>
+  <p><a href="{{ root }}archive.html">Past editions</a> · Published automatically every morning at 6:00 a.m. Pacific</p>
+</footer>
+</div>
+<script src="{{ root }}static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+name: 3 · Morning email
+# ~5:55 a.m. Pacific. Two crons cover daylight-saving changes; it sends once per day.
+# Before sending it picks up any edition the scheduled task left on a claude/* branch, then republishes,
+# so a curated (or the express) edition is always live when the email lands.
+on:
+  schedule:
+    - cron: "55 12 * * *"
+    - cron: "55 13 * * *"
+  workflow_dispatch:
+    inputs:
+      force: { description: "Send even outside the morning window", type: boolean, default: true }
+  push:
+    branches: [main]
+    paths: [".github/send-test-email"]   # edit this file to send a test email now
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.guard.outputs.go }}
+      force: ${{ steps.guard.outputs.force }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - id: guard
+        run: python scripts/guard.py email ${{ (github.event_name != 'schedule' && (github.event_name == 'push' || inputs.force)) && '--force' || '' }}
+      - if: steps.guard.outputs.go == 'true'
+        run: bash scripts/ingest.sh
+
+  publish:
+    needs: prepare
+    if: needs.prepare.outputs.go == 'true'
+    uses: ./.github/workflows/build.yml
+
+  send:
+    needs: [prepare, publish]
+    if: needs.prepare.outputs.go == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Send email
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python scripts/send_email.py ${{ needs.prepare.outputs.force == 'true' && '--force' || '' }}
+      - name: Record send
+        run: |
+          git config user.name "tone-at-the-top-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          git diff --cached --quiet || (git commit -m "Email sent $(TZ=America/Vancouver date +%F)" && git pull --rebase origin main && git push origin HEAD:main)

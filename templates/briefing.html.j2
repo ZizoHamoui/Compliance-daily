@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ b.headline or card.title }} — {{ paper.name }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ root }}static/style.css">
+</head>
+<body>
+<div class="wrap">
+{% include "_masthead.html.j2" %}
+<article class="article">
+  <a class="back" href="../index.html">← Back to the {{ ed.date_long }} edition</a>
+  <div class="kicker"><span class="region r-{{ card.region }}">{{ card.region }}</span> {{ card.topic_label }} · AI Briefing</div>
+  <h1>{{ b.headline or card.title }}</h1>
+  {% if b.dek %}<p class="dek">{{ b.dek }}</p>{% endif %}
+  <figure class="art-img"><img alt="" src="{{ root }}img/topic-{{ card.topic }}.svg"></figure>
+  {% if card.impact %}
+  <div class="impact impact-{{ card.impact_level|lower or 'medium' }} impact-wide">
+    <span class="impact-label">News impact{% if card.impact_level %} · {{ card.impact_level }}{% endif %}</span>
+    <span class="impact-text">{{ card.impact }}</span>
+  </div>
+  {% endif %}
+  <div class="disclosure">
+    <b>How this was made.</b> This briefing was written by AI from free public sources (listed below). It was prompted by a report in
+    <i>{{ b.prompted_by.publisher if b.prompted_by else card.source }}</i>{% if b.prompted_by and b.prompted_by.title %} (headline: {{ b.prompted_by.title }}){% endif %},
+    which is behind a paywall. It is not that article and does not reproduce it. Facts come only from the cited sources.
+    {% if b.prompted_by and b.prompted_by.url %}<a href="{{ b.prompted_by.url }}" target="_blank" rel="noopener">See the original (subscription) ↗</a>{% endif %}
+  </div>
+  <div class="art-body">{{ b.body_md|md|safe }}</div>
+  {% if b.sources %}
+  <section class="art-sources">
+    <h3>Sources</h3>
+    <ol>{% for s in b.sources %}<li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a>{% if s.publisher %} — {{ s.publisher }}{% endif %}</li>{% endfor %}</ol>
+  </section>
+  {% endif %}
+  <p class="art-date">Published in the {{ paper.name }} on {{ ed.date_long }}.</p>
+</article>
+</div>
+</body>
+</html>

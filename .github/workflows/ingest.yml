@@ -1,0 +1,28 @@
+name: 2 · Ingest curated edition
+# Runs when the Claude scheduled task pushes its edition branch (claude/edition-YYYY-MM-DD) and merges it into main.
+# Publishing happens from main: the 5:55 a.m. email workflow republishes the site right before sending.
+on:
+  push:
+    branches: ["claude/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.ingest.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - id: ingest
+        run: bash scripts/ingest.sh

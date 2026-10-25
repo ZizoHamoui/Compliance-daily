@@ -1,0 +1,10 @@
+# Masthead and delivery settings. Edit freely.
+name: "The Tone at the Top"
+tagline: "Governance, risk & compliance intelligence — before your first coffee"
+regions: "United States · Canada · European Union"
+site_url: "https://zizohamoui.github.io/compliance-daily/"
+timezone: "America/Vancouver"
+cards_per_edition: 25
+max_briefings: 3          # AI-written briefings for paywalled stories (keeps Claude usage low)
+candidate_limit: 90       # max headlines handed to Claude each morning
+lookback_hours: 72        # how far back to look for new items

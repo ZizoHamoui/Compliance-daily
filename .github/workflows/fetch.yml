@@ -1,0 +1,49 @@
+name: 1 · Fetch headlines
+# ~2:35–3:35 a.m. Pacific. Two crons cover daylight-saving changes; the script runs once per day.
+on:
+  schedule:
+    - cron: "35 9 * * *"
+    - cron: "35 10 * * *"
+  workflow_dispatch:
+    inputs:
+      force: { description: "Run even if already fetched today", type: boolean, default: true }
+  push:
+    branches: [main]
+    paths: [".github/run-fetch"]   # edit this file to trigger a manual fetch
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Fetch, score and dedupe
+        run: python scripts/fetch.py ${{ (github.event_name != 'schedule' && (github.event_name == 'push' || inputs.force)) && '--force' || '' }}
+      - id: commit
+        name: Commit candidates
+        run: |
+          git config user.name "tone-at-the-top-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "changed=0" >> $GITHUB_OUTPUT; exit 0; fi
+          git commit -m "Candidates $(TZ=America/Vancouver date +%F)"
+          git pull --rebase origin main && git push origin HEAD:main
+          echo "changed=1" >> $GITHUB_OUTPUT
+
+  publish:
+    needs: fetch
+    if: needs.fetch.outputs.changed == '1'
+    uses: ./.github/workflows/build.yml

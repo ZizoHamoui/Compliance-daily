@@ -1,0 +1,13 @@
+<header class="masthead">
+  <div class="mast-top">
+    <span>{{ ed.date_long if ed else '' }}</span>
+    <span class="mast-mid">{{ paper.regions }}</span>
+    <span>{% if ed %}Edition No. {{ ed.edition_no }}{% endif %}</span>
+  </div>
+  <a class="nameplate" href="{{ root }}index.html">{{ paper.name }}</a>
+  <div class="mast-tag">{{ paper.tagline }}</div>
+  <nav class="mast-nav">
+    <a href="{{ root }}index.html">Today</a>
+    <a href="{{ root }}archive.html">Archive</a>
+  </nav>
+</header>

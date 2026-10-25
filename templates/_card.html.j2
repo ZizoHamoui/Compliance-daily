@@ -1,0 +1,28 @@
+{% set is_brief = c.kind == 'briefing' %}
+<a class="card{% if is_brief %} card-brief{% endif %}{% if lead %} card-lead{% endif %}"
+   href="{{ base ~ c.href if is_brief else c.href }}"{% if not is_brief %} target="_blank" rel="noopener"{% endif %}
+   data-region="{{ c.region }}" data-topic="{{ c.topic }}" data-kind="{{ c.kind }}" data-impact="{{ c.impact_level|lower }}"
+   data-text="{{ (c.title ~ ' ' ~ c.summary ~ ' ' ~ c.source)|lower }}">
+  <div class="card-img">
+    <img loading="lazy" alt="" src="{{ c.image or (root ~ 'img/topic-' ~ c.topic ~ '.svg') }}"
+         onerror="this.onerror=null;this.src='{{ root }}img/topic-{{ c.topic }}.svg'">
+    {% if is_brief %}<span class="ribbon">AI Briefing</span>{% endif %}
+    {% if c.lang != 'en' %}<span class="lang" title="Original in {{ c.lang_label }}">{{ c.lang|upper }}</span>{% endif %}
+  </div>
+  <div class="card-body">
+    <div class="kicker"><span class="region r-{{ c.region }}">{{ c.region }}</span> {{ c.topic_label }}</div>
+    <h2 class="card-title">{{ c.title }}</h2>
+    <p class="card-sum">{{ c.summary }}</p>
+    {% if c.impact %}
+    <div class="impact impact-{{ c.impact_level|lower or 'medium' }}">
+      <span class="impact-label">News impact{% if c.impact_level %} · {{ c.impact_level }}{% endif %}</span>
+      <span class="impact-text">{{ c.impact }}</span>
+    </div>
+    {% endif %}
+    <div class="card-meta">
+      <span class="src">{{ c.source }}</span>
+      <span>{{ c.date_label }}</span>
+      <span class="go">{% if is_brief %}Read briefing →{% else %}Open source ↗{% endif %}</span>
+    </div>
+  </div>
+</a>

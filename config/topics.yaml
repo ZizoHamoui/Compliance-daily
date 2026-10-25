@@ -1,0 +1,81 @@
+# Topic weighting. Higher weight = more likely to make the paper.
+# Keywords match whole words, case-insensitive; a trailing * allows any ending (e.g. "lieferant*").
+# Keywords are case-insensitive and multilingual (EN/FR/DE/NL/ES/IT) so EU sources score fairly.
+
+topics:
+  whistleblowing:
+    label: "Whistleblowing"
+    weight: 3.0
+    keywords: [whistleblower, whistle-blower, whistleblowing, "speak up", "speak-up", retaliation, "qui tam", relator,
+               "lanceur d'alerte", "lanceurs d'alerte", hinweisgeber, whistleblowerschutz, klokkenluider,
+               "denunciante", "segnalazione", "informant award", "whistleblower award"]
+  false_claims:
+    label: "False Claims & Fraud"
+    weight: 2.8
+    keywords: ["false claims act", "false claims", "health care fraud", "healthcare fraud", "procurement fraud",
+               "kickback", "anti-kickback", "fraudulent billing", "overbilling", "defraud", "fraude", "betrug"]
+  third_party_risk:
+    label: "Third-Party Risk"
+    weight: 2.8
+    keywords: ["third-party", "third party", vendor, supplier, "supply chain", "supply-chain", "intermediar*",
+               distributor, outsourcing, "forced labor", "forced labour", "sous-traitan*", lieferkette, "lieferant*"]
+  due_diligence:
+    label: "Due Diligence"
+    weight: 2.6
+    keywords: ["due diligence", "know your customer", kyc, "beneficial owner", "beneficial ownership", csddd,
+               "corporate sustainability due diligence", "devoir de vigilance", sorgfaltspflicht, "vigilance",
+               screening, "enhanced diligence", "customer due diligence"]
+  employment_law:
+    label: "Employment Law"
+    weight: 2.5
+    keywords: [discrimination, harassment, "wrongful termination", "unfair dismissal", "wage theft", "back wages",
+               overtime, "labor law", "labour law", "employment law", "equal pay", "pay transparency", eeoc, nlrb,
+               "unfair labor practice", "non-compete", noncompete, "workplace", employee, employer, "droit du travail",
+               arbeitsrecht, "licenciement", "pay equity", "human rights tribunal"]
+  enforcement:
+    label: "Regulatory Breaches & Enforcement"
+    weight: 2.4
+    keywords: [penalty, penalties, fine, fined, fines, settle, settlement, "cease-and-desist", "consent order",
+               enforcement, charges, charged, violation, violated, breach, "civil money penalty", sanctioned,
+               "agrees to pay", disgorgement, "deferred prosecution", "non-prosecution", indictment,
+               amende, sanction, "mise en demeure", bußgeld, bussgeld, geldbuße, boete, "multa", "sanzione", infringement]
+  anti_bribery:
+    label: "Anti-Bribery & Corruption"
+    weight: 2.4
+    keywords: [bribery, bribe, bribes, corruption, corrupt, fcpa, "foreign corrupt practices", cfpoa, "iso 37001",
+               "corruption of foreign", "pots-de-vin", "trafic d'influence", korruption, bestechung, omkoping, soborno, tangenti]
+  aml_sanctions:
+    label: "AML & Sanctions"
+    weight: 2.0
+    keywords: ["money laundering", "anti-money laundering", aml, "terrorist financing", sanctions, ofac, fintrac,
+               fincen, "export control", "blanchiment", geldwäsche, witwassen, "blanqueo", "riciclaggio", "travel rule"]
+  governance:
+    label: "Board & Corporate Governance"
+    weight: 1.8
+    keywords: [governance, "board of directors", "audit committee", "internal controls", "internal control",
+               "compliance program", "compliance officer", "chief compliance", "code of conduct", disclosure,
+               "examination priorities", "gouvernance", "unternehmensführung", "accountability"]
+  ai_governance:
+    label: "AI Governance"
+    weight: 1.8
+    keywords: ["artificial intelligence", ai, "ai act", "ai system", algorithm, "automated decision",
+               "intelligence artificielle", "künstliche intelligenz", "kunstmatige intelligentie", "machine learning"]
+  privacy:
+    label: "Privacy & Data Protection"
+    weight: 1.3
+    keywords: [privacy, "personal data", "personal information", gdpr, "data protection", pipeda, "consent",
+               "données personnelles", datenschutz, persoonsgegevens, cookie]
+  esg:
+    label: "ESG & Reporting"
+    weight: 0.8
+    keywords: [esg, sustainability, climate, csrd, greenwashing, "emissions", "durabilité", nachhaltigkeit]
+  cybersecurity:
+    label: "Cybersecurity"
+    weight: 0.8
+    keywords: [cybersecurity, "cyber security", ransomware, "data breach", hack, "cyber incident", dora, nis2, cybersécurité]
+
+# Items matching any of these are dropped (ordinary crime and public-relations items with no corporate compliance angle).
+exclude: [fentanyl, methamphetamine, cocaine, heroin, "drug trafficking", firearm, carjacking, murder, homicide,
+          "child sexual", "child pornography", "sexual abuse", kidnapping, "armed robbery", "gang", cartel,
+          "illegal reentry", "illegally reentering", "funding for", "announces funding", "media availability",
+          "media advisory", "partner content", sponsored, "ordre du jour", rugby, hockey, "minister to attend", "statement on the occasion"]

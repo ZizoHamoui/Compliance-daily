@@ -1,0 +1,101 @@
+# Official, free sources. kind: rss | gcnews | paywall (Government of Canada news API) | paywall (Google News headline discovery)
+# images: false skips preview images (e.g. JD Supra only offers law-firm logos).
+# weight multiplies relevance; base adds a floor for feeds that are almost always on-topic.
+# Every feed below was tested and working on 2026-10-24. Broken feeds show up in data/feed_health.json
+# and the daily curation run repairs or retires them.
+
+sources:
+  # ---------------- United States ----------------
+  - {id: sec-press,    name: "U.S. SEC",                         region: US, lang: en, kind: rss, weight: 1.3, base: 1, url: "https://www.sec.gov/news/pressreleases.rss"}
+  - {id: doj-press,    name: "U.S. Department of Justice",       region: US, lang: en, kind: rss, weight: 1.2, url: "https://www.justice.gov/news/rss?type=press_release&m=1"}
+  - {id: cftc-enf,     name: "U.S. CFTC Enforcement",            region: US, lang: en, kind: rss, weight: 1.2, base: 2, topic: enforcement, url: "https://www.cftc.gov/RSS/RSSENF/rssenf.xml"}
+  - {id: cftc-general, name: "U.S. CFTC",                        region: US, lang: en, kind: rss, weight: 1.0, url: "https://www.cftc.gov/RSS/RSSGP/rssgp.xml"}
+  - {id: frb-enf,      name: "Federal Reserve Board",            region: US, lang: en, kind: rss, weight: 1.1, base: 2, topic: enforcement, url: "https://www.federalreserve.gov/feeds/press_enforcement.xml"}
+  - {id: cfpb,         name: "U.S. CFPB",                        region: US, lang: en, kind: rss, weight: 1.0, url: "https://www.consumerfinance.gov/about-us/newsroom/feed/"}
+  - {id: ofac,         name: "U.S. Treasury OFAC",               region: US, lang: en, kind: rss, weight: 1.1, base: 1, topic: aml_sanctions, url: "https://ofac.treasury.gov/rss.xml"}
+  - {id: dol,          name: "U.S. Department of Labor",         region: US, lang: en, kind: rss, weight: 1.1, url: "https://www.dol.gov/rss/releases.xml"}
+  - {id: eeoc,         name: "U.S. EEOC",                        region: US, lang: en, kind: rss, weight: 1.2, base: 2, topic: employment_law, url: "https://www.eeoc.gov/rss.xml"}
+  - {id: nlrb,         name: "U.S. NLRB",                        region: US, lang: en, kind: rss, weight: 1.0, url: "https://www.nlrb.gov/rss/rssPressReleases.xml"}
+  - {id: fedreg-wb,    name: "Federal Register",                 region: US, lang: en, kind: rss, weight: 1.0, base: 2, topic: whistleblowing, url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=whistleblower&order=newest"}
+  - {id: fedreg-fca,   name: "Federal Register",                 region: US, lang: en, kind: rss, weight: 1.0, base: 1, url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22due+diligence%22+OR+%22third-party+risk%22+OR+%22False+Claims+Act%22&order=newest"}
+
+  # ---------------- Canada ----------------
+  # One feed covers every federal department; only the departments listed are kept.
+  - id: gc-news
+    name: "Government of Canada"
+    region: CA
+    lang: en
+    kind: gcnews
+    weight: 1.2
+    url: "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&pick=400&format=atom"
+    # department: [default topic, baseline score]. Baseline lets high-signal agencies through even without keyword hits.
+    departments:
+      "Competition Bureau Canada": [enforcement, 4]
+      "Financial Transactions and Reports Analysis Centre of Canada": [aml_sanctions, 5]
+      "Office of the Superintendent of Financial Institutions": [governance, 4]
+      "Financial Consumer Agency of Canada": [enforcement, 3]
+      "Office of the Public Sector Integrity Commissioner of Canada": [whistleblowing, 6]
+      "Employment and Social Development Canada": [employment_law, 0]
+      "Department of Justice Canada": [governance, 0]
+      "Public Services and Procurement Canada": [third_party_risk, 0]
+      "Department of Finance Canada": [aml_sanctions, 0]
+      "Global Affairs Canada": [aml_sanctions, 0]
+      "Canada Border Services Agency": [third_party_risk, 0]
+      "Treasury Board of Canada Secretariat": [governance, 0]
+      "Innovation, Science and Economic Development Canada": [governance, 0]
+      "Canada Revenue Agency": [enforcement, 0]
+      "Royal Canadian Mounted Police": [anti_bribery, 0]
+  - {id: opc,          name: "Privacy Commissioner of Canada",   region: CA, lang: en, kind: rss, weight: 1.0, url: "https://www.priv.gc.ca/en/rss/news/"}
+
+  # ---------------- European Union ----------------
+  - {id: ec-press,     name: "European Commission",              region: EU, lang: en, kind: rss, weight: 1.1, url: "https://ec.europa.eu/commission/presscorner/api/rss?language=en"}
+  - {id: ep-press,     name: "European Parliament",              region: EU, lang: en, kind: rss, weight: 1.0, url: "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml"}
+  - {id: edpb,         name: "European Data Protection Board",   region: EU, lang: en, kind: rss, weight: 1.0, base: 1, topic: privacy, url: "https://www.edpb.europa.eu/feed/news_en"}
+  - {id: eba,          name: "European Banking Authority",       region: EU, lang: en, kind: rss, weight: 1.0, url: "https://www.eba.europa.eu/rss.xml"}
+  - {id: amf-fr,       name: "AMF (France)",                     region: EU, lang: fr, kind: rss, weight: 1.0, url: "https://www.amf-france.org/fr/flux-rss/display/21"}
+  - {id: cnil-fr,      name: "CNIL (France)",                    region: EU, lang: fr, kind: rss, weight: 0.9, url: "https://www.cnil.fr/fr/rss.xml"}
+  - {id: adlc-fr,      name: "Autorité de la concurrence (France)", region: EU, lang: fr, kind: rss, weight: 1.0, url: "https://www.autoritedelaconcurrence.fr/fr/rss.xml"}
+  - {id: ap-nl,        name: "Autoriteit Persoonsgegevens (NL)", region: EU, lang: nl, kind: rss, weight: 0.9, url: "https://www.autoriteitpersoonsgegevens.nl/rss"}
+
+  # ---------------- Trusted free press & legal analysis (fills gaps; official sources rank higher) ----------------
+  # Delete any line here to go official-only.
+  - {id: jdsupra,      name: "JD Supra",                         region: US, lang: en, kind: rss, tier: press, weight: 0.8, images: false, url: "https://www.jdsupra.com/resources/syndication/docsRSSfeed.aspx?ftype=AllContent&premium=1"}
+  - {id: wnn,          name: "Whistleblower Network News",       region: US, lang: en, kind: rss, tier: press, weight: 1.0, base: 2, topic: whistleblowing, url: "https://whistleblowersblog.org/feed/"}
+  - {id: cci,          name: "Corporate Compliance Insights",    region: US, lang: en, kind: rss, tier: press, weight: 0.9, base: 1, url: "https://www.corporatecomplianceinsights.com/feed/"}
+  - {id: radical,      name: "Radical Compliance",               region: US, lang: en, kind: rss, tier: press, weight: 0.9, base: 1, url: "https://www.radicalcompliance.com/feed/"}
+  - {id: euractiv,     name: "Euractiv",                         region: EU, lang: en, kind: rss, tier: press, weight: 0.8, url: "https://www.euractiv.com/feed/"}
+
+  # ---------------- Paywalled headline discovery ----------------
+  # Headlines only. A paywalled story is never linked. Only the most relevant ones become AI briefings built from free sources.
+  - {id: gir,          name: "Global Investigations Review", region: US, lang: en, kind: paywall, publisher: "Global Investigations Review", url: "https://www.globalinvestigationsreview.com/rss"}
+  - {id: cw,           name: "Compliance Week",              region: US, lang: en, kind: paywall, publisher: "Compliance Week", url: "https://www.complianceweek.com/rss"}
+  - {id: gn-whistle,   name: "Google News",  region: US, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=whistleblower+OR+%22False+Claims+Act%22+when:2d&hl=en-US&gl=US&ceid=US:en"}
+  - {id: gn-tprm,      name: "Google News",  region: US, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=%22third-party+risk%22+OR+%22due+diligence%22+OR+FCPA+OR+%22compliance+officer%22+when:2d&hl=en-US&gl=US&ceid=US:en"}
+  - {id: gn-employ,    name: "Google News",  region: US, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=%22employment+law%22+OR+%22retaliation+lawsuit%22+OR+%22wrongful+termination%22+when:2d&hl=en-US&gl=US&ceid=US:en"}
+  - {id: gn-ca,        name: "Google News",  region: CA, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=whistleblower+OR+%22regulatory+breach%22+OR+%22compliance%22+fine+when:2d&hl=en-CA&gl=CA&ceid=CA:en"}
+  - {id: gn-eu,        name: "Google News",  region: EU, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=EU+fine+OR+%22whistleblower+directive%22+OR+CSDDD+OR+%22supply+chain+due+diligence%22+when:2d&hl=en-IE&gl=IE&ceid=IE:en"}
+
+# Publishers treated as paywalled. Matched against the " - Publisher" suffix on Google News titles.
+paywalled_publishers:
+  - "The Wall Street Journal"
+  - "WSJ"
+  - "Financial Times"
+  - "Bloomberg"
+  - "Bloomberg Law"
+  - "Bloomberg.com"
+  - "Reuters"
+  - "Law360"
+  - "The Economist"
+  - "Barron's"
+  - "Business Insider"
+  - "The Globe and Mail"
+  - "Financial Post"
+  - "Politico Pro"
+  - "Compliance Week"
+  - "Handelsblatt"
+  - "Les Echos"
+  - "Le Monde"
+  - "The Information"
+  - "The Times"
+  - "Law.com"
+  - "Corporate Counsel"
