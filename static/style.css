@@ -245,7 +245,7 @@ body[data-group="priority"] .feed .pri + .dl::before{content:none}
 /* ---------- list view: one line of thought per row ---------- */
 .view-compact .feed .grid{display:flex;flex-direction:column;gap:0}
 .view-compact .feed .card{flex-direction:row;gap:0;padding:18px 56px 18px 0;border-bottom:1px solid var(--outline-soft)}
-.view-compact .feed .card-fig,.view-compact .feed .card-sum{display:none !important}
+.view-compact .feed .card-fig,.view-compact .feed .card-img,.view-compact .feed .credit,.view-compact .feed .card-sum{display:none !important}
 .view-compact .feed .grid > .card::after{display:none}
 .view-compact .feed .card-body{display:grid;grid-template-columns:minmax(0,1fr) 300px;grid-template-areas:"date byline" "title byline" "why byline";gap:6px 32px;width:100%}
 .view-compact .feed .dateline{grid-area:date;padding-right:0}

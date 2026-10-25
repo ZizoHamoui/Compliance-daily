@@ -162,7 +162,10 @@ def normalise(ed):
 def main():
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html", "j2"]))
     env.filters["md"] = lambda s: markdown.markdown(s or "", extensions=["extra", "sane_lists"])
-    env.globals.update(paper=PAPER, topics=TOPICS, regions=REGIONS, types=TYPES, tiers=TIERS)
+    # cache-busting: asset URLs change whenever the CSS/JS change, so browsers never mix old styles with new pages
+    import hashlib
+    v = hashlib.sha1(b"".join(f.read_bytes() for f in sorted(STATIC.glob("*")) if f.is_file())).hexdigest()[:8]
+    env.globals.update(paper=PAPER, topics=TOPICS, regions=REGIONS, types=TYPES, tiers=TIERS, v=v)
 
     editions = {p.stem: read_json(p, None) for p in sorted(EDITIONS.glob("*.json"))}
     today = today_local()
