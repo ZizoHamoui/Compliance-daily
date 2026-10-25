@@ -1,6 +1,7 @@
 name: 1 · Fetch headlines
-# Backup only: the Claude run fetches headlines itself if they're missing. These timers just make sure
-# a headlines-only edition still appears if the Claude run fails. Runs at most once per day.
+# Normally started within seconds when the Claude run pushes a claude/fetch-request-<date> branch.
+# The timers are backups so a headlines-only edition still appears if the Claude run fails.
+# Runs at most once per day.
 on:
   schedule:
     - cron: "35 9 * * *"
@@ -9,8 +10,7 @@ on:
     inputs:
       force: { description: "Run even if already fetched today", type: boolean, default: true }
   push:
-    branches: [main]
-    paths: [".github/run-fetch"]   # edit this file to trigger a manual fetch
+    branches: ["claude/fetch-request-*"]   # the Claude run pushes a request branch when headlines are missing
 
 permissions:
   contents: write
@@ -28,11 +28,12 @@ jobs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt
       - name: Fetch, score and dedupe
-        run: python scripts/fetch.py ${{ (github.event_name == 'push' || inputs.force == true) && '--force' || '' }}
+        run: python scripts/fetch.py ${{ (inputs.force == true || (github.event_name == 'push' && github.ref == 'refs/heads/main')) && '--force' || '' }}
       - id: commit
         name: Commit candidates
         run: |
@@ -43,8 +44,11 @@ jobs:
           git commit -m "Candidates $(TZ=America/Vancouver date +%F)"
           git pull --rebase origin main && git push origin HEAD:main
           echo "changed=1" >> $GITHUB_OUTPUT
+      - name: Remove the request branch
+        if: always() && startsWith(github.ref, 'refs/heads/claude/fetch-request-')
+        run: git push origin --delete "${GITHUB_REF#refs/heads/}" || true
 
   publish:
     needs: fetch
-    if: needs.fetch.outputs.changed == '1'
+    if: needs.fetch.outputs.changed == '1' && github.ref == 'refs/heads/main'
     uses: ./.github/workflows/build.yml

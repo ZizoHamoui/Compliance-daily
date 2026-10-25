@@ -3,7 +3,7 @@ name: 2 · Ingest curated edition
 # Publishing happens from main: the 5:55 a.m. email workflow republishes the site right before sending.
 on:
   push:
-    branches: ["claude/**"]
+    branches: ["claude/edition-*"]
   workflow_dispatch:
 
 permissions:

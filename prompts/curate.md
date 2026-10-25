@@ -10,13 +10,14 @@ anything, or read files other than the ones named here.**
 ```bash
 D=$(TZ=America/Vancouver date +%F); echo $D; ls data/candidates/$D.json editions/$D.json 2>&1
 ```
-- If `data/candidates/$D.json` does not exist, fetch the headlines yourself (GitHub's timer may be late):
+- If `data/candidates/$D.json` does not exist, ask GitHub to fetch the headlines (its timers can run late), then wait:
   ```bash
-  pip install -q -r requirements.txt 2>/dev/null || pip install -q --break-system-packages -r requirements.txt
-  python3 scripts/fetch.py
-  git add data && git commit -qm "Candidates $D (fetched by editor)"
+  git push -q origin HEAD:refs/heads/claude/fetch-request-$D
+  for i in $(seq 1 40); do sleep 30; git pull -q --rebase origin main; [ -f data/candidates/$D.json ] && break; done
+  ls data/candidates/$D.json
   ```
-  This takes a few minutes (it also finds licensed images). If it still produces no file, print why and **stop**.
+  This usually takes 3–10 minutes (headlines plus licensed images). **Keep waiting; do not stop early.**
+  If after 20 minutes the file still doesn't exist, print "Fetch did not complete" and **stop**.
 - If `editions/$D.json` already exists → **stop** (already curated).
 
 Read `data/candidates/$D.json` (one read). Each item has `id, title, snippet, url, source, region,
@@ -119,7 +120,7 @@ can't find it, leave the file unchanged. Skip this step when nothing is failing.
 ## 6. Commit and push
 ```bash
 git checkout -b claude/edition-$D
-git add editions/$D.json config/sources.yaml data
+git add editions/$D.json config/sources.yaml
 git commit -m "Edition $D"
 git push -u origin claude/edition-$D
 ```

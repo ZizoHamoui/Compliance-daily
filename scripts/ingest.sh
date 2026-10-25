@@ -5,7 +5,7 @@ set -euo pipefail
 git config user.name "tone-at-the-top-bot"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-branches=$(git ls-remote --heads origin 'claude/*' | awk '{print $2}' | sed 's#refs/heads/##' || true)
+branches=$(git ls-remote --heads origin 'claude/edition-*' | awk '{print $2}' | sed 's#refs/heads/##' || true)
 changed=0
 for b in $branches; do
   echo "Ingesting $b"
