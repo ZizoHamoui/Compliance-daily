@@ -21,14 +21,7 @@ TIERS = {"official": "Official source", "press": "Expert analysis", "ai": "AI br
 LANGS = {"en": "English", "fr": "French", "de": "German", "nl": "Dutch", "es": "Spanish", "it": "Italian"}
 
 # palette per topic for the generated card illustrations (used when an article has no image)
-TOPIC_COLORS = {
-    "whistleblowing": ("#7a1f1f", "#c9a227"), "false_claims": ("#3b2a5a", "#d98c5f"),
-    "third_party_risk": ("#1f4a5a", "#9cc5c9"), "due_diligence": ("#2f4a2f", "#c8d5a3"),
-    "employment_law": ("#5a3b1f", "#e3c08a"), "enforcement": ("#1d1d1d", "#c0392b"),
-    "anti_bribery": ("#4a1f3b", "#e0a3c2"), "aml_sanctions": ("#1f2f5a", "#a3b5e0"),
-    "governance": ("#2a2a2a", "#bfb6a2"), "ai_governance": ("#123c3c", "#7fd1c7"),
-    "privacy": ("#2c3e50", "#95a5a6"), "esg": ("#1e4d2b", "#9bd19f"), "cybersecurity": ("#101826", "#4fa3d1"),
-}
+TOPIC_COLORS = {k: ("#052962", "#DCE6F1") for k in ["whistleblowing", "false_claims", "third_party_risk", "due_diligence", "employment_law", "enforcement", "anti_bribery", "aml_sanctions", "governance", "ai_governance", "privacy", "esg", "cybersecurity"]}
 TOPIC_GLYPH = {
     "whistleblowing": "M50 30 L70 30 L80 50 L70 70 L50 70 Z M20 45 L50 40 L50 60 L20 55 Z",
     "false_claims": "M30 25 H70 V75 H30 Z M38 38 H62 M38 50 H62 M38 62 H54",
@@ -46,13 +39,11 @@ TOPIC_GLYPH = {
 }
 
 
-TOPIC_TINTS = {  # (light, deep) Material-style tonal pairs
-    "whistleblowing": ("#ffe4de", "#b3261e"), "false_claims": ("#f1e3ff", "#6a3fa0"),
-    "third_party_risk": ("#d9f1f5", "#00687a"), "due_diligence": ("#e3f2d8", "#3b6a1f"),
-    "employment_law": ("#ffe9d1", "#8a5100"), "enforcement": ("#e6e8f2", "#2f3650"),
-    "anti_bribery": ("#ffe1ef", "#9a2a63"), "aml_sanctions": ("#dde3ff", "#3d55c4"),
-    "governance": ("#ececf0", "#454753"), "ai_governance": ("#d4f5ef", "#006a62"),
-    "privacy": ("#e1ebf7", "#2f5f8f"), "esg": ("#dcf3dd", "#2c6b3a"), "cybersecurity": ("#dfe7f5", "#1f4f7a"),
+NAVY_TILE, VERD_TILE = ("#DCE6F1", "#052962"), ("#DCEBFA", "#0A66C2")  # Guardian Blue / LinkedIn Blue tiles
+TOPIC_TINTS = {  # on-brand tiles: alternate Ink and Verdigris so the grid has rhythm without leaving the palette
+    "whistleblowing": VERD_TILE, "false_claims": NAVY_TILE, "third_party_risk": VERD_TILE, "due_diligence": NAVY_TILE,
+    "employment_law": VERD_TILE, "enforcement": NAVY_TILE, "anti_bribery": VERD_TILE, "aml_sanctions": NAVY_TILE,
+    "governance": NAVY_TILE, "ai_governance": VERD_TILE, "privacy": NAVY_TILE, "esg": VERD_TILE, "cybersecurity": NAVY_TILE,
 }
 
 
