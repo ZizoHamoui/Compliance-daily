@@ -10,9 +10,8 @@
 </header>
 {% if ed and not hide_hero %}
 <section class="hero">
-  <div class="hero-meta"><span class="pill-soft">{{ ed.date_long }}</span><span class="pill-soft">Edition No. {{ ed.edition_no }}</span></div>
+  <p class="hero-meta"><time>{{ ed.date_long }}</time><span>No. {{ ed.edition_no }}</span><span>{{ paper.regions }}</span></p>
   <h1 class="nameplate">{{ paper.name }}</h1>
   <p class="mast-tag">{{ paper.tagline }}</p>
-  <p class="hero-regions">{{ paper.regions }}</p>
 </section>
 {% endif %}

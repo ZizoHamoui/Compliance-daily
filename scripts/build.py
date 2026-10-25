@@ -14,10 +14,11 @@ from common import CANDIDATES, EDITIONS, PAPER, SITE, STATIC, TEMPLATES, load_ya
 
 TOPICS = load_yaml("topics.yaml")["topics"]
 REGIONS = {"US": "United States", "CA": "Canada", "EU": "European Union"}
-ACTION = {"High": ("required", "Action required"), "Medium": ("monitor", "Monitor"), "Low": ("fyi", "FYI")}
-TYPES = {"enforcement": "Enforcement action", "rule": "New rule / guidance", "ruling": "Court ruling",
-         "proposal": "Proposal / consultation", "analysis": "Analysis"}
-TIERS = {"official": "Official source", "press": "Expert analysis", "ai": "AI briefing"}
+LANG_IN = {"fr": "in French", "de": "in German", "nl": "in Dutch", "es": "in Spanish", "it": "in Italian"}
+ACTION = {"High": ("required", "Act now"), "Medium": ("monitor", "Watch"), "Low": ("fyi", "Good to know")}
+TYPES = {"enforcement": "Enforcement action", "rule": "New rule or guidance", "ruling": "Court ruling",
+         "proposal": "Proposal or consultation", "analysis": "Analysis"}
+TIERS = {"official": "Official sources", "press": "Expert analysis", "ai": "AI briefings"}
 LANGS = {"en": "English", "fr": "French", "de": "German", "nl": "Dutch", "es": "Spanish", "it": "Italian"}
 
 # palette per topic for the generated card illustrations (used when an article has no image)
@@ -130,6 +131,8 @@ def normalise(ed):
         c["tier_label"] = TIERS[c["tier"]]
         c["item_type"] = c.get("item_type") if c.get("item_type") in TYPES else guess_type(c)
         c["type_label"] = TYPES[c["item_type"]]
+        c["lang_in"] = LANG_IN.get(c["lang"], "")
+        c["region_short"] = {"US": "U.S.", "CA": "Canada", "EU": "EU"}.get(c.get("region"), c.get("region", ""))
         c["band"] = TOPIC_COLORS.get(c["topic"], ("#2a2a2a",))[0]
         if c["kind"] == "briefing":
             b = ed["briefings"].get(c["id"], {})

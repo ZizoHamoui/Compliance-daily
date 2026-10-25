@@ -1,36 +1,42 @@
+{# One story, in the order a reader needs it:
+   dateline (how urgent · where · what about) → headline (what's new) → why it matters → summary (optional depth) → byline (who says, when).
+   Metadata is written as a newspaper dateline/byline, not as chips. #}
 {% set is_brief = c.kind == 'briefing' %}
 {% set href = (base ~ c.href) if is_brief else c.href %}
-<article class="card act-{{ c.action }}{% if is_brief %} card-brief{% endif %}{% if lead %} card-lead{% endif %}"
+{% set pri_icon = {'required':'priority_high','monitor':'visibility','fyi':'info'}[c.action] %}
+<article class="card story act-{{ c.action }}{% if is_brief %} card-brief{% endif %}{% if lead %} card-lead{% endif %}"
   id="c-{{ c.id }}" data-id="{{ c.id }}" data-action="{{ c.action }}" data-region="{{ c.region }}" data-topic="{{ c.topic }}"
   data-type="{{ c.item_type }}" data-tier="{{ c.tier }}" data-kind="{{ c.kind }}" data-date="{{ c.date_label }}"
-  data-edition="{{ ed.date }}" data-text="{{ (c.title ~ ' ' ~ c.summary ~ ' ' ~ c.impact ~ ' ' ~ c.source)|lower }}">
+  data-published="{{ c.published or '' }}" data-edition="{{ ed.date }}" data-action-label="{{ c.action_label }}"
+  data-text="{{ (c.title ~ ' ' ~ c.summary ~ ' ' ~ c.impact ~ ' ' ~ c.source)|lower }}">
   {% if c.image %}
   <div class="card-img"><img loading="lazy" alt="" src="{{ c.image }}"
        onerror="var k=this.closest('.card');this.parentNode.remove();k.classList.add('img-failed')"></div>
   {% elif lead %}
   <div class="card-img"><img alt="" src="{{ root }}img/topic-{{ c.topic }}.svg"></div>
   {% endif %}
-  <div class="band" style="background:{{ c.band }}" aria-hidden="true"></div>
   <div class="card-body">
-    <div class="kicker">
-      <span class="topic">{{ c.topic_label }}</span>
-      {% if c.lang != 'en' %}<span class="lang" title="Original in {{ c.lang_label }}">{{ c.lang|upper }}</span>{% endif %}
-      <span class="readmark" aria-hidden="true">✓ Read</span>
-    </div>
+    <p class="dateline">
+      <span class="pri"><span class="ms" aria-hidden="true">{{ pri_icon }}</span>{{ c.action_label }}</span>
+      <span class="dl" title="{{ c.region_label }}">{{ c.region_short }}</span>
+      <span class="dl topic">{{ c.topic_label }}</span>
+      {% if c.lang_in %}<span class="dl">{{ c.lang_in }}</span>{% endif %}
+      <span class="readmark">Read</span>
+    </p>
     <h3 class="card-title"><a class="stretch" href="{{ href }}"{% if not is_brief %} target="_blank" rel="noopener"{% endif %}>{{ c.title }}</a></h3>
-    {% if c.impact %}<p class="why"><span class="why-label">Why it matters</span> {{ c.impact }}</p>{% endif %}
+    {% if c.impact %}<p class="why"><span class="why-label">Why it matters.</span> {{ c.impact }}</p>{% endif %}
     {% if c.summary %}<p class="card-sum">{{ c.summary }}</p>{% endif %}
-    <div class="tags">
-      <span class="tag tag-act"><span class="ms" aria-hidden="true">{{ {'required':'priority_high','monitor':'visibility','fyi':'info'}[c.action] }}</span>{{ c.action_label }}</span>
-      <span class="tag" title="{{ c.region_label }}">{{ c.region }}</span>
-      <span class="tag">{{ c.type_label }}</span>
-      <span class="tag tier-{{ c.tier }}">{{ c.tier_label }}</span>
-    </div>
-    <div class="card-meta">
-      <span class="src">{{ c.source }}</span>
-      <time>{{ c.date_label }}</time>
-      <span class="go">{% if is_brief %}Read briefing<span class="ms" aria-hidden="true">arrow_forward</span>{% else %}Source<span class="ms" aria-hidden="true">open_in_new</span>{% endif %}</span>
-    </div>
+    <p class="byline">
+      {%- if is_brief -%}
+        <span class="kind kind-ai"><span class="ms" aria-hidden="true">auto_awesome</span>AI briefing</span> <span class="src">{{ c.source|replace('AI Briefing · ', 'from ') }}</span>
+      {%- elif c.tier == 'press' -%}
+        <span class="kind">Analysis</span> <span class="src">by {{ c.source }}</span>
+      {%- else -%}
+        <span class="kind">{{ c.type_label }}</span> <span class="src">from {{ c.source }}</span>
+      {%- endif -%}
+      <span class="comma">,</span> <time class="when" datetime="{{ c.published or '' }}">{{ c.date_label }}</time>
+      <span class="go" aria-hidden="true">{% if is_brief %}Read the briefing<span class="ms">arrow_forward</span>{% else %}Read<span class="ms">north_east</span>{% endif %}</span>
+    </p>
   </div>
   <button class="save" type="button" aria-pressed="false" aria-label="Save: {{ c.title }}" title="Save for later (s)">
     <span class="ms" aria-hidden="true">bookmark</span>

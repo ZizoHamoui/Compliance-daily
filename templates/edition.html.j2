@@ -22,27 +22,28 @@
 <div class="notice">You are reading a past edition. <a href="{{ root }}index.html">Go to today's paper →</a></div>
 {% endif %}
 
-{# ---------- A. Morning brief: bottom line up front ---------- #}
+{# ---------- A. Morning brief: a greeting, the editor's lede, five things, and one sentence of numbers ---------- #}
 <section class="brief" aria-labelledby="brief-h">
-  <div class="brief-main">
-    <h2 id="brief-h" class="brief-h"><span class="ms" aria-hidden="true">wb_twilight</span>Morning brief</h2>
-    {% if ed.editor_note %}<p class="brief-note">{{ ed.editor_note }}</p>{% endif %}
-    {% if ed.bottom_line %}
-    <ol class="brief-list">
-      {% for b in ed.bottom_line %}<li><a href="#c-{{ b.id }}" data-jump="{{ b.id }}">{{ b.text }}</a></li>{% endfor %}
-    </ol>
-    {% endif %}
-  </div>
-  <div class="brief-stats" aria-label="Today at a glance">
-    <div class="stat-group">
-      <button class="stat act-required" data-quick="action:required"><span class="ms" aria-hidden="true">priority_high</span><b>{{ ed.counts.action.required }}</b><span>Action required</span></button>
-      <button class="stat act-monitor" data-quick="action:monitor"><span class="ms" aria-hidden="true">visibility</span><b>{{ ed.counts.action.monitor }}</b><span>Monitor</span></button>
-      <button class="stat act-fyi" data-quick="action:fyi"><span class="ms" aria-hidden="true">info</span><b>{{ ed.counts.action.fyi }}</b><span>FYI</span></button>
-    </div>
-    <div class="stat-group stat-regions">
-      {% for r, n in ed.counts.region.items() %}<button class="stat" data-quick="region:{{ r }}"><b>{{ n }}</b><span>{{ regions[r] }}</span></button>{% endfor %}
-    </div>
-  </div>
+  <p class="greeting" id="brief-h"><span class="greet-word">Good morning.</span> {% if ed.express %}Here are today's headlines.{% else %}Here is what changed overnight.{% endif %}</p>
+  {% if ed.editor_note %}<p class="brief-note">{{ ed.editor_note }}</p>{% endif %}
+  {% if ed.bottom_line %}
+  <h2 class="brief-h">{{ ['','One thing','Two things','Three things','Four things','Five things'][ed.bottom_line|length] }} to know</h2>
+  <ol class="brief-list">
+    {% for b in ed.bottom_line %}<li><a href="#c-{{ b.id }}" data-jump="{{ b.id }}">{{ b.text }}</a></li>{% endfor %}
+  </ol>
+  {% endif %}
+  {% set n = ed.counts.action %}{% set r = ed.counts.region %}
+  <p class="glance">
+    <span class="glance-h">At a glance</span>
+    {{ ed.cards|length }} stories today:
+    <button class="q act-required" data-quick="action:required">{{ n.required }} to act on</button>,
+    <button class="q act-monitor" data-quick="action:monitor">{{ n.monitor }} to watch</button> and
+    <button class="q act-fyi" data-quick="action:fyi">{{ n.fyi }} good to know</button>.
+    <span class="glance-r">From
+    <button class="q" data-quick="region:US">the United States ({{ r.US }})</button>,
+    <button class="q" data-quick="region:CA">Canada ({{ r.CA }})</button> and
+    <button class="q" data-quick="region:EU">the European Union ({{ r.EU }})</button>.</span>
+  </p>
 </section>
 
 {% if ed.lead %}
@@ -63,10 +64,10 @@
 <section class="toolbar glass" aria-label="Filter stories">
   <div class="tb-row">
     <div class="facets">
-      {{ facet('action', 'Action', [('required','Action required'),('monitor','Monitor'),('fyi','FYI')], 'flag') }}
+      {{ facet('action', 'Priority', [('required','Act now'),('monitor','Watch'),('fyi','Good to know')], 'flag') }}
       {{ facet('region', 'Region', regions.items(), 'public') }}
       {{ facet('topic', 'Topic', ed.topic_options, 'category') }}
-      {{ facet('type', 'Story type', types.items(), 'gavel') }}
+      {{ facet('type', 'Type', types.items(), 'gavel') }}
       {{ facet('tier', 'Source', tiers.items(), 'verified') }}
     </div>
     <label class="searchbar"><span class="ms" aria-hidden="true">search</span><input class="search" type="search" placeholder="Search today's paper" aria-label="Search today's paper"><kbd>/</kbd></label>
@@ -77,11 +78,11 @@
 </section>
 
 <main id="feed" class="feed" tabindex="-1">
-  {% for key, title in [('required','Act now'),('monitor','Monitor'),('fyi','For awareness')] %}
+  {% for key, title in [('required','Act now'),('monitor','Watch'),('fyi','Good to know')] %}
   {% set group = ed.rest|selectattr('action','equalto',key)|list %}
   {% if group %}
   <section class="group" data-group="{{ key }}">
-    <h2 class="group-h"><span>{{ title }}</span><span class="group-n">{{ group|length }}</span></h2>
+    <header class="group-head"><h2 class="group-h">{{ title }}</h2><p class="group-dek"></p></header>
     <div class="grid">{% for c in group %}{% with lead = False %}{% include "_card.html.j2" %}{% endwith %}{% endfor %}</div>
   </section>
   {% endif %}
@@ -106,8 +107,9 @@
 <p class="empty" hidden>No stories match these filters. <button type="button" class="linkish clear-all">Clear all filters</button></p>
 
 <footer class="foot">
-  <p>{{ ed.cards|length }} stories from official regulators, courts and agencies, plus trusted free analysis, covering the United States, Canada and the European Union.
-  <b>AI briefing</b> cards are short articles compiled by AI from free public sources when an important story was paywalled. Summaries and impact notes are AI-generated, so check the source before relying on them.</p>
+  <p>Stories come from regulators, courts and agencies in the United States, Canada and the European Union, with trusted free analysis where it helps.
+  An <b>AI briefing</b> is a short article written from free public sources when an important story sat behind a paywall.
+  Summaries and “why it matters” notes are written by AI, so check the source before you rely on them.</p>
   <p class="keys">Keyboard: <kbd>/</kbd> search · <kbd>j</kbd>/<kbd>k</kbd> next/previous story · <kbd>s</kbd> save · <kbd>Enter</kbd> open · <kbd>Esc</kbd> close menus</p>
   <p><a href="{{ root }}archive.html">Past editions</a> · <a href="{{ root }}saved.html">Saved stories</a> · Published every morning at 6:00 a.m. Pacific</p>
 </footer>

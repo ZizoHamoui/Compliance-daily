@@ -31,8 +31,8 @@
       id: card.dataset.id, title: a.textContent.trim(), href: a.href, external: a.target === "_blank",
       source: (card.querySelector(".src") || {}).textContent || "", date: card.dataset.date || "",
       topic: (card.querySelector(".topic") || {}).textContent || "", action: card.dataset.action,
-      actionLabel: (card.querySelector(".tag-act") || {}).textContent || "",
-      why: why ? why.textContent.replace(/^\s*Why it matters\s*/, "") : "",
+      actionLabel: card.dataset.actionLabel || "",
+      why: why ? why.textContent.replace(/^\s*Why it matters\.?\s*/, "") : "",
       edition: card.dataset.edition, savedAt: Date.now()
     };
   }
@@ -85,7 +85,7 @@
   var FACETS = ["action", "region", "topic", "type", "tier"];
   var GROUPS = {
     priority: { attr: "action", order: ["required", "monitor", "fyi"],
-      title: { required: "Act now", monitor: "Monitor", fyi: "For awareness" } },
+      title: { required: "Act now", monitor: "Watch", fyi: "Good to know" } },
     topic: { attr: "topic", order: [], title: {} },
     region: { attr: "region", order: ["US", "CA", "EU"], title: { US: "United States", CA: "Canada", EU: "European Union" } }
   };
@@ -133,6 +133,18 @@
     return true;
   }
 
+  var WORDS = ["No", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve"];
+  function num(n) { return n < WORDS.length ? WORDS[n] : String(n); }
+  function groupDek(key, n) {
+    var s = n === 1;
+    if (state.group === "priority") {
+      if (key === "required") return num(n) + (s ? " story that likely needs" : " stories that likely need") + " a decision, a policy check or a word with leadership.";
+      if (key === "monitor") return num(n) + (s ? " development" : " developments") + " to track. No action yet, but " + (s ? "it could become one." : "any could become one.");
+      return num(n) + (s ? " item" : " items") + " for context and background.";
+    }
+    return num(n) + (s ? " story." : " stories.");
+  }
+
   function regroup() {
     var g = GROUPS[state.group];
     feed.innerHTML = "";
@@ -141,8 +153,8 @@
       if (!members.length) return;
       var sec = document.createElement("section");
       sec.className = "group"; sec.dataset.group = key;
-      sec.innerHTML = '<h2 class="group-h"><span></span><span class="group-n"></span></h2><div class="grid"></div>';
-      sec.querySelector(".group-h span").textContent = g.title[key] || key;
+      sec.innerHTML = '<header class="group-head"><h2 class="group-h"></h2><p class="group-dek"></p></header><div class="grid"></div>';
+      sec.querySelector(".group-h").textContent = g.title[key] || key;
       var grid = sec.querySelector(".grid");
       members.forEach(function (c) { grid.appendChild(c); });
       feed.appendChild(sec);
@@ -213,16 +225,29 @@
     feed.querySelectorAll(".group").forEach(function (sec) {
       var n = sec.querySelectorAll(".card:not([hidden])").length;
       sec.hidden = n === 0;
-      sec.querySelector(".group-n").textContent = n;
+      sec.querySelector(".group-dek").textContent = groupDek(sec.dataset.group, n);
     });
     document.querySelector(".empty").hidden = visible !== 0;
     document.body.classList.toggle("view-compact", state.view === "compact");
+    document.body.dataset.group = state.group;   // lets CSS drop labels the section heading already states
     document.querySelectorAll(".seg button").forEach(function (b) { b.setAttribute("aria-pressed", b.dataset.view === state.view ? "true" : "false"); });
     groupSel.value = state.group;
     hideRead.checked = state.hideRead;
     renderApplied(visible);
+    markLastRows();
     writeHash();
   }
+
+  // no divider under the final row of each section (the row count depends on screen width)
+  function markLastRows() {
+    feed.querySelectorAll(".grid").forEach(function (g) {
+      var cards = Array.prototype.filter.call(g.children, function (c) { return !c.hidden; });
+      var maxTop = Math.max.apply(null, cards.map(function (c) { return c.offsetTop; }).concat([-1]));
+      Array.prototype.forEach.call(g.children, function (c) { c.classList.toggle("last-row", !c.hidden && c.offsetTop === maxTop); });
+    });
+  }
+  var rz; window.addEventListener("resize", function () { clearTimeout(rz); rz = setTimeout(markLastRows, 150); });
+  window.addEventListener("load", markLastRows);
 
   function clearAll() {
     FACETS.forEach(function (k) { state.f[k] = []; });
@@ -336,6 +361,19 @@
       if (next) { next.querySelector(".stretch").focus(); next.scrollIntoView({ block: "nearest", behavior: smoothOK() ? "smooth" : "auto" }); }
     } else if (e.key === "s" && cur) { e.preventDefault(); setSaved(cur, !saved[cur.dataset.id]); }
   });
+
+  // relative times ("2 days ago"), with the full date kept as a tooltip
+  var rtf = window.Intl && Intl.RelativeTimeFormat ? new Intl.RelativeTimeFormat("en", { numeric: "auto" }) : null;
+  document.querySelectorAll("time.when[datetime]").forEach(function (t) {
+    var iso = t.getAttribute("datetime"); if (!iso || !rtf) return;
+    var d = new Date(iso); if (isNaN(d)) return;
+    var hrs = Math.round((d - Date.now()) / 36e5);
+    t.title = t.textContent;
+    t.textContent = Math.abs(hrs) < 24 ? (hrs === 0 ? "just now" : rtf.format(hrs, "hour")) : rtf.format(Math.round(hrs / 24), "day");
+  });
+  // greeting that matches the reader's time of day
+  var gw = document.querySelector(".greet-word");
+  if (gw) { var h = new Date().getHours(); gw.textContent = h < 12 ? "Good morning." : h < 18 ? "Good afternoon." : "Good evening."; }
 
   if (state.group !== "priority") regroup();
   apply();
