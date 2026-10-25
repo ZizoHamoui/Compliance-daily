@@ -6,7 +6,8 @@
 <title>{{ paper.name }} — {{ ed.date_long }}</title>
 <meta name="description" content="{{ paper.tagline }}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400..700&family=Roboto+Serif:opsz,wght@8..144,500..800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,400,0..1,0&display=block" rel="stylesheet">
 <link rel="stylesheet" href="{{ root }}static/style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='Georgia'>T</text></svg>">
 </head>
@@ -15,44 +16,100 @@
 {% include "_masthead.html.j2" %}
 
 {% if ed.express %}
-<div class="notice">Express edition — today's headlines arrived before the editor did, so summaries and impact notes are not ready yet. Every card still links to its official source.</div>
+<div class="notice">Express edition: today's headlines arrived before the editor did, so impact notes are not ready yet. Every card still links to its source.</div>
 {% endif %}
 {% if not is_latest %}
 <div class="notice">You are reading a past edition. <a href="{{ root }}index.html">Go to today's paper →</a></div>
 {% endif %}
 
-{% if ed.editor_note %}
-<section class="brief-line"><span class="brief-tag">Today in GRC</span> {{ ed.editor_note }}</section>
-{% endif %}
+{# ---------- A. Morning brief: bottom line up front ---------- #}
+<section class="brief" aria-labelledby="brief-h">
+  <div class="brief-main">
+    <h2 id="brief-h" class="brief-h"><span class="ms" aria-hidden="true">wb_twilight</span>Morning brief</h2>
+    {% if ed.editor_note %}<p class="brief-note">{{ ed.editor_note }}</p>{% endif %}
+    {% if ed.bottom_line %}
+    <ol class="brief-list">
+      {% for b in ed.bottom_line %}<li><a href="#c-{{ b.id }}" data-jump="{{ b.id }}">{{ b.text }}</a></li>{% endfor %}
+    </ol>
+    {% endif %}
+  </div>
+  <div class="brief-stats" aria-label="Today at a glance">
+    <div class="stat-group">
+      <button class="stat act-required" data-quick="action:required"><span class="ms" aria-hidden="true">priority_high</span><b>{{ ed.counts.action.required }}</b><span>Action required</span></button>
+      <button class="stat act-monitor" data-quick="action:monitor"><span class="ms" aria-hidden="true">visibility</span><b>{{ ed.counts.action.monitor }}</b><span>Monitor</span></button>
+      <button class="stat act-fyi" data-quick="action:fyi"><span class="ms" aria-hidden="true">info</span><b>{{ ed.counts.action.fyi }}</b><span>FYI</span></button>
+    </div>
+    <div class="stat-group stat-regions">
+      {% for r, n in ed.counts.region.items() %}<button class="stat" data-quick="region:{{ r }}"><b>{{ n }}</b><span>{{ regions[r] }}</span></button>{% endfor %}
+    </div>
+  </div>
+</section>
 
 {% if ed.lead %}
-<section class="above-fold">
+<section class="above-fold" aria-label="Lead story">
   {% with c = ed.lead, lead = True %}{% include "_card.html.j2" %}{% endwith %}
 </section>
 {% endif %}
 
-<section class="filters" aria-label="Filter stories">
-  <div class="chips" data-group="region">
-    <button class="chip on" data-v="all">All regions</button>
-    {% for r in ed.regions_present %}<button class="chip" data-v="{{ r }}">{{ regions[r] }}</button>{% endfor %}
+{# ---------- F. Toolbar: facets, search, group, view ---------- #}
+{% macro facet(key, label, options, icon) %}
+<div class="facet" data-facet="{{ key }}">
+  <button class="facet-btn" type="button" aria-expanded="false" aria-controls="fp-{{ key }}"><span class="ms" aria-hidden="true">{{ icon }}</span>{{ label }}<span class="facet-n"></span><span class="ms caret" aria-hidden="true">expand_more</span></button>
+  <div class="facet-panel" id="fp-{{ key }}" role="group" aria-label="{{ label }}" hidden>
+    {% for v, l in options %}<label><input type="checkbox" value="{{ v }}"><span class="opt-l">{{ l }}</span><span class="opt-n"></span></label>{% endfor %}
   </div>
-  <div class="chips" data-group="topic">
-    <button class="chip on" data-v="all">All topics</button>
-    {% for t in ed.topics_present %}<button class="chip" data-v="{{ t }}">{{ topics[t].label }}</button>{% endfor %}
-    {% if ed.cards|selectattr('kind','equalto','briefing')|list %}<button class="chip chip-brief" data-v="briefing">AI Briefings</button>{% endif %}
+</div>
+{% endmacro %}
+<section class="toolbar glass" aria-label="Filter stories">
+  <div class="tb-row">
+    <div class="facets">
+      {{ facet('action', 'Action', [('required','Action required'),('monitor','Monitor'),('fyi','FYI')], 'flag') }}
+      {{ facet('region', 'Region', regions.items(), 'public') }}
+      {{ facet('topic', 'Topic', ed.topic_options, 'category') }}
+      {{ facet('type', 'Story type', types.items(), 'gavel') }}
+      {{ facet('tier', 'Source', tiers.items(), 'verified') }}
+    </div>
+    <label class="searchbar"><span class="ms" aria-hidden="true">search</span><input class="search" type="search" placeholder="Search today's paper" aria-label="Search today's paper"><kbd>/</kbd></label>
   </div>
-  <input class="search" type="search" placeholder="Search today's paper…" aria-label="Search">
+  <div class="tb-row tb-row2">
+    <div class="applied" aria-live="polite"></div>
+  </div>
 </section>
 
-<main class="grid" id="grid">
-  {% for c in ed.rest %}{% with lead = False %}{% include "_card.html.j2" %}{% endwith %}{% endfor %}
+<main id="feed" class="feed" tabindex="-1">
+  {% for key, title in [('required','Act now'),('monitor','Monitor'),('fyi','For awareness')] %}
+  {% set group = ed.rest|selectattr('action','equalto',key)|list %}
+  {% if group %}
+  <section class="group" data-group="{{ key }}">
+    <h2 class="group-h"><span>{{ title }}</span><span class="group-n">{{ group|length }}</span></h2>
+    <div class="grid">{% for c in group %}{% with lead = False %}{% include "_card.html.j2" %}{% endwith %}{% endfor %}</div>
+  </section>
+  {% endif %}
+  {% endfor %}
 </main>
-<p class="empty" hidden>No stories match these filters.</p>
+<nav class="dock glass" aria-label="View options">
+  <div class="seg" role="group" aria-label="View">
+    <button type="button" data-view="cards" aria-pressed="true" title="Cards"><span class="ms" aria-hidden="true">grid_view</span><span class="lbl">Cards</span></button>
+    <button type="button" data-view="compact" aria-pressed="false" title="List"><span class="ms" aria-hidden="true">view_agenda</span><span class="lbl">List</span></button>
+  </div>
+  <span class="dock-sep" aria-hidden="true"></span>
+  <label class="grp"><span class="ms" aria-hidden="true">sort</span>
+    <select class="group-by" aria-label="Group stories by">
+      <option value="priority">Priority</option><option value="topic">Topic</option><option value="region">Region</option>
+    </select>
+  </label>
+  <span class="dock-sep" aria-hidden="true"></span>
+  <label class="switch"><input type="checkbox" class="hide-read" role="switch"><span class="track"><span class="thumb"></span></span><span class="lbl">Hide read</span></label>
+  <span class="dock-sep" aria-hidden="true"></span>
+  <button type="button" class="dock-top" aria-label="Back to top" title="Back to top"><span class="ms" aria-hidden="true">arrow_upward</span></button>
+</nav>
+<p class="empty" hidden>No stories match these filters. <button type="button" class="linkish clear-all">Clear all filters</button></p>
 
 <footer class="foot">
-  <p>{{ ed.cards|length }} stories from official regulators, courts, agencies and trusted free publications in the United States, Canada and the European Union.
-  Cards marked <b>AI Briefing</b> are short articles compiled by AI from free public sources, written when an important story was only available behind a paywall. Summaries and impact notes are AI-generated, so check the source before relying on them.</p>
-  <p><a href="{{ root }}archive.html">Past editions</a> · Published automatically every morning at 6:00 a.m. Pacific</p>
+  <p>{{ ed.cards|length }} stories from official regulators, courts and agencies, plus trusted free analysis, covering the United States, Canada and the European Union.
+  <b>AI briefing</b> cards are short articles compiled by AI from free public sources when an important story was paywalled. Summaries and impact notes are AI-generated, so check the source before relying on them.</p>
+  <p class="keys">Keyboard: <kbd>/</kbd> search · <kbd>j</kbd>/<kbd>k</kbd> next/previous story · <kbd>s</kbd> save · <kbd>Enter</kbd> open · <kbd>Esc</kbd> close menus</p>
+  <p><a href="{{ root }}archive.html">Past editions</a> · <a href="{{ root }}saved.html">Saved stories</a> · Published every morning at 6:00 a.m. Pacific</p>
 </footer>
 </div>
 <script src="{{ root }}static/app.js"></script>

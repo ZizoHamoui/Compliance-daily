@@ -16,8 +16,8 @@ sources:
   - {id: dol,          name: "U.S. Department of Labor",         region: US, lang: en, kind: rss, weight: 1.1, url: "https://www.dol.gov/rss/releases.xml"}
   - {id: eeoc,         name: "U.S. EEOC",                        region: US, lang: en, kind: rss, weight: 1.2, base: 2, topic: employment_law, url: "https://www.eeoc.gov/rss.xml"}
   - {id: nlrb,         name: "U.S. NLRB",                        region: US, lang: en, kind: rss, weight: 1.0, url: "https://www.nlrb.gov/rss/rssPressReleases.xml"}
-  - {id: fedreg-wb,    name: "Federal Register",                 region: US, lang: en, kind: rss, weight: 1.0, base: 2, topic: whistleblowing, url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=whistleblower&order=newest"}
-  - {id: fedreg-fca,   name: "Federal Register",                 region: US, lang: en, kind: rss, weight: 1.0, base: 1, url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22due+diligence%22+OR+%22third-party+risk%22+OR+%22False+Claims+Act%22&order=newest"}
+  - {id: fedreg-wb,    name: "Federal Register",                 region: US, lang: en, kind: rss, weight: 1.0, base: 2, topic: whistleblowing, may_be_empty: true, url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=whistleblower&order=newest"}
+  - {id: fedreg-fca,   name: "Federal Register",                 region: US, lang: en, kind: rss, weight: 1.0, base: 1, may_be_empty: true, url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22due+diligence%22+OR+%22third-party+risk%22+OR+%22False+Claims+Act%22&order=newest"}
 
   # ---------------- Canada ----------------
   # One feed covers every federal department; only the departments listed are kept.

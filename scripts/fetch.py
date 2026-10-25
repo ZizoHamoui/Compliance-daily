@@ -76,13 +76,20 @@ def entry_time(e):
     return None
 
 
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+
+
 def fetch_source(src):
     last = None
     for attempt in range(3):
         try:
             feed = feedparser.parse(http_get(src["url"]))
-            if not feed.entries and feed.bozo:
-                raise ValueError(f"unparseable feed: {feed.bozo_exception}")
+            if not feed.entries:  # some sites serve bots an empty/HTML page: retry once as a browser
+                req = urllib.request.Request(src["url"], headers={**HEADERS, "User-Agent": BROWSER_UA})
+                with urllib.request.urlopen(req, timeout=25) as r:
+                    feed = feedparser.parse(r.read())
+            if not feed.entries and not src.get("may_be_empty"):
+                raise ValueError("feed returned no items (blocked or moved?)")
             return src, feed.entries, None
         except Exception as e:  # noqa: BLE001
             last = f"{type(e).__name__}: {e}"[:200]
@@ -250,6 +257,15 @@ def main():
     horizon = (now_local() - timedelta(days=60)).strftime("%Y-%m-%d")
     seen = {k: v for k, v in seen.items() if v >= horizon}
 
+    prev = read_json(CANDIDATES / f"{today}.json", None)
+    if prev:  # a second run on the same day only adds new items
+        known = {i["id"] for i in prev["items"]}
+        chosen = prev["items"] + [i for i in chosen if i["id"] not in known]
+        per_region = {}
+        for i in chosen:
+            if not i["paywalled"]:
+                per_region[i["region"]] = per_region.get(i["region"], 0) + 1
+        pay = [i for i in chosen if i["paywalled"]]
     out = {"date": today, "generated": now_iso, "count": len(chosen),
            "by_region": per_region, "paywalled": len(pay), "items": chosen}
     write_json(CANDIDATES / f"{today}.json", out)

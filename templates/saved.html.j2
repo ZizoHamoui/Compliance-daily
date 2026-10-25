@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saved stories — {{ paper.name }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400..700&family=Roboto+Serif:opsz,wght@8..144,500..800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,400,0..1,0&display=block" rel="stylesheet">
+<link rel="stylesheet" href="{{ root }}static/style.css">
+</head>
+<body>
+<div class="wrap">
+{% set ed = None %}
+{% include "_masthead.html.j2" %}
+<main class="saved-page" id="feed">
+  <h1>Saved stories</h1>
+  <p class="saved-help">Stories you save are kept in this browser on this device. They are not shared with anyone and do not sync to your other devices.</p>
+  <div id="saved-list"></div>
+  <p class="empty" id="saved-empty" hidden>Nothing saved yet. Tap the bookmark on any story (or press <kbd>s</kbd>) to keep it here.</p>
+</main>
+</div>
+<script src="{{ root }}static/app.js"></script>
+</body>
+</html>

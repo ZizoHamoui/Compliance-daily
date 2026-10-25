@@ -48,7 +48,10 @@ For every free card write:
 - `impact`: one sentence, **≤ 30 words**, saying why it matters to a compliance officer (what to check,
   update or watch). Practical, not hype.
 - `impact_level`: `High` (action or board attention likely), `Medium` (worth tracking) or `Low`.
-- Copy `id`, `url`, `source`, `region`, `lang`, `published`, `image`, `topic` exactly from the candidate
+- `item_type`: one of `enforcement` (charges, suits, fines, settlements, orders), `rule` (final rules, guidance,
+  priorities, new programs), `ruling` (court/tribunal decisions), `proposal` (proposed rules, consultations,
+  legislative positions), `analysis` (commentary, law-firm or press analysis).
+- Copy `id`, `url`, `source`, `region`, `lang`, `published`, `image`, `tier`, `topic` exactly from the candidate
   (topic may be changed to a better-fitting key from `config/topics.yaml`). Set `"kind": "link"`.
 
 **Never write a URL yourself for a link card.** The validator rejects any link card whose URL is not
@@ -70,7 +73,7 @@ Process:
    `### What compliance teams should do` with 2–4 practical points. No quotes longer than 15 words, at
    most one quote per source, nothing copied from the paywalled article, no speculation beyond the sources.
 4. The card's `title` is your own headline, not the paywalled outlet's wording. `summary`/`impact` follow
-   the same rules as free cards. Set `"kind": "briefing"`, `"source": "AI Briefing · <main free source>"`,
+   the same rules as free cards. Set `"kind": "briefing"`, `"tier": "ai"`, an `item_type`, `"source": "AI Briefing · <main free source>"`,
    `"url": ""`, `"image": ""`, `published` = date of the underlying news.
 
 Briefing object (stored under `briefings[<card id>]`):
@@ -81,13 +84,15 @@ Briefing object (stored under `briefings[<card id>]`):
  "prompted_by": {"title": "<paywalled headline>", "publisher": "<outlet>", "url": "<candidate paywall_url or empty>"}}
 ```
 
-## 3. Today in GRC
-Write `editor_note`: one or two sentences (≤ 50 words) that tie together the day's main themes.
+## 3. Today in GRC + bottom line
+- `editor_note`: one or two sentences (≤ 50 words) that tie together the day's main themes.
+- `bottom_line`: 3–5 items, each `{"id": "<card id>", "text": "<≤ 20 words: what happened + what to do>"}`,
+  for the stories a Chief Compliance Officer must not miss (normally the `High` ones). Plain, action-first.
 
 ## 4. Save, validate, publish
 Write `editions/$D.json`:
 ```json
-{"date": "YYYY-MM-DD", "lead_id": "<id>", "editor_note": "...", "cards": [ ...25 cards, lead included... ],
+{"date": "YYYY-MM-DD", "lead_id": "<id>", "editor_note": "...", "bottom_line": [ ... ], "cards": [ ...25 cards, lead included... ],
  "briefings": { "<briefing card id>": { ... } } }
 ```
 Then run:

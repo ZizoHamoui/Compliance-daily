@@ -1,13 +1,18 @@
-<header class="masthead">
-  <div class="mast-top">
-    <span>{{ ed.date_long if ed else '' }}</span>
-    <span class="mast-mid">{{ paper.regions }}</span>
-    <span>{% if ed %}Edition No. {{ ed.edition_no }}{% endif %}</span>
-  </div>
-  <a class="nameplate" href="{{ root }}index.html">{{ paper.name }}</a>
-  <div class="mast-tag">{{ paper.tagline }}</div>
-  <nav class="mast-nav">
-    <a href="{{ root }}index.html">Today</a>
-    <a href="{{ root }}archive.html">Archive</a>
+<a class="skip" href="#feed">Skip to stories</a>
+<div class="ambient" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span></div>
+<header class="appbar glass">
+  <a class="brand" href="{{ root }}index.html"><span class="brand-mark">T</span><span class="brand-name">{{ paper.name }}</span></a>
+  <nav class="navpills" aria-label="Main">
+    <a href="{{ root }}index.html"><span class="ms" aria-hidden="true">newspaper</span><span>Today</span></a>
+    <a href="{{ root }}saved.html"><span class="ms" aria-hidden="true">bookmarks</span><span>Saved</span><span class="saved-count" aria-label="saved stories"></span></a>
+    <a href="{{ root }}archive.html"><span class="ms" aria-hidden="true">calendar_month</span><span>Archive</span></a>
   </nav>
 </header>
+{% if ed and not hide_hero %}
+<section class="hero">
+  <div class="hero-meta"><span class="pill-soft">{{ ed.date_long }}</span><span class="pill-soft">Edition No. {{ ed.edition_no }}</span></div>
+  <h1 class="nameplate">{{ paper.name }}</h1>
+  <p class="mast-tag">{{ paper.tagline }}</p>
+  <p class="hero-regions">{{ paper.regions }}</p>
+</section>
+{% endif %}

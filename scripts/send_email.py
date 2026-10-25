@@ -53,16 +53,25 @@ def main():
     date_long = now_local().strftime("%A, %B %-d, %Y")
     n_brief = sum(1 for c in cards if c.get("kind") == "briefing")
 
+    lvl_of = lambda c: (c.get("impact_level") or "").capitalize()
+    n_req = sum(1 for c in cards if lvl_of(c) == "High")
+    n_mon = sum(1 for c in cards if lvl_of(c) == "Medium")
+    n_fyi = len(cards) - n_req - n_mon
+    regions = {r: sum(1 for c in cards if c.get("region") == r) for r in ("US", "CA", "EU")}
+    act_now = [c for c in cards if lvl_of(c) == "High"] or cards
+    stats = (f'<span style="color:#b3261e;font-weight:700">{n_req} Action required</span> &nbsp;·&nbsp; '
+             f'<span style="color:#9a6200;font-weight:700">{n_mon} Monitor</span> &nbsp;·&nbsp; {n_fyi} FYI'
+             f'<br><span style="color:#6f6a60">US {regions["US"]} · Canada {regions["CA"]} · EU {regions["EU"]}</span>') if not express else ""
     rows = []
-    for c in cards[:6]:
+    for c in act_now[:4]:
         topic = TOPICS.get(c.get("topic"), {}).get("label", "")
         lvl = c.get("impact_level") or ""
         badge = (f'<span style="font:700 10px Arial;letter-spacing:1px;color:{"#9c1c1c" if lvl == "High" else "#a86b00" if lvl == "Medium" else "#4b5b6b"}">'
-                 f'{escape(lvl.upper())} IMPACT</span>&nbsp;&nbsp;') if lvl else ""
+                 f'{ {"High": "ACTION REQUIRED", "Medium": "MONITOR", "Low": "FYI"}.get(lvl, "")}</span>&nbsp;&nbsp;') if lvl else ""
         rows.append(f'''<tr><td style="padding:14px 0;border-bottom:1px solid #d8cfbd">
 <div style="font:600 10px Arial;letter-spacing:1.5px;color:#9c1c1c;text-transform:uppercase">{escape(c.get("region", ""))} · {escape(topic)}{" · AI BRIEFING" if c.get("kind") == "briefing" else ""}</div>
 <div style="font:700 18px/1.25 Georgia,serif;color:#1a1916;margin:4px 0">{escape(c["title"])}</div>
-<div style="font:14px/1.45 Georgia,serif;color:#4a4740">{escape((c.get("summary") or c.get("snippet") or "")[:220])}</div>
+<div style="font:14px/1.45 Arial,sans-serif;color:#1a1916"><b style="font-size:10px;letter-spacing:1px;color:#b3261e">WHY IT MATTERS</b> {escape(c.get("impact") or (c.get("snippet") or "")[:200])}</div>
 <div style="margin-top:6px">{badge}<span style="font:11px Arial;color:#7b766b">{escape(c.get("source", ""))}</span></div>
 </td></tr>''')
 
@@ -74,9 +83,11 @@ def main():
 <div style="font:900 34px Georgia,serif;color:#1a1916;margin:8px 0 4px">{escape(PAPER["name"])}</div>
 <div style="font:italic 13px Georgia,serif;color:#4a4740">{escape(PAPER["tagline"])}</div></td></tr>
 <tr><td style="padding:18px 28px 4px;font:15px/1.5 Georgia,serif;color:#1a1916">{escape(note)}</td></tr>
+<tr><td style="padding:8px 28px 0;font:13px/1.6 Arial,sans-serif">{stats}</td></tr>
+<tr><td style="padding:16px 28px 0;font:700 11px Arial;letter-spacing:2px;color:#b3261e">{"ACT NOW" if not express else "TOP HEADLINES"}</td></tr>
 <tr><td style="padding:6px 28px"><table width="100%" cellpadding="0" cellspacing="0">{"".join(rows)}</table></td></tr>
 <tr><td align="center" style="padding:22px 28px 28px">
-<a href="{url}" style="display:inline-block;background:#1a1916;color:#f5f0e6;font:700 14px Arial;letter-spacing:1px;text-decoration:none;padding:14px 28px">READ TODAY'S PAPER · {len(cards)} STORIES{f" · {n_brief} BRIEFINGS" if n_brief else ""}</a>
+<a href="{url}" style="display:inline-block;background:#1a1916;color:#f5f0e6;font:700 14px Arial;letter-spacing:1px;text-decoration:none;padding:14px 28px">READ TODAY'S PAPER · {len(cards)} STORIES{f" · {n_brief} BRIEFING{'S' if n_brief > 1 else ''}" if n_brief else ""}</a>
 </td></tr></table>
 <div style="font:11px Arial;color:#7b766b;padding:12px">Sent automatically at 6:00 a.m. Pacific by your Tone at the Top pipeline.</div>
 </td></tr></table></body></html>'''

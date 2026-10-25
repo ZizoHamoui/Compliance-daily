@@ -16,7 +16,9 @@
    "published": "2026-10-20T00:00",
    "url": "",
    "image": "",
-   "kind": "briefing"
+   "kind": "briefing",
+   "item_type": "rule",
+   "tier": "ai"
   },
   {
    "id": "5847d3abab01",
@@ -31,7 +33,9 @@
    "published": "2026-10-22T12:00+00:00",
    "url": "https://www.justice.gov/opa/pr/los-angeles-health-care-fraud-takedown-results-charges-against-15-defendants-including-6",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "enforcement",
+   "tier": "official"
   },
   {
    "id": "e4f01950d479",
@@ -46,7 +50,9 @@
    "published": "2026-10-22T12:00+00:00",
    "url": "https://www.justice.gov/opa/pr/justice-departments-civil-division-and-department-health-human-services-announce-anti-fraud",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "rule",
+   "tier": "official"
   },
   {
    "id": "b74f7652e722",
@@ -61,7 +67,9 @@
    "published": "2026-10-23T14:10+00:00",
    "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "rule",
+   "tier": "official"
   },
   {
    "id": "aa9a7997523a",
@@ -76,7 +84,9 @@
    "published": "2026-10-20T12:00+00:00",
    "url": "https://www.eeoc.gov/newsroom/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "enforcement",
+   "tier": "official"
   },
   {
    "id": "cabca81d142b",
@@ -91,7 +101,9 @@
    "published": "2026-10-23T21:49+00:00",
    "url": "https://www.jdsupra.com/legalnews/eeoc-cuts-response-deadlines-in-half-a-2049023/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "rule",
+   "tier": "press"
   },
   {
    "id": "7601551023b1",
@@ -106,7 +118,9 @@
    "published": "2026-10-23T18:58+00:00",
    "url": "https://www.jdsupra.com/legalnews/eeoc-moves-to-withdraw-disparate-impact-8074595/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "rule",
+   "tier": "press"
   },
   {
    "id": "933e2003f7d4",
@@ -121,7 +135,9 @@
    "published": "2026-10-19T12:00+00:00",
    "url": "https://www.eeoc.gov/newsroom/eeoc-sues-bnsf-railway-disability-discrimination-and-retaliation",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "enforcement",
+   "tier": "official"
   },
   {
    "id": "7ea9f46ce22a",
@@ -136,7 +152,9 @@
    "published": "2026-10-22T12:00+00:00",
    "url": "http://www.dol.gov/newsroom/releases/whd/whd20261022",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "enforcement",
+   "tier": "official"
   },
   {
    "id": "64db37cbaf1a",
@@ -151,7 +169,9 @@
    "published": "2026-10-24T03:49+00:00",
    "url": "https://www.jdsupra.com/legalnews/false-claims-act-insurance-coverage-5259587/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "ruling",
+   "tier": "press"
   },
   {
    "id": "f17ef9d21217",
@@ -166,7 +186,9 @@
    "published": "2026-10-21T17:48+00:00",
    "url": "https://whistleblowersblog.org/ctfc-rewards/recent-cftc-award-determination-sets-dangerous-precedent/",
    "image": "https://whistleblowersblog.org/wp-content/uploads/2022/03/IMG_2450-scaled.jpg",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "enforcement",
+   "tier": "press"
   },
   {
    "id": "bb244a811f39",
@@ -181,7 +203,9 @@
    "published": "2026-10-23T21:07+00:00",
    "url": "https://whistleblowersblog.org/ai-tech/what-the-ai-whistleblower-protection-act-protects/",
    "image": "https://whistleblowersblog.org/wp-content/uploads/2025/05/iStock-1998660059.jpg",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "proposal",
+   "tier": "press"
   },
   {
    "id": "db279cae2b91",
@@ -196,7 +220,9 @@
    "published": "2026-10-19T11:30+00:00",
    "url": "https://www.corporatecomplianceinsights.com/before-employees-speak-up-what-uns-new-anti-corruption-guide-gets-right/",
    "image": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2026/10/UN-Speak-up.png",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "analysis",
+   "tier": "press"
   },
   {
    "id": "bbe1bc0bf202",
@@ -211,7 +237,9 @@
    "published": "2026-10-19T11:30+00:00",
    "url": "https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk/",
    "image": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2026/10/Humans-create-AI-Risk.jpg",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "analysis",
+   "tier": "press"
   },
   {
    "id": "695d65581d16",
@@ -226,7 +254,9 @@
    "published": "2026-10-22T17:56+00:00",
    "url": "https://www.radicalcompliance.com/2026/10/22/bank-of-america-part-ii-transaction-monitoring/",
    "image": "https://www.radicalcompliance.com/wp-content/uploads/2023/11/BankAmerica-e1701258298996.png",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "analysis",
+   "tier": "press"
   },
   {
    "id": "02722cfc12c4",
@@ -241,7 +271,9 @@
    "published": "2026-10-23T12:00+00:00",
    "url": "http://www.dol.gov/newsroom/releases/ilab/ilab20261023",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "enforcement",
+   "tier": "official"
   },
   {
    "id": "1131de2fa06e",
@@ -256,7 +288,9 @@
    "published": "2026-10-21T20:07+00:00",
    "url": "https://www.rapporteur.com/news/judge-orders-meta-to-pay-25-bn-to-new-mexico-in-cambridge-analytica-case/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "ruling",
+   "tier": "press"
   },
   {
    "id": "3ebbe498033a",
@@ -271,7 +305,9 @@
    "published": "2026-10-23T17:51+00:00",
    "url": "https://www.jdsupra.com/legalnews/preventing-workplace-sexual-harassment-2488752/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "analysis",
+   "tier": "press"
   },
   {
    "id": "64d1d71a8528",
@@ -286,7 +322,9 @@
    "published": "2026-10-21T11:01+00:00",
    "url": "https://www.corporatecomplianceinsights.com/who-defines-compliance-when-regulators-leave-saas-shaped-gaps/",
    "image": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2026/10/diamond-mining-diamond-in-tweezers.jpg",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "analysis",
+   "tier": "press"
   },
   {
    "id": "cdf8a37bb673",
@@ -301,7 +339,9 @@
    "published": "2026-10-23T19:01+00:00",
    "url": "https://www.jdsupra.com/legalnews/german-labor-court-draws-lines-between-7691416/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "ruling",
+   "tier": "press"
   },
   {
    "id": "9bbfcc6b8737",
@@ -316,7 +356,9 @@
    "published": "2026-10-23T19:23+00:00",
    "url": "https://www.jdsupra.com/legalnews/the-real-estate-sector-in-spain-risks-5881479/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "analysis",
+   "tier": "press"
   },
   {
    "id": "0045914c1b70",
@@ -331,7 +373,9 @@
    "published": "2026-10-21T16:26+00:00",
    "url": "https://www.rapporteur.com/news/council-falls-short-of-purging-cookie-banners/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "proposal",
+   "tier": "press"
   },
   {
    "id": "10889710cb2d",
@@ -346,7 +390,9 @@
    "published": "2026-10-23T10:25+00:00",
    "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/10/banking-fees-can-be-hard-to-see-and-compare-fcac-review-finds.html",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "rule",
+   "tier": "official"
   },
   {
    "id": "eadb4f4f19f9",
@@ -361,7 +407,9 @@
    "published": "2026-10-23T04:00+00:00",
    "url": "/en/opc-news/news-and-announcements/2026/nr-c_261023/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "proposal",
+   "tier": "official"
   },
   {
    "id": "d493838cdc45",
@@ -376,7 +424,9 @@
    "published": "2026-10-20T04:00+00:00",
    "url": "/en/opc-news/news-and-announcements/2026/nr-c_261020/",
    "image": "",
-   "kind": "link"
+   "kind": "link",
+   "item_type": "rule",
+   "tier": "official"
   }
  ],
  "briefings": {
@@ -407,5 +457,27 @@
     "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/insane-new-doj-whistleblower-push-alarms-lawyers"
    }
   }
- }
+ },
+ "bottom_line": [
+  {
+   "id": "16fed23a2251",
+   "text": "DOJ's new WHIP pays fraud tipsters fast; shorten internal hotline response times now."
+  },
+  {
+   "id": "e4f01950d479",
+   "text": "New healthcare FCA self-disclosure pilot: add it to your investigation escalation playbook."
+  },
+  {
+   "id": "cabca81d142b",
+   "text": "EEOC charge response deadlines halved: assign owners and templates for faster position statements."
+  },
+  {
+   "id": "b74f7652e722",
+   "text": "SEC FY2027 exam priorities are out: map them to your testing plan and board reporting."
+  },
+  {
+   "id": "5847d3abab01",
+   "text": "$1.8B LA health care fraud takedown: revisit claims monitoring and referral-source diligence."
+  }
+ ]
 }

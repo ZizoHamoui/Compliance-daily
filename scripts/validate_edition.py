@@ -11,6 +11,7 @@ from common import CANDIDATES, PAPER, load_yaml
 
 TOPICS = set(load_yaml("topics.yaml")["topics"])
 LEVELS = {"High", "Medium", "Low"}
+TYPES = {"enforcement", "rule", "ruling", "proposal", "analysis"}
 
 
 def words(s):
@@ -53,6 +54,8 @@ def main(path):
             errs.append(f"{tag}: unknown topic {c.get('topic')!r}")
         if c.get("region") not in {"US", "CA", "EU"}:
             errs.append(f"{tag}: region must be US, CA or EU")
+        if c.get("item_type") not in TYPES:
+            errs.append(f"{tag}: item_type must be one of {sorted(TYPES)}")
         if c.get("impact_level") not in LEVELS:
             errs.append(f"{tag}: impact_level must be High, Medium or Low")
         if words(c.get("summary")) > 55:
@@ -79,6 +82,12 @@ def main(path):
                 errs.append(f"{tag}: briefing missing 'What compliance teams should do' section")
         else:
             errs.append(f"{tag}: kind must be link or briefing")
+    bl = ed.get("bottom_line") or []
+    if not (1 <= len(bl) <= 5):
+        errs.append("bottom_line needs 1-5 items")
+    for b in bl:
+        if b.get("id") not in ids or not b.get("text") or words(b.get("text")) > 25:
+            errs.append(f"bottom_line item invalid (unknown id or text missing/over 20 words): {b}")
     if nb > PAPER.get("max_briefings", 3):
         errs.append(f"too many briefings ({nb})")
 
