@@ -1,14 +1,16 @@
 name: 3 · Morning email
-# ~5:55 a.m. Pacific. Two crons cover daylight-saving changes; it sends once per day.
+# Normally started by the ingest workflow as soon as the day's edition is merged (~6 a.m. Pacific).
+# The timers below are backups only: GitHub can run them hours late, so they just send if nothing went out yet today.
 # Before sending it picks up any edition the scheduled task left on a claude/* branch, then republishes,
 # so a curated (or the express) edition is always live when the email lands.
 on:
   schedule:
-    - cron: "55 12 * * *"
-    - cron: "55 13 * * *"
+    - cron: "10 14 * * *"
+    - cron: "10 16 * * *"
+    - cron: "10 19 * * *"
   workflow_dispatch:
     inputs:
-      force: { description: "Send even outside the morning window", type: boolean, default: true }
+      force: { description: "Send even if already sent today", type: boolean, default: false }
   push:
     branches: [main]
     paths: [".github/send-test-email"]   # edit this file to send a test email now
@@ -34,7 +36,7 @@ jobs:
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt
       - id: guard
-        run: python scripts/guard.py email ${{ (github.event_name != 'schedule' && (github.event_name == 'push' || inputs.force)) && '--force' || '' }}
+        run: python scripts/guard.py email ${{ (github.event_name == 'push' || inputs.force == true) && '--force' || '' }}
       - if: steps.guard.outputs.go == 'true'
         run: bash scripts/ingest.sh
 

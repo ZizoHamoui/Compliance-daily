@@ -10,7 +10,7 @@ changed=0
 for b in $branches; do
   echo "Ingesting $b"
   git fetch --depth=1 origin "$b"
-  for f in $(git diff --name-only HEAD "origin/$b" -- editions/ config/sources.yaml); do
+  for f in $(git diff --name-only HEAD "origin/$b" -- editions/ config/sources.yaml data/); do
     git checkout "origin/$b" -- "$f" 2>/dev/null || continue
     if [[ "$f" == editions/*.json ]]; then
       if ! python scripts/validate_edition.py "$f"; then

@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # lets this job start the email workflow right away
 
 concurrency:
   group: repo-write
@@ -26,3 +27,8 @@ jobs:
       - run: pip install -r requirements.txt
       - id: ingest
         run: bash scripts/ingest.sh
+      - name: Publish and email now (don't wait for the backup timer)
+        if: steps.ingest.outputs.changed == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run email.yml --ref main -f force=false

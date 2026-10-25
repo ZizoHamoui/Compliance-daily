@@ -143,9 +143,7 @@ def main():
         if state.get("last_fetch") == today:
             print(f"Already fetched for {today}; nothing to do.")
             return
-        if not (0 <= hour < 5):
-            print(f"Local hour {hour} outside fetch window; skipping (use --force to override).")
-            return
+        # no time window: GitHub timers can run hours late, so "once per day" is the only rule
 
     seen = read_json(DATA / "seen.json", {})
     health = read_json(DATA / "feed_health.json", {})

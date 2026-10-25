@@ -1,5 +1,6 @@
 name: 1 · Fetch headlines
-# ~2:35–3:35 a.m. Pacific. Two crons cover daylight-saving changes; the script runs once per day.
+# Backup only: the Claude run fetches headlines itself if they're missing. These timers just make sure
+# a headlines-only edition still appears if the Claude run fails. Runs at most once per day.
 on:
   schedule:
     - cron: "35 9 * * *"
@@ -31,7 +32,7 @@ jobs:
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt
       - name: Fetch, score and dedupe
-        run: python scripts/fetch.py ${{ (github.event_name != 'schedule' && (github.event_name == 'push' || inputs.force)) && '--force' || '' }}
+        run: python scripts/fetch.py ${{ (github.event_name == 'push' || inputs.force == true) && '--force' || '' }}
       - id: commit
         name: Commit candidates
         run: |

@@ -26,8 +26,8 @@ def main():
         if get_state().get("last_email") == today:
             print("Email already sent today.")
             return 0
-        if not (5 * 60 + 30 <= mins <= 9 * 60):
-            print(f"Local time {n:%H:%M} outside 05:30–09:00 window; skipping.")
+        if mins < 5 * 60 + 30:
+            print(f"Local time {n:%H:%M} is before 05:30; skipping.")
             return 0
 
     sender = os.environ.get("GMAIL_ADDRESS", "").strip()

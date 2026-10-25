@@ -9,9 +9,9 @@ force = "--force" in sys.argv
 n, today, st = now_local(), today_local(), get_state()
 mins = n.hour * 60 + n.minute
 if job == "email":
-    go = force or (st.get("last_email") != today and 5 * 60 + 30 <= mins <= 9 * 60)
+    go = force or (st.get("last_email") != today and mins >= 5 * 60 + 30)
 else:
-    go = force or (st.get("last_fetch") != today and n.hour < 5)
+    go = force or st.get("last_fetch") != today
 print(f"{job}: local {n:%Y-%m-%d %H:%M}, go={go}")
 with open(os.environ.get("GITHUB_OUTPUT", os.devnull), "a") as f:
     f.write(f"go={'true' if go else 'false'}\nforce={'true' if force else 'false'}\n")
