@@ -1,0 +1,867 @@
+{
+ "date": "2026-10-25",
+ "generated": "2026-10-25T19:05:08+00:00",
+ "count": 32,
+ "by_region": {
+  "US": 8,
+  "CA": 2,
+  "EU": 12
+ },
+ "paywalled": 10,
+ "items": [
+  {
+   "id": "ff902162682f",
+   "title": "EEOC Sues CityCare Health Services for Breaching Conciliation Agreement",
+   "snippet": "WASHINGTON — CityCare Health Services, Inc., operator of behavioral and mental health clinics in Washington, violated federal law when it failed to comply with the terms of a conciliation agreement with the U.S. Equal Employment Opportunity Commission (EEOC), the federal agency said in a lawsuit announced today.",
+   "url": "https://www.eeoc.gov/newsroom/eeoc-sues-citycare-health-services-breaching-conciliation-agreement",
+   "paywall_url": "",
+   "source": "U.S. EEOC",
+   "source_id": "eeoc",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-22T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "enforcement"
+   ],
+   "score": 15.01,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/P20210630CS-2584-2_%2851362324904%29.jpg/1280px-P20210630CS-2584-2_%2851362324904%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "The White House",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:P20210630CS-2584-2_(51362324904).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "P20210630CS-2584-2 (51362324904).jpg"
+   }
+  },
+  {
+   "id": "5a0f2aeb71ee",
+   "title": "New Trump Administration Whistleblower Program Offers Small, Non-Mandatory Awards",
+   "snippet": "On Tuesday, President Donald Trump announced the Fraud Whistleblower Incentive Program (WHIP), designed to reward whistleblowers whose tips on certain types of fraud lead to criminal charges. The program differs from existing federal whistleblower reward programs in several meaningful ways – notably in the quicker but much smaller awards it offers – and a number […] The post New Trump Administration Whistleblower…",
+   "url": "https://whistleblowersblog.org/whistleblower-news/new-trump-administration-whistleblower-program-offers-small-non-mandatory-awards/",
+   "paywall_url": "",
+   "source": "Whistleblower Network News",
+   "source_id": "wnn",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-22T17:43+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing",
+    "enforcement"
+   ],
+   "score": 14.84,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   }
+  },
+  {
+   "id": "2217f58be448",
+   "title": "Utah Man Charged with Attempted Hate Crime, and other Crimes After Allegedly Making Online Threats to “blow up” a Synagogue",
+   "snippet": "A federal grand jury in Salt Lake City returned an indictment charging a Utah man with multiple federal crimes including possession of an unregistered destructive device, threat to kill and injure persons and to destroy a building with an explosive, and attempting to commit a hate crime, among other charges, after threats were allegedly made online relating to a Utah synagogue in December 2025.",
+   "url": "https://www.justice.gov/opa/pr/utah-man-charged-attempted-hate-crime-and-other-crimes-after-allegedly-making-online-threats",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-22T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 14.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "877b807988d1",
+   "title": "Former Eminem Employee Pleads Guilty to Criminal Infringement of Copyright",
+   "snippet": "Joseph Strange, 48, of Holly, Michigan, who was formerly employed by the artist and musician Marshall Mathers (also known as Eminem), pleaded guilty in the Eastern District of Michigan to a charge related to his role in the reproduction and sale of unreleased music created by Eminem.",
+   "url": "https://www.justice.gov/opa/pr/former-eminem-employee-pleads-guilty-criminal-infringement-copyright",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-22T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "enforcement"
+   ],
+   "score": 12.02,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "8c5b7c7df577",
+   "title": "Justice Department Secures Settlement of Lawsuit Against Oklahoma Landlord for Refusing to Rent to a Family with a Child",
+   "snippet": "The Justice Department announced today that the owners of a residential rental property in Oklahoma City have agreed to pay $52,500 to resolve a lawsuit alleging that they refused to rent a one-bedroom apartment to a single mother upon learning that she would be living with her child, in violation of the Fair Housing Act.",
+   "url": "https://www.justice.gov/opa/pr/justice-department-secures-settlement-lawsuit-against-oklahoma-landlord-refusing-rent-family",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-22T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "95b2a40b192a",
+   "title": "CBSA investigation leads to charges against five individuals involved in an immigration fraud scheme",
+   "snippet": "CBSA investigation leads to charges against five individuals involved in an immigration fraud scheme",
+   "url": "https://www.canada.ca/en/border-services-agency/news/2026/10/cbsa-investigation-leads-to-charges-against-five-individuals-involved-in-an-immigration-fraud-scheme.html",
+   "paywall_url": "",
+   "source": "Canada Border Services Agency",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-22T20:48+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Wild_Horse_Border_Crossing.jpg/1280px-Wild_Horse_Border_Crossing.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Qwexcxewq",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wild_Horse_Border_Crossing.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wild Horse Border Crossing.jpg"
+   }
+  },
+  {
+   "id": "d8a9b50335ee",
+   "title": "Healthcare World Gets Self-Disclosure Pilot",
+   "snippet": "Good news for all you healthcare compliance officers sitting on fraud schemes that violate the False Claims Act and wondering what to do about it! Federal regulators are launching a pilot program for voluntary self-disclosure, where you get a smaller fine and faster resolution of the case if you confess your sins rather than stay… The post Healthcare World Gets Self-Disclosure Pilot appeared first on Radical…",
+   "url": "https://www.radicalcompliance.com/2026/10/22/healthcare-world-gets-self-disclosure-pilot/",
+   "paywall_url": "",
+   "source": "Radical Compliance",
+   "source_id": "radical",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-22T21:56+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "false_claims",
+    "enforcement"
+   ],
+   "score": 10.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   }
+  },
+  {
+   "id": "e6441d66228d",
+   "title": "Lead MEP seeks AI evaluation role for EU cyber agency",
+   "snippet": "Proposed Cybersecurity Act changes come as AI reshapes hacking and cyber defence",
+   "url": "https://www.rapporteur.com/news/lead-mep-seeks-ai-evaluation-role-for-eu-cyber-agency/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-22T14:28+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 5.98,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "56f8d39d022a",
+   "title": "Capitals settle their position on EU Inc",
+   "snippet": "But startup-boosting project can't move to trilogue talks with Parliament yet",
+   "url": "https://www.rapporteur.com/news/capitals-settle-their-position-on-eu-inc/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-23T10:55+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 5.76,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "80fde8be0bae",
+   "title": "EXCLUSIVE: China offered European Commission to join its AI alliance",
+   "snippet": "EU executive is already part of rival US initiative to secure AI development",
+   "url": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-23T02:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "c7602844fb0a",
+   "title": "How EU AI testers could be set up for success",
+   "snippet": "Planned AI 'evaluation capacity' could be quite powerful, experts suggest",
+   "url": "https://www.rapporteur.com/news/how-eu-ai-testers-could-be-set-up-for-success/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-22T02:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Virginia_Tech_-_data_center.jpg/1280px-Virginia_Tech_-_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christopher Bowns",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Virginia Tech - data center.jpg"
+   }
+  },
+  {
+   "id": "1d35897b79b4",
+   "title": "THE HACK: Beijing’s AI invite to Brussels",
+   "snippet": "In today's edition: CSAR legality, quantum moonshots, ENISA",
+   "url": "https://www.rapporteur.com/news/the-hack-beijings-ai-invite-to-brussels/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-23T06:30+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 4.99,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1280px-Data_center_roof.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Rsparks3",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Data center roof.jpg"
+   }
+  },
+  {
+   "id": "c1759e59afa8",
+   "title": "THE HACK: EU AI evaluation plan still loading",
+   "snippet": "In today's edition: DNA report, dark patterns, Booking.com",
+   "url": "https://www.rapporteur.com/news/the-hack-eu-ai-evaluation-plan-still-loading/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-22T07:24+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 4.99,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Brazil_data_center_of_the_Wikimedia_Foundation.png/1280px-Brazil_data_center_of_the_Wikimedia_Foundation.png",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Arzhel Younsi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Brazil_data_center_of_the_Wikimedia_Foundation.png",
+    "provider": "Wikimedia Commons",
+    "title": "Brazil data center of the Wikimedia Foundation.png"
+   }
+  },
+  {
+   "id": "40b908a2ff06",
+   "title": "Meta delays AI business terms amid media sector outcry",
+   "snippet": "Tech giant is facing regulatory scrutiny after backlash from press publishers",
+   "url": "https://www.rapporteur.com/news/meta-delays-ai-business-terms-until-20-november/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-23T14:12+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 4.32,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "37a4fa52c7c4",
+   "title": "INTERVIEW: European defence AI rivals not battle-tested, Palantir says",
+   "snippet": "Sovereignty is about control not where your HQ is, the company's European chief says",
+   "url": "https://www.rapporteur.com/news/interview-european-ai-rivals-are-not-yet-battle-tested-palantir-says/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-22T02:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 4.32,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Computer%2C_server_room%2C_engineer_Fortepan_76098.jpg/1280px-Computer%2C_server_room%2C_engineer_Fortepan_76098.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "FOTO:Fortepan — ID 76098 : Adományozó/Donor: Erdei Katalin. archive copy at the ",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Computer,_server_room,_engineer_Fortepan_76098.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Computer, server room, engineer Fortepan 76098.jpg"
+   }
+  },
+  {
+   "id": "ed14fe63f2e8",
+   "title": "With UK Deadline Near, Just 9% of Multinationals Have Completed ID Checks",
+   "snippet": "Plus: Directors downgrade own boards’ effectiveness; skipping human review of AI guidance triples fine rate; ransomware gangs turn to physical threats against staff The post With UK Deadline Near, Just 9% of Multinationals Have Completed ID Checks appeared first on Corporate Compliance Insights .",
+   "url": "https://www.corporatecomplianceinsights.com/news-roundup-october-22-2026/",
+   "paywall_url": "",
+   "source": "Corporate Compliance Insights",
+   "source_id": "cci",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-22T17:19+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 3.98,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Courthouse_Polk_County_Texas.jpg/1280px-Courthouse_Polk_County_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jim Evans",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Courthouse_Polk_County_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Courthouse Polk County Texas.jpg"
+   }
+  },
+  {
+   "id": "eb02483998fc",
+   "title": "Backgrounder: Review of Banking Fees in Canada",
+   "snippet": "A Review of Banking Fees in Canada by the Financial Consumer Agency of Canada (FCAC) examined how banking fees are structured, disclosed and experienced by consumers.",
+   "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/10/backgrounder-review-of-banking-fees-in-canada.html",
+   "paywall_url": "",
+   "source": "Financial Consumer Agency of Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-23T10:22+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 3.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "f32ef60e5c3e",
+   "title": "California Couple Sentenced for Trafficking Protected Wildlife",
+   "snippet": "Linh Luu and Kevin Le, a husband and wife of Anaheim, California, pleaded guilty today in federal court in Eugene, Oregon, to violating the Lacey Act. The court sentenced them to three years’ probation and a $10,000 fine each for their roles in trafficking wildlife between Oregon and Vietnam.",
+   "url": "https://www.justice.gov/opa/pr/california-couple-sentenced-trafficking-protected-wildlife",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-23T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Plato inscription - 2714.jpg"
+   }
+  },
+  {
+   "id": "46f541528f66",
+   "title": "Commission remains on alert after PHP cybersecurity flaws",
+   "snippet": "The EU executive kept its websites online, unlike several European governments",
+   "url": "https://www.rapporteur.com/news/commission-remains-on-alert-after-php-cybersecurity-flaws/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-24T10:03+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "c13848fef577",
+   "title": "250,000 rally in Madrid demanding state pension guarantees",
+   "snippet": "Rally comes amid political row over sustainability of Spain's pension scheme and cost of living",
+   "url": "https://www.rapporteur.com/news/250000-rally-in-madrid-demanding-state-pension-guarantees/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-24T13:28+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "0b2a4d29788e",
+   "title": "Europe must make seamless travel a reality and put passengers first [Promoted Content]",
+   "snippet": "The text argues that Europe must deliver genuinely seamless, passenger-centred cross-border travel through interoperable rail ticketing, fair multimodal booking, transparent rankings and stronger single-ticket rights, while ensuring accessibility, competition, cybersecurity and non-digital options so travellers benefit equally.",
+   "url": "https://www.rapporteur.com/opinion/europe-must-make-seamless-travel-a-reality-and-put-passengers-first/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-23T10:00+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Server_Room_%2822397102849%29.jpg/1280px-Server_Room_%2822397102849%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Server_Room_(22397102849).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Server Room (22397102849).jpg"
+   }
+  },
+  {
+   "id": "d5dd6f45be8e",
+   "title": "Parliament votes to postpone methane rules by three years",
+   "snippet": "Conservatives and far-right would free oil and gas importers from emissions reporting obligations until 2030",
+   "url": "https://www.rapporteur.com/news/parliament-votes-to-postpone-methane-rules-by-3-years/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-22T10:56+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "99ca2f96a4b9",
+   "title": "Bribery Verdict Offers Guide To Post-Pause FCPA Priorities",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2RKZlFZZm9rczdMbmo0WmF0QTNXNEJycHhJeUJTX3E1M3lyMVJKZHpUMmZZakRzRVhqcGN2YjFncHpMNXlMVnkzelptNk5Ta2Rvb1lfY01JYmxNOGxnaXBhSHdua0dKeW9tU0F2S0owSlpsZmJFOFdRSGFVQzJmMGJjX2xoZy1iRlZPMlQyN1RTcjNyUTFCTlBNNHppcDFZRWRPRDdRc0Z3Z9IBVkFVX3lxTE9zdEFsRzB6MXJTcERYLUZXb29JdmlieVlNVjg3dWNqUWwzU3FITngtRFc0U21zZzBjdFVMRFNHYkFDTkNrb20wRER1TklCT2xSai13WU5R?oc=5",
+   "source": "Law360",
+   "source_id": "gn-tprm",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-23T21:59+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery"
+   ],
+   "score": 16.8,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "55f7043397d3",
+   "title": "The State of AI Governance in Third-Party Risk",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/scheduled-webcast/the-state-of-ai-governance-in-third-party-risk/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T21:13+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk",
+    "governance",
+    "ai_governance"
+   ],
+   "score": 16.7,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "287e47f6972c",
+   "title": "UAE expands AML/CFT regime with tougher penalties and wider sector reach",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/aml/uae-expands-aml-cft-regime-with-tougher-penalties-and-wider-sector-reach/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-21T21:09+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions"
+   ],
+   "score": 12.4,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "9f1e02366116",
+   "title": "UK competition watchdog fines three companies $8 million for misleading sales claims and obscure pricing",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/retail/uk-competition-watchdog-fines-three-companies-8-million-for-misleading-sales-claims-and-obscure-pricing/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T01:10+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "d1e8ab6fc3a0",
+   "title": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/artificial-intelligence/hong-kong-regulator-sets-accountability-resilience-trust-rules-for-bank-ai/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-24T07:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "governance"
+   ],
+   "score": 11.52,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e1893025678b",
+   "title": "How Does Your Third-Party Risk Management Program Compare?",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/diligent-compliance-ethics/how-does-your-third-party-risk-management-program-compare/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T15:06+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 11.2,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "3eb41eb7817d",
+   "title": "DOJ, HHS launch self-disclosure pilot for health FCA violations",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/healthcare/doj-hhs-launch-self-disclosure-pilot-for-health-fca-violations/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-24T06:00+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "false_claims",
+    "enforcement"
+   ],
+   "score": 10.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "095baa96fe43",
+   "title": "Law firm sanctioned for alleged role in building Iran’s “shadow fleet”",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-sanctions/article/law-firm-sanctioned-alleged-role-in-building-irans-shadow-fleet",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T14:48+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e6a068c1c949",
+   "title": "Companies can’t rely on US sanctions as global baseline, lawyers say",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-sanctions/article/companies-cant-rely-us-sanctions-global-baseline-lawyers-say",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T17:43+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "73e7cdbbea40",
+   "title": "Bank reports help FinCEN identify $270M in possible student aid schemes",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/banking/bank-reports-help-fincen-identify-270m-in-possible-student-aid-schemes/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T20:40+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
