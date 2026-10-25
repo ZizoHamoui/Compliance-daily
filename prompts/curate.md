@@ -24,7 +24,7 @@ Read `data/candidates/$D.json` (one read). Each item has `id, title, snippet, ur
 lang, published, topic, tags, score, image, tier, paywalled`.
 
 ## 1. Choose 25 cards
-Pick exactly **25** items (fewer only if fewer than 25 are usable), ranked by importance to a corporate
+Pick up to **25** items, ranked by importance to a corporate
 compliance officer. Weighting, highest first:
 1. Whistleblowing (programs, awards, retaliation cases, policy)
 2. False Claims Act / qui tam / procurement & healthcare fraud
@@ -36,6 +36,8 @@ compliance officer. Weighting, highest first:
 8. Privacy, then (low) ESG and cybersecurity
 
 Rules:
+- Quiet days (weekends, holidays) are normal: publish only what is genuinely relevant, even if that is 6 stories.
+  Never pad with off-topic items. If nothing at all is usable, print "Nothing worth publishing today" and stop.
 - Prefer **official** sources (`tier: official`) over `press` when both cover the same event. Never
   include two cards about the same event.
 - Skip routine noise: ordinary street crime, personnel appointments, events or agendas, and political

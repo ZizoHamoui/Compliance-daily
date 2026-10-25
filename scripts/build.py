@@ -102,6 +102,8 @@ def express_edition(date):
     if not cand:
         return None
     items = [i for i in cand["items"] if not i["paywalled"]][: PAPER.get("cards_per_edition", 25)]
+    if not items:
+        return None  # nothing new: the front page keeps showing the latest real edition
     cards = [{**i, "summary": i["snippet"][:240], "impact": "", "impact_level": "", "kind": "link"} for i in items]
     return {"date": date, "express": True, "lead_id": cards[0]["id"] if cards else None,
             "editor_note": "", "cards": cards, "briefings": {}}

@@ -16,7 +16,7 @@ from datetime import datetime, timedelta, timezone
 
 import feedparser
 
-from common import (CANDIDATES, DATA, PAPER, get_state, load_yaml, now_local, read_json,
+from common import (CANDIDATES, DATA, EDITIONS, PAPER, get_state, load_yaml, now_local, read_json,
                     set_state, today_local, uid, write_json)
 
 UA = ("Mozilla/5.0 (compatible; ToneAtTheTopBot/1.0; personal compliance news digest; "
@@ -145,7 +145,12 @@ def main():
             return
         # no time window: GitHub timers can run hours late, so "once per day" is the only rule
 
-    seen = read_json(DATA / "seen.json", {})
+    # "seen" = stories already PUBLISHED in a recent edition. Stories that were fetched but not picked
+    # stay eligible, so quiet days (weekends) still have material.
+    seen = {}
+    for ep in sorted(EDITIONS.glob("*.json"))[-14:]:
+        for c in (read_json(ep, {}) or {}).get("cards", []):
+            seen[c["id"]] = ep.stem
     health = read_json(DATA / "feed_health.json", {})
     cutoff = datetime.now(timezone.utc) - timedelta(hours=PAPER.get("lookback_hours", 72))
     first_run = not seen
@@ -259,10 +264,6 @@ def main():
     except Exception as e:  # noqa: BLE001  (images are nice-to-have; never block the paper)
         print(f"image step skipped: {e}", file=sys.stderr)
 
-    for it in items:  # everything scored today is marked seen, so nothing repeats tomorrow
-        seen[it["id"]] = today
-    horizon = (now_local() - timedelta(days=60)).strftime("%Y-%m-%d")
-    seen = {k: v for k, v in seen.items() if v >= horizon}
 
     prev = read_json(CANDIDATES / f"{today}.json", None)
     if prev:  # a second run on the same day only adds new items
@@ -276,7 +277,6 @@ def main():
     out = {"date": today, "generated": now_iso, "count": len(chosen),
            "by_region": per_region, "paywalled": len(pay), "items": chosen}
     write_json(CANDIDATES / f"{today}.json", out)
-    write_json(DATA / "seen.json", seen)
     write_json(DATA / "feed_health.json", health)
     set_state(last_fetch=today)
 

@@ -36,8 +36,8 @@ def main(path):
 
     cards = ed.get("cards") or []
     n = PAPER.get("cards_per_edition", 25)
-    if not (min(15, n) <= len(cards) <= n):
-        errs.append(f"expected up to {n} cards (at least 15), got {len(cards)}")
+    if not (1 <= len(cards) <= n):
+        errs.append(f"expected 1 to {n} cards, got {len(cards)}")
     ids = [c.get("id") for c in cards]
     if len(set(ids)) != len(ids):
         errs.append("duplicate card ids")
