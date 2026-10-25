@@ -3,7 +3,7 @@
 A free, fully automated morning newspaper of governance, risk and compliance news from the **United States,
 Canada and the European Union**, published to GitHub Pages and emailed at 6 a.m. Pacific.
 
-**Read it:** https://zizohamoui.github.io/compliance-daily/
+**Read it:** https://zizohamoui.github.io/Compliance-daily/
 
 ## How it works (no laptop needed)
 
