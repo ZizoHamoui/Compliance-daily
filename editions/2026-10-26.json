@@ -1,0 +1,153 @@
+{
+ "date": "2026-10-26",
+ "lead_id": "3eb41eb7817d",
+ "editor_note": "A quiet start to the week: Washington simplifies health care fraud self-disclosure, Brussels closes out a Digital Services Act breach with Temu, and AI governance debates widen from geopolitics to the gadgets on our faces.",
+ "bottom_line": [
+  {
+   "id": "3eb41eb7817d",
+   "text": "Health care fraud disclosures now go to DOJ first; update escalation playbooks and plan FCA exposure separately."
+  },
+  {
+   "id": "942afe0670e8",
+   "text": "EU accepts Temu's DSA remedy plan; marketplaces should benchmark their own DSA compliance controls."
+  },
+  {
+   "id": "d8ca4257c2d7",
+   "text": "AI wearables draw surveillance concerns; review workplace recording and privacy policies."
+  }
+ ],
+ "cards": [
+  {
+   "id": "3eb41eb7817d",
+   "kind": "briefing",
+   "tier": "ai",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "region": "US",
+   "lang": "en",
+   "topic": "false_claims",
+   "published": "2026-10-15",
+   "source": "AI Briefing · Holland & Knight",
+   "title": "DOJ and HHS-OIG create a single door for health care fraud self-disclosures",
+   "summary": "DOJ's Fraud Division and HHS-OIG now route self-disclosures of potentially criminal health care fraud through DOJ alone; companies keep HHS-OIG protocol benefits and remain eligible for a DOJ declination.",
+   "impact": "Revise disclosure playbooks: OIG-only filings generally forfeit DOJ declination credit, and civil False Claims Act exposure still needs separate planning.",
+   "impact_level": "High",
+   "item_type": "rule",
+   "image_query": "Department of Justice building Washington",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "942afe0670e8",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2257",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-26T11:05+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Commission accepts Temu's action plan to remedy Digital Services Act breach",
+   "summary": "The European Commission has accepted Temu's action plan to comply with the Digital Services Act and remedy a breach of the law, according to its daily news release.",
+   "impact": "Online platforms and marketplaces selling into the EU should benchmark their DSA risk controls against the commitments regulators now expect after a confirmed breach.",
+   "impact_level": "Medium",
+   "item_type": "enforcement",
+   "image_query": "Berlaymont building Brussels"
+  },
+  {
+   "id": "80fde8be0bae",
+   "url": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-23T02:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg/1280px-Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Joël van der Loo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Duga-1 radar data center inside empty server racks 2018.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "China offered European Commission a seat in its AI alliance",
+   "summary": "China invited the European Commission to join its AI alliance, Euractiv reports. The EU executive already participates in a rival US-led initiative on securing AI development.",
+   "impact": "Signals diverging international AI governance blocs; firms operating across the EU, US and China should watch for conflicting AI standards and expectations.",
+   "impact_level": "Low",
+   "item_type": "analysis",
+   "image_query": "data center server racks"
+  },
+  {
+   "id": "d8ca4257c2d7",
+   "url": "https://www.rapporteur.com/news/ai-glasses-raise-the-spectre-of-mass-surveillance/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-26T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "AI glasses raise the spectre of mass surveillance",
+   "summary": "A European consumer group warns of societal risks as AI-enabled gadgets such as smart glasses move closer to everyday life.",
+   "impact": "Companies allowing wearable AI devices at work should review privacy notices, recording policies and AI Act obligations for always-on capture.",
+   "impact_level": "Low",
+   "item_type": "analysis",
+   "image_query": "smart glasses wearable device"
+  }
+ ],
+ "briefings": {
+  "3eb41eb7817d": {
+   "headline": "DOJ and HHS-OIG create a single door for health care fraud self-disclosures",
+   "dek": "A new joint policy makes DOJ's Fraud Division the single entry point for potentially criminal health care fraud disclosures, with HHS-OIG benefits attached.",
+   "body_md": "The U.S. Department of Justice and the HHS Office of Inspector General (HHS-OIG) have created a single front door for health care companies that uncover potentially criminal fraud in their own operations. Under a jointly issued *Policy on Coordination of Voluntary Self-Disclosure in Health Care Fraud Matters*, announced by DOJ on October 15, 2026, companies should take such disclosures to the Health Care Fraud Section of DOJ's National Fraud Enforcement Division rather than deciding whether to approach prosecutors, HHS-OIG, or both.\n\n**How it works.** A company that self-discloses potentially criminal conduct affecting federal health care programs to the Fraud Division no longer needs to file separately with HHS-OIG. It automatically receives the benefits of HHS-OIG's Health Care Fraud Self-Disclosure Protocol, which HHS-OIG updated at the same time, while remaining eligible for a declination under DOJ's Corporate Enforcement Policy. On the HHS-OIG side, those benefits can include reduced civil monetary damages, faster resolution and no corporate integrity agreement. Credit still depends on coming forward, cooperating fully and remediating.\n\nThe reverse does not hold. A company that discloses only to HHS-OIG generally will not be treated as having self-disclosed to DOJ and generally will not qualify for a declination on that basis. Law firms note that conduct first reported to HHS-OIG as a civil matter could later be judged potentially criminal, costing the company its chance at a declination.\n\nAssistant Attorney General Colin M. McDonald said companies \"should not have to navigate a maze of agencies\" before reporting fraud, while warning that concealment would bring \"a very different conversation.\"\n\n**Background.** DOJ created the National Fraud Enforcement Division in April 2026, folding in the former Criminal Division Health Care Fraud Unit. On October 1, a directive from McDonald named health care fraud one of the division's four enforcement priorities.\n\n**Limits.** The policy covers potential criminal violations. Commentators point out that it does not address civil False Claims Act exposure or the DOJ Civil Fraud Section, which remain separate tracks, and that it does not replace the agencies' expectation of a thorough internal investigation. No sunset date has been published.\n\n### What compliance teams should do\n- Update internal escalation and disclosure playbooks so that potentially criminal health care findings are routed to DOJ's Fraud Division first, with HHS-OIG benefits flowing from that single filing.\n- Reassess any pending or planned HHS-OIG-only disclosures for possible criminal elements before filing.\n- Plan civil FCA exposure separately, since the new policy does not resolve it.\n- Brief the board and audit committee on the tighter link between prompt disclosure, cooperation and declination credit.",
+   "sources": [
+    {
+     "title": "DOJ, HHS-OIG Announce Single-Point Self-Disclosure Policy",
+     "publisher": "Holland & Knight",
+     "url": "https://www.hklaw.com/en/insights/publications/2026/10/doj-hhs-oig-announce-single-point-self-disclosure-policy"
+    },
+    {
+     "title": "DOJ streamlines voluntary self-disclosure of healthcare fraud",
+     "publisher": "Fierce Healthcare",
+     "url": "https://www.fiercehealthcare.com/regulatory/doj-streamlines-voluntary-self-disclosure-healthcare-fraud"
+    }
+   ],
+   "prompted_by": {
+    "title": "DOJ, HHS launch self-disclosure pilot for health FCA violations",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/healthcare/doj-hhs-launch-self-disclosure-pilot-for-health-fca-violations/"
+   }
+  }
+ }
+}
