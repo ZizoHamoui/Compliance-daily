@@ -1,0 +1,464 @@
+{
+ "date": "2026-10-26",
+ "generated": "2026-10-26T12:40:44+00:00",
+ "count": 17,
+ "by_region": {
+  "CA": 1,
+  "EU": 10,
+  "US": 1
+ },
+ "paywalled": 5,
+ "items": [
+  {
+   "id": "95b2a40b192a",
+   "title": "CBSA investigation leads to charges against five individuals involved in an immigration fraud scheme",
+   "snippet": "CBSA investigation leads to charges against five individuals involved in an immigration fraud scheme",
+   "url": "https://www.canada.ca/en/border-services-agency/news/2026/10/cbsa-investigation-leads-to-charges-against-five-individuals-involved-in-an-immigration-fraud-scheme.html",
+   "paywall_url": "",
+   "source": "Canada Border Services Agency",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-22T20:48+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Wild_Horse_Border_Crossing.jpg/1280px-Wild_Horse_Border_Crossing.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Qwexcxewq",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wild_Horse_Border_Crossing.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wild Horse Border Crossing.jpg"
+   }
+  },
+  {
+   "id": "e8d4de8c22bd",
+   "title": "19e colloque de la Commission des sanctions – Vidéos et discours",
+   "snippet": "Support événement Sanctions & transactions Institutionnel Abus de marché 19e colloque de la Commission des sanctions – Vidéos et discours",
+   "url": "https://www.amf-france.org/fr/actualites-publications/evenements-de-lamf/colloques-et-conferences-de-lamf/19e-colloque-de-la-commission-des-sanctions-videos-et-discours#xts=607212&xtor=RSS-3&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-10-26T10:31+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/La_D%C3%A9fense%2C_business_district_of_Paris%2C_7_September_2020.jpg/1280px-La_D%C3%A9fense%2C_business_district_of_Paris%2C_7_September_2020.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Pierre Blaché from Paris, France",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_business_district_of_Paris,_7_September_2020.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, business district of Paris, 7 September 2020.jpg"
+   }
+  },
+  {
+   "id": "d8ca4257c2d7",
+   "title": "AI glasses raise the spectre of mass surveillance",
+   "snippet": "European consumer group warns of societal risks as AI gadgets get closer to our lives",
+   "url": "https://www.rapporteur.com/news/ai-glasses-raise-the-spectre-of-mass-surveillance/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T03:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "80fde8be0bae",
+   "title": "EXCLUSIVE: China offered European Commission to join its AI alliance",
+   "snippet": "EU executive is already part of rival US initiative to secure AI development",
+   "url": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-23T02:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "1d35897b79b4",
+   "title": "THE HACK: Beijing’s AI invite to Brussels",
+   "snippet": "In today's edition: CSAR legality, quantum moonshots, ENISA",
+   "url": "https://www.rapporteur.com/news/the-hack-beijings-ai-invite-to-brussels/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-23T06:30+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 4.99,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Virginia_Tech_-_data_center.jpg/1280px-Virginia_Tech_-_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christopher Bowns",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Virginia Tech - data center.jpg"
+   }
+  },
+  {
+   "id": "f32ef60e5c3e",
+   "title": "California Couple Sentenced for Trafficking Protected Wildlife",
+   "snippet": "Linh Luu and Kevin Le, a husband and wife of Anaheim, California, pleaded guilty today in federal court in Eugene, Oregon, to violating the Lacey Act. The court sentenced them to three years’ probation and a $10,000 fine each for their roles in trafficking wildlife between Oregon and Vietnam.",
+   "url": "https://www.justice.gov/opa/pr/california-couple-sentenced-trafficking-protected-wildlife",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-23T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+   "image_credit": {
+    "kind": "official",
+    "text": "U.S. Department of Justice (U.S. government work, public domain)",
+    "source_url": "https://www.justice.gov/opa/pr/california-couple-sentenced-trafficking-protected-wildlife"
+   }
+  },
+  {
+   "id": "942afe0670e8",
+   "title": "Daily News 26 / 10 / 2026",
+   "snippet": "European Commission Daily news Brussels, 26 Oct 2026 Commission accepts Temu's action plan to remedy the breach of the Digital Services Act The European Commission has accepted Temu's action plan to comply with t...",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2257",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T11:05+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   }
+  },
+  {
+   "id": "aa8af274db95",
+   "title": "THE HACK: MEPs finally head to Amazon warehouses",
+   "snippet": "In today's edition: AI glasses, DSA riots, election deepfakes",
+   "url": "https://www.rapporteur.com/news/the-hack-meps-finally-head-to-amazon-warehouses/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T07:45+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.42,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "84db1c4593b3",
+   "title": "FIRST AID: EU following down the US junk food path",
+   "snippet": "In today's edition: Shamonda virus, pharma independence, AI",
+   "url": "https://www.rapporteur.com/news/first-aid-eu-following-down-the-us-junk-food-path/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T07:58+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 1.44,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1280px-Data_center_roof.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Rsparks3",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Data center roof.jpg"
+   }
+  },
+  {
+   "id": "fc1423b9791d",
+   "title": "Addressing the decarbonisation dilemma [Promoted Content]",
+   "snippet": "As food demand grows, decarbonising the food system’s critical middle offers an opportunity to reduce emissions, improve resource efficiency and strengthen resilience. Targeted investment, supported by effective policy and finance, can help manufacturers deliver more sustainable, reliable food production.",
+   "url": "https://www.rapporteur.com/opinion/addressing-the-decarbonisation-dilemma/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T06:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "c13848fef577",
+   "title": "250,000 rally in Madrid demanding state pension guarantees",
+   "snippet": "Rally comes amid political row over sustainability of Spain's pension scheme and cost of living",
+   "url": "https://www.rapporteur.com/news/250000-rally-in-madrid-demanding-state-pension-guarantees/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-24T13:28+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "0b2a4d29788e",
+   "title": "Europe must make seamless travel a reality and put passengers first [Promoted Content]",
+   "snippet": "The text argues that Europe must deliver genuinely seamless, passenger-centred cross-border travel through interoperable rail ticketing, fair multimodal booking, transparent rankings and stronger single-ticket rights, while ensuring accessibility, competition, cybersecurity and non-digital options so travellers benefit equally.",
+   "url": "https://www.rapporteur.com/opinion/europe-must-make-seamless-travel-a-reality-and-put-passengers-first/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-23T10:00+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "55f7043397d3",
+   "title": "The State of AI Governance in Third-Party Risk",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/scheduled-webcast/the-state-of-ai-governance-in-third-party-risk/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T21:13+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk",
+    "governance",
+    "ai_governance"
+   ],
+   "score": 16.7,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "d1e8ab6fc3a0",
+   "title": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/artificial-intelligence/hong-kong-regulator-sets-accountability-resilience-trust-rules-for-bank-ai/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-24T07:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "governance"
+   ],
+   "score": 11.52,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e1893025678b",
+   "title": "How Does Your Third-Party Risk Management Program Compare?",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/diligent-compliance-ethics/how-does-your-third-party-risk-management-program-compare/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T15:06+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 11.2,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "3eb41eb7817d",
+   "title": "DOJ, HHS launch self-disclosure pilot for health FCA violations",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/healthcare/doj-hhs-launch-self-disclosure-pilot-for-health-fca-violations/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-24T06:00+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "false_claims",
+    "enforcement"
+   ],
+   "score": 10.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e6a068c1c949",
+   "title": "Companies can’t rely on US sanctions as global baseline, lawyers say",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-sanctions/article/companies-cant-rely-us-sanctions-global-baseline-lawyers-say",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-22T17:43+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
