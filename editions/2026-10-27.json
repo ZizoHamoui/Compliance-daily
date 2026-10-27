@@ -1,0 +1,422 @@
+{
+ "date": "2026-10-27",
+ "lead_id": "4287134da85e",
+ "editor_note": "Enforcement is getting faster and pricier: DOJ now pays fraud tipsters at the charging stage, FINTRAC's penalties rose nearly tenfold, and Brussels is holding Temu to an evidence-based DSA fix.",
+ "bottom_line": [
+  {
+   "id": "4287134da85e",
+   "text": "DOJ pays fraud tipsters at charging; speed up hotline triage and self-disclosure decisions."
+  },
+  {
+   "id": "855b0c6c2c9b",
+   "text": "FINTRAC penalties hit $247M; test STR detection and MSB registration compliance in Canada."
+  },
+  {
+   "id": "f84827323e1c",
+   "text": "EU accepted Temu DSA plan; review marketplace seller vetting and product-safety evidence."
+  },
+  {
+   "id": "901d64fbe718",
+   "text": "EEOC $396K religious harassment settlement; check accommodation and complaint handling."
+  }
+ ],
+ "cards": [
+  {
+   "id": "4287134da85e",
+   "kind": "briefing",
+   "tier": "ai",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "source": "AI Briefing · Holland & Knight",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-20T12:00+00:00",
+   "topic": "whistleblowing",
+   "title": "DOJ launches fast-cash whistleblower program for fraud tips, and thousands pour in",
+   "summary": "DOJ's new Fraud Whistleblower Incentive Program pays individuals $10,000–$30,000 when a tip leads to criminal charges in healthcare and federal-benefits fraud. Officials say thousands of tips arrived within days.",
+   "impact": "Tips can now reach prosecutors before internal channels act; test hotline triage, anti-retaliation controls and self-disclosure decision speed, especially in healthcare.",
+   "impact_level": "High",
+   "item_type": "rule",
+   "image_query": "United States Department of Justice building",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "901d64fbe718",
+   "url": "https://www.eeoc.gov/newsroom/nevada-logistics-company-pay-over-396000-resolve-eeoc-religious-harassment-charge",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-26T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/P20210630CS-2584-2_%2851362324904%29.jpg/1280px-P20210630CS-2584-2_%2851362324904%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "The White House",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:P20210630CS-2584-2_(51362324904).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "P20210630CS-2584-2 (51362324904).jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Nevada logistics company to pay over $396,000 to resolve EEOC religious harassment charge",
+   "summary": "A Reno-based third-party logistics company agreed to pay more than $396,000 to settle a 2025 charge alleging religious harassment, the EEOC announced.",
+   "impact": "Religious harassment remains an EEOC focus; confirm accommodation and harassment-complaint procedures cover warehouse and logistics workforces.",
+   "impact_level": "Medium",
+   "item_type": "enforcement",
+   "image_query": "warehouse forklift loading dock"
+  },
+  {
+   "id": "855b0c6c2c9b",
+   "kind": "briefing",
+   "tier": "ai",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "source": "AI Briefing · FINTRAC",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-10-22T12:00+00:00",
+   "topic": "aml_sanctions",
+   "title": "FINTRAC penalties jump to $247M as record $176M crypto fine leads the year",
+   "summary": "FINTRAC's 2025–26 results show 35 penalty notices worth over $247 million, up from $25 million, led by a record $176 million penalty on crypto money services business Cryptomus.",
+   "impact": "Canada's AML regulator is penalizing more often and far harder; reporting entities should stress-test STR filing, registration and compliance-program documentation now.",
+   "impact_level": "High",
+   "item_type": "enforcement",
+   "image_query": "Ottawa Parliament Hill",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "f84827323e1c",
+   "kind": "briefing",
+   "tier": "ai",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "source": "AI Briefing · Euronews",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-26T12:00+00:00",
+   "topic": "enforcement",
+   "title": "EU signs off on Temu's DSA remedy plan five months after €200M fine",
+   "summary": "The European Commission accepted Temu's action plan to curb illegal products on its marketplace, following May's €200 million Digital Services Act fine. Temu must file an interim risk assessment within four months.",
+   "impact": "Marketplaces and their sellers face evidence-based DSA risk assessments; review product-safety controls and third-party seller vetting for EU sales.",
+   "impact_level": "High",
+   "item_type": "enforcement",
+   "image_query": "Berlaymont building Brussels",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   }
+  },
+  {
+   "id": "331b8ef49c88",
+   "url": "http://www.dol.gov/newsroom/releases/ebsa/ebsa20261026",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-26T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Chicago_Loop_Skyline_at_Sunset.jpg/1280px-Chicago_Loop_Skyline_at_Sunset.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "GazeboJake",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chicago_Loop_Skyline_at_Sunset.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Chicago Loop Skyline at Sunset.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Labor Department obtains consent order against retirement plan fiduciaries of defunct Chicago law firm",
+   "summary": "After a DOL complaint, a defunct Chicago law firm's retirement plan distributed $6.5 million in assets to 40 employees; fiduciaries had failed to terminate the plan and disburse funds as required.",
+   "impact": "ERISA fiduciary duties survive a business wind-down; make sure plan termination and asset distribution are on any closure or divestiture checklist.",
+   "impact_level": "Medium",
+   "item_type": "enforcement",
+   "image_query": "Chicago Loop skyline"
+  },
+  {
+   "id": "4f6c7f5549d1",
+   "url": "https://www.justice.gov/opa/pr/construction-company-owner-and-employees-indicted-wide-ranging-tax-and-financial-fraud-0",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-26T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Construction_site_NW_of_the_Broadway_and_W_129th_St_intersection%2C_Manhattan.jpg/1280px-Construction_site_NW_of_the_Broadway_and_W_129th_St_intersection%2C_Manhattan.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Magnus Bäck",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Construction_site_NW_of_the_Broadway_and_W_129th_St_intersection,_Manhattan.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Construction site NW of the Broadway and W 129th St intersection, Manhattan.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Construction company owner and employees indicted for wide-ranging tax and financial fraud schemes",
+   "summary": "An indictment unsealed in New York charges a construction company owner and three employees with crimes including conspiring to defraud the United States, in alleged tax and financial fraud schemes.",
+   "impact": "Individuals inside the business were charged alongside the owner; reinforce payroll-tax and finance controls and escalation routes in construction contractors.",
+   "impact_level": "Medium",
+   "item_type": "enforcement",
+   "image_query": "construction site crane New York"
+  },
+  {
+   "id": "7a3789bcf66f",
+   "url": "/en/opc-news/news-and-announcements/2026/nr-c_261026/",
+   "source": "Privacy Commissioner of Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-10-26T04:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Parliament_Hill_from_the_Ottawa_River.JPG/1280px-Parliament_Hill_from_the_Ottawa_River.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Óðinn",
+    "license": "CC BY-SA 2.5 ca",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parliament_Hill_from_the_Ottawa_River.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Parliament Hill from the Ottawa River.JPG"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Loblaw commits to strengthening security measures following privacy breach",
+   "summary": "Canada's Privacy Commissioner announced that Loblaw has committed to strengthening its security measures following a privacy breach.",
+   "impact": "OPC is extracting commitments after breaches; benchmark your safeguards and breach-response records against what Canadian retailers are now promising.",
+   "impact_level": "Medium",
+   "item_type": "enforcement",
+   "image_query": "supermarket checkout Canada"
+  },
+  {
+   "id": "8eb7a22ecb97",
+   "url": "https://www.rapporteur.com/news/scale-ai-faces-complaints-over-workplace-surveillance/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-27T06:03+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Velocity_Micro_%22ProMagix_HD60%22_Workstation_Computer.jpg/1280px-Velocity_Micro_%22ProMagix_HD60%22_Workstation_Computer.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Mnicolois",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Velocity_Micro_%22ProMagix_HD60%22_Workstation_Computer.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Velocity Micro \"ProMagix HD60\" Workstation Computer.jpg"
+   },
+   "tier": "press",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Scale AI faces complaints over workplace surveillance",
+   "summary": "EU-based researchers allege that gig platform Scale AI harvests workers' data without a proper legal basis.",
+   "impact": "Worker monitoring is drawing GDPR and platform-work scrutiny; check the lawful basis and notices for any monitoring of contractors or annotators.",
+   "impact_level": "Medium",
+   "item_type": "proposal",
+   "image_query": "computer workstation office"
+  },
+  {
+   "id": "d81188eeb4aa",
+   "url": "https://www.corporatecomplianceinsights.com/regulator-says-use-ai-another-says-framework-is-not-ready/",
+   "source": "Corporate Compliance Insights",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-27T11:00+00:00",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Old_Takushoku_bank_Fukagawa_office.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sinryow",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Old_Takushoku_bank_Fukagawa_office.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Old Takushoku bank Fukagawa office.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "A regulator says use AI; another says the framework is not ready",
+   "summary": "How much autonomy banks can safely hand to AI depends less on coming guidance than on the maturity of their existing model governance, Corporate Compliance Insights argues.",
+   "impact": "Before scaling AI in controls, assess whether model risk management already covers inventory, validation and human oversight.",
+   "impact_level": "Low",
+   "item_type": "analysis",
+   "image_query": "bank server room"
+  },
+  {
+   "id": "aca8f2dc4927",
+   "url": "https://www.radicalcompliance.com/2026/10/26/at-last-a-peek-at-anthropics-governance/",
+   "source": "Radical Compliance",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-26T16:10+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_York_Stock_Exchange_August_2017_02.jpg/1280px-New_York_Stock_Exchange_August_2017_02.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "New York Stock Exchange August 2017 02.jpg"
+   },
+   "tier": "press",
+   "topic": "governance",
+   "kind": "link",
+   "title": "At last, a peek at Anthropic's governance",
+   "summary": "Anthropic filed its IPO registration statement on Monday, offering a first public look at how the AI company is governed.",
+   "impact": "Novel AI-company governance structures will set reference points for board oversight of AI; worth reading for board and governance teams.",
+   "impact_level": "Low",
+   "item_type": "analysis",
+   "image_query": "New York Stock Exchange building"
+  },
+  {
+   "id": "a40f9dc6e228",
+   "url": "https://www.justice.gov/opa/pr/new-york-woman-charged-11m-check-cashing-scheme",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-26T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/United_States_Courthouse_-_Eastern_District_of_New_York_%2848228039566%29.jpg/1280px-United_States_Courthouse_-_Eastern_District_of_New_York_%2848228039566%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Ajay Suresh from New York, NY, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:United_States_Courthouse_-_Eastern_District_of_New_York_(48228039566).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "United States Courthouse - Eastern District of New York (48228039566).jpg"
+   },
+   "tier": "official",
+   "topic": "aml_sanctions",
+   "kind": "link",
+   "title": "New York woman charged with $1.1M illegal check-cashing scheme",
+   "summary": "A 55-year-old New York woman was arrested after an Eastern District of New York indictment charging her with providing illegal check-cashing services.",
+   "impact": "Unlicensed check cashing is a classic money-laundering channel; banks should review monitoring for business accounts with heavy third-party check deposits.",
+   "impact_level": "Low",
+   "item_type": "enforcement",
+   "image_query": "Brooklyn federal courthouse"
+  },
+  {
+   "id": "da72cf7ecc7f",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2244",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-26T23:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "official",
+   "topic": "esg",
+   "kind": "link",
+   "title": "Commission presents Climate Resilience Framework for a better prepared Europe",
+   "summary": "The European Commission presented an EU Framework for Climate Resilience to strengthen Europe's ability to anticipate, prepare for and manage climate risks.",
+   "impact": "Signals growing EU expectations on physical climate-risk planning; sustainability teams should track any follow-on reporting or resilience requirements.",
+   "impact_level": "Low",
+   "item_type": "proposal",
+   "image_query": "flood barrier river Europe"
+  }
+ ],
+ "briefings": {
+  "4287134da85e": {
+   "headline": "DOJ launches fast-cash whistleblower program for fraud tips, and thousands pour in",
+   "dek": "A new Fraud Division pilot pays tipsters at the charging stage, not years later, putting pressure on internal reporting channels.",
+   "body_md": "The U.S. Justice Department has launched the Fraud Whistleblower Incentive Program (WHIP), a three-year pilot that pays individuals a fixed reward when their tip leads to federal criminal charges. Within days, the official leading the effort said the department had received thousands of tips.\n\n**The key facts.** WHIP was announced on October 20, 2026, by the National Fraud Enforcement Division, the \"Fraud Division\" created in April 2026, following an internal directive issued on October 1. According to law-firm summaries of the program terms, eligible tipsters receive a single award of $10,000 to $30,000 per distinct tip. The Treasury Department has committed $25 million to fund it.\n\nThe payment timing is what sets WHIP apart. Awards are paid once DOJ files and unseals an indictment, information or criminal complaint, rather than after a conviction or final resolution. There is no minimum loss threshold.\n\nCoverage is focused on federal health care offences and fraud on programs run by the Departments of Agriculture, Labor, HHS, HUD, Education and Veterans Affairs and the Small Business Administration. Hospice, home health, day care and special services fraud are named priorities, and DOJ has said categories could expand.\n\nOnly individuals qualify. Tips must be voluntary, original and in writing, and tipsters must cooperate. People who meaningfully took part in the fraud are excluded. Officers, directors and compliance or internal audit staff are generally excluded too, subject to exceptions, including when at least 120 days have passed since they reported internally.\n\n**Background.** WHIP sits alongside, rather than replacing, the Criminal Division's Corporate Whistleblower Awards Pilot, which pays a percentage of forfeited assets after a successful case. Tipsters can remain eligible for both, and nothing in the announcement changes False Claims Act qui tam rights, so the same facts could also support a civil recovery.\n\nAssistant Attorney General Colin McDonald said in a Fox News interview on October 24 that the department had received \"thousands of tips\" through the new line in a few days.\n\n### What compliance teams should do\n- **Assume faster government awareness.** In healthcare and federal-benefits businesses, a credible tip may reach prosecutors before an internal investigation concludes, which can erode voluntary self-disclosure credit. Tighten triage and escalation timelines.\n- **Review anti-retaliation and agreements.** DOJ may weigh retaliation, and confidentiality or separation terms that impede reporting, when assessing cooperation and compliance programs.\n- **Refresh hotline and manager training.** Make sure employees see internal reporting as fast and safe, and that managers know how to route concerns immediately.\n- **Audit priority areas.** Review billing, eligibility and documentation practices in hospice, home health and other named sectors.",
+   "sources": [
+    {
+     "title": "DOJ Launches First Fast-Track Whistleblower Rewards for Tips Leading to Criminal Fraud Charges",
+     "publisher": "Holland & Knight",
+     "url": "https://www.hklaw.com/en/insights/publications/2026/10/doj-launches-first-fast-track-whistleblower-rewards"
+    },
+    {
+     "title": "DOJ Launches Whistleblower Rewards Program Offering Payouts Before Convictions",
+     "publisher": "Ballard Spahr",
+     "url": "https://www.ballardspahr.com/insights/alerts-and-articles/2026/10/doj-launches-whistleblower-rewards-program-offering-payouts-before-convictions"
+    },
+    {
+     "title": "DOJ flooded with thousands of fraud tips after cash incentive launch, Trump official says",
+     "publisher": "Fox News (via WKXB)",
+     "url": "https://www.jammin999fm.com/2026/10/25/doj-flooded-with-thousands-of-fraud-tips-after-cash-incentive-launch-trump-official-says/"
+    }
+   ],
+   "prompted_by": {
+    "title": "Whistleblower 'Gold Rush' Might Strain DOJ, Experts Warn",
+    "publisher": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWdBb09LYV9YYmhxRGhaM0hhcFozQS13ZXhTODdhRkpjRVVEeWNDeTN6X1ktZ09HeV9wWFpSVjJSLVBmYTN4OE9tU0plZ3JIUXlwWE9jN2lXbVJKWjhTTm10T1ZacEJtZTJLYVpsdlRSU2JQRkFPbEdBTjZKREc3U1RrNkdZaXpMaFNiMUtoRUpEWXJHdkFCV3hNbGhhNFBuelFlSnpYZjktQkhmeFcyN2xBWm9CM1VqV3dRZjhCZ1dwbFZVM2Raa9IBckFVX3lxTFBtX3RVaEhPSkZSUm8zSUNDLXFoclZpTFlWRExqTUhZSE9MSUx6MjBoMEs3TWlHZnhRekplSVN6YjB5dHE3dWNPVVlCZXlpWlNiWmNRVDBfeFpRRnU4NmpmeVo3Rl85TGw2MW02ay1rQTVmQQ?oc=5"
+   }
+  },
+  "855b0c6c2c9b": {
+   "headline": "FINTRAC penalties jump to $247M as record $176M crypto fine leads the year",
+   "dek": "Canada's financial intelligence unit issued more penalties, far larger ones, and revoked many more money services business registrations in 2025–26.",
+   "body_md": "Canada's anti-money laundering regulator had its most aggressive enforcement year on record. FINTRAC's newly published \"results by the numbers\" for fiscal 2025–26 show 35 notices of violation worth more than $247 million, compared with 23 notices worth about $25 million a year earlier.\n\n**The key facts.** The single largest penalty, $176 million, was imposed in October 2025 on Xeltox Enterprises Ltd., which operates as the virtual-currency money services business Cryptomus. FINTRAC describes it as the largest penalty in its history. According to coverage of the report, the violations included failures to file suspicious transaction reports on activity linked to child sexual abuse material, fraud, ransomware and sanctions evasion.\n\nMoney services businesses bore the brunt: nine were penalized for a combined total of more than $198 million. By count, financial entities received the most notices (12), followed by MSBs (8), casinos (5) and real estate (5). FINTRAC revoked 82 MSB registrations, up from 12 the previous year, and referred 31 non-compliance cases to law enforcement, 28 of them involving MSBs.\n\nSupervision was also broad. FINTRAC reports 625 targeted examinations, 89 full-scope examinations (with precious metals and stones dealers and real estate most examined), 812 self-attestations, 984 risk questionnaires and 294 voluntary self-declarations of non-compliance.\n\n**Background.** The five-year trend shows how sharply enforcement has escalated: from $1 million across six notices in 2022–23 to $26 million in 2023–24, $25 million in 2024–25 and now nearly ten times that. Legislative amendments in recent years raised maximum penalties substantially, and FINTRAC has introduced a new supervisory framework aimed at the areas of highest money laundering and terrorist financing risk.\n\n### What compliance teams should do\n- **Test suspicious transaction reporting.** STR failures drove the record penalty; check detection scenarios, especially for crypto, ransomware and sanctions-evasion typologies.\n- **Confirm registration and program basics.** Failure to register and compliance-program gaps were common MSB findings; verify registrations, policies, risk assessments and training records are current.\n- **Use the self-declaration route deliberately.** Nearly 300 entities self-declared non-compliance; build a process to decide quickly whether a gap should be disclosed.\n- **Brief the board.** Penalty sizes now justify board-level attention to AML program health in Canadian operations.",
+   "sources": [
+    {
+     "title": "FINTRAC results by the numbers 2025–26",
+     "publisher": "FINTRAC",
+     "url": "https://fintrac-canafe.canada.ca/publications/ar/2025-2026-info-eng"
+    },
+    {
+     "title": "FINTRAC penalties top $247 million in 2025-26 as notices jump 52%",
+     "publisher": "Wealth Professional",
+     "url": "https://www.wealthprofessional.ca/news/industry-news/fintrac-penalties-top-247-million-as-financial-entities-draw-the-most/393851"
+    }
+   ],
+   "prompted_by": {
+    "title": "Fintrac penalties rise to record $176m",
+    "publisher": "Global Investigations Review",
+    "url": "https://globalinvestigationsreview.com/article/fintrac-penalties-rise-record-176m"
+   }
+  },
+  "f84827323e1c": {
+   "headline": "EU signs off on Temu's DSA remedy plan five months after €200M fine",
+   "dek": "The Commission accepted the marketplace's plan to curb illegal products, but Temu must now prove the measures work.",
+   "body_md": "The European Commission on October 26, 2026 accepted Temu's action plan to fix breaches of the Digital Services Act, five months after fining the online marketplace €200 million for failing to tackle illegal products sold to EU consumers.\n\n**The key facts.** The fine, issued on May 28, followed an investigation the Commission opened in October 2024 into whether Temu, designated a Very Large Online Platform, was meeting its DSA obligations. Investigators found that Temu's 2024 risk assessment relied on general online-shopping information rather than evidence specific to its own platform, leading it to underestimate how likely EU shoppers were to encounter illegal goods. Test purchases found chargers that failed basic safety checks and baby toys posing medium to high risks, including banned chemicals and choking hazards. The Commission also faulted Temu for not adequately assessing how its recommender systems and influencer programme could spread illegal products.\n\nTemu's accepted plan covers five areas of work, including a platform-specific risk assessment, better use of data to measure whether safeguards work, and closer scrutiny of content moderation. Temu will also examine whether its recommendation system helps illegal goods reach shoppers and how sellers might exploit platform features. A board of national digital services regulators reviewed the plan before the decision.\n\nTemu now has four months to submit an interim risk assessment covering the six months ending November 30, 2026, showing that the measures are in place. The company said it appreciated the Commission's \"constructive engagement\" throughout the process.\n\n**Background.** Temu has about 130 million users in the EU. The DSA allows fines of up to 6% of worldwide annual turnover plus periodic penalties for failing to comply with Commission decisions. In July the Commission fined AliExpress €550 million, its largest DSA penalty so far. Temu had called the fine disproportionate.\n\n### What compliance teams should do\n- **Make risk assessments evidence-based.** The Commission rejected generic industry data; DSA and similar assessments should rest on platform-specific testing and metrics.\n- **Scrutinize algorithms and promotion programmes.** Recommender systems and influencer schemes are now squarely within risk-assessment scope.\n- **Tighten third-party seller controls.** Brands and retailers selling via EU marketplaces should expect stricter vetting, product-safety documentation requests and takedowns.",
+   "sources": [
+    {
+     "title": "Temu falls into line as EU backs its action plan after €200m fine",
+     "publisher": "Euronews",
+     "url": "https://www.euronews.com/2026/10/26/temu-falls-into-line-as-eu-backs-its-action-plan-after-200m-fine"
+    },
+    {
+     "title": "EU accepts Temu's plan to curb illegal products after €200M fine",
+     "publisher": "The Next Web",
+     "url": "https://thenextweb.com/news/eu-accepts-temus-plan-to-curb-illegal-products-after-e200m-fine"
+    }
+   ],
+   "prompted_by": {
+    "title": "EU Accepts Temu Action Plan After €200M Illegal Goods Fine",
+    "publisher": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3kxNmF4bmZ2b1ZUMkFIZnBSOXBLTGpaZzhWeGdoNnNqcE9zSjZaTnh1MmlMbzRoak5CQWVCSGoxRzQzd21hSDFYTHZMWnpremdPRE1IUE54eTVuUm02aUV6RXFmSWlKUk9uejNlVkkwZjJLY2tnQ3RpampzdUZVTkptUVVRUllGTnRBbjJNaW5zVk1DT0RKWGNCaDZPZ9IBVkFVX3lxTE5LelRiX1dKWXBMYkRNTnRURzJhckl2R3g2QzQ0eTdvOFhjWjZZUXZrT0hnVkJhdWJGVWNnRDM5VFdMOFNaTUdOZHQyT2h0Q0YtRzVja05R?oc=5"
+   }
+  }
+ }
+}
