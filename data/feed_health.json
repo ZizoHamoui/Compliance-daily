@@ -1,111 +1,111 @@
 {
  "sec-press": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 25,
   "url": "https://www.sec.gov/news/pressreleases.rss",
   "last_error": null
  },
  "doj-press": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 25,
   "url": "https://www.justice.gov/news/rss?type=press_release&m=1",
   "last_error": null
  },
  "cftc-enf": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.cftc.gov/RSS/RSSENF/rssenf.xml",
   "last_error": null
  },
  "cftc-general": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
   "last_error": null
  },
  "frb-enf": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 15,
   "url": "https://www.federalreserve.gov/feeds/press_enforcement.xml",
   "last_error": null
  },
  "cfpb": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 23,
   "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
   "last_error": null
  },
  "ofac": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://ofac.treasury.gov/rss.xml",
   "last_error": null
  },
  "dol": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.dol.gov/rss/releases.xml",
   "last_error": null
  },
  "eeoc": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 20,
   "url": "https://www.eeoc.gov/rss.xml",
   "last_error": null
  },
  "nlrb": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.nlrb.gov/rss/rssPressReleases.xml",
   "last_error": null
  },
  "fedreg-wb": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 5,
   "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=whistleblower&order=newest",
   "last_error": null
  },
  "fedreg-fca": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 0,
   "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22due+diligence%22+OR+%22third-party+risk%22+OR+%22False+Claims+Act%22&order=newest",
   "last_error": null
  },
  "gc-news": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 400,
   "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&pick=400&format=atom",
   "last_error": null
  },
  "opc": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
-  "last_count": 661,
+  "last_ok": "2026-10-27T12:41:32+00:00",
+  "last_count": 662,
   "url": "https://www.priv.gc.ca/en/rss/news/",
   "last_error": null
  },
  "ec-press": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
   "last_error": null
  },
  "ep-press": {
-  "consecutive_failures": 3,
+  "consecutive_failures": 4,
   "last_ok": "2026-10-25T01:10:52+00:00",
   "last_count": 0,
   "url": "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml",
@@ -113,83 +113,83 @@
  },
  "edpb": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.edpb.europa.eu/feed/news_en",
   "last_error": null
  },
  "eba": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.eba.europa.eu/rss.xml",
   "last_error": null
  },
  "amf-fr": {
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "last_ok": "2026-10-26T12:40:44+00:00",
   "last_count": 200,
   "url": "https://www.amf-france.org/fr/flux-rss/display/21",
-  "last_error": null
+  "last_error": "HTTPError: HTTP Error 403: Forbidden"
  },
  "cnil-fr": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.cnil.fr/fr/rss.xml",
   "last_error": null
  },
  "adlc-fr": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.autoritedelaconcurrence.fr/fr/rss.xml",
   "last_error": null
  },
  "ap-nl": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.autoriteitpersoonsgegevens.nl/rss",
   "last_error": null
  },
  "gn-whistle": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
-  "last_count": 46,
+  "last_ok": "2026-10-27T12:41:32+00:00",
+  "last_count": 48,
   "url": "https://news.google.com/rss/search?q=whistleblower+OR+%22False+Claims+Act%22+when:2d&hl=en-US&gl=US&ceid=US:en",
   "last_error": null
  },
  "gn-tprm": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
-  "last_count": 36,
+  "last_ok": "2026-10-27T12:41:32+00:00",
+  "last_count": 38,
   "url": "https://news.google.com/rss/search?q=%22third-party+risk%22+OR+%22due+diligence%22+OR+FCPA+OR+%22compliance+officer%22+when:2d&hl=en-US&gl=US&ceid=US:en",
   "last_error": null
  },
  "gn-employ": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
-  "last_count": 17,
+  "last_ok": "2026-10-27T12:41:32+00:00",
+  "last_count": 49,
   "url": "https://news.google.com/rss/search?q=%22employment+law%22+OR+%22retaliation+lawsuit%22+OR+%22wrongful+termination%22+when:2d&hl=en-US&gl=US&ceid=US:en",
   "last_error": null
  },
  "gn-ca": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
-  "last_count": 51,
+  "last_ok": "2026-10-27T12:41:32+00:00",
+  "last_count": 26,
   "url": "https://news.google.com/rss/search?q=whistleblower+OR+%22regulatory+breach%22+OR+%22compliance%22+fine+when:2d&hl=en-CA&gl=CA&ceid=CA:en",
   "last_error": null
  },
  "gn-eu": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
-  "last_count": 27,
+  "last_ok": "2026-10-27T12:41:32+00:00",
+  "last_count": 20,
   "url": "https://news.google.com/rss/search?q=EU+fine+OR+%22whistleblower+directive%22+OR+CSDDD+OR+%22supply+chain+due+diligence%22+when:2d&hl=en-IE&gl=IE&ceid=IE:en",
   "last_error": null
  },
  "jdsupra": {
-  "consecutive_failures": 3,
+  "consecutive_failures": 4,
   "last_ok": "2026-10-25T01:10:52+00:00",
   "last_count": 0,
   "url": "https://www.jdsupra.com/resources/syndication/docsRSSfeed.aspx?ftype=AllContent&premium=1",
@@ -197,42 +197,42 @@
  },
  "wnn": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://whistleblowersblog.org/feed/",
   "last_error": null
  },
  "cci": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.corporatecomplianceinsights.com/feed/",
   "last_error": null
  },
  "radical": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.radicalcompliance.com/feed/",
   "last_error": null
  },
  "euractiv": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 100,
   "url": "https://www.euractiv.com/feed/",
   "last_error": null
  },
  "gir": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 100,
   "url": "https://www.globalinvestigationsreview.com/rss",
   "last_error": null
  },
  "cw": {
   "consecutive_failures": 0,
-  "last_ok": "2026-10-26T12:40:44+00:00",
+  "last_ok": "2026-10-27T12:41:32+00:00",
   "last_count": 10,
   "url": "https://www.complianceweek.com/rss",
   "last_error": null

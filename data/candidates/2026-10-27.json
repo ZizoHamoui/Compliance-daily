@@ -1,0 +1,774 @@
+{
+ "date": "2026-10-27",
+ "generated": "2026-10-27T12:41:32+00:00",
+ "count": 28,
+ "by_region": {
+  "US": 7,
+  "CA": 1,
+  "EU": 13
+ },
+ "paywalled": 7,
+ "items": [
+  {
+   "id": "901d64fbe718",
+   "title": "Nevada Logistics Company to Pay Over $396,000 to Resolve EEOC Religious Harassment Charge",
+   "snippet": "RENO, Nev. — A third-party logistics company based in Reno, agreed to pay more than $396,000 to settle a 2025 charge alleging religious harassment claims investigated by the U.S. Equal Employment Opportunity Commission (EEOC), the federal agency announced today.",
+   "url": "https://www.eeoc.gov/newsroom/nevada-logistics-company-pay-over-396000-resolve-eeoc-religious-harassment-charge",
+   "paywall_url": "",
+   "source": "U.S. EEOC",
+   "source_id": "eeoc",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "third_party_risk",
+    "enforcement"
+   ],
+   "score": 25.18,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/P20210630CS-2584-2_%2851362324904%29.jpg/1280px-P20210630CS-2584-2_%2851362324904%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "The White House",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:P20210630CS-2584-2_(51362324904).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "P20210630CS-2584-2 (51362324904).jpg"
+   }
+  },
+  {
+   "id": "dcfdd5b92049",
+   "title": "Justice Department Announces Charges Involving 48 Aliens for Election-Related Crimes",
+   "snippet": "Today, the Justice Department announced charges involving 48 aliens in Pennsylvania, California, Florida, New York, and Nevada in connection with illegal voting, fraudulent voter registration, and related election crimes. The cases include voting by aliens in federal elections and false claims of U.S. citizenship to register to vote or to vote.",
+   "url": "https://www.justice.gov/opa/pr/justice-department-announces-charges-involving-48-aliens-election-related-crimes",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "false_claims"
+   ],
+   "score": 12.7,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "331b8ef49c88",
+   "title": "US Department of Labor obtains consent order against retirement plan fiduciaries of defunct Chicago law firm for failing to distribute $6.4M in assets",
+   "snippet": "CHICAGO – Following a complaint filed by the U.S. Department of Labor, a defunct Chicago law firm’s retirement plan distributed $6,498,858 in retirement plan assets to 40 employees. The plan’s fiduciaries failed to properly terminate the plan and disburse those funds as required by law.On Aug. 18, 2026, the U.S. District Court for the Northern District of Illinois, Eastern Division, entered a consent order resolving…",
+   "url": "http://www.dol.gov/newsroom/releases/ebsa/ebsa20261026",
+   "paywall_url": "",
+   "source": "U.S. Department of Labor",
+   "source_id": "dol",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "privacy"
+   ],
+   "score": 12.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_5.jpg/1280px-Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_5.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "US Department of Labor",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington,_D.C._-_5.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building of the United States Department of Labor in Washington, D.C. - 5.jpg"
+   }
+  },
+  {
+   "id": "a40f9dc6e228",
+   "title": "New York Woman Charged With $1.1M Check Cashing Scheme",
+   "snippet": "Xue Fang Cheng, 55, of New York, was arrested today after a federal grand jury in the Eastern District of New York returned an indictment on Oct. 23 charging Cheng with providing illegal check cashing services.",
+   "url": "https://www.justice.gov/opa/pr/new-york-woman-charged-11m-check-cashing-scheme",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "7a3789bcf66f",
+   "title": "News release: Loblaw commits to strengthening security measures following privacy breach",
+   "snippet": "News release",
+   "url": "/en/opc-news/news-and-announcements/2026/nr-c_261026/",
+   "paywall_url": "",
+   "source": "Privacy Commissioner of Canada",
+   "source_id": "opc",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T04:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "privacy"
+   ],
+   "score": 8.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "d81188eeb4aa",
+   "title": "A Regulator Says Use AI. Another Says the Framework Is Not Ready.",
+   "snippet": "How much autonomy a bank can safely hand a machine depends less on the coming guidance than on how mature its existing model governance already is The post A Regulator Says Use AI. Another Says the Framework Is Not Ready. appeared first on Corporate Compliance Insights .",
+   "url": "https://www.corporatecomplianceinsights.com/regulator-says-use-ai-another-says-framework-is-not-ready/",
+   "paywall_url": "",
+   "source": "Corporate Compliance Insights",
+   "source_id": "cci",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-27T11:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "governance"
+   ],
+   "score": 8.05,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "aca8f2dc4927",
+   "title": "At Last, a Peek at Anthropic’s Governance!",
+   "snippet": "Artificial intelligence giant Anthropic filed its IPO registration statement on Monday morning, and while the accounting types are losing their [expletive] over the details of the company’s financial operations, we corporate governance types can obsess over a different, equally important question: What is the board’s structure to oversee ethics, compliance, and risk? The registration statement… The post At Last, a…",
+   "url": "https://www.radicalcompliance.com/2026/10/26/at-last-a-peek-at-anthropics-governance/",
+   "paywall_url": "",
+   "source": "Radical Compliance",
+   "source_id": "radical",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T16:10+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "ai_governance"
+   ],
+   "score": 8.05,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   }
+  },
+  {
+   "id": "8eb7a22ecb97",
+   "title": "Scale AI faces complaints over workplace surveillance",
+   "snippet": "EU-based researchers say gig platform harvests workers' data without proper legal basis",
+   "url": "https://www.rapporteur.com/news/scale-ai-faces-complaints-over-workplace-surveillance/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-27T06:03+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "ai_governance"
+   ],
+   "score": 7.51,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   }
+  },
+  {
+   "id": "4f6c7f5549d1",
+   "title": "Construction Company Owner and Employees Indicted for Wide-Ranging Tax and Financial Fraud Schemes",
+   "snippet": "An indictment was unsealed today charging Arthur Nelson, of Staten Island, New York, and Sunny Isles Beach, Florida; Joseph Free, of Staten Island; Paul Vasquez, of Englishtown, New Jersey; and Ulysses Jude Devocion, of Queens County, New York, with various crimes including conspiring to defraud the IRS, tax evasion, willfully failing to withhold and pay over employment taxes, failing to file income tax returns,…",
+   "url": "https://www.justice.gov/opa/pr/construction-company-owner-and-employees-indicted-wide-ranging-tax-and-financial-fraud-0",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T12:00+00:00",
+   "topic": "false_claims",
+   "tags": [
+    "false_claims",
+    "enforcement"
+   ],
+   "score": 4.37,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "5100002a882d",
+   "title": "Factsheet - EU Framework for Climate Resilience",
+   "snippet": "European Commission Factsheet Brussels, 27 Oct 2026 Factsheet - EU Framework for Climate Resilience Factsheet - EU Framework for Climate Resilience",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2246",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T23:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 3.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   }
+  },
+  {
+   "id": "da72cf7ecc7f",
+   "title": "Commission presents Climate Resilience Framework for a better prepared and protected Europe",
+   "snippet": "European Commission Press release Brussels, 27 Oct 2026 The European Commission today presented an EU Framework for Climate Resilience to strengthen Europe's ability to anticipate, prepare for, and manage climate risks.",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2244",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T23:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 3.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   }
+  },
+  {
+   "id": "ae1da092ce79",
+   "title": "Questions and answers on the EU Climate Resilience Framework",
+   "snippet": "European Commission Questions and answers Brussels, 27 Oct 2026 What is the objective of the new EU Climate Resilience Framework, and why is it necessary now?",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2245",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T23:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 3.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/European_Commission_headquarters%2C_The_Berlaymont_Building%2C_Brussels%2C_Belgium_%28_Ank_Kumar%2C_Infosys_Limited_%29.jpg/1280px-European_Commission_headquarters%2C_The_Berlaymont_Building%2C_Brussels%2C_Belgium_%28_Ank_Kumar%2C_Infosys_Limited_%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Commission headquarters, The Berlaymont Building, Brussels, Belgium ( Ank Kumar, Infosys Limited ).jpg"
+   }
+  },
+  {
+   "id": "aa8af274db95",
+   "title": "THE HACK: MEPs finally head to Amazon warehouses",
+   "snippet": "In today's edition: AI glasses, DSA riots, election deepfakes",
+   "url": "https://www.rapporteur.com/news/the-hack-meps-finally-head-to-amazon-warehouses/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T07:45+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.42,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "641002410bd0",
+   "title": "Germany’s Helsing moves into air defence",
+   "snippet": "The German system is 'cost-effective' and relying on European supply chain, Helsing President said",
+   "url": "https://www.rapporteur.com/news/germanys-helsing-moves-into-air-defence/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T13:34+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 2.24,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Container_cranes_at_the_Port_of_Oakland-.jpg/1280px-Container_cranes_at_the_Port_of_Oakland-.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Yair-haklai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland-.jpg"
+   }
+  },
+  {
+   "id": "58db35dcfc92",
+   "title": "VOLTAGE: Europe’s climate ‘risk reality’ reckoning",
+   "snippet": "In today's edition: marine protection, energy cartels, Russian gas",
+   "url": "https://www.rapporteur.com/news/voltage-europes-climate-risk-reality-reckoning/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-27T08:31+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "f01352043829",
+   "title": "THE HACK: Anthropic discloses ‘Brussels effect’ risk",
+   "snippet": "In today's edition: Canada-IRIS², EU Inc, French riots",
+   "url": "https://www.rapporteur.com/news/the-hack-anthropic-discloses-brussels-effect-risk/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-27T08:28+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "84db1c4593b3",
+   "title": "FIRST AID: EU following down the US junk food path",
+   "snippet": "In today's edition: Shamonda virus, pharma independence, AI",
+   "url": "https://www.rapporteur.com/news/first-aid-eu-following-down-the-us-junk-food-path/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T07:58+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 1.44,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "5df2cfc84b68",
+   "title": "Israel’s EU fork in the road",
+   "snippet": "Also, in Monday’s edition: a major climate policy shift",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-israels-eu-fork-in-the-road/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-27T06:26+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "2384f53e9966",
+   "title": "Italy, Poland back von der Leyen’s joint EU energy purchasing",
+   "snippet": "Warsaw and Rome deepen their alliance, rejecting climate rules Brussels favours",
+   "url": "https://www.rapporteur.com/news/italy-poland-back-von-der-leyens-joint-eu-energy-purchasing/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T13:49+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg"
+   }
+  },
+  {
+   "id": "fc1423b9791d",
+   "title": "Addressing the decarbonisation dilemma [Promoted Content]",
+   "snippet": "As food demand grows, decarbonising the food system’s critical middle offers an opportunity to reduce emissions, improve resource efficiency and strengthen resilience. Targeted investment, supported by effective policy and finance, can help manufacturers deliver more sustainable, reliable food production.",
+   "url": "https://www.rapporteur.com/opinion/addressing-the-decarbonisation-dilemma/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T06:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "c13848fef577",
+   "title": "250,000 rally in Madrid demanding state pension guarantees",
+   "snippet": "Rally comes amid political row over sustainability of Spain's pension scheme and cost of living",
+   "url": "https://www.rapporteur.com/news/250000-rally-in-madrid-demanding-state-pension-guarantees/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-24T13:28+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/1280px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Matthew T Rader",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roscoe_Wind_Farm_in_West_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Roscoe Wind Farm in West Texas.jpg"
+   }
+  },
+  {
+   "id": "855b0c6c2c9b",
+   "title": "Fintrac penalties rise to record $176m",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/fintrac-penalties-rise-record-176m",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T18:01+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "enforcement"
+   ],
+   "score": 13.36,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "4287134da85e",
+   "title": "Whistleblower 'Gold Rush' Might Strain DOJ, Experts Warn",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWdBb09LYV9YYmhxRGhaM0hhcFozQS13ZXhTODdhRkpjRVVEeWNDeTN6X1ktZ09HeV9wWFpSVjJSLVBmYTN4OE9tU0plZ3JIUXlwWE9jN2lXbVJKWjhTTm10T1ZacEJtZTJLYVpsdlRSU2JQRkFPbEdBTjZKREc3U1RrNkdZaXpMaFNiMUtoRUpEWXJHdkFCV3hNbGhhNFBuelFlSnpYZjktQkhmeFcyN2xBWm9CM1VqV3dRZjhCZ1dwbFZVM2Raa9IBckFVX3lxTFBtX3RVaEhPSkZSUm8zSUNDLXFoclZpTFlWRExqTUhZSE9MSUx6MjBoMEs3TWlHZnhRekplSVN6YjB5dHE3dWNPVVlCZXlpWlNiWmNRVDBfeFpRRnU4NmpmeVo3Rl85TGw2MW02ay1rQTVmQQ?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T22:40+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "d1e8ab6fc3a0",
+   "title": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/artificial-intelligence/hong-kong-regulator-sets-accountability-resilience-trust-rules-for-bank-ai/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-24T07:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "governance"
+   ],
+   "score": 11.52,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "65bbcd071571",
+   "title": "Charges against journalist resurface questions around Swiss bank secrecy",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/charges-against-journalist-resurface-questions-around-swiss-bank-secrecy",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T17:30+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "8f04166a2b0c",
+   "title": "EU Accepts Temu Plan After €200M Illegal Goods Fine",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3pGRFlYM1Jad3YyQkgxX25aYnlKLW1kdS1GdWVwUjAtaTVRVlUtcEw2N0x0LVFUNGMwbEFLSzJUNkxnSDV2b0szNmpmZjdwZk9FWmE1eDdYWkFJRkFLUFFRSHpXWTJwc3A0T0ZfNFY0dm4yMGRHM3ZUaHo0eWdFVXVOYXhMQzNFUFc5N2xMSldZM1BuUTBxeDNBZnhWTmlHenV2a1BtS1AzcENqS0HSAVZBVV95cUxOS3pUYl9XSllwTGJETU50VEcyYXJJdkd4NkM0NHk3bzhYY1o2WVF2a09IZ1ZCYXViRlVjZ0QzOVRXTDhTWk1HTmR0Mk9odENGLUc1Y2tOUQ?oc=5",
+   "source": "Law360",
+   "source_id": "gn-ca",
+   "region": "CA",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T14:49+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "f84827323e1c",
+   "title": "EU Accepts Temu Action Plan After €200M Illegal Goods Fine",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3kxNmF4bmZ2b1ZUMkFIZnBSOXBLTGpaZzhWeGdoNnNqcE9zSjZaTnh1MmlMbzRoak5CQWVCSGoxRzQzd21hSDFYTHZMWnpremdPRE1IUE54eTVuUm02aUV6RXFmSWlKUk9uejNlVkkwZjJLY2tnQ3RpampzdUZVTkptUVVRUllGTnRBbjJNaW5zVk1DT0RKWGNCaDZPZ9IBVkFVX3lxTE5LelRiX1dKWXBMYkRNTnRURzJhckl2R3g2QzQ0eTdvOFhjWjZZUXZrT0hnVkJhdWJGVWNnRDM5VFdMOFNaTUdOZHQyT2h0Q0YtRzVja05R?oc=5",
+   "source": "Law360",
+   "source_id": "gn-eu",
+   "region": "EU",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T14:49+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e5f3425e3c34",
+   "title": "EU accepts Temu plan to remedy Digital Services Act breach",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVBDRndDRXdkT0ZRcmR4ZEtyTkpoc3ZRd2J5TVJWUlBvdEViaWZJdFB0QjF2cmlDWldEeTd1dDVOZGxfX0t4NTU5b2lvNXoxZ1JzR2NOYUFvalpjU29rTUplTXBoWjRGZzdWdFREXzJabU1BVkJXSVdRT2tFR29iaEh4U040ckNGaDlleFRKZzVPOHpsdWNjME9EaWVCVHlUd05PWWNFS1c0U2xqa1JhZTY2UXFRLWs?oc=5",
+   "source": "Reuters",
+   "source_id": "gn-eu",
+   "region": "EU",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T16:46+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
