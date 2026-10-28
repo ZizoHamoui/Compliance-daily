@@ -1,0 +1,811 @@
+{
+ "date": "2026-10-28",
+ "generated": "2026-10-28T12:43:53+00:00",
+ "count": 30,
+ "by_region": {
+  "US": 7,
+  "CA": 1,
+  "EU": 13
+ },
+ "paywalled": 9,
+ "items": [
+  {
+   "id": "99ffc365c1f6",
+   "title": "National Security Division Announces First “Near Miss” Non-Prosecution Agreement Under the Department-wide Corporate Enforcement Policy",
+   "snippet": "The Department of Justice announced today that it has entered into a non-prosecution agreement with Extreme Networks, Inc. The company agreed to pay criminal penalties totaling $975,721.84 to resolve the Department’s investigation of sanctions and export control offenses.",
+   "url": "https://www.justice.gov/opa/pr/national-security-division-announces-first-near-miss-non-prosecution-agreement-under",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-27T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions"
+   ],
+   "score": 21.84,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "dcfdd5b92049",
+   "title": "Justice Department Announces Charges Involving 48 Aliens for Election-Related Crimes",
+   "snippet": "Today, the Justice Department announced charges involving 48 aliens in Pennsylvania, California, Florida, New York, and Nevada in connection with illegal voting, fraudulent voter registration, and related election crimes. The cases include voting by aliens in federal elections and false claims of U.S. citizenship to register to vote or to vote.",
+   "url": "https://www.justice.gov/opa/pr/justice-department-announces-charges-involving-48-aliens-election-related-crimes",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-26T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "false_claims"
+   ],
+   "score": 12.7,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "23e3761284a9",
+   "title": "News release: Privacy Commissioner of Canada to investigate data breach involving Crime Stoppers",
+   "snippet": "News release",
+   "url": "/en/opc-news/news-and-announcements/2026/nr-c_261027/",
+   "paywall_url": "",
+   "source": "Privacy Commissioner of Canada",
+   "source_id": "opc",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-27T04:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "privacy",
+    "cybersecurity"
+   ],
+   "score": 9.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "453ec4939140",
+   "title": "19e colloque de la Commission des sanctions – Vidéos et discours",
+   "snippet": "Support événement Sanctions & transactions Institutionnel Abus de marché 19e colloque de la Commission des sanctions – Vidéos et discours",
+   "url": "https://www.amf-france.org/fr/actualites-publications/evenements-de-lamf/colloques-et-conferences-de-lamf/19e-colloque-de-la-commission-des-sanctions-videos-et-discours#xts=607212&at_medium=RSS feeds&at_campaign=Actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-10-26T10:31+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/La_D%C3%A9fense%2C_business_district_of_Paris%2C_7_September_2020.jpg/1280px-La_D%C3%A9fense%2C_business_district_of_Paris%2C_7_September_2020.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Pierre Blaché from Paris, France",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_business_district_of_Paris,_7_September_2020.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, business district of Paris, 7 September 2020.jpg"
+   }
+  },
+  {
+   "id": "263938d78bd0",
+   "title": "COSO’s 2026 Framework Provides Common Language for Governance, From the Board to the Compliance Office",
+   "snippet": "COSO’s 2025 attempt at board-oversight guidance was quite prescriptive, and the result was an unpopular publication that was eventually withdrawn. That’s how we got the streamlined version: 12 principles, not a step-by-step manual. Jim DeLoach of Protiviti reads each one as something wider than a directors’ document, a shared vocabulary for the audit, risk and compliance professionals who feed the governance…",
+   "url": "https://www.corporatecomplianceinsights.com/coso-2026-framework-provides-common-language-governance-from-board-compliance-office/",
+   "paywall_url": "",
+   "source": "Corporate Compliance Insights",
+   "source_id": "cci",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T11:00+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 7.48,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   }
+  },
+  {
+   "id": "7971985892d7",
+   "title": "CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction",
+   "snippet": "",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+   "paywall_url": "",
+   "source": "U.S. CFTC",
+   "source_id": "cftc-general",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-27T12:58+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 7.2,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "5d9a273d5b5b",
+   "title": "EXCLUSIVE: IAB Europe lists ad vendor despite possible spyware link",
+   "snippet": "In wake of Citizen Lab report into spyware delivered via targeted ads",
+   "url": "https://www.rapporteur.com/news/exclusive-iab-europe-lists-ad-vendor-despite-alleged-spyware-link/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T03:00+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 6.72,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Container_cranes_at_the_Port_of_Oakland-.jpg/1280px-Container_cranes_at_the_Port_of_Oakland-.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Yair-haklai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland-.jpg"
+   }
+  },
+  {
+   "id": "f68480295867",
+   "title": "US Department of Labor finds none of nation’s 12,000 mining operations met criteria for pattern of violations in fiscal year 2026",
+   "snippet": "WASHINGTON – The U.S. Department of Labor’s Mine Safety and Health Administration announced today that none of the nation’s 12,000 mining operations met the criteria for a pattern of violations notice, one of the agency’s toughest enforcement tools.In MSHA’s annual screening of operations from Oct. 1, 2025, to Sept. 30, 2026, the agency found no pattern of violation notices. The Federal Mine Safety and Health Act of…",
+   "url": "http://www.dol.gov/newsroom/releases/msha/msha20261027",
+   "paywall_url": "",
+   "source": "U.S. Department of Labor",
+   "source_id": "dol",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-27T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "due_diligence"
+   ],
+   "score": 6.28,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_5.jpg/1280px-Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_5.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "US Department of Labor",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington,_D.C._-_5.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building of the United States Department of Labor in Washington, D.C. - 5.jpg"
+   }
+  },
+  {
+   "id": "e6b0ec49494a",
+   "title": "Sánchez’s wife sues Spanish opposition over AI deepfake",
+   "snippet": "Case filed over 'identity theft' but also touches on EU tech rulebook",
+   "url": "https://www.rapporteur.com/news/spains-sanchez-wife-sues-opposition-over-ai-deepfake/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T11:06+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 4.32,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "2396e6f29221",
+   "title": "Ukrainian National Sentenced for Role in Hacking Hospitals, Businesses, and Governments as Part of Ransomware Conspiracies Causing Over $100 Million in Losses",
+   "snippet": "Artem Stryzhak, 36, a Ukrainian national, was sentenced today to 70 months in prison for conspiracy to commit computer fraud in connection with a series of ransomware attacks that targeted hospitals, government entities, law firms, and other businesses around the world.",
+   "url": "https://www.justice.gov/opa/pr/ukrainian-national-sentenced-role-hacking-hospitals-businesses-and-governments-part",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-27T12:00+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 3.84,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "a1cb0d971c2d",
+   "title": "Justice Department Sues to Stop Secret Gender Transitions at Anne Arundel County Public Schools",
+   "snippet": "The Justice Department’s Civil Rights Division announced today its lawsuit to stop Anne Arundel County Public Schools (AACPS) from secretly “gender transitioning” children without their parents’ knowledge or consent and blocking parents’ access to information about their children, which they are entitled to receive under federal law. The Department’s lawsuit enforces the Family Educational Rights and Privacy Act…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-sues-stop-secret-gender-transitions-anne-arundel-county-public-schools",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-27T12:00+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 3.12,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Plato inscription - 2714.jpg"
+   }
+  },
+  {
+   "id": "4984b44689e7",
+   "title": "EU climate risk plan slammed over trailing insurance gap",
+   "snippet": "A Climate Insurance Alliance will be tasked with finding solutions in the coming months",
+   "url": "https://www.rapporteur.com/news/eu-climate-law-falls-short-on-insurance-gap-campaigners-say/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "75361897d202",
+   "title": "THE HACK: Digital omnibus lobby frenzy",
+   "snippet": "In today's edition: Frontex, frontier AI, IAB Europe",
+   "url": "https://www.rapporteur.com/news/the-hack-digital-omnibus-lobby-frenzy/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T08:33+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.42,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "aa8af274db95",
+   "title": "THE HACK: MEPs finally head to Amazon warehouses",
+   "snippet": "In today's edition: AI glasses, DSA riots, election deepfakes",
+   "url": "https://www.rapporteur.com/news/the-hack-meps-finally-head-to-amazon-warehouses/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T07:45+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.42,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "641002410bd0",
+   "title": "Germany’s Helsing moves into air defence",
+   "snippet": "The German system is 'cost-effective' and relying on European supply chain, Helsing President said",
+   "url": "https://www.rapporteur.com/news/germanys-helsing-moves-into-air-defence/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T13:34+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 2.24,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Container_cranes_at_the_Port_of_Oakland.jpg/1280px-Container_cranes_at_the_Port_of_Oakland.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Cullen328",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland.jpg"
+   }
+  },
+  {
+   "id": "87caf816cb7f",
+   "title": "VOLTAGE: Climate insurance gap",
+   "snippet": "In today's edition: switchgear, carbon pricing, refineries",
+   "url": "https://www.rapporteur.com/news/voltage-climate-insurance-gap/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T08:28+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "58db35dcfc92",
+   "title": "VOLTAGE: Europe’s climate ‘risk reality’ reckoning",
+   "snippet": "In today's edition: marine protection, energy cartels, Russian gas",
+   "url": "https://www.rapporteur.com/news/voltage-europes-climate-risk-reality-reckoning/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-27T08:31+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg"
+   }
+  },
+  {
+   "id": "f01352043829",
+   "title": "THE HACK: Anthropic discloses ‘Brussels effect’ risk",
+   "snippet": "In today's edition: Canada-IRIS², EU Inc, French riots",
+   "url": "https://www.rapporteur.com/news/the-hack-anthropic-discloses-brussels-effect-risk/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-27T08:28+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Server_Room_%2822397102849%29.jpg/1280px-Server_Room_%2822397102849%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Server_Room_(22397102849).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Server Room (22397102849).jpg"
+   }
+  },
+  {
+   "id": "84db1c4593b3",
+   "title": "FIRST AID: EU following down the US junk food path",
+   "snippet": "In today's edition: Shamonda virus, pharma independence, AI",
+   "url": "https://www.rapporteur.com/news/first-aid-eu-following-down-the-us-junk-food-path/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-26T07:58+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 1.44,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "4af4d1f2fa79",
+   "title": "HARVEST: CAP digest",
+   "snippet": "In today's edition: alcohol, climate resilience, subsidy fraud",
+   "url": "https://www.rapporteur.com/news/harvest-cap-digest/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T08:11+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "5df2cfc84b68",
+   "title": "Israel’s EU fork in the road",
+   "snippet": "Also, in Tuesday’s edition: a major climate policy shift",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-israels-eu-fork-in-the-road/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-27T06:26+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/1280px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Matthew T Rader",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roscoe_Wind_Farm_in_West_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Roscoe Wind Farm in West Texas.jpg"
+   }
+  },
+  {
+   "id": "21584d0ee982",
+   "title": "Parliamentary Privilege Sinks Hillsong Whistleblower Claims",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWN0XzlibmRzTE4wLXpHX0RoRE1lYXg4cUNJLXZsenI3cXBYcUhDQTRMOEE3aWVfTnhUV1JOb1ZhZ1ZUaHBBNWxXU3RpaUwzMnpuMkJuYklMYVRwVzJEQUNyUWg1STlfRHBMMktYZHJEaVFSS0stVnZicEdZVkVMSnpDYjUtanJoQmhVQVZ4Zmlsd29yQzkwUzk3b1RJY2l20gFYQVVfeXFMTm8wbG4tRzl5RlVTdFFKYmFaellkZ3Vvdk5JSVlkN0t0THZHQlBpdkItSUl3VmdzUkNHcjNJY1plbXBscXR2WjFlT0g1eUNrSEFLVXpxSlczaQ?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-28T10:23+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "c71187ca8597",
+   "title": "U.K.’s SFO Looks to U.S. as It Builds Whistleblower Program",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDgwTTlFMjFRb0hyT1owV09hSkhnanZraEdrMEtwS0JpTUdmVms5VW9EYWk3UGYtVm9MQ1N6RDg5RWxoZG5sc3FoSGlWdGstM1d3QWdXM0VuWHlROFJLdi14VGdTdGxsQjBlR2J5X0F1aERWcjhHYnc5MDJ3T29mNkV2UDJEY0pBM3VZNkw5dU44VkxUcTNVcmFR?oc=5",
+   "source": "WSJ",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-27T13:05+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "3d0904e53085",
+   "title": "US fines networking company over Russia sanctions, export breaches",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-sanctions/article/us-fines-networking-company-over-russia-sanctions-export-breaches",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-27T22:41+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions"
+   ],
+   "score": 11.7,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "b4f11a5a15ca",
+   "title": "Connell Foley Names Labor And Employment Law Co-Chair",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbFhwa2c4Y19MTm5uempBV3ZZTTRRTlg1NGFCTlVXNDNrbFhKSU5WYmdIWHBoQWc3U2Y4OXNJOEYyUkR2YzZMNjVPQnJtS3hTZDh1SUh5TnBTRTNzWGNJd01kVl80b3I1UUxRUlNEU1dtcHRqS1B2NVdlVW0tMkpRVnFLSUpPbVYyLVNtWF9HSzNBMk5xek5aT3pIY3lWU2prZ1B1ZHd5MUY2aVpJekpjZjB6UkLSAXJBVV95cUxNNUN6N0VNOXpNb0ZHVEV0OFRQd0dQZzBNcm1vNi1Ka3pIaE1qRGNWNjlNT2VfYmRSdDNleG9TNFpXTUtrODVSMnYwOGhfdjdzQ2lfYTBxMWRVeDFSRUc4eXluN2JyWWo3ZG11VC1kWEdPSXc?oc=5",
+   "source": "Law360",
+   "source_id": "gn-employ",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-27T17:11+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 10.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "de4bdbdff3c3",
+   "title": "AI leaders fear rapid tech deployment is encouraging staff to bypass governance processes",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/artificial-intelligence/ai-leaders-fear-rapid-tech-deployment-is-encouraging-staff-to-bypass-governance-processes/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-27T23:13+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "ai_governance"
+   ],
+   "score": 9.72,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "c382bbe33ca9",
+   "title": "Koenig & Bauer resolves historical bribery allegations in Brazil",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/koenig-bauer-resolves-historical-bribery-allegations-in-brazil",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-27T16:02+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "65bbcd071571",
+   "title": "Charges against journalist resurface questions around Swiss bank secrecy",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/charges-against-journalist-resurface-questions-around-swiss-bank-secrecy",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T17:30+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e5f3425e3c34",
+   "title": "EU accepts Temu plan to remedy Digital Services Act breach",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVBDRndDRXdkT0ZRcmR4ZEtyTkpoc3ZRd2J5TVJWUlBvdEViaWZJdFB0QjF2cmlDWldEeTd1dDVOZGxfX0t4NTU5b2lvNXoxZ1JzR2NOYUFvalpjU29rTUplTXBoWjRGZzdWdFREXzJabU1BVkJXSVdRT2tFR29iaEh4U040ckNGaDlleFRKZzVPOHpsdWNjME9EaWVCVHlUd05PWWNFS1c0U2xqa1JhZTY2UXFRLWs?oc=5",
+   "source": "Reuters",
+   "source_id": "gn-eu",
+   "region": "EU",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T16:46+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "8f04166a2b0c",
+   "title": "EU Accepts Temu Plan After €200M Illegal Goods Fine",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3pGRFlYM1Jad3YyQkgxX25aYnlKLW1kdS1GdWVwUjAtaTVRVlUtcEw2N0x0LVFUNGMwbEFLSzJUNkxnSDV2b0szNmpmZjdwZk9FWmE1eDdYWkFJRkFLUFFRSHpXWTJwc3A0T0ZfNFY0dm4yMGRHM3ZUaHo0eWdFVXVOYXhMQzNFUFc5N2xMSldZM1BuUTBxeDNBZnhWTmlHenV2a1BtS1AzcENqS0HSAVZBVV95cUxOS3pUYl9XSllwTGJETU50VEcyYXJJdkd4NkM0NHk3bzhYY1o2WVF2a09IZ1ZCYXViRlVjZ0QzOVRXTDhTWk1HTmR0Mk9odENGLUc1Y2tOUQ?oc=5",
+   "source": "Law360",
+   "source_id": "gn-eu",
+   "region": "EU",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-26T14:49+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
