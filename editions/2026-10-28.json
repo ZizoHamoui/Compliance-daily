@@ -1,0 +1,341 @@
+{
+ "date": "2026-10-28",
+ "lead_id": "99ffc365c1f6",
+ "editor_note": "Self-disclosure and speak-up dominate: DOJ rewards a near-miss sanctions self-report, the UK eyes paid whistleblowers, and Brussels shows what supervised remediation looks like for Temu.",
+ "bottom_line": [
+  {
+   "id": "99ffc365c1f6",
+   "text": "Extreme Networks gets NPA for sanctions breaches; review export screening and self-disclosure escalation."
+  },
+  {
+   "id": "c71187ca8597",
+   "text": "UK may pay SFO whistleblowers; strengthen UK speak-up handling and anti-retaliation controls now."
+  },
+  {
+   "id": "e5f3425e3c34",
+   "text": "Temu's DSA remediation accepted; check marketplace seller and product-safety controls."
+  },
+  {
+   "id": "23e3761284a9",
+   "text": "OPC probes Crime Stoppers breach; verify your hotline vendor's data security."
+  }
+ ],
+ "cards": [
+  {
+   "id": "99ffc365c1f6",
+   "kind": "link",
+   "title": "DOJ National Security Division announces first “near miss” non-prosecution agreement under corporate enforcement policy",
+   "summary": "DOJ entered a non-prosecution agreement with Extreme Networks, which will pay $975,721.84 in criminal penalties to resolve an investigation into sanctions and export control offenses.",
+   "impact": "First NSD 'near miss' resolution shows voluntary self-disclosure still pays; review export-control screening and your self-reporting escalation path.",
+   "impact_level": "High",
+   "item_type": "enforcement",
+   "url": "https://www.justice.gov/opa/pr/national-security-division-announces-first-near-miss-non-prosecution-agreement-under",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-27T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "image_query": "Robert F. Kennedy Department of Justice Building"
+  },
+  {
+   "id": "c71187ca8597",
+   "kind": "briefing",
+   "title": "UK's Serious Fraud Office moves toward US-style whistleblower rewards",
+   "summary": "A UK government consultation proposes letting the Serious Fraud Office pay whistleblowers a share of corporate penalties, modelled on US programmes. Responses close 8 January 2027.",
+   "impact": "Paid external reporting would raise the stakes for internal speak-up channels; test that UK reports are triaged, investigated and protected promptly.",
+   "impact_level": "High",
+   "item_type": "proposal",
+   "image_query": "Old Bailey London courthouse",
+   "source": "AI Briefing · Freshfields",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Old_Bailey_%2838551767860%29.jpg/1280px-The_Old_Bailey_%2838551767860%29.jpg",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-12",
+   "tier": "ai",
+   "topic": "whistleblowing",
+   "image_credit": {
+    "kind": "commons",
+    "author": "It's No Game",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Old_Bailey_(38551767860).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "The Old Bailey (38551767860).jpg"
+   }
+  },
+  {
+   "id": "e5f3425e3c34",
+   "kind": "briefing",
+   "title": "EU accepts Temu's action plan after €200m Digital Services Act fine",
+   "summary": "The European Commission accepted Temu's plan to fix the risk-assessment failures behind its €200 million DSA fine over illegal products, with four months to implement and an independent audit.",
+   "impact": "Marketplace seller vetting is now a regulated risk; if you sell or source through online platforms, check product-safety and third-party seller controls.",
+   "impact_level": "Medium",
+   "item_type": "enforcement",
+   "image_query": "Berlaymont building Brussels",
+   "source": "AI Briefing · Agence Europe",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-26",
+   "tier": "ai",
+   "topic": "third_party_risk",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   }
+  },
+  {
+   "id": "23e3761284a9",
+   "kind": "link",
+   "title": "Privacy Commissioner of Canada to investigate data breach involving Crime Stoppers",
+   "summary": "The Office of the Privacy Commissioner of Canada announced it will investigate a data breach involving Crime Stoppers.",
+   "impact": "A breach at a tip line underlines that anonymous-reporting data needs strong protection; confirm your hotline vendor's security and breach-notification terms.",
+   "impact_level": "Medium",
+   "item_type": "enforcement",
+   "url": "/en/opc-news/news-and-announcements/2026/nr-c_261027/",
+   "source": "Privacy Commissioner of Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-10-27T04:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   },
+   "tier": "official",
+   "topic": "privacy",
+   "image_query": "Parliament Hill Ottawa"
+  },
+  {
+   "id": "263938d78bd0",
+   "kind": "link",
+   "title": "COSO’s 2026 framework provides common language for governance, from the board to the compliance office",
+   "summary": "After withdrawing a prescriptive 2025 board-oversight publication, COSO issued a streamlined 2026 governance framework of 12 principles rather than a step-by-step guide.",
+   "impact": "Map your board and compliance reporting against COSO's 12 principles; it may become the reference point auditors and directors use.",
+   "impact_level": "Medium",
+   "item_type": "analysis",
+   "url": "https://www.corporatecomplianceinsights.com/coso-2026-framework-provides-common-language-governance-from-board-compliance-office/",
+   "source": "Corporate Compliance Insights",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-28T11:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   },
+   "tier": "press",
+   "topic": "governance",
+   "image_query": "boardroom table"
+  },
+  {
+   "id": "5d9a273d5b5b",
+   "kind": "link",
+   "title": "IAB Europe lists ad vendor despite possible spyware link",
+   "summary": "Euractiv reports that IAB Europe continues to list an advertising vendor possibly linked to spyware delivered through targeted ads, following a Citizen Lab report.",
+   "impact": "Industry listings are not due diligence; re-check ad-tech and marketing vendors against spyware and surveillance-risk reports.",
+   "impact_level": "Medium",
+   "item_type": "analysis",
+   "url": "https://www.rapporteur.com/news/exclusive-iab-europe-lists-ad-vendor-despite-alleged-spyware-link/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-28T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Corps_displays_its_appreciation_for_digital_billboard_water_safety_messages_DVIDS372839.jpg/1280px-Corps_displays_its_appreciation_for_digital_billboard_water_safety_messages_DVIDS372839.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Leon Roberts",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corps_displays_its_appreciation_for_digital_billboard_water_safety_messages_DVIDS372839.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corps displays its appreciation for digital billboard water safety messages DVIDS372839.jpg"
+   },
+   "tier": "press",
+   "topic": "third_party_risk",
+   "image_query": "digital advertising billboard"
+  },
+  {
+   "id": "7971985892d7",
+   "kind": "link",
+   "title": "CFTC sues to block state enforcement in Utah to preserve its jurisdiction",
+   "summary": "The U.S. Commodity Futures Trading Commission has filed suit to block state enforcement action in Utah as part of ongoing efforts to preserve its jurisdiction.",
+   "impact": "Federal-state jurisdiction fights create overlapping exposure; firms in CFTC-regulated markets should track which regulator's rules apply.",
+   "impact_level": "Low",
+   "item_type": "enforcement",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+   "source": "U.S. CFTC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-27T12:58+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/UtahStateCapitol-Mar2008-a.JPG/1280px-UtahStateCapitol-Mar2008-a.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "LoneStarMike",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:UtahStateCapitol-Mar2008-a.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "UtahStateCapitol-Mar2008-a.JPG"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "image_query": "Utah State Capitol Salt Lake City"
+  },
+  {
+   "id": "f68480295867",
+   "kind": "link",
+   "title": "Labor Department finds no mining operation met pattern-of-violations criteria in fiscal 2026",
+   "summary": "MSHA announced that none of the nation's 12,000 mining operations met the criteria for a pattern of violations notice, one of the agency's enforcement tools, in fiscal year 2026.",
+   "impact": "A useful safety-compliance benchmark for mining and supply-chain teams; keep monitoring citations at your own and suppliers' sites.",
+   "impact_level": "Low",
+   "item_type": "enforcement",
+   "url": "http://www.dol.gov/newsroom/releases/msha/msha20261027",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-27T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sunrise_Dam_Gold_Mine_open_pit_04.jpg/1280px-Sunrise_Dam_Gold_Mine_open_pit_04.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sunrise_Dam_Gold_Mine_open_pit_04.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Sunrise Dam Gold Mine open pit 04.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "image_query": "open pit mine trucks"
+  },
+  {
+   "id": "2396e6f29221",
+   "kind": "link",
+   "title": "Ukrainian national sentenced for role in ransomware attacks on hospitals, businesses and governments",
+   "summary": "Artem Stryzhak, 36, was sentenced to 70 months in prison for conspiracy to commit computer fraud in a series of ransomware attacks targeting hospitals, government entities and businesses.",
+   "impact": "Ransomware remains a live threat to healthcare and public bodies; confirm incident-response and extortion-payment policies are current.",
+   "impact_level": "Low",
+   "item_type": "enforcement",
+   "url": "https://www.justice.gov/opa/pr/ukrainian-national-sentenced-role-hacking-hospitals-businesses-and-governments-part",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-27T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg/1280px-Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "W.carter",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corridor on the second level - NÄL hospital 1.jpg"
+   },
+   "tier": "official",
+   "topic": "cybersecurity",
+   "image_query": "hospital corridor"
+  },
+  {
+   "id": "4984b44689e7",
+   "kind": "link",
+   "title": "EU climate risk plan criticised over insurance gap",
+   "summary": "An EU climate risk plan has drawn criticism over the climate insurance gap; a new Climate Insurance Alliance will look for solutions in the coming months.",
+   "impact": "Uninsured climate losses are a growing enterprise risk; ESG and risk teams should review physical-risk coverage assumptions.",
+   "impact_level": "Low",
+   "item_type": "proposal",
+   "url": "https://www.rapporteur.com/news/eu-climate-law-falls-short-on-insurance-gap-campaigners-say/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-28T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Flooded_street_in_Clausen_%2851313737196%29.jpg/1280px-Flooded_street_in_Clausen_%2851313737196%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Tristan Schmurr from Luxembourg, Luxembourg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Flooded_street_in_Clausen_(51313737196).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Flooded street in Clausen (51313737196).jpg"
+   },
+   "tier": "press",
+   "topic": "esg",
+   "image_query": "flooded street Europe"
+  }
+ ],
+ "briefings": {
+  "c71187ca8597": {
+   "headline": "UK's Serious Fraud Office moves toward US-style whistleblower rewards",
+   "dek": "A government consultation would let the SFO pay whistleblowers a share of corporate penalties, as companies are nudged toward early self-reporting.",
+   "body_md": "The UK government has opened a consultation on giving the Serious Fraud Office (SFO) power to financially reward whistleblowers who report economic crime, a step that would bring Britain closer to the incentive-based model long used in the United States.\n\n### The proposal\n\nUnder the plan, published around 12 October 2026, people who give the SFO \"significant and original\" information that leads to a successful outcome, such as a conviction or a deferred prosecution agreement (DPA), could receive a percentage of the resulting corporate penalty. The share would vary with the value of the information, the person's cooperation and promptness, and any involvement in the wrongdoing. Rewards would be paid only once the case and any appeals end, and several contributors could share an award.\n\nEligibility would weigh whether the person had a legal duty to report, was culpable, holds a serious criminal conviction or obtained the information dishonestly. People outside the UK could qualify. The government is also asking whether awards should be uncapped and whether to create offences for harassing or intimidating whistleblowers and for knowingly making false reports. The consultation closes on **8 January 2027**.\n\n### Why the US is the template\n\nThe proposal builds on Jonathan Fisher KC's review, published in July 2026. US programmes typically pay 10% to 30% of sanctions: the SEC pays that range on fines above $1 million, and the Justice Department's corporate whistleblower pilot offers up to 30% of the first $100 million forfeited. Freshfields notes this range could be the SFO's starting point. At home, HMRC's strengthened scheme pays 15% to 30% of tax recovered above £1.5 million.\n\nThe timing is linked to a second change. A day after the consultation opened, the SFO revised its corporate cooperation guidance, promising companies that self-report promptly and cooperate fully an invitation to negotiate a DPA, save in exceptional circumstances, and opening a direct, even anonymous, contact route for lawyers weighing a self-report. Commentators at Pinsent Masons described the pairing as a carrot and a stick.\n\nQuestions remain. The SFO received 167 qualifying disclosures in 2024/25, and paid schemes can bring large tip volumes and the risk that whistleblowers delay reporting to grow awards.\n\n### What compliance teams should do\n- Review UK speak-up policies and channels so concerns raised internally are acknowledged, investigated and closed quickly, before reporters look to a paid external route.\n- Reinforce anti-retaliation controls and train managers; harassing a whistleblower may become a criminal offence.\n- Refresh your self-reporting decision process in light of the SFO's revised cooperation guidance.\n- Consider responding to the consultation by 8 January 2027, directly or through an industry body.",
+   "sources": [
+    {
+     "title": "Long-anticipated whistleblower incentive reforms subject to consultation",
+     "publisher": "Freshfields",
+     "url": "https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/long-anticipated-whistleblower-incentive-reforms-subject-to-consultation-102o5qs/"
+    },
+    {
+     "title": "UK consults on whistleblower rewards as SFO urges early self-reporting",
+     "publisher": "Pinsent Masons Out-Law",
+     "url": "https://www.pinsentmasons.com/out-law/news/uk-consults-on-whistleblower-rewards-as-sfo-urges-early-self-reporting"
+    }
+   ],
+   "prompted_by": {
+    "title": "U.K.’s SFO Looks to U.S. as It Builds Whistleblower Program",
+    "publisher": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDgwTTlFMjFRb0hyT1owV09hSkhnanZraEdrMEtwS0JpTUdmVms5VW9EYWk3UGYtVm9MQ1N6RDg5RWxoZG5sc3FoSGlWdGstM1d3QWdXM0VuWHlROFJLdi14VGdTdGxsQjBlR2J5X0F1aERWcjhHYnc5MDJ3T29mNkV2UDJEY0pBM3VZNkw5dU44VkxUcTNVcmFR?oc=5"
+   }
+  },
+  "e5f3425e3c34": {
+   "headline": "EU accepts Temu's action plan after €200m Digital Services Act fine",
+   "dek": "The marketplace has four months to overhaul how it assesses and curbs illegal product listings, under independent audit.",
+   "body_md": "The European Commission on 26 October 2026 accepted an action plan from Temu to correct the failings that earned the online marketplace a €200 million fine under the Digital Services Act (DSA) earlier this year.\n\n### Background\n\nIn May 2026 the Commission fined Temu €200 million for failing to properly assess the systemic risk that illegal products posed on its platform, a core duty for very large online platforms under the DSA. The investigation, opened in October 2024, pointed to unsafe goods such as faulty chargers and non-compliant children's toys sold by third-party traders.\n\n### What Temu has committed to\n\nAccording to Agence Europe, the plan contains five corrective measures. Temu will tailor its risk assessment to its own service using reliable, current information about how the platform's design, operation and use create risk. It will set metrics to show whether its measures actually reduce illegal listings, assess its content moderation system and explain where it falls short, examine how its recommender systems spread illegal content, and study how users and traders misuse platform features to push illegal products.\n\nTemu has four months to implement the commitments. It must also carry out an interim risk assessment covering six months and has agreed to an independent external audit of the measures. Brussels Morning reports that the Commission will monitor the plan's application and that further non-compliance could trigger more enforcement; DSA fines can reach 6% of global annual turnover. Temu welcomed the Commission's \"constructive engagement\".\n\n### Why it matters\n\nThe decision shows how DSA enforcement works in practice: a fine followed by a supervised remediation plan with measurable indicators and outside audit. It also signals that regulators expect platforms to treat seller vetting and algorithmic promotion of products as risk-management problems, not just content moderation.\n\n### What compliance teams should do\n- If your company sells through online marketplaces, expect tighter seller verification and product-safety documentation requests; make sure certifications are ready.\n- If you buy through platforms, add product-safety and counterfeit risk to procurement due diligence.\n- Use the Temu plan's structure (risk metrics, moderation gap analysis, interim assessment, independent audit) as a benchmark for your own remediation plans.",
+   "sources": [
+    {
+     "title": "European Commission accepts Temu action plan to comply with DSA",
+     "publisher": "Agence Europe",
+     "url": "https://agenceurope.eu/en/bulletin/article/13968/11/european-commission-accepts-temu-action-plan-to-comply-with-dsa"
+    },
+    {
+     "title": "EU Accepts Temu €200M Safety Plan",
+     "publisher": "Brussels Morning",
+     "url": "https://brusselsmorning.com/eu-accepts-temu-e200m-safety-plan-in-brussels-2026/106009/"
+    }
+   ],
+   "prompted_by": {
+    "title": "EU accepts Temu plan to remedy Digital Services Act breach",
+    "publisher": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVBDRndDRXdkT0ZRcmR4ZEtyTkpoc3ZRd2J5TVJWUlBvdEViaWZJdFB0QjF2cmlDWldEeTd1dDVOZGxfX0t4NTU5b2lvNXoxZ1JzR2NOYUFvalpjU29rTUplTXBoWjRGZzdWdFREXzJabU1BVkJXSVdRT2tFR29iaEh4U040ckNGaDlleFRKZzVPOHpsdWNjME9EaWVCVHlUd05PWWNFS1c0U2xqa1JhZTY2UXFRLWs?oc=5"
+   }
+  }
+ }
+}
