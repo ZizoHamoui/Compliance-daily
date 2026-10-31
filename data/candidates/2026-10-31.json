@@ -1,0 +1,965 @@
+{
+ "date": "2026-10-31",
+ "generated": "2026-10-31T12:33:50+00:00",
+ "count": 36,
+ "by_region": {
+  "US": 14,
+  "EU": 8,
+  "CA": 2
+ },
+ "paywalled": 12,
+ "items": [
+  {
+   "id": "fefe0390f71f",
+   "title": "Israeli National Extradited to Face Charges for Stealing Nearly $3M in Virtual Currency Heist",
+   "snippet": "Alexander Gurevich, 49, an Israeli national, had his initial appearance today in the Northern District of California on a 2023 indictment that charged him for exploiting the Nomad Bridge’s self-executing computer program, also known as a smart contract, to steal $2.89 million in virtual currency.",
+   "url": "https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 14.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "a70cade41d42",
+   "title": "DOJ’s Fraud Division and the U.S. Attorney’s Office for the District Minnesota Uncover Nearly $30M in Benefits Fraud in Enforcement Surge",
+   "snippet": "The Justice Department’s National Fraud Enforcement Division (Fraud Division), and the U.S. Attorney’s Office for the District of Minnesota announced a series of enforcement actions targeting fraud involving taxpayer-funded Medicaid and SNAP programs.",
+   "url": "https://www.justice.gov/opa/pr/dojs-fraud-division-and-us-attorneys-office-district-minnesota-uncover-voter-fraud-and",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "1aa5c8ee7146",
+   "title": "Former BizJet Sales Manager Pleads Guilty to Foreign Bribery",
+   "snippet": "Jald Jensen, 73, of Panama City, and previously of Van Nuys, California, a former sales manager of BizJet International Sales and Support Inc. (BizJet), pleaded guilty yesterday for his role in connection with a scheme to pay bribes to government officials in Latin America to secure business for BizJet.",
+   "url": "https://www.justice.gov/opa/pr/former-bizjet-sales-manager-pleads-guilty-foreign-bribery",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "cb445e2c2072",
+   "title": "Justice Department Charges 18 More in North Carolina with Illegally Voting in 2024 Election",
+   "snippet": "Today, the Justice Department announced that 18 aliens, including an illegal alien, in North Carolina have been indicted for illegally voting. Nine were charged in the Eastern District of North Carolina, five were charged in the Middle District of North Carolina, and four were charged in the Western District of North Carolina. These indictments are in addition to 12 individuals who were previously indicted in the…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-charges-18-more-north-carolina-illegally-voting-2024-election",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Plato inscription - 2714.jpg"
+   }
+  },
+  {
+   "id": "ce2d5a9137ab",
+   "title": "Former Correctional Officer Sentenced on Federal Civil Rights Charges in Connection with Conspiracy to Violate Inmates’ Rights at West Virginia Jail",
+   "snippet": "A former correctional officer from the Southern Regional Jail in Beaver, West Virginia, was sentenced today to 24 months in prison for his role in a conspiracy in which he and other correctional officers used unreasonable and unjustified force against inmates, including pretrial detainees, as a form of punishment and retaliation. Michael Pack, 40, pleaded guilty on March 30 before U.S. Magistrate Judge Omar J.…",
+   "url": "https://www.justice.gov/opa/pr/former-correctional-officer-sentenced-federal-civil-rights-charges-connection-conspiracy",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "whistleblowing"
+   ],
+   "score": 9.9,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Office of AG signage - 2723.jpg"
+   }
+  },
+  {
+   "id": "5aec74aedacc",
+   "title": "Cuban Nationals and Florida Man Sentenced for Their Roles in an International Alien Smuggling, Asylum Fraud, and Money Laundering Conspiracy",
+   "snippet": "Five Cuban nationals and one U.S. citizen were sentenced today for their roles in a vast conspiracy involving alien smuggling, asylum fraud, and money laundering.",
+   "url": "https://www.justice.gov/opa/pr/cuban-nationals-and-florida-man-sentenced-their-roles-international-alien-smuggling-asylum",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T12:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 9.6,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "id": "65eace906c85",
+   "title": "Justice Department Announces Final Rule Allowing Federal Firearms Licensees to Voluntarily Use NICS for Employee Background Checks",
+   "snippet": "Today, the Department of Justice announced a final rule authorizing Federal Firearms Licensees (FFLs) to voluntarily use the FBI's National Instant Criminal Background Check System (NICS) to conduct background checks on certain current and prospective employees.",
+   "url": "https://www.justice.gov/opa/pr/justice-department-announces-final-rule-allowing-federal-firearms-licensees-voluntarily-use",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 9.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   }
+  },
+  {
+   "id": "70fd7df7253b",
+   "title": "U.S. Extradites to El Salvador Southern California Man to Face Charges of Murdering Woman in Front of Infant Son, Whom He Abandoned",
+   "snippet": "A dual U.S.-Salvadoran citizen and Riverside County, California man has been extradited at the request of the Government of El Salvador so that he may face trial for allegedly murdering a woman in front of their toddler son in 2019, then abandoning the boy, whom farm workers found several days later, severely dehydrated, hungry and showing signs of child abuse.",
+   "url": "https://www.justice.gov/opa/pr/us-extradites-el-salvador-southern-california-man-face-charges-murdering-woman-front-infant",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 8.64,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "0a19db5dd55b",
+   "title": "Austria pitches for United Nations AI security centre in Vienna",
+   "snippet": "Governments are still debating how to respond to global concerns over AI safety",
+   "url": "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-29T11:53+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "91d0e25ee701",
+   "title": "UK probes Meta’s AI business terms after press publisher outcry",
+   "snippet": "Watchdog to consider whether T&Cs update imposes unfair trading conditions",
+   "url": "https://www.rapporteur.com/news/uk-probes-metas-ai-business-terms-after-press-publisher-outcry/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-30T12:18+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 4.32,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "e6b0ec49494a",
+   "title": "Sánchez’s wife sues Spanish opposition over AI deepfake",
+   "snippet": "Case filed over 'identity theft' but also touches on EU tech rulebook",
+   "url": "https://www.rapporteur.com/news/spains-sanchez-wife-sues-opposition-over-ai-deepfake/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T11:06+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 4.32,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Virginia_Tech_-_data_center.jpg/1280px-Virginia_Tech_-_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christopher Bowns",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Virginia Tech - data center.jpg"
+   }
+  },
+  {
+   "id": "829780b62e2d",
+   "title": "Dutch government warns of privacy risks in EU Kids Act",
+   "snippet": "Excessive reliance on parents could also create inequalities between kids, government paper warns",
+   "url": "https://www.rapporteur.com/news/dutch-government-warns-of-privacy-risks-in-eu-kids-act/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-30T16:05+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 3.12,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Padlock_with_chain.jpg/1280px-Padlock_with_chain.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lacz02",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Padlock_with_chain.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Padlock with chain.jpg"
+   }
+  },
+  {
+   "id": "900fc95efc45",
+   "title": "Financial Literacy Month 2026 encourages Canadians to talk money and build financial confidence",
+   "snippet": "November is Financial Literacy Month (FLM) in Canada, and the Financial Consumer Agency of Canada (FCAC) is encouraging Canadians to have simple, practical conversations about money to help build confidence and improve financial well-being.",
+   "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/10/financial-literacy-month-2026-encourages-canadians-to-talk-money-and-build-financial-confidence.html",
+   "paywall_url": "",
+   "source": "Financial Consumer Agency of Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T11:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 3.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "5cd2aefe3c5c",
+   "title": "Justice Department Announces Issuance of Federal Registrations for Medical Marijuana Dispensaries",
+   "snippet": "The U.S. Department of Justice today announced that the U.S. Drug Enforcement Administration (DEA) is moving forward with the initial issuance of hundreds of federal registrations to qualifying state-licensed medical marijuana dispensaries under the Attorney General’s order implementing Schedule III controls for certain medical marijuana activities.",
+   "url": "https://www.justice.gov/opa/pr/justice-department-announces-issuance-federal-registrations-medical-marijuana-dispensaries",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Courthouse_Polk_County_Texas.jpg/1280px-Courthouse_Polk_County_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jim Evans",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Courthouse_Polk_County_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Courthouse Polk County Texas.jpg"
+   }
+  },
+  {
+   "id": "80f44bf7cf31",
+   "title": "Justice Department Defends the Navy’s Actions to Address a Fuel Release at Joint Base Pearl Harbor-Hickam in Hawaii",
+   "snippet": "The U.S. District Court for the District of Hawaii earlier this week ruled that the U.S. Navy is not in violation of the Clean Water Act after it reviewed the Navy’s response to fuel releases in 2020 and 2021 at Joint Base Pearl Harbor-Hickam on Oahu, Hawaii, and other substantial improvements the Navy has made in the fueling infrastructure and operations. The ruling follows a bench trial that was held earlier this…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-defends-navys-actions-address-fuel-release-joint-base-pearl-harbor-hickam",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hall_County_Courthouse_Memphis%2C_Texas%2C_United_States.jpg/1280px-Hall_County_Courthouse_Memphis%2C_Texas%2C_United_States.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Huggums537",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hall_County_Courthouse_Memphis,_Texas,_United_States.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hall County Courthouse Memphis, Texas, United States.jpg"
+   }
+  },
+  {
+   "id": "eccda5d36f2b",
+   "title": "Man Pleads Guilty to Federal Hate Crimes in Deadly Attack on Boulder, Colorado, Gathering",
+   "snippet": "Mohamed Sabry Soliman, 46, of Colorado Springs, Colorado, pleaded guilty in federal court today to 12 hate crimes charges for using Molotov cocktails to attack members of the group Run for Their Lives and others.",
+   "url": "https://www.justice.gov/opa/pr/man-pleads-guilty-federal-hate-crimes-deadly-attack-boulder-colorado-gathering",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Legal_Gavel_%2827571702173%29.jpg/1280px-Legal_Gavel_%2827571702173%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Blogtrepreneur",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Legal_Gavel_(27571702173).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Legal Gavel (27571702173).jpg"
+   }
+  },
+  {
+   "id": "7bd9e83b1799",
+   "title": "Energy efficiency – How can it shape Europe’s post-2030 energy and climate framework?",
+   "snippet": "As the EU prepares its post-2030 energy and climate framework, energy efficiency is expected to remain a key pillar of the Energy Union. Building on the revised Energy Efficiency Directive, policymakers are now reflecting on how to boost implementation and align the framework with the challenges of the decade ahead. Discussions are evolving beyond targets […]",
+   "url": "https://www.rapporteur.com/video/live-now-energy-efficiency-how-can-it-shape-europes-post-2030-energy-and-climate-framework/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-29T07:30+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "d9beef26d64c",
+   "title": "THE HACK: EU targets quantum sovereignty",
+   "snippet": "In today's edition: AI safety, social media bans, network fees",
+   "url": "https://www.rapporteur.com/news/the-hack-eu-targets-quantum-sovereignty/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-30T09:18+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.42,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "6cba70f10ac1",
+   "title": "Despite Hurdles, Board and General Counsel Report Favorable Case Processing Data for FY 2026, but Emphasize there is More Work to be Done",
+   "snippet": "October 30, 2026 Newly released case processing data confirms that the National Labor Relations Board successfully reduced a substantial inherited backlog during FY 2026 while continuing to see a significant demand for its services. In Fiscal Year (FY) 2026 (October 1, 2025, to September 30, 2026), 21,587 Charges and Petitions were filed with the Agency, a slight decrease of 4.27% over FY 2025. Notably, however, the…",
+   "url": "https://www.nlrb.gov/news-outreach/news-story/despite-hurdles-board-and-general-counsel-report-favorable-case-processing",
+   "paywall_url": "",
+   "source": "U.S. NLRB",
+   "source_id": "nlrb",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T14:34+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/1099_16th_Street_%E2%80%93_National_Labor_Relations_Board_-_Building.JPG/1280px-1099_16th_Street_%E2%80%93_National_Labor_Relations_Board_-_Building.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Geraldshields11",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1099_16th_Street_%E2%80%93_National_Labor_Relations_Board_-_Building.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "1099 16th Street – National Labor Relations Board - Building.JPG"
+   }
+  },
+  {
+   "id": "41c895743a47",
+   "title": "Minister Solomon and Executive Vice-President Virkkunen to announce new partnership at Canada–European Union Summit",
+   "snippet": "The Honourable Evan Solomon, Minister of Artificial Intelligence and Digital Innovation and Minister responsible for the Federal Economic Development Agency for Southern Ontario, and Henna Virkkunen, the European Commission’s Executive Vice-President for Tech Sovereignty, Security and Democracy, will announce a new partnership to strengthen Canada–European Union digital cooperation.",
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-solomon-and-executive-vice-president-virkkunen-to-announce-new-partnership-at-canadaeuropean-union-summit.html",
+   "paywall_url": "",
+   "source": "Innovation, Science and Economic Development Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T14:53+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 2.16,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1280px-Data_center_roof.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Rsparks3",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Data center roof.jpg"
+   }
+  },
+  {
+   "id": "428d5e4984d5",
+   "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+   "snippet": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act of 1995 (PRA), the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the…",
+   "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22092/information-collection-being-reviewed-by-the-federal-communications-commission",
+   "paywall_url": "",
+   "source": "Federal Register",
+   "source_id": "fedreg-wb",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T04:00+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 2.0,
+   "paywalled": false,
+   "image": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
+   "image_credit": {
+    "kind": "official",
+    "text": "Federal Register (U.S. government work, public domain)",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22092/information-collection-being-reviewed-by-the-federal-communications-commission"
+   }
+  },
+  {
+   "id": "87caf816cb7f",
+   "title": "VOLTAGE: Climate insurance gap",
+   "snippet": "In today's edition: switchgear, carbon pricing, refineries",
+   "url": "https://www.rapporteur.com/news/voltage-climate-insurance-gap/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-28T08:28+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "ee17b6246881",
+   "title": "Cyber Framework Provider HITRUST Launches Risk-Scoring Subsidiary",
+   "snippet": "Cybersecurity assurance framework provider HITRUST has launched IRIDX, a wholly owned subsidiary that measures residual information risk and potential financial exposure using scoring models, data analytics and methodologies developed over roughly 18 months. The company told CCI that IRIDX was structured as a separate subsidiary to protect independence in how risk is evaluated, scored and […] The post Cyber…",
+   "url": "https://www.corporatecomplianceinsights.com/cyber-framework-provider-hitrust-launches-risk-scoring-subsidiary/",
+   "paywall_url": "",
+   "source": "Corporate Compliance Insights",
+   "source_id": "cci",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-30T14:45+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 1.72,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "888cac024258",
+   "title": "Handhavingsbeleid AP gepubliceerd",
+   "snippet": "De Autoriteit Persoonsgegevens (AP) heeft het handhavingsbeleid openbaar gemaakt. Dit beleid gaat over de inzet van handhavingsinstrumenten als organisaties zich niet aan de privacyregels houden.",
+   "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/handhavingsbeleid-ap-gepubliceerd",
+   "paywall_url": "",
+   "source": "Autoriteit Persoonsgegevens (NL)",
+   "source_id": "ap-nl",
+   "region": "EU",
+   "lang": "nl",
+   "tier": "official",
+   "published": "2026-10-29T23:07+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 1.17,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Padlock_in_Solna.jpg/1280px-Padlock_in_Solna.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sniper Zeta",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Padlock_in_Solna.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Padlock in Solna.jpg"
+   }
+  },
+  {
+   "id": "57d549829a22",
+   "title": "Tax Court Backs IRS In Whistleblower Award Denial",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTVppeEVFbGduSlhZSEN0QlVSUzhPR0xDWmZMWHRpeFNYOGdIMEl3NTN0aHhFWm94NW9JVzM2WEhJeEtzMkRsdEZ6dHc3cE1WalF6cUJYSFpTNjJybHVDTkY1R2dweVFMVDljVHVXQ2kzLWo0YTJfNU5POW5kNWVjVXNEdndVN0hnSGc5YjdQRWxGVTjSAWhBVV95cUxPZkxsRkhqVW9EakVoejNhQWkyMVl4cnlELWJDVlVOWk9ZN0JFNjlWZlJXc3JzZVctY2tRemVHbzBHb1Rxc2RhUmItQ1BMb1VxUlgxVkRjcnl5Q29mR2w0WTF1NXFnR2lkSg?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-29T21:40+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 21.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "947cff60bc9f",
+   "title": "Fines, disgorgement, injunctions, debarment: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/fines-disgorgement-injunctions-debarment-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "anti_bribery"
+   ],
+   "score": 19.04,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "8b35a192fc2e",
+   "title": "Fines, disgorgement, injunctions, debarment: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/fines-disgorgement-injunctions-debarment-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "anti_bribery",
+    "aml_sanctions"
+   ],
+   "score": 18.97,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1ee7dee030e4",
+   "title": "Individual penalties and third-party rights: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/individual-penalties-and-third-party-rights-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "third_party_risk",
+    "whistleblowing"
+   ],
+   "score": 15.99,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "306b65af01af",
+   "title": "Switzerland: enforcement remains focused on financial institutions",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/switzerland-enforcement-remains-focused-financial-institutions",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "anti_bribery"
+   ],
+   "score": 14.24,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "dd03aaa35648",
+   "title": "Employee rights: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/employee-rights-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "whistleblowing",
+    "privacy"
+   ],
+   "score": 14.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "518b31612bc7",
+   "title": "United States: sanctions, whistleblowers and AI drive corporate investigations agenda",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/united-states-sanctions-whistleblowers-and-ai-drive-corporate-investigations-agenda",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "ai_governance",
+    "governance"
+   ],
+   "score": 13.67,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "82c5585c1929",
+   "title": "Finland: corporate liability remains in focus as fines reach unprecedented levels",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/finland-corporate-liability-remains-in-focus-fines-reach-unprecedented-levels",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "esg"
+   ],
+   "score": 12.98,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "6c42ea310412",
+   "title": "Employee rights: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/employee-rights-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 12.5,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "6753d16796d5",
+   "title": "Sanctions: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/sanctions-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "enforcement",
+    "governance"
+   ],
+   "score": 12.31,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "515091206f29",
+   "title": "The State of Third-Party Risk & Integrity",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/resource/the-state-of-third-party-risk-and-integrity/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-29T04:00+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 11.2,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "faf8411a9001",
+   "title": "Germany: combating white-collar crime and sanctions violations",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/germany-combating-white-collar-crime-and-sanctions-violations",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "enforcement",
+    "esg"
+   ],
+   "score": 11.08,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
