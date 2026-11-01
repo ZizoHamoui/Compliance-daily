@@ -1,0 +1,651 @@
+{
+ "date": "2026-11-01",
+ "generated": "2026-11-01T12:33:26+00:00",
+ "count": 25,
+ "by_region": {
+  "US": 9,
+  "EU": 3,
+  "CA": 1
+ },
+ "paywalled": 12,
+ "items": [
+  {
+   "id": "fefe0390f71f",
+   "title": "Israeli National Extradited to Face Charges for Stealing Nearly $3M in Virtual Currency Heist",
+   "snippet": "Alexander Gurevich, 49, an Israeli national, had his initial appearance today in the Northern District of California on a 2023 indictment that charged him for exploiting the Nomad Bridge’s self-executing computer program, also known as a smart contract, to steal $2.89 million in virtual currency.",
+   "url": "https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 14.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "cb445e2c2072",
+   "title": "Justice Department Charges 18 More in North Carolina with Illegally Voting in 2024 Election",
+   "snippet": "Today, the Justice Department announced that 18 aliens, including an illegal alien, in North Carolina have been indicted for illegally voting. Nine were charged in the Eastern District of North Carolina, five were charged in the Middle District of North Carolina, and four were charged in the Western District of North Carolina. These indictments are in addition to 12 individuals who were previously indicted in the…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-charges-18-more-north-carolina-illegally-voting-2024-election",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "ce2d5a9137ab",
+   "title": "Former Correctional Officer Sentenced on Federal Civil Rights Charges in Connection with Conspiracy to Violate Inmates’ Rights at West Virginia Jail",
+   "snippet": "A former correctional officer from the Southern Regional Jail in Beaver, West Virginia, was sentenced today to 24 months in prison for his role in a conspiracy in which he and other correctional officers used unreasonable and unjustified force against inmates, including pretrial detainees, as a form of punishment and retaliation. Michael Pack, 40, pleaded guilty on March 30 before U.S. Magistrate Judge Omar J.…",
+   "url": "https://www.justice.gov/opa/pr/former-correctional-officer-sentenced-federal-civil-rights-charges-connection-conspiracy",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "whistleblowing"
+   ],
+   "score": 9.9,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "5aec74aedacc",
+   "title": "Cuban Nationals and Florida Man Sentenced for Their Roles in an International Alien Smuggling, Asylum Fraud, and Money Laundering Conspiracy",
+   "snippet": "Five Cuban nationals and one U.S. citizen were sentenced today for their roles in a vast conspiracy involving alien smuggling, asylum fraud, and money laundering.",
+   "url": "https://www.justice.gov/opa/pr/cuban-nationals-and-florida-man-sentenced-their-roles-international-alien-smuggling-asylum",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T12:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 9.6,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Plato inscription - 2714.jpg"
+   }
+  },
+  {
+   "id": "70fd7df7253b",
+   "title": "U.S. Extradites to El Salvador Southern California Man to Face Charges of Murdering Woman in Front of Infant Son, Whom He Abandoned",
+   "snippet": "A dual U.S.-Salvadoran citizen and Riverside County, California man has been extradited at the request of the Government of El Salvador so that he may face trial for allegedly murdering a woman in front of their toddler son in 2019, then abandoning the boy, whom farm workers found several days later, severely dehydrated, hungry and showing signs of child abuse.",
+   "url": "https://www.justice.gov/opa/pr/us-extradites-el-salvador-southern-california-man-face-charges-murdering-woman-front-infant",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 8.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Office of AG signage - 2723.jpg"
+   }
+  },
+  {
+   "id": "0a19db5dd55b",
+   "title": "Austria pitches for United Nations AI security centre in Vienna",
+   "snippet": "Governments are still debating how to respond to global concerns over AI safety",
+   "url": "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-29T11:53+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "900fc95efc45",
+   "title": "Financial Literacy Month 2026 encourages Canadians to talk money and build financial confidence",
+   "snippet": "November is Financial Literacy Month (FLM) in Canada, and the Financial Consumer Agency of Canada (FCAC) is encouraging Canadians to have simple, practical conversations about money to help build confidence and improve financial well-being.",
+   "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/10/financial-literacy-month-2026-encourages-canadians-to-talk-money-and-build-financial-confidence.html",
+   "paywall_url": "",
+   "source": "Financial Consumer Agency of Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T11:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 3.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "5cd2aefe3c5c",
+   "title": "Justice Department Announces Issuance of Federal Registrations for Medical Marijuana Dispensaries",
+   "snippet": "The U.S. Department of Justice today announced that the U.S. Drug Enforcement Administration (DEA) is moving forward with the initial issuance of hundreds of federal registrations to qualifying state-licensed medical marijuana dispensaries under the Attorney General’s order implementing Schedule III controls for certain medical marijuana activities.",
+   "url": "https://www.justice.gov/opa/pr/justice-department-announces-issuance-federal-registrations-medical-marijuana-dispensaries",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "80f44bf7cf31",
+   "title": "Justice Department Defends the Navy’s Actions to Address a Fuel Release at Joint Base Pearl Harbor-Hickam in Hawaii",
+   "snippet": "The U.S. District Court for the District of Hawaii earlier this week ruled that the U.S. Navy is not in violation of the Clean Water Act after it reviewed the Navy’s response to fuel releases in 2020 and 2021 at Joint Base Pearl Harbor-Hickam on Oahu, Hawaii, and other substantial improvements the Navy has made in the fueling infrastructure and operations. The ruling follows a bench trial that was held earlier this…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-defends-navys-actions-address-fuel-release-joint-base-pearl-harbor-hickam",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Courthouse_Polk_County_Texas.jpg/1280px-Courthouse_Polk_County_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jim Evans",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Courthouse_Polk_County_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Courthouse Polk County Texas.jpg"
+   }
+  },
+  {
+   "id": "eccda5d36f2b",
+   "title": "Man Pleads Guilty to Federal Hate Crimes in Deadly Attack on Boulder, Colorado, Gathering",
+   "snippet": "Mohamed Sabry Soliman, 46, of Colorado Springs, Colorado, pleaded guilty in federal court today to 12 hate crimes charges for using Molotov cocktails to attack members of the group Run for Their Lives and others.",
+   "url": "https://www.justice.gov/opa/pr/man-pleads-guilty-federal-hate-crimes-deadly-attack-boulder-colorado-gathering",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hall_County_Courthouse_Memphis%2C_Texas%2C_United_States.jpg/1280px-Hall_County_Courthouse_Memphis%2C_Texas%2C_United_States.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Huggums537",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hall_County_Courthouse_Memphis,_Texas,_United_States.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hall County Courthouse Memphis, Texas, United States.jpg"
+   }
+  },
+  {
+   "id": "7bd9e83b1799",
+   "title": "Energy efficiency – How can it shape Europe’s post-2030 energy and climate framework?",
+   "snippet": "As the EU prepares its post-2030 energy and climate framework, energy efficiency is expected to remain a key pillar of the Energy Union. Building on the revised Energy Efficiency Directive, policymakers are now reflecting on how to boost implementation and align the framework with the challenges of the decade ahead. Discussions are evolving beyond targets […]",
+   "url": "https://www.rapporteur.com/video/live-now-energy-efficiency-how-can-it-shape-europes-post-2030-energy-and-climate-framework/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-29T07:30+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "d9beef26d64c",
+   "title": "THE HACK: EU targets quantum sovereignty",
+   "snippet": "In today's edition: AI safety, social media bans, network fees",
+   "url": "https://www.rapporteur.com/news/the-hack-eu-targets-quantum-sovereignty/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-10-30T09:18+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.42,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "428d5e4984d5",
+   "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+   "snippet": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act of 1995 (PRA), the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the…",
+   "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22092/information-collection-being-reviewed-by-the-federal-communications-commission",
+   "paywall_url": "",
+   "source": "Federal Register",
+   "source_id": "fedreg-wb",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-29T04:00+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 2.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/1280px-Capitol_Building_Full_View.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Noclip",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Capitol Building Full View.jpg"
+   }
+  },
+  {
+   "id": "947cff60bc9f",
+   "title": "Fines, disgorgement, injunctions, debarment: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/fines-disgorgement-injunctions-debarment-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "anti_bribery"
+   ],
+   "score": 19.04,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "8b35a192fc2e",
+   "title": "Fines, disgorgement, injunctions, debarment: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/fines-disgorgement-injunctions-debarment-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "anti_bribery",
+    "aml_sanctions"
+   ],
+   "score": 18.97,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1ee7dee030e4",
+   "title": "Individual penalties and third-party rights: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/individual-penalties-and-third-party-rights-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "third_party_risk",
+    "whistleblowing"
+   ],
+   "score": 15.99,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "306b65af01af",
+   "title": "Switzerland: enforcement remains focused on financial institutions",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/switzerland-enforcement-remains-focused-financial-institutions",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "anti_bribery"
+   ],
+   "score": 14.24,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "dd03aaa35648",
+   "title": "Employee rights: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/employee-rights-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "whistleblowing",
+    "privacy"
+   ],
+   "score": 14.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "518b31612bc7",
+   "title": "United States: sanctions, whistleblowers and AI drive corporate investigations agenda",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/united-states-sanctions-whistleblowers-and-ai-drive-corporate-investigations-agenda",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "ai_governance",
+    "governance"
+   ],
+   "score": 13.67,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "82c5585c1929",
+   "title": "Finland: corporate liability remains in focus as fines reach unprecedented levels",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/finland-corporate-liability-remains-in-focus-fines-reach-unprecedented-levels",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "esg"
+   ],
+   "score": 12.98,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "6c42ea310412",
+   "title": "Employee rights: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/employee-rights-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 12.5,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "6753d16796d5",
+   "title": "Sanctions: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/sanctions-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "enforcement",
+    "governance"
+   ],
+   "score": 12.31,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "515091206f29",
+   "title": "The State of Third-Party Risk & Integrity",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/resource/the-state-of-third-party-risk-and-integrity/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-29T04:00+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 11.2,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "faf8411a9001",
+   "title": "Germany: combating white-collar crime and sanctions violations",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/germany-combating-white-collar-crime-and-sanctions-violations",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "enforcement",
+    "esg"
+   ],
+   "score": 11.08,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "f12d590a5404",
+   "title": "Netherlands: corporate enforcement intensifies as regulatory reforms take shape",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/netherlands-corporate-enforcement-intensifies-regulatory-reforms-take-shape",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions"
+   ],
+   "score": 11.0,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
