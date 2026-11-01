@@ -1,0 +1,184 @@
+{
+ "date": "2026-11-01",
+ "lead_id": "5cd2aefe3c5c",
+ "editor_note": "A quiet weekend edition: federal cannabis registrations under Schedule III reshape a high-risk sector, DOJ pursues crypto and money-laundering cases, and Europe debates where AI safety oversight should live.",
+ "bottom_line": [
+  {
+   "id": "5cd2aefe3c5c",
+   "text": "DEA begins registering medical marijuana dispensaries; reassess cannabis-sector KYC and vendor risk policies."
+  },
+  {
+   "id": "fefe0390f71f",
+   "text": "Nomad Bridge hacker extradited; review digital-asset smart-contract controls and tracing capabilities."
+  },
+  {
+   "id": "5aec74aedacc",
+   "text": "Smuggling and asylum-fraud laundering ring sentenced; refresh related AML monitoring typologies."
+  }
+ ],
+ "cards": [
+  {
+   "id": "5cd2aefe3c5c",
+   "url": "https://www.justice.gov/opa/pr/justice-department-announces-issuance-federal-registrations-medical-marijuana-dispensaries",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-30T12:00+00:00",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/A_swedish_pharmacy_in_1911.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Per Fredrik Röding",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:A_swedish_pharmacy_in_1911.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "A swedish pharmacy in 1911.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "title": "Justice Department Announces Federal Registrations for Medical Marijuana Dispensaries",
+   "summary": "The DEA is moving forward with the initial issuance of hundreds of federal registrations to qualifying state-licensed medical marijuana dispensaries, under the Attorney General's order implementing Schedule III controls for certain medical marijuana activities.",
+   "impact": "Banks, payment processors, landlords and vendors serving cannabis businesses should revisit risk appetite, KYC and federal registration checks as Schedule III controls take effect.",
+   "impact_level": "High",
+   "item_type": "rule",
+   "image_query": "pharmacy shelves medicine",
+   "kind": "link"
+  },
+  {
+   "id": "fefe0390f71f",
+   "url": "https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-30T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Racks_Amravati_Data_Center.jpg/1280px-Racks_Amravati_Data_Center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "PiDatacenters",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Racks_Amravati_Data_Center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Racks Amravati Data Center.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "title": "Israeli National Extradited to Face Charges Over $2.89M Nomad Bridge Crypto Heist",
+   "summary": "Alexander Gurevich, 49, appeared in the Northern District of California on a 2023 indictment alleging he exploited the Nomad Bridge smart contract to steal $2.89 million in virtual currency.",
+   "impact": "Firms handling digital assets should test smart-contract and bridge controls and confirm their monitoring can trace and freeze stolen crypto flows.",
+   "impact_level": "Medium",
+   "item_type": "enforcement",
+   "image_query": "computer server racks data center",
+   "kind": "link"
+  },
+  {
+   "id": "5aec74aedacc",
+   "url": "https://www.justice.gov/opa/pr/cuban-nationals-and-florida-man-sentenced-their-roles-international-alien-smuggling-asylum",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-29T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/David_W._Dyer_Federal_Building_and_United_States_Courthouse_%2815130121621%29.jpg/1280px-David_W._Dyer_Federal_Building_and_United_States_Courthouse_%2815130121621%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Phillip Pessar from Miami, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:David_W._Dyer_Federal_Building_and_United_States_Courthouse_(15130121621).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "David W. Dyer Federal Building and United States Courthouse (15130121621).jpg"
+   },
+   "tier": "official",
+   "topic": "aml_sanctions",
+   "title": "Cuban Nationals and Florida Man Sentenced in Smuggling, Asylum Fraud and Money Laundering Conspiracy",
+   "summary": "Five Cuban nationals and one U.S. citizen were sentenced for their roles in a vast conspiracy involving alien smuggling, asylum fraud and money laundering.",
+   "impact": "AML teams should keep human-smuggling and fraud-proceeds typologies in transaction monitoring scenarios and suspicious-activity reporting training.",
+   "impact_level": "Low",
+   "item_type": "enforcement",
+   "image_query": "Miami federal courthouse",
+   "kind": "link"
+  },
+  {
+   "id": "0a19db5dd55b",
+   "url": "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-29T11:53+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Eingang_zum_Vienna_International_Centre_mit_Wandgem%C3%A4lde.jpg/1280px-Eingang_zum_Vienna_International_Centre_mit_Wandgem%C3%A4lde.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Brataffe",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eingang_zum_Vienna_International_Centre_mit_Wandgem%C3%A4lde.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Eingang zum Vienna International Centre mit Wandgemälde.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "title": "Austria Pitches Vienna as Home for a United Nations AI Security Centre",
+   "summary": "Austria is proposing Vienna as the site of a UN AI security centre while governments continue to debate how to respond to global concerns over AI safety.",
+   "impact": "AI governance leads should watch for emerging international AI safety bodies that may shape standards alongside the EU AI Act.",
+   "impact_level": "Low",
+   "item_type": "proposal",
+   "image_query": "Vienna International Centre",
+   "kind": "link"
+  },
+  {
+   "id": "80f44bf7cf31",
+   "url": "https://www.justice.gov/opa/pr/justice-department-defends-navys-actions-address-fuel-release-joint-base-pearl-harbor-hickam",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-30T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Navy%E2%80%99s_New_Ground_Water_Monitoring_Well_Installation_Underway_at_Red_Hill%2C_Oahu_%2828420785190%29.jpg/1280px-Navy%E2%80%99s_New_Ground_Water_Monitoring_Well_Installation_Underway_at_Red_Hill%2C_Oahu_%2828420785190%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "NAVFAC",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Navy%E2%80%99s_New_Ground_Water_Monitoring_Well_Installation_Underway_at_Red_Hill,_Oahu_(28420785190).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Navy’s New Ground Water Monitoring Well Installation Underway at Red Hill, Oahu (28420785190).jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "title": "Court Rules Navy Not in Violation of Clean Water Act Over Pearl Harbor-Hickam Fuel Releases",
+   "summary": "A federal court in Hawaii ruled after a bench trial that the U.S. Navy is not violating the Clean Water Act, citing its response to 2020 and 2021 fuel releases and improvements to fueling infrastructure.",
+   "impact": "Environmental compliance teams can note that documented remediation and infrastructure upgrades weighed heavily in defeating Clean Water Act claims.",
+   "impact_level": "Low",
+   "item_type": "ruling",
+   "image_query": "Red Hill fuel storage Oahu",
+   "kind": "link"
+  },
+  {
+   "id": "d9beef26d64c",
+   "url": "https://www.rapporteur.com/news/the-hack-eu-targets-quantum-sovereignty/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-30T09:18+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Quantum-computer-Chalmers_2017.jpg/1280px-Quantum-computer-Chalmers_2017.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Anita Fors (Chalmers)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Quantum-computer-Chalmers_2017.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Quantum-computer-Chalmers 2017.jpg"
+   },
+   "tier": "press",
+   "topic": "cybersecurity",
+   "title": "THE HACK: EU Targets Quantum Sovereignty",
+   "summary": "Euractiv's tech policy newsletter reports on EU moves toward quantum sovereignty, alongside AI safety, social media bans and network fees.",
+   "impact": "Security and tech-policy teams should track EU quantum and digital sovereignty plans that may later shape procurement and encryption requirements.",
+   "impact_level": "Low",
+   "item_type": "analysis",
+   "image_query": "quantum computer laboratory",
+   "kind": "link"
+  }
+ ],
+ "briefings": {}
+}
