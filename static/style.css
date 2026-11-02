@@ -490,3 +490,20 @@ html.is-navigating .wrap{opacity:.55;transition:opacity .15s}
 .ep-play .ms{font-size:28px}
 .ep-play.is-playing{background:var(--primary)}
 .episode .ep-notes{margin-top:14px}
+
+/* Player bar: the original audio-card look (blue gradient, soft border, rounded-square play button), at bar size */
+.player{background:linear-gradient(120deg,var(--surface-low),var(--primary-c));border:1px solid var(--outline-soft);
+  border-radius:var(--r-xl);box-shadow:var(--e2)}
+.pl-play{border-radius:var(--r-l);transition:border-radius .25s var(--ease),transform .15s var(--ease),background .2s}
+.player.is-playing .pl-play{border-radius:var(--r-full)}
+.pl-play .ms{font-variation-settings:"FILL" 1}
+.pl-speed{background:rgba(255,255,255,.7)}
+.pl-notes{margin-left:4px;padding:0 12px;border:1px solid var(--outline);background:#fff;color:var(--primary)}
+.pl-notes:hover{background:var(--primary-c)}
+@media (max-width:720px){ .pl-tools{justify-content:flex-end;gap:8px} }
+@media (max-width:720px){
+  .player{grid-template-columns:auto 1fr auto;gap:10px;padding:8px 10px 8px 8px}
+  .pl-tools{grid-column:auto;gap:4px}
+  .pl-speed,.pl-notes{min-width:36px;height:36px;padding:0 8px}
+  body.has-player .wrap{padding-bottom:100px}
+}
