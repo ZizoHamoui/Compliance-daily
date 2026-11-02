@@ -1,13 +1,14 @@
 {
  "date": "2026-11-01",
- "generated": "2026-11-01T12:33:26+00:00",
- "count": 25,
+ "generated": "2026-11-02T05:12:32+00:00",
+ "count": 35,
  "by_region": {
   "US": 9,
-  "EU": 3,
-  "CA": 1
+  "EU": 6,
+  "CA": 1,
+  "UK": 5
  },
- "paywalled": 12,
+ "paywalled": 14,
  "items": [
   {
    "id": "fefe0390f71f",
@@ -644,6 +645,281 @@
     "aml_sanctions"
    ],
    "score": 11.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "2e5eca952f3b",
+   "title": "FCA restricts 6 firms following concerns over anti-money laundering controls",
+   "snippet": "Restrictions have been placed on 6 unregulated lenders, known as Annex 1 firms, after the FCA raised concerns about their anti-money laundering policies, controls and procedures while assessing their applications. The restrictions were imposed by the FCA on each firm’s request and limit their ability to take on new customers or do new business with existing customers, including extending existing credit.This action…",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 15.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "id": "ad59a1753dd5",
+   "title": "Building the future of finance in the age of AI",
+   "snippet": "Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030.Some developments we anticipated are already emerging, including the transition towards agentic finance, such as the launch of Meta’s Muse.Our response to the review is not…",
+   "url": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 9.68,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "d08b1ea5eb1e",
+   "title": "INTERVIEW: Czech ammo major CSG is fortifying its supply chain",
+   "snippet": "The CSG group is restarting production of key explosive components",
+   "url": "https://www.rapporteur.com/news/interview-csg-aims-to-control-its-supply-chain-to-curb-bottlenecks/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 6.72,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Container_cranes_at_the_Port_of_Oakland-.jpg/1280px-Container_cranes_at_the_Port_of_Oakland-.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Yair-haklai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland-.jpg"
+   }
+  },
+  {
+   "id": "a0078cc21d18",
+   "title": "Former chief executive banned after misconduct led to £4m losses in high-risk investments",
+   "snippet": "The FCA has banned Jeffrey Dawkins, the former chief executive of Vector Wealth Ltd, after he dishonestly acted as a front for a disqualified director using the company to sell high-risk bonds. Mr Dawkins has also been fined nearly £270,000.In 2019, Mr Dawkins sold Vector Wealth to a disqualified director who described himself as CEO and wanted to use Vector Wealth’s FCA-authorised status to sell mini-bonds.Mr…",
+   "url": "https://www.fca.org.uk/news/press-releases/former-chief-executive-banned-after-misconduct-led-4m-losses-high-risk-investments",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "fec4cdfc327f",
+   "title": "Two plead guilty after clients lose £2m in fraud case",
+   "snippet": "Two people who worked at financial advice firms have pleaded guilty to fraud after 4 clients lost £2m. Kerry Nelson, the director of Nexus Independent Financial Advisers Limited and Nexus Investment Managers Limited, and Jacqueline Stephens, the firms' business operations manager, admitted all charges brought by the FCA at Portsmouth Crown Court.They admitted defrauding clients between January 2019 and January 2023…",
+   "url": "https://www.fca.org.uk/news/press-releases/two-plead-guilty-after-clients-lose-2m-fraud-case",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Courthouse_Polk_County_Texas.jpg/1280px-Courthouse_Polk_County_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jim Evans",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Courthouse_Polk_County_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Courthouse Polk County Texas.jpg"
+   }
+  },
+  {
+   "id": "ed88a0296caf",
+   "title": "Climate scientists paint devastating picture of ice loss worldwide",
+   "snippet": "Much of the damage is already irreversible but could worsen catastrophically, warns a report on the eve of the COP31 climate summit",
+   "url": "https://www.rapporteur.com/news/climate-scientists-paint-devastating-picture-of-ice-loss-worldwide/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "a5c3f977d8cd",
+   "title": "Three arrests in major FCA operation against criminal insider dealing ring",
+   "snippet": "The FCA has conducted a major operation to disrupt a suspected organised criminal group for engaging in insider dealing and money laundering. On 13 October, 3 individuals were arrested following a joint operation by the FCA and the National Crime Agency (NCA). More than 100 FCA and NCA staff took part in searches at 5 residential premises in London and Manchester.More than 30 mobile phones, laptops and tablets were…",
+   "url": "https://www.fca.org.uk/news/press-releases/three-arrests-major-fca-operation-against-criminal-insider-dealing-ring",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 2.2,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Taylor_Bank_Building%2C_facade_%2821617137902%29.jpg/1280px-Taylor_Bank_Building%2C_facade_%2821617137902%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Taylor_Bank_Building,_facade_(21617137902).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Taylor Bank Building, facade (21617137902).jpg"
+   }
+  },
+  {
+   "id": "1d80b72bd488",
+   "title": "EXCLUSIVE: EU to seek global action against climate super-pollutant SF6",
+   "snippet": "Push for 'SF6-free technologies' is to be launched at Germany's COP31 pavilion",
+   "url": "https://www.rapporteur.com/news/exclusive-eu-to-seek-global-action-against-climate-super-pollutant-sf6/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg"
+   }
+  },
+  {
+   "id": "04961d0dc9c4",
+   "title": "Self-reporting to the authorities and other disclosure obligations: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/self-reporting-the-authorities-and-other-disclosure-obligations-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "enforcement_policy",
+    "enforcement"
+   ],
+   "score": 14.83,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "c93f339c7db4",
+   "title": "Negotiating global settlements: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/negotiating-global-settlements-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement_policy",
+   "tags": [
+    "enforcement_policy",
+    "enforcement"
+   ],
+   "score": 11.52,
    "paywalled": true,
    "image": ""
   }
