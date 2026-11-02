@@ -4,13 +4,18 @@ Most importantly: every link card must use a URL that exists in that day's candi
 invented links ever reach the paper.
 """
 import json
+import re
 import sys
 from pathlib import Path
 
 from common import CANDIDATES, PAPER, load_yaml
 
 TOPICS = set(load_yaml("topics.yaml")["topics"])
-LEVELS = {"High", "Medium", "Low"}
+REGIONS = {"US", "CA", "UK", "EU"}
+INDUSTRIES = set(PAPER.get("industries", {}))
+PERSONAS = set(PAPER.get("personas", {}))
+ADVICE = re.compile(r"\b(should|make sure|be sure to|ensure (?:that|your)|(?:check|review|update|revisit|test) (?:your|their|its)|consider whether)\b", re.I)
+VENDORS = re.compile(r"\b(diligent|navex|eqs group|onetrust|convercent|logicgate|auditboard|workiva|metricstream)\b", re.I)
 TYPES = {"enforcement", "rule", "ruling", "proposal", "analysis"}
 
 
@@ -47,17 +52,24 @@ def main(path):
     nb = 0
     for i, c in enumerate(cards):
         tag = f"card {i + 1} ({c.get('id')})"
-        for k in ("id", "title", "summary", "impact", "impact_level", "topic", "region", "source", "kind"):
+        for k in ("id", "title", "summary", "impact", "topic", "region", "source", "kind"):
             if not c.get(k):
                 errs.append(f"{tag}: missing {k}")
         if c.get("topic") not in TOPICS:
             errs.append(f"{tag}: unknown topic {c.get('topic')!r}")
-        if c.get("region") not in {"US", "CA", "EU"}:
-            errs.append(f"{tag}: region must be US, CA or EU")
+        if c.get("region") not in REGIONS:
+            errs.append(f"{tag}: region must be US, CA, UK or EU")
+        inds, pers = c.get("industries") or [], c.get("personas") or []
+        if not inds or not set(inds) <= INDUSTRIES or len(inds) > 3:
+            errs.append(f"{tag}: industries must be 1-3 of {sorted(INDUSTRIES)}")
+        if not pers or not set(pers) <= PERSONAS:
+            errs.append(f"{tag}: personas must be 1-4 of {sorted(PERSONAS)}")
+        if ADVICE.search(c.get("impact") or ""):
+            errs.append(f"{tag}: 'why it matters' must state significance, not advice (found {ADVICE.search(c['impact']).group(0)!r})")
+        if VENDORS.search((c.get("title") or "") + " " + (c.get("summary") or "")):
+            errs.append(f"{tag}: vendor or market news is out of scope")
         if c.get("item_type") not in TYPES:
             errs.append(f"{tag}: item_type must be one of {sorted(TYPES)}")
-        if c.get("impact_level") not in LEVELS:
-            errs.append(f"{tag}: impact_level must be High, Medium or Low")
         if words(c.get("summary")) > 55:
             errs.append(f"{tag}: summary too long ({words(c.get('summary'))} words, max 45)")
         if words(c.get("impact")) > 38:
@@ -78,16 +90,24 @@ def main(path):
             srcs = [s for s in b.get("sources") or [] if str(s.get("url", "")).startswith("http")]
             if len(srcs) < 2:
                 errs.append(f"{tag}: briefing needs at least 2 free sources with URLs")
-            if "What compliance teams should do" not in (b.get("body_md") or ""):
-                errs.append(f"{tag}: briefing missing 'What compliance teams should do' section")
+            for sec in ("What this means for legal and compliance leaders", "Questions you may hear"):
+                if sec not in (b.get("body_md") or ""):
+                    errs.append(f"{tag}: briefing missing the '{sec}' section")
         else:
             errs.append(f"{tag}: kind must be link or briefing")
     bl = ed.get("bottom_line") or []
-    if not (1 <= len(bl) <= 5):
-        errs.append("bottom_line needs 1-5 items")
+    if len(bl) != min(3, len(cards)):
+        errs.append("bottom_line (Three things to know) needs exactly 3 items")
     for b in bl:
         if b.get("id") not in ids or not b.get("text") or words(b.get("text")) > 25:
-            errs.append(f"bottom_line item invalid (unknown id or text missing/over 20 words): {b}")
+            errs.append(f"bottom_line item invalid (unknown id or text missing/over 25 words): {b}")
+        elif ADVICE.search(b["text"]):
+            errs.append(f"bottom_line items are news, not advice: {b['text']!r}")
+    st = ed.get("stat")
+    if st is None:
+        print("warning: no stat of the day")
+    elif st.get("id") not in ids or not st.get("text") or words(st.get("text")) > 25 or not re.search(r"\d", st.get("text", "")):
+        errs.append(f"stat must reference a card id and give a number in ≤ 25 words: {st}")
     pb = (ed.get("podcast_brief") or "").strip()
     if not pb:
         print("warning: podcast_brief missing; the podcast kit will fall back to card summaries")
@@ -96,9 +116,11 @@ def main(path):
         if words(pb) < 800:
             errs.append(f"podcast_brief too short ({words(pb)} words; aim for 1,500-2,600)")
         for need in ("## the day in one line", "## story 1", "**the facts.**", "**background.**", "**who's affected.**",
-                     "**why it matters.**", "**questions to explore.**"):
+                     "**why it matters.**", "**how this comes up with a gc or clo.**", "**questions a buyer might ask.**"):
             if need not in low.replace("\u2019", "'"):
                 errs.append(f"podcast_brief is missing the section {need!r}")
+        if VENDORS.search(pb):
+            errs.append("podcast_brief must not mention vendors or products")
         for banned in ("act now", "quick hits", "good to know", "what compliance teams should do", "what to do"):
             if banned in low:
                 errs.append(f"podcast_brief must not contain {banned!r} (no priority labels, no advice)")

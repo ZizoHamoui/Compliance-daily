@@ -1,7 +1,7 @@
 # Masthead and delivery settings. Edit freely.
 name: "The Tone at the Top"
-tagline: "Governance, risk & compliance intelligence — before your first coffee"
-regions: "United States · Canada · European Union"
+tagline: "Ethics & compliance industry news — what legal and compliance leaders are reading"
+regions: "United States · Canada · United Kingdom · European Union"
 site_url: "https://zizohamoui.github.io/Compliance-daily/"
 timezone: "America/Vancouver"
 cards_per_edition: 25
@@ -12,3 +12,16 @@ repo: "zizohamoui/Compliance-daily"   # used for the podcast upload link
 podcast:
   days: 1     # 1 = a daily episode of that day's edition; 7 = a weekly recap
   keep: 14    # episodes kept online
+# Audience tags the editor applies to each story (used only for the Industry and Persona filters).
+industries:
+  financial_services: "Financial services"
+  healthcare: "Healthcare & life sciences"
+  tech: "Technology"
+  manufacturing_energy: "Manufacturing & energy"
+  public_sector: "Public sector"
+  all: "All industries"
+personas:
+  gc: "General counsel"
+  clo: "Chief legal officer"
+  cco: "Chief compliance officer"
+  analyst: "Compliance analyst"

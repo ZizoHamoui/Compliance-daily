@@ -106,6 +106,10 @@ kbd{font:600 11px var(--sans);border:1px solid var(--outline);border-radius:6px;
 .brief-list li::before{content:counter(b);position:absolute;left:0;top:8px;font:700 30px/1 var(--serif);color:var(--primary);font-variant-numeric:lining-nums}
 .brief-list a{text-decoration:none;font:500 17px/1.45 var(--sans);color:var(--on-surface)}
 .brief-list a:hover{color:var(--primary)}
+.stat{margin:-12px 0 32px;padding:16px 20px;border-radius:var(--r-l);background:var(--surface-low);border-left:4px solid var(--primary)}
+.stat-h{display:block;font:600 13px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--primary);margin-bottom:4px}
+.stat a{text-decoration:none;font:600 19px/1.4 var(--serif);color:var(--ink)}
+.stat a:hover{color:var(--primary)}
 .glance{font:400 17px/1.75 var(--sans);color:var(--on-surface-2);margin:0}
 .glance-h{display:block;font:600 13px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--on-surface-3);margin-bottom:2px}
 .q{font:inherit;border:0;background:none;padding:0 1px;color:var(--on-surface);font-weight:600;cursor:pointer;
@@ -187,6 +191,7 @@ kbd{font:600 11px var(--sans);border:1px solid var(--outline);border-radius:6px;
 .card-body{display:flex;flex-direction:column;gap:10px}
 .dateline{display:flex;flex-wrap:wrap;align-items:center;margin:0;padding-right:40px;font:600 12px/1.4 var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--on-surface-3)}
 .dateline .dl::before{content:"·";margin:0 8px;color:var(--outline)}
+.dateline .dl:first-child::before{content:none}
 .pri{display:inline-flex;align-items:center;gap:3px;color:var(--fyi)}
 .pri .ms{font-size:16px;margin-left:-2px}
 .act-required .pri{color:var(--req)}
@@ -406,3 +411,6 @@ body[data-group="priority"] .feed .pri + .dl::before{content:none}
 .kit-btn{padding:10px 18px;margin-right:8px;background:var(--ink);color:#fff !important}
 .kit-copy .ms,.kit-btn .ms{font-size:18px}
 @media print{.listen{display:none}}
+/* no priority labels: one neutral accent for "why it matters" */
+.why-label{color:var(--primary)}
+.feed .group[data-group="all"]{margin-top:8px}

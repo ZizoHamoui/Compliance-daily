@@ -9,9 +9,17 @@ topics:
     keywords: [whistleblower, whistle-blower, whistleblowing, "speak up", "speak-up", retaliation, "qui tam", relator,
                "lanceur d'alerte", "lanceurs d'alerte", hinweisgeber, whistleblowerschutz, klokkenluider,
                "denunciante", "segnalazione", "informant award", "whistleblower award"]
+  enforcement_policy:
+    label: "Corporate Enforcement Policy"
+    weight: 3.0
+    keywords: ["corporate enforcement policy", "evaluation of corporate compliance programs", "compliance program",
+               "self-disclosure", "self-report", "voluntary disclosure", declination, "non-prosecution agreement",
+               "deferred prosecution agreement", "deferred prosecution", monitorship, "compliance monitor",
+               "failure to prevent", "economic crime and corporate transparency", eccta, "serious fraud office", sfo,
+               "corporate criminal liability", "pilot program", "cooperation credit"]
   false_claims:
     label: "False Claims & Fraud"
-    weight: 2.8
+    weight: 2.4
     keywords: ["false claims act", "false claims", "health care fraud", "healthcare fraud", "procurement fraud",
                "kickback", "anti-kickback", "fraudulent billing", "overbilling", "defraud", "fraude", "betrug"]
   third_party_risk:
@@ -27,7 +35,7 @@ topics:
                screening, "enhanced diligence", "customer due diligence"]
   employment_law:
     label: "Employment Law"
-    weight: 2.5
+    weight: 2.2
     keywords: [discrimination, harassment, "wrongful termination", "unfair dismissal", "wage theft", "back wages",
                overtime, "labor law", "labour law", "employment law", "equal pay", "pay transparency", eeoc, nlrb,
                "unfair labor practice", "non-compete", noncompete, "workplace", employee, employer, "droit du travail",
@@ -51,13 +59,13 @@ topics:
                fincen, "export control", "blanchiment", geldwäsche, witwassen, "blanqueo", "riciclaggio", "travel rule"]
   governance:
     label: "Board & Corporate Governance"
-    weight: 1.8
+    weight: 2.5
     keywords: [governance, "board of directors", "audit committee", "internal controls", "internal control",
                "compliance program", "compliance officer", "chief compliance", "code of conduct", disclosure,
                "examination priorities", "gouvernance", "unternehmensführung", "accountability"]
   ai_governance:
     label: "AI Governance"
-    weight: 1.8
+    weight: 2.2
     keywords: ["artificial intelligence", ai, "ai act", "ai system", algorithm, "automated decision",
                "intelligence artificielle", "künstliche intelligenz", "kunstmatige intelligentie", "machine learning"]
   privacy:
@@ -78,4 +86,7 @@ topics:
 exclude: [fentanyl, methamphetamine, cocaine, heroin, "drug trafficking", firearm, carjacking, murder, homicide,
           "child sexual", "child pornography", "sexual abuse", kidnapping, "armed robbery", "gang", cartel,
           "illegal reentry", "illegally reentering", "funding for", "announces funding", "media availability",
-          "media advisory", "partner content", sponsored, "ordre du jour", rugby, hockey, "minister to attend", "statement on the occasion"]
+          "media advisory", "partner content", sponsored,
+          # vendor and market news (the paper covers the industry, not the software market)
+          navex, "eqs group", onetrust, convercent, logicgate, auditboard, workiva, metricstream, riskonnect, "diligent corporation",
+          "diligent one", "funding round", "series a", "series b", "series c", "raises $", "strategic partnership", "ordre du jour", rugby, hockey, "minister to attend", "statement on the occasion"]

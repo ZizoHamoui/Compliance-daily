@@ -39,7 +39,7 @@ If a step in Gemini Notebook changes, edit `prompts/podcast.md`; the scheduled t
 
 That's it. Workflow `5 · Publish podcast episode` then:
 - converts the file to a 64 kbps mono MP3, about 0.5 MB per minute, at standard podcast loudness;
-- saves it in `podcast/audio/` and adds it to `podcast/episodes.json`, with show notes built from that week's Act now and Watch stories;
+- saves it in `podcast/audio/` and adds it to `podcast/episodes.json`, with show notes listing that edition's stories in the editor's order;
 - deletes the release and republishes the site.
 
 The **Listen** bar appears at the top of every edition, on the Podcast page and in the morning email for the next 8 days.
@@ -57,7 +57,7 @@ sources file. Paste this:
 To change the prompt, edit `PROMPT` in `scripts/podcast.py`; the email and kit page update automatically.
 To change the running order or tone, edit `PRODUCER_NOTES` in the same file.
 
-## Good to know
+## Notes
 
 - **Tag = episode date.** The upload link uses the tag `podcast-YYYY-MM-DD`. Any release with an audio file attached is
   treated as an episode (WAV, M4A, MP3, AAC, OGG and WebM all work), and a missing date means today. Uploading the same date again

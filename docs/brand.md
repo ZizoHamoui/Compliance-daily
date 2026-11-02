@@ -11,7 +11,7 @@ interactive layer, and accents from Twitch, Slack and Spotify for clear, modern 
    and violet (≈270°) on the colour wheel, plus cool neutrals.
 2. **60 · 30 · 10.** About 60% Paper (white and cool mist), 30% Ink (Guardian Blue), and 10% Accent (LinkedIn Blue)
    for links, selections, focus and the signature rule only.
-3. **Signals are hue-reserved.** Violet means *Act now* and cyan means *Monitor*. The brand never uses these
+3. **Signals are hue-reserved.** (Since November 2026 the paper has no priority labels; violet and cyan stay reserved for future signals.) Violet meant *Act now* and cyan *Monitor*. The brand never uses these
    decoratively, so they always carry meaning.
 4. **Never colour alone.** Each signal also has a label and icon ("Action required" with "!", "Monitor" with an eye).
 5. **Contrast first.** Every text pairing below meets WCAG AA (4.5:1), and most meet AAA (7:1).

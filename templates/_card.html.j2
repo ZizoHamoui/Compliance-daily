@@ -3,11 +3,11 @@
    Metadata is written as a newspaper dateline/byline, not as chips. #}
 {% set is_brief = c.kind == 'briefing' %}
 {% set href = (base ~ c.href) if is_brief else c.href %}
-{% set pri_icon = {'required':'priority_high','monitor':'visibility','fyi':'info'}[c.action] %}
-<article class="card story act-{{ c.action }}{% if is_brief %} card-brief{% endif %}{% if lead %} card-lead{% endif %}"
-  id="c-{{ c.id }}" data-id="{{ c.id }}" data-action="{{ c.action }}" data-region="{{ c.region }}" data-topic="{{ c.topic }}"
+<article class="card story{% if is_brief %} card-brief{% endif %}{% if lead %} card-lead{% endif %}"
+  id="c-{{ c.id }}" data-id="{{ c.id }}" data-region="{{ c.region }}" data-topic="{{ c.topic }}"
+  data-industry="{{ c.industries|join(' ') }}" data-persona="{{ c.personas|join(' ') }}" data-order="{{ c.order }}"
   data-type="{{ c.item_type }}" data-tier="{{ c.tier }}" data-kind="{{ c.kind }}" data-date="{{ c.date_label }}"
-  data-published="{{ c.published or '' }}" data-edition="{{ ed.date }}" data-action-label="{{ c.action_label }}"
+  data-published="{{ c.published or '' }}" data-edition="{{ ed.date }}"
   data-text="{{ (c.title ~ ' ' ~ c.summary ~ ' ' ~ c.impact ~ ' ' ~ c.source)|lower }}">
   {% set cr = c.image_credit %}
   <figure class="card-fig">
@@ -26,7 +26,6 @@
   </figure>
   <div class="card-body">
     <p class="dateline">
-      <span class="pri"><span class="ms" aria-hidden="true">{{ pri_icon }}</span>{{ c.action_label }}</span>
       <span class="dl" title="{{ c.region_label }}">{{ c.region_short }}</span>
       <span class="dl topic">{{ c.topic_label }}</span>
       {% if c.lang_in %}<span class="dl">{{ c.lang_in }}</span>{% endif %}

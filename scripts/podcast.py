@@ -32,7 +32,7 @@ AUDIO = Path(os.environ.get("PODCAST_AUDIO_DIR") or PODCAST / "audio")
 REGISTRY = PODCAST / "episodes.json"
 REPO = os.environ.get("GITHUB_REPOSITORY") or PAPER.get("repo", "zizohamoui/Compliance-daily")
 TOPICS = load_yaml("topics.yaml")["topics"]
-REGIONS = {"US": "United States", "CA": "Canada", "EU": "European Union"}
+REGIONS = {"US": "United States", "CA": "Canada", "UK": "United Kingdom", "EU": "European Union"}
 DEFAULT_TITLE = "Today in compliance" if DAYS == 1 else "This week in compliance"
 
 # Pasted into NotebookLM's "Customize" box. NotebookLM limits this box (reportedly 500 characters),
@@ -54,12 +54,13 @@ SETTINGS = [("Format", "Deep Dive"),
 
 HOST_NOTES = """## Notes for the hosts
 
-This document is the **only source** for today's episode. Everything you need is written out below; you do not need to open any link. The listeners are **chief compliance officers, general counsel and GRC teams**. They are experts, so skip basic definitions and focus on the facts, the background and why each story matters.
+This document is the **only source** for today's episode. Everything you need is written out below; you do not need to open any link. The listeners are **solution engineers who work with ethics and compliance software**. They meet general counsel, chief legal officers, chief compliance officers and compliance analysts, so they need to understand the news those leaders care about, and to be able to retell these stories as real-world examples. Skip basic definitions and focus on the facts, the background, why each story matters and how it comes up with legal and compliance leaders.
 
 - **Running order:** open with the day in one line, then follow the stories in the order they appear. Spend the most time on story 1 (about 2½ minutes), less on stories 2 and 3 (about 45 seconds each), and cover the rest briefly (about 20 seconds each). Close with the sign-off.
 - **Always say who acted and where:** the agency or court, and the country.
 - **Stay inside this document.** If a fact isn't written here, don't say it. Where something is uncertain or disputed, the document says so; keep that nuance.
-- **Use the "questions to explore"** under each story to drive the conversation between you.
+- **Use "How this comes up with a GC or CLO" and "Questions a buyer might ask"** under each story to drive the conversation between you.
+- **No advice and no products:** explain the news; never tell listeners what to do, and never mention software vendors or products.
 - **Tone:** calm, curious, a little conversational. No jokes about crimes or victims.
 - **Close every episode** by saying it's AI-generated, it isn't legal advice, and listeners should check the sources in the show notes.
 """
@@ -99,12 +100,12 @@ def digest(end=None, days=DAYS):
             notes.append((d, ed["editor_note"]))
         if (ed.get("podcast_brief") or "").strip():
             briefs.append((d, ed["podcast_brief"].strip()))
-        for c in ed.get("cards", []):
+        for idx, c in enumerate(ed.get("cards", [])):
             key = c.get("id") or c.get("url")
             if key in seen:
                 continue
             seen.add(key)
-            s = dict(c, edition=d, level=(c.get("impact_level") or "Low").capitalize())
+            s = dict(c, edition=d, idx=idx, level=(c.get("impact_level") or "").capitalize())
             s["weight"] = TOPICS.get(c.get("topic"), {}).get("weight", 1.0)
             if c.get("kind") == "briefing":
                 b = (ed.get("briefings") or {}).get(c["id"], {})
@@ -113,8 +114,8 @@ def digest(end=None, days=DAYS):
             else:
                 s["link"] = c.get("url", "")
             stories.append(s)
-    order = {"High": 0, "Medium": 1}
-    stories.sort(key=lambda s: (order.get(s["level"], 2), -s["weight"], s["edition"]))
+    # editorial order: newest edition first, then the editor's ranking within each edition
+    stories.sort(key=lambda s: (s["edition"], -s["idx"]), reverse=True)
     stories = stories[:25 if days == 1 else 30]
 
     daily = start == end
@@ -148,9 +149,7 @@ def digest(end=None, days=DAYS):
             "", "### Sources (for the show notes; the hosts don't need to read these)"]
     tail += [f"- {s.get('source', '')}: {s['title']} — {s['link']}" for s in stories]
     text = "\n".join(head + body + [""] + tail) + "\n"
-    show_notes = [{"title": s["title"], "url": s["link"], "source": s.get("source", ""), "level": s["level"]}
-                  for s in stories if s["level"] in ("High", "Medium")] or \
-                 [{"title": s["title"], "url": s["link"], "source": s.get("source", ""), "level": s["level"]} for s in stories[:8]]
+    show_notes = [{"title": s["title"], "url": s["link"], "source": s.get("source", "")} for s in stories[:15]]
     return {"start": start, "end": end, "title": title, "text": text, "stories": show_notes,
             "count": len(stories), "has_brief": bool(daily and briefs)}
 

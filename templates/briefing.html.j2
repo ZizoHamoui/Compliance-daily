@@ -16,7 +16,7 @@
 {% include "_masthead.html.j2" %}
 <article class="article">
   <a class="back" href="../index.html"><span class="ms" aria-hidden="true">arrow_back</span> Back to the {{ ed.date_long }} edition</a>
-  <div class="kicker"><span class="region">{{ card.action_label }}</span><span>·</span><span>{{ card.region_label }}</span><span>·</span><span>{{ card.topic_label }}</span><span>·</span><span style="color:var(--ai)">AI briefing</span></div>
+  <div class="kicker"><span class="region">{{ card.region_label }}</span><span>·</span><span>{{ card.topic_label }}</span><span>·</span><span style="color:var(--ai)">AI briefing</span></div>
   <h1>{{ b.headline or card.title }}</h1>
   {% if b.dek %}<p class="dek">{{ b.dek }}</p>{% endif %}
   <figure class="art-img">
@@ -25,7 +25,7 @@
     <figcaption class="credit">{% if cr.kind == 'official' %}Image: {{ cr.text }}{% else %}Photo: <a href="{{ cr.source_url }}" target="_blank" rel="noopener license">{{ cr.author }}</a> / Wikimedia Commons, {% if cr.license_url %}<a href="{{ cr.license_url }}" target="_blank" rel="noopener license">{{ cr.license }}</a>{% else %}{{ cr.license }}{% endif %}{% endif %}</figcaption>{% endif %}
   </figure>
   {% if card.impact %}
-  <p class="impact impact-{{ card.impact_level|lower or 'medium' }}"><span class="impact-label">Why it matters.</span>{{ card.impact }}</p>
+  <p class="impact"><span class="impact-label">Why it matters.</span>{{ card.impact }}</p>
   {% endif %}
   <div class="disclosure">
     <b>How this was made.</b> This briefing was written by AI from free public sources (listed below). It was prompted by a report in

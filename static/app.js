@@ -1,6 +1,6 @@
 /* The Tone at the Top: reader interactions.
- * - Faceted filters (action, region, topic, story type, source) with live counts, applied chips, URL state
- * - Group by priority / topic / region; Cards or List view (remembered)
+ * - Faceted filters (region, topic, industry, persona, story type, source) with live counts, applied chips, URL state
+ * - Editor's order by default, or group by topic / region; Cards or List view (remembered)
  * - Read state and Saved stories, kept in this browser only (localStorage)
  * - Keyboard: / search, j/k move, s save, Esc close
  */
@@ -30,8 +30,7 @@
     return {
       id: card.dataset.id, title: a.textContent.trim(), href: a.href, external: a.target === "_blank",
       source: (card.querySelector(".src") || {}).textContent || "", date: card.dataset.date || "",
-      topic: (card.querySelector(".topic") || {}).textContent || "", action: card.dataset.action,
-      actionLabel: card.dataset.actionLabel || "",
+      topic: (card.querySelector(".topic") || {}).textContent || "",
       why: why ? why.textContent.replace(/^\s*Why it matters\.?\s*/, "") : "",
       edition: card.dataset.edition, savedAt: Date.now()
     };
@@ -56,13 +55,13 @@
       savedList.innerHTML = "";
       items.forEach(function (it) {
         var row = document.createElement("article");
-        row.className = "saved-row act-" + (it.action || "fyi");
+        row.className = "saved-row";
         var a = document.createElement("a");
         a.href = it.href; a.textContent = it.title; a.className = "saved-title";
         if (it.external) { a.target = "_blank"; a.rel = "noopener"; }
         var meta = document.createElement("div");
         meta.className = "saved-meta";
-        meta.textContent = [it.actionLabel, it.topic, it.source, it.date, "edition " + it.edition].filter(Boolean).join(" · ");
+        meta.textContent = [it.topic, it.source, it.date, "edition " + it.edition].filter(Boolean).join(" · ");
         var why = document.createElement("p");
         why.className = "saved-why"; why.textContent = it.why;
         var rm = document.createElement("button");
@@ -82,13 +81,20 @@
   var allCards = Array.prototype.slice.call(document.querySelectorAll(".card"));
   var lead = document.querySelector(".card-lead");
   var feedCards = allCards.filter(function (c) { return c !== lead; });
-  var FACETS = ["action", "region", "topic", "type", "tier"];
+  var FACETS = ["region", "topic", "industry", "persona", "type", "tier"];
+  var MULTI = { industry: true, persona: true };   // a story can carry several of these tags
   var GROUPS = {
-    priority: { attr: "action", order: ["required", "monitor", "fyi"],
-      title: { required: "Act now", monitor: "Watch", fyi: "Good to know" } },
+    order: { attr: null, order: ["all"], title: { all: "" } },
     topic: { attr: "topic", order: [], title: {} },
-    region: { attr: "region", order: ["US", "CA", "EU"], title: { US: "United States", CA: "Canada", EU: "European Union" } }
+    region: { attr: "region", order: ["US", "CA", "UK", "EU"],
+      title: { US: "United States", CA: "Canada", UK: "United Kingdom", EU: "European Union" } }
   };
+  function cardHas(card, k, v) {
+    var val = card.dataset[k] || "";
+    if (!MULTI[k]) return val === v;
+    var list = val.split(" ");
+    return list.indexOf(v) >= 0 || (k === "industry" && list.indexOf("all") >= 0);
+  }
   document.querySelectorAll('[data-facet="topic"] input').forEach(function (i) {
     GROUPS.topic.order.push(i.value); GROUPS.topic.title[i.value] = i.parentNode.querySelector(".opt-l").textContent;
   });
@@ -97,7 +103,7 @@
     f.querySelectorAll("input").forEach(function (i) { facetLabel[f.dataset.facet + ":" + i.value] = i.parentNode.querySelector(".opt-l").textContent; });
   });
 
-  var state = { f: {}, q: "", group: "priority", view: LS.get("tatt-view", "cards"), hideRead: LS.get("tatt-hideread", false) };
+  var state = { f: {}, q: "", group: "order", view: LS.get("tatt-view", "cards"), hideRead: LS.get("tatt-hideread", false) };
   FACETS.forEach(function (k) { state.f[k] = []; });
 
   // URL hash -> state (ignore plain #c-id anchors)
@@ -117,7 +123,7 @@
     var parts = [];
     FACETS.forEach(function (k) { if (state.f[k].length) parts.push(k + "=" + state.f[k].map(encodeURIComponent).join(",")); });
     if (state.q) parts.push("q=" + encodeURIComponent(state.q));
-    if (state.group !== "priority") parts.push("group=" + state.group);
+    if (state.group !== "order") parts.push("group=" + state.group);
     var h = parts.length ? "#" + parts.join("&") : " ";
     history.replaceState(null, "", h === " " ? location.pathname + location.search : h);
   }
@@ -126,7 +132,7 @@
     for (var i = 0; i < FACETS.length; i++) {
       var k = FACETS[i];
       if (k === except || !state.f[k].length) continue;
-      if (state.f[k].indexOf(card.dataset[k]) < 0) return false;
+      if (!state.f[k].some(function (v) { return cardHas(card, k, v); })) return false;
     }
     if (state.q && card.dataset.text.indexOf(state.q) < 0) return false;
     if (state.hideRead && read[card.dataset.id]) return false;
@@ -136,25 +142,22 @@
   var WORDS = ["No", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve"];
   function num(n) { return n < WORDS.length ? WORDS[n] : String(n); }
   function groupDek(key, n) {
-    var s = n === 1;
-    if (state.group === "priority") {
-      if (key === "required") return num(n) + (s ? " story that likely needs" : " stories that likely need") + " a decision, a policy check or a word with leadership.";
-      if (key === "monitor") return num(n) + (s ? " development" : " developments") + " to track. No action yet, but " + (s ? "it could become one." : "any could become one.");
-      return num(n) + (s ? " item" : " items") + " for context and background.";
-    }
-    return num(n) + (s ? " story." : " stories.");
+    if (state.group === "order") return "";
+    return num(n) + (n === 1 ? " story." : " stories.");
   }
 
   function regroup() {
     var g = GROUPS[state.group];
     feed.innerHTML = "";
+    var ordered = feedCards.slice().sort(function (a, b) { return (+a.dataset.order) - (+b.dataset.order); });
     g.order.forEach(function (key) {
-      var members = feedCards.filter(function (c) { return c.dataset[g.attr] === key; });
+      var members = ordered.filter(function (c) { return !g.attr || c.dataset[g.attr] === key; });
       if (!members.length) return;
       var sec = document.createElement("section");
       sec.className = "group"; sec.dataset.group = key;
-      sec.innerHTML = '<header class="group-head"><h2 class="group-h"></h2><p class="group-dek"></p></header><div class="grid"></div>';
-      sec.querySelector(".group-h").textContent = g.title[key] || key;
+      sec.innerHTML = g.attr ? '<header class="group-head"><h2 class="group-h"></h2><p class="group-dek"></p></header><div class="grid"></div>'
+                             : '<div class="grid"></div>';
+      if (g.attr) sec.querySelector(".group-h").textContent = g.title[key] || key;
       var grid = sec.querySelector(".grid");
       members.forEach(function (c) { grid.appendChild(c); });
       feed.appendChild(sec);
@@ -213,7 +216,7 @@
       var k = f.dataset.facet, sel = state.f[k];
       f.querySelectorAll("label").forEach(function (lab) {
         var inp = lab.querySelector("input");
-        var n = allCards.filter(function (c) { return c.dataset[k] === inp.value && matches(c, k); }).length;
+        var n = allCards.filter(function (c) { return cardHas(c, k, inp.value) && matches(c, k); }).length;
         inp.checked = sel.indexOf(inp.value) >= 0;
         lab.querySelector(".opt-n").textContent = n;
         inp.disabled = n === 0 && !inp.checked;
@@ -225,7 +228,8 @@
     feed.querySelectorAll(".group").forEach(function (sec) {
       var n = sec.querySelectorAll(".card:not([hidden])").length;
       sec.hidden = n === 0;
-      sec.querySelector(".group-dek").textContent = groupDek(sec.dataset.group, n);
+      var dek = sec.querySelector(".group-dek");
+      if (dek) dek.textContent = groupDek(sec.dataset.group, n);
     });
     document.querySelector(".empty").hidden = visible !== 0;
     document.body.classList.toggle("view-compact", state.view === "compact");
@@ -375,6 +379,6 @@
   var gw = document.querySelector(".greet-word");
   if (gw) { var h = new Date().getHours(); gw.textContent = h < 12 ? "Good morning." : h < 18 ? "Good afternoon." : "Good evening."; }
 
-  if (state.group !== "priority") regroup();
+  if (state.group !== "order") regroup();
   apply();
 })();

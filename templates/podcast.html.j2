@@ -16,7 +16,7 @@
 {% include "_masthead.html.j2" %}
 <main class="podcast-page" id="feed">
   <h1>Audio briefings</h1>
-  <p class="pod-intro">Two AI hosts talk through each edition's governance, risk and compliance stories from the United States, Canada and the European Union. Episodes run about six minutes, and the show notes link to every source.</p>
+  <p class="pod-intro">Two AI hosts talk through each edition's ethics and compliance stories from the United States, Canada, the United Kingdom and the European Union. Episodes run about six minutes, and the show notes link to every source.</p>
   {% if not episodes %}
   <p class="pod-empty">The first episode is on its way. It will appear here, and on the front page, as soon as it is published.</p>
   {% endif %}
@@ -30,11 +30,7 @@
     {% if e.stories %}
     <details class="ep-notes"{% if loop.first %} open{% endif %}>
       <summary>Show notes · {{ e.stories|length }} stories</summary>
-      {% for lvl, label in [('High', 'Act now'), ('Medium', 'Watch')] %}
-      {% set group = e.stories|selectattr('level', 'equalto', lvl)|list %}
-      {% if group %}<h3>{{ label }}</h3>
-      <ul>{% for s in group %}<li><a href="{{ s.url }}">{{ s.title }}</a>{% if s.source %} <span class="ep-src">{{ s.source }}</span>{% endif %}</li>{% endfor %}</ul>{% endif %}
-      {% endfor %}
+      <ul>{% for s in e.stories %}<li><a href="{{ s.url }}">{{ s.title }}</a>{% if s.source %} <span class="ep-src">{{ s.source }}</span>{% endif %}</li>{% endfor %}</ul>
     </details>
     {% endif %}
     <p class="ep-dl"><a href="{{ root }}podcast/audio/{{ e.file }}" download><span class="ms" aria-hidden="true">download</span>Download MP3 ({{ e.mb }} MB)</a></p>

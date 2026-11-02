@@ -1,7 +1,7 @@
 # Official, free sources. kind: rss | gcnews | paywall (Government of Canada news API) | paywall (Google News headline discovery)
 # images: false skips preview images (e.g. JD Supra only offers law-firm logos).
 # weight multiplies relevance; base adds a floor for feeds that are almost always on-topic.
-# Every feed below was tested and working on 2026-10-24. Broken feeds show up in data/feed_health.json
+# Feeds were tested on 2026-10-24; UK and speech feeds were added 2026-11-01. Broken feeds show up in data/feed_health.json
 # and the daily curation run repairs or retires them.
 
 sources:
@@ -16,6 +16,8 @@ sources:
   - {id: dol,          name: "U.S. Department of Labor",         region: US, lang: en, kind: rss, weight: 1.1, url: "https://www.dol.gov/rss/releases.xml"}
   - {id: eeoc,         name: "U.S. EEOC",                        region: US, lang: en, kind: rss, weight: 1.2, base: 2, topic: employment_law, url: "https://www.eeoc.gov/rss.xml"}
   - {id: nlrb,         name: "U.S. NLRB",                        region: US, lang: en, kind: rss, weight: 1.0, url: "https://www.nlrb.gov/rss/rssPressReleases.xml"}
+  - {id: doj-speech,   name: "U.S. Department of Justice (speeches)", region: US, lang: en, kind: rss, weight: 1.1, base: 1, topic: enforcement_policy, may_be_empty: true, url: "https://www.justice.gov/news/rss?type=speech&m=1"}
+  - {id: sec-speech,   name: "U.S. SEC (speeches & statements)", region: US, lang: en, kind: rss, weight: 1.0, base: 1, may_be_empty: true, url: "https://www.sec.gov/news/speeches-statements.rss"}
   - {id: fedreg-wb,    name: "Federal Register",                 region: US, lang: en, kind: rss, weight: 1.0, base: 2, topic: whistleblowing, may_be_empty: true, url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=whistleblower&order=newest"}
   - {id: fedreg-fca,   name: "Federal Register",                 region: US, lang: en, kind: rss, weight: 1.0, base: 1, may_be_empty: true, url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22due+diligence%22+OR+%22third-party+risk%22+OR+%22False+Claims+Act%22&order=newest"}
 
@@ -47,6 +49,12 @@ sources:
       "Royal Canadian Mounted Police": [anti_bribery, 0]
   - {id: opc,          name: "Privacy Commissioner of Canada",   region: CA, lang: en, kind: rss, weight: 1.0, url: "https://www.priv.gc.ca/en/rss/news/"}
 
+  # ---------------- United Kingdom ----------------
+  - {id: sfo,          name: "UK Serious Fraud Office",          region: UK, lang: en, kind: rss, weight: 1.3, base: 3, topic: enforcement_policy, may_be_empty: true, url: "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=serious-fraud-office"}
+  - {id: fca,          name: "UK Financial Conduct Authority",   region: UK, lang: en, kind: rss, weight: 1.1, url: "https://www.fca.org.uk/news/rss.xml"}
+  - {id: govuk-wb,     name: "GOV.UK",                           region: UK, lang: en, kind: rss, weight: 1.0, base: 2, topic: whistleblowing, may_be_empty: true, url: "https://www.gov.uk/search/news-and-communications.atom?keywords=whistleblowing"}
+  - {id: govuk-ecc,    name: "GOV.UK",                           region: UK, lang: en, kind: rss, weight: 1.0, base: 1, topic: enforcement_policy, may_be_empty: true, url: "https://www.gov.uk/search/news-and-communications.atom?keywords=%22economic+crime%22"}
+
   # ---------------- European Union ----------------
   - {id: ec-press,     name: "European Commission",              region: EU, lang: en, kind: rss, weight: 1.1, url: "https://ec.europa.eu/commission/presscorner/api/rss?language=en"}
   - {id: ep-press,     name: "European Parliament",              region: EU, lang: en, kind: rss, weight: 1.0, url: "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml"}
@@ -73,6 +81,7 @@ sources:
   - {id: gn-tprm,      name: "Google News",  region: US, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=%22third-party+risk%22+OR+%22due+diligence%22+OR+FCPA+OR+%22compliance+officer%22+when:2d&hl=en-US&gl=US&ceid=US:en"}
   - {id: gn-employ,    name: "Google News",  region: US, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=%22employment+law%22+OR+%22retaliation+lawsuit%22+OR+%22wrongful+termination%22+when:2d&hl=en-US&gl=US&ceid=US:en"}
   - {id: gn-ca,        name: "Google News",  region: CA, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=whistleblower+OR+%22regulatory+breach%22+OR+%22compliance%22+fine+when:2d&hl=en-CA&gl=CA&ceid=CA:en"}
+  - {id: gn-uk,        name: "Google News",  region: UK, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=%22Serious+Fraud+Office%22+OR+%22failure+to+prevent+fraud%22+OR+whistleblower+when:2d&hl=en-GB&gl=GB&ceid=GB:en"}
   - {id: gn-eu,        name: "Google News",  region: EU, lang: en, kind: paywall, url: "https://news.google.com/rss/search?q=EU+fine+OR+%22whistleblower+directive%22+OR+CSDDD+OR+%22supply+chain+due+diligence%22+when:2d&hl=en-IE&gl=IE&ceid=IE:en"}
 
 # Publishers treated as paywalled. Matched against the " - Publisher" suffix on Google News titles.

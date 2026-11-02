@@ -229,7 +229,7 @@ def main():
     free = sorted([i for i in items if not i["paywalled"]], key=lambda x: -x["score"])
     pay = sorted([i for i in items if i["paywalled"]], key=lambda x: -x["score"])[:12]
     per_source, per_region, chosen = {}, {}, []
-    region_cap = {"US": 40, "CA": 20, "EU": 26}
+    region_cap = {"US": 34, "CA": 16, "UK": 16, "EU": 24}
     for it in free:
         if per_source.get(it["source_id"], 0) >= 12 or per_region.get(it["region"], 0) >= region_cap.get(it["region"], 30):
             continue

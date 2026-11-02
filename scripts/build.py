@@ -16,7 +16,9 @@ import podcast
 PODCAST_KEEP = 14  # episodes published on the site
 
 TOPICS = load_yaml("topics.yaml")["topics"]
-REGIONS = {"US": "United States", "CA": "Canada", "EU": "European Union"}
+REGIONS = {"US": "United States", "CA": "Canada", "UK": "United Kingdom", "EU": "European Union"}
+INDUSTRIES = PAPER.get("industries", {})
+PERSONAS = PAPER.get("personas", {})
 LANG_IN = {"fr": "in French", "de": "in German", "nl": "in Dutch", "es": "in Spanish", "it": "in Italian"}
 ACTION = {"High": ("required", "Act now"), "Medium": ("monitor", "Watch"), "Low": ("fyi", "Good to know")}
 TYPES = {"enforcement": "Enforcement action", "rule": "New rule or guidance", "ruling": "Court ruling",
@@ -25,8 +27,9 @@ TIERS = {"official": "Official sources", "press": "Expert analysis", "ai": "AI b
 LANGS = {"en": "English", "fr": "French", "de": "German", "nl": "Dutch", "es": "Spanish", "it": "Italian"}
 
 # palette per topic for the generated card illustrations (used when an article has no image)
-TOPIC_COLORS = {k: ("#052962", "#DCE6F1") for k in ["whistleblowing", "false_claims", "third_party_risk", "due_diligence", "employment_law", "enforcement", "anti_bribery", "aml_sanctions", "governance", "ai_governance", "privacy", "esg", "cybersecurity"]}
+TOPIC_COLORS = {k: ("#052962", "#DCE6F1") for k in ["enforcement_policy", "whistleblowing", "false_claims", "third_party_risk", "due_diligence", "employment_law", "enforcement", "anti_bribery", "aml_sanctions", "governance", "ai_governance", "privacy", "esg", "cybersecurity"]}
 TOPIC_GLYPH = {
+    "enforcement_policy": "M30 28 H70 V72 H30 Z M38 40 H62 M38 50 H62 M38 60 H50 M58 58 L64 64 L76 50",
     "whistleblowing": "M50 30 L70 30 L80 50 L70 70 L50 70 Z M20 45 L50 40 L50 60 L20 55 Z",
     "false_claims": "M30 25 H70 V75 H30 Z M38 38 H62 M38 50 H62 M38 62 H54",
     "third_party_risk": "M30 50 m-12 0 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0 M70 50 m-12 0 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0 M42 50 H58",
@@ -45,7 +48,7 @@ TOPIC_GLYPH = {
 
 NAVY_TILE, VERD_TILE = ("#DCE6F1", "#052962"), ("#DCEBFA", "#0A66C2")  # Guardian Blue / LinkedIn Blue tiles
 TOPIC_TINTS = {  # on-brand tiles: alternate Ink and Verdigris so the grid has rhythm without leaving the palette
-    "whistleblowing": VERD_TILE, "false_claims": NAVY_TILE, "third_party_risk": VERD_TILE, "due_diligence": NAVY_TILE,
+    "enforcement_policy": NAVY_TILE, "whistleblowing": VERD_TILE, "false_claims": NAVY_TILE, "third_party_risk": VERD_TILE, "due_diligence": NAVY_TILE,
     "employment_law": VERD_TILE, "enforcement": NAVY_TILE, "anti_bribery": VERD_TILE, "aml_sanctions": NAVY_TILE,
     "governance": NAVY_TILE, "ai_governance": VERD_TILE, "privacy": NAVY_TILE, "esg": VERD_TILE, "cybersecurity": NAVY_TILE,
 }
@@ -62,7 +65,7 @@ def topic_svg(key):
 <circle cx="410" cy="30" r="90" fill="{light}" opacity=".9"/><circle cx="60" cy="190" r="70" fill="{light}" opacity=".7"/>
 <rect x="200" y="46" width="80" height="80" rx="24" fill="#ffffff" filter="url(#s)"/>
 <g transform="translate(212,58) scale(.56)" fill="none" stroke="{deep}" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="{glyph}"/></g>
-<text x="240" y="160" text-anchor="middle" font-family="Roboto Flex,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.5" fill="{deep}">{label}</text>
+<text x="240" y="160" text-anchor="middle" font-family="Roboto Flex,Helvetica,Arial,sans-serif" font-size="{13 if len(label) < 24 else 10}" font-weight="600" letter-spacing="{1.5 if len(label) < 24 else 0.8}" fill="{deep}">{label}</text>
 </svg>'''
 
 
@@ -137,7 +140,9 @@ def normalise(ed):
         c["item_type"] = c.get("item_type") if c.get("item_type") in TYPES else guess_type(c)
         c["type_label"] = TYPES[c["item_type"]]
         c["lang_in"] = LANG_IN.get(c["lang"], "")
-        c["region_short"] = {"US": "U.S.", "CA": "Canada", "EU": "EU"}.get(c.get("region"), c.get("region", ""))
+        c["region_short"] = {"US": "U.S.", "CA": "Canada", "UK": "UK", "EU": "EU"}.get(c.get("region"), c.get("region", ""))
+        c["industries"] = [i for i in (c.get("industries") or []) if i in INDUSTRIES]
+        c["personas"] = [p for p in (c.get("personas") or []) if p in PERSONAS]
         c["band"] = TOPIC_COLORS.get(c["topic"], ("#2a2a2a",))[0]
         if c["kind"] == "briefing":
             b = ed["briefings"].get(c["id"], {})
@@ -145,6 +150,8 @@ def normalise(ed):
             c["href"] = f"b/{b['slug']}.html"
         else:
             c["href"] = c["url"]
+    for i, c in enumerate(ed["cards"]):
+        c["order"] = i
     lead = next((c for c in ed["cards"] if c["id"] == ed.get("lead_id")), ed["cards"][0] if ed["cards"] else None)
     ed["lead"] = lead
     ed["rest"] = [c for c in ed["cards"] if c is not lead]
@@ -153,14 +160,21 @@ def normalise(ed):
     ed["topic_options"] = [(k, TOPICS[k]["label"]) for k in ed["topics_present"]]
     ed["regions_present"] = [r for r in REGIONS if any(c.get("region") == r for c in ed["cards"])]
     ids = {c["id"]: c for c in ed["cards"]}
-    bl = [b for b in (ed.get("bottom_line") or []) if b.get("id") in ids and b.get("text")]
-    if not bl:  # fallback: the High-impact stories' impact lines
-        bl = [{"id": c["id"], "text": c["impact"]} for c in ed["cards"] if c["action"] == "required" and c.get("impact")][:4]
+    bl = [b for b in (ed.get("bottom_line") or []) if b.get("id") in ids and b.get("text")][:3]
+    if not bl:  # fallback: the top stories' impact lines
+        bl = [{"id": c["id"], "text": c["impact"]} for c in ed["cards"] if c.get("impact")][:3]
     ed["bottom_line"] = bl
+    st = ed.get("stat") or {}
+    ed["stat"] = st if st.get("id") in ids and st.get("text") else None
     ed["counts"] = {
-        "action": {k: sum(1 for c in ed["cards"] if c["action"] == k) for k in ("required", "monitor", "fyi")},
         "region": {r: sum(1 for c in ed["cards"] if c.get("region") == r) for r in REGIONS},
     }
+    tc = {}
+    for c in ed["cards"]:
+        tc[c["topic"]] = tc.get(c["topic"], 0) + 1
+    ed["top_topics"] = [(k, TOPICS[k]["label"], n) for k, n in sorted(tc.items(), key=lambda kv: -kv[1]) if n > 1][:2]
+    ed["industry_options"] = [(k, v) for k, v in INDUSTRIES.items() if k != "all"]
+    ed["persona_options"] = list(PERSONAS.items())
     return ed
 
 

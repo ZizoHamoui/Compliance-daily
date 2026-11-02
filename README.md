@@ -32,6 +32,10 @@ reads one ~15k-token file each morning. `data/seen.json` makes sure no story rep
 - Edit `.github/send-test-email` and commit → send the email now
 - Repo secrets: `GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD` (Gmail app password), optional `EMAIL_TO`
 
+## Audience
+
+Solution engineers working with ethics & compliance software. Stories are chosen for what general counsel, chief legal officers and compliance analysts care about, and for recent cases that work as real-world examples in a demo. The paper has no priority labels; stories run in the editor's order. Filters: region (US, Canada, UK, EU), topic, industry, persona, type, source. Internal reference only.
+
 ## Weekly podcast
 
 A ~9-minute audio briefing made each week in NotebookLM: a Sunday kit email, about 5 minutes of your time, then one upload. The site and email pick it up automatically. See [docs/podcast.md](docs/podcast.md).
