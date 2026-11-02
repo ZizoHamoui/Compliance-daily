@@ -1,6 +1,8 @@
 """Weekly podcast (made by hand in Google NotebookLM; everything around it is automatic).
 
-    python scripts/podcast.py digest [--date YYYY-MM-DD]     print the week's NotebookLM sources file
+    python scripts/podcast.py digest [--date YYYY-MM-DD]     print the NotebookLM sources file (default: latest edition)
+    python scripts/podcast.py prompt                         print the NotebookLM prompt and settings
+    python scripts/podcast.py latest                         print the latest edition date and whether it has an episode
     python scripts/podcast.py kit-email [--date YYYY-MM-DD]  email the producer kit to the paper's owner
     python scripts/podcast.py add --input FILE [--tag T] [--title T]
                                                              convert an uploaded episode to MP3 and register it
@@ -14,43 +16,58 @@ import smtplib
 import subprocess
 import sys
 from datetime import date, datetime, timedelta
+from pathlib import Path
 from email.message import EmailMessage
 from html import escape
 from urllib.parse import quote
 
 from common import EDITIONS, PAPER, ROOT, load_yaml, now_local, read_json, today_local, write_json
 
+POD_CFG = PAPER.get("podcast", {}) or {}
+DAYS = int(POD_CFG.get("days", 1))            # 1 = a daily episode of that day's edition; 7 = a weekly recap
+KEEP = int(POD_CFG.get("keep", 14))           # episodes kept online (audio lives on the podcast-audio branch)
+MINUTES = 6 if DAYS == 1 else 9
 PODCAST = ROOT / "podcast"
-AUDIO = PODCAST / "audio"
+AUDIO = Path(os.environ.get("PODCAST_AUDIO_DIR") or PODCAST / "audio")
 REGISTRY = PODCAST / "episodes.json"
 REPO = os.environ.get("GITHUB_REPOSITORY") or PAPER.get("repo", "zizohamoui/Compliance-daily")
 TOPICS = load_yaml("topics.yaml")["topics"]
 REGIONS = {"US": "United States", "CA": "Canada", "EU": "European Union"}
-DEFAULT_TITLE = "This week in compliance"
+DEFAULT_TITLE = "Today in compliance" if DAYS == 1 else "This week in compliance"
 
 # Pasted into NotebookLM's "Customize" box. NotebookLM limits this box (reportedly 500 characters),
 # so the detailed direction lives in the PRODUCER NOTES at the top of the sources file instead.
-PROMPT = ("Audience: chief compliance officers in the US, Canada and EU. Make a ~9-minute weekly briefing. "
-          "Follow the PRODUCER NOTES and running order in the source: the week in one line, ACT NOW stories in depth "
-          "(what happened, who is affected, what to do), the WATCH list briefly, quick hits, then one thing to do Monday. "
-          "Name the regulator and date for each story. Plain, calm, professional English. "
-          "Stay strictly within the sources; no legal advice.")
-SETTINGS = [("Format", "Deep Dive"), ("Length", "Default (use Shorter if episodes run past 12 minutes)"),
+if DAYS == 1:
+    PROMPT = ("Audience: chief compliance officers in the US, Canada and EU. Make a ~6-minute daily briefing on this edition. "
+              "Follow the PRODUCER NOTES and running order in the source: the day in one line, ACT NOW stories in depth "
+              "(what happened, who is affected, what to do), the WATCH stories briefly, quick hits, then one thing to do today. "
+              "Name the regulator for each story. Plain, calm, professional English. Stay strictly within the sources; no legal advice.")
+else:
+    PROMPT = ("Audience: chief compliance officers in the US, Canada and EU. Make a ~9-minute weekly briefing. "
+              "Follow the PRODUCER NOTES and running order in the source: the week in one line, ACT NOW stories in depth "
+              "(what happened, who is affected, what to do), the WATCH list briefly, quick hits, then one thing to do Monday. "
+              "Name the regulator and date for each story. Plain, calm, professional English. "
+              "Stay strictly within the sources; no legal advice.")
+SETTINGS = [("Format", "Deep Dive"),
+            ("Length", "Shorter" if DAYS == 1 else "Default (use Shorter if episodes run past 12 minutes)"),
             ("Language", "English")]
 
-PRODUCER_NOTES = """PRODUCER NOTES FOR THE HOSTS
+_NOTES = """PRODUCER NOTES FOR THE HOSTS
 - Audience: chief compliance officers, general counsel and GRC teams in the United States, Canada and the European Union. They are experts: skip basic definitions and get to consequences.
-- Target length: about 9 minutes. Spend most of the time on ACT NOW. Cover WATCH in a sentence or two each. Read QUICK HITS as a fast list.
+- Target length: about {minutes} minutes. Spend most of the time on ACT NOW. Cover WATCH in a sentence or two each. Read QUICK HITS as a fast list.
 - Running order:
-  1. Open with the name of the show, "The Tone at the Top weekly briefing", the dates covered, and the week in one sentence.
+  1. Open with the name of the show, "The Tone at the Top {show}", the {span} covered, and the {unit} in one sentence.
   2. ACT NOW: for each story say who acted (the regulator, court or agency), when, what happened, who is affected, and the practical step a compliance team should take.
   3. WATCH: what is coming and when it could bite.
   4. QUICK HITS: one line each.
-  5. Close with ONE concrete thing to do on Monday morning, then a reminder that this is AI-generated and not legal advice; listeners should check the linked sources.
+  5. Close with ONE concrete thing to do {when}, then a reminder that this is AI-generated and not legal advice; listeners should check the linked sources.
 - Always name the jurisdiction (U.S., Canada, EU or the member state).
 - Use only facts in this document. Do not guess penalties, dates or names that are not written here.
 - Tone: calm, precise and practical. No hype, no jokes about enforcement actions or victims.
 """
+PRODUCER_NOTES = _NOTES.format(minutes=MINUTES, show="daily briefing" if DAYS == 1 else "weekly briefing",
+                               span="date" if DAYS == 1 else "dates", unit="day" if DAYS == 1 else "week",
+                               when="today" if DAYS == 1 else "on Monday morning")
 
 
 def slug(s):  # same rule as build.py, so links match the briefing pages
@@ -61,15 +78,21 @@ def fmt(d):
     return datetime.fromisoformat(d).strftime("%b %-d") if isinstance(d, str) else d.strftime("%b %-d")
 
 
-def week_range(end):
+def week_range(end, days=DAYS):
     end_d = date.fromisoformat(end)
-    return (end_d - timedelta(days=6)).isoformat(), end
+    return (end_d - timedelta(days=days - 1)).isoformat(), end
 
 
-def digest(end=None):
-    """Collect the week's stories (the 7 editions ending on `end`) into a NotebookLM-ready sources file."""
-    end = end or today_local()
-    start, end = week_range(end)
+def latest_edition(on_or_before=None):
+    cap = on_or_before or today_local()
+    eds = sorted(p.stem for p in EDITIONS.glob("*.json") if p.stem <= cap)
+    return eds[-1] if eds else cap
+
+
+def digest(end=None, days=DAYS):
+    """Collect the stories from the `days` editions ending on `end` (default: the latest edition) into a NotebookLM sources file."""
+    end = end or latest_edition()
+    start, end = week_range(end, days)
     days = sorted((p.stem for p in EDITIONS.glob("*.json") if start <= p.stem <= end), reverse=True)
     seen, stories, notes, briefings = set(), [], [], []
     for d in days:
@@ -93,8 +116,8 @@ def digest(end=None):
             stories.append(s)
     rank = lambda s: (-s["weight"], s["edition"])
     high = sorted([s for s in stories if s["level"] == "High"], key=rank)[:20]
-    medium = sorted([s for s in stories if s["level"] == "Medium"], key=rank)[:12]
-    low = sorted([s for s in stories if s["level"] not in ("High", "Medium")], key=rank)[:12]
+    medium = sorted([s for s in stories if s["level"] == "Medium"], key=rank)[:15]
+    low = sorted([s for s in stories if s["level"] not in ("High", "Medium")], key=rank)[:15]
 
     def block(i, s, full=True):
         meta = " · ".join(x for x in [fmt(s.get("published") or s["edition"]), REGIONS.get(s.get("region"), s.get("region", "")),
@@ -110,15 +133,20 @@ def digest(end=None):
         out.append(f"   Source: {s['link']}")
         return "\n".join(out)
 
-    title = f"{PAPER['name']} weekly briefing, {fmt(start)} to {fmt(end)}, {end[:4]}"
-    parts = [title.upper(), f"{PAPER['regions']} · {len(stories)} stories from {len(days)} daily editions", "", PRODUCER_NOTES]
-    if notes:
+    if start == end:
+        title = f"{PAPER['name']} daily briefing, {datetime.fromisoformat(end):%A %B %-d, %Y}"
+    else:
+        title = f"{PAPER['name']} weekly briefing, {fmt(start)} to {fmt(end)}, {end[:4]}"
+    parts = [title.upper(), f"{PAPER['regions']} · {len(stories)} stories from {len(days)} edition{'s' if len(days) != 1 else ''}", "", PRODUCER_NOTES]
+    if len(notes) == 1:
+        parts += ["THE DAY IN ONE LINE (the editor's summary)", notes[0][1], ""]
+    elif notes:
         parts += ["THE WEEK, DAY BY DAY (the editor's one-line summary of each edition)"]
         parts += [f"- {datetime.fromisoformat(d):%A %b %-d}: {n}" for d, n in notes] + [""]
     for name, group, full in [("ACT NOW", high, True), ("WATCH", medium, True), ("QUICK HITS", low, False)]:
         if group:
-            parts += [f"SECTION: {name} ({len(group)} stories)", ""]
-            parts += [block(i, s, full) + "\n" for i, s in enumerate(group, 1)]
+            parts += [f"SECTION: {name} ({len(group)} stor{'y' if len(group) == 1 else 'ies'})", ""]
+            parts += [block(i, s, full or days == 1) + "\n" for i, s in enumerate(group, 1)]
     for t, body in briefings:
         parts += [f"BACKGROUND BRIEFING: {t}", body.strip()[:2500], ""]
     parts += ["END OF SOURCES. Everything above was summarised from official and free public sources by an AI editor."]
@@ -196,7 +224,7 @@ def probe_seconds(path):
     return int(round(float(out)))
 
 
-def add(input_path, tag="", title=""):
+def add(input_path, tag="", title="", min_s=150, max_s=1500):
     m = re.search(r"(\d{4}-\d{2}-\d{2})", tag or "")
     ep_date = m.group(1) if m else today_local()
     title = (title or "").strip()
@@ -209,18 +237,25 @@ def add(input_path, tag="", title=""):
                     "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ac", "1", "-ar", "44100", "-b:a", "64k",
                     "-metadata", f"title={title}", "-metadata", f"artist={PAPER['name']}",
                     "-metadata", "comment=AI-generated with Google NotebookLM. Not legal advice.", str(out)], check=True)
+    secs = probe_seconds(out)
+    if not (min_s <= secs <= max_s):
+        out.unlink()
+        print(f"Rejected: episode is {secs // 60}m{secs % 60:02d}s, outside {min_s // 60}-{max_s // 60} minutes. Nothing published.")
+        return 3
     d = digest(ep_date)
     eps = [e for e in read_json(REGISTRY, []) if e["date"] != ep_date]
-    eps.append({"date": ep_date, "title": title, "file": out.name, "seconds": probe_seconds(out), "bytes": out.stat().st_size,
+    eps.append({"date": ep_date, "title": title, "file": out.name, "seconds": secs, "bytes": out.stat().st_size,
                 "start": d["start"], "end": d["end"], "stories": d["stories"], "added": now_local().isoformat(timespec="minutes")})
-    write_json(REGISTRY, sorted(eps, key=lambda e: e["date"]))
+    write_json(REGISTRY, sorted(eps, key=lambda e: e["date"])[-90:])
+    for old in sorted(AUDIO.glob("*.mp3"))[:-KEEP]:   # the audio branch only ever holds the newest episodes
+        old.unlink()
     print(f"Added episode {ep_date}: {title} ({eps[-1]['seconds'] // 60} min, {out.stat().st_size // 1024} KB)")
     return 0
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["digest", "kit-email", "add"])
+    ap.add_argument("cmd", choices=["digest", "prompt", "latest", "kit-email", "add"])
     ap.add_argument("--date")
     ap.add_argument("--input")
     ap.add_argument("--tag", default="")
@@ -228,6 +263,15 @@ def main():
     a = ap.parse_args()
     if a.cmd == "digest":
         print(digest(a.date)["text"])
+        return 0
+    if a.cmd == "prompt":
+        print(PROMPT)
+        print("\n".join(f"{k}: {v}" for k, v in SETTINGS))
+        return 0
+    if a.cmd == "latest":
+        d = latest_edition()
+        done = any(e["date"] == d for e in read_json(REGISTRY, []))
+        print(f"{d} {'done' if done else 'todo'}")
         return 0
     if a.cmd == "kit-email":
         return kit_email(a.date)

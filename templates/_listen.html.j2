@@ -1,10 +1,10 @@
 {# Weekly podcast player. Works as a plain <audio> without JavaScript; static/player.js swaps in the custom controls. #}
-<section class="listen" aria-label="Weekly podcast" data-ep="{{ episode.date }}" data-title="{{ episode.title }}">
+<section class="listen" aria-label="Audio briefing" data-ep="{{ episode.date }}" data-title="{{ episode.title }}">
   <button class="listen-play" type="button" aria-label="Play {{ episode.title }}" hidden><span class="ms" aria-hidden="true">play_arrow</span></button>
   <div class="listen-body">
-    <p class="listen-kicker"><span class="ms" aria-hidden="true">podcasts</span>Weekly briefing · {{ episode.minutes }} min</p>
+    <p class="listen-kicker"><span class="ms" aria-hidden="true">podcasts</span>{% if episode.start == episode.end %}{% if episode.is_current is not defined or episode.is_current %}Audio briefing{% else %}Latest audio briefing · {{ episode.range_label }}{% endif %}{% else %}Weekly briefing{% endif %} · {{ episode.minutes }} min</p>
     <p class="listen-title">{{ episode.title }}</p>
-    <p class="listen-dek">Two AI hosts talk through the stories that mattered from {{ episode.range_label }}.</p>
+    <p class="listen-dek">{{ episode.dek }}</p>
     <div class="listen-track" hidden>
       <input type="range" class="listen-seek" min="0" max="{{ episode.seconds }}" value="0" step="1" aria-label="Position in episode">
       <span class="listen-time"><span class="listen-cur">0:00</span> / {{ episode.duration }}</span>

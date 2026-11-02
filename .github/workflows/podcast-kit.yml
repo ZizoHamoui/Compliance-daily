@@ -1,10 +1,8 @@
-name: 6 · Weekly podcast kit
-# Sunday morning: emails you (the GMAIL_ADDRESS account, or PODCAST_PRODUCER if set) the week's NotebookLM
-# sources file, the prompt and a one-click upload link. GitHub may run it a few hours late; that's fine.
-# Run it by hand from the Actions tab any time you want a kit for the last 7 days.
+name: 6 · Podcast kit (manual fallback)
+# The podcast agent normally makes each episode. If you want to make one by hand, run this from the Actions tab:
+# it emails you (GMAIL_ADDRESS, or PODCAST_PRODUCER if set) the latest edition's NotebookLM sources file,
+# the prompt and a one-click upload link.
 on:
-  schedule:
-    - cron: "30 15 * * 0"   # Sundays ~8:30 a.m. Pacific
   workflow_dispatch:
 
 permissions:

@@ -6,4 +6,5 @@ Do not explore the repo or modify anything other than `editions/<today>.json` an
 
 Layout: `scripts/fetch.py` (headlines, no AI) → `editions/*.json` (AI curation) → `scripts/build.py` (site) →
 `scripts/send_email.py` (6 a.m. email). Workflows live in `.github/workflows/`.
-Weekly podcast (NotebookLM, human-made): `scripts/podcast.py`, `podcast/`, `docs/podcast.md`. The curation run never touches it.
+Daily podcast: if you are running as the **podcast task**, read and follow `prompts/podcast.md` exactly instead (it drives NotebookLM in
+the owner's Chrome and pushes `claude/podcast-<date>`). Code: `scripts/podcast.py`, `podcast/`, `docs/podcast.md`. The curation run never touches it.

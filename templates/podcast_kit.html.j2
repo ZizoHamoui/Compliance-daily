@@ -16,10 +16,10 @@
 {% include "_masthead.html.j2" %}
 <main class="podcast-page kit" id="feed">
   <h1>Podcast kit</h1>
-  <p class="pod-intro">This week: {{ d.start_l }} to {{ d.end_l }} · {{ d.count }} stories. About five minutes of your time.</p>
+  <p class="pod-intro">Covers: {% if d.start == d.end %}{{ d.end_l }}{% else %}{{ d.start_l }} to {{ d.end_l }}{% endif %} · {{ d.count }} stories. About five minutes of your time.</p>
   <ol class="kit-steps">
-    <li>Download <a href="sources.txt" download="tone-at-the-top-week-{{ d.end }}.txt"><b>this week's sources file</b></a>.</li>
-    <li>Open <a href="https://notebooklm.google.com">NotebookLM</a>, create a new notebook and upload the file as its only source.</li>
+    <li>Download <a href="sources.txt" download="tone-at-the-top-week-{{ d.end }}.txt"><b>the sources file</b></a>.</li>
+    <li>Open <a href="https://notebooklm.google.com">NotebookLM</a>, create a new notebook and upload the file as its only source (or add this page as a Website source: <code>{{ paper.site_url }}podcast/kit/{{ d.end }}.html</code>).</li>
     <li>In Studio, open <b>Audio Overview → Customize</b> and choose: {% for k, val in settings %}<b>{{ k }}</b> {{ val }}{% if not loop.last %} · {% endif %}{% endfor %}.</li>
     <li>Paste this into the prompt box and press Generate:
       <div class="kit-prompt"><p id="prompt">{{ prompt }}</p><button type="button" class="kit-copy" data-copy="prompt"><span class="ms" aria-hidden="true">content_copy</span>Copy prompt</button></div></li>

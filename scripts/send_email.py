@@ -76,13 +76,13 @@ def main():
 <div style="margin-top:6px">{badge}<span style="font:11px Arial;color:#56687A">{escape(c.get("source", ""))}</span></div>
 </td></tr>''')
 
-    # weekly podcast button: shown while the latest episode is at most 8 days old
+    # podcast button: the newest episode, while it's at most 2 days old (episodes are made after the 6 a.m. email)
     listen = ""
     ep = next(iter(read_json(ROOT / "podcast" / "episodes.json", [])[::-1]), None)
-    if ep and (now_local().date() - datetime.fromisoformat(ep["date"]).date()).days <= 8:
+    if ep and (now_local().date() - datetime.fromisoformat(ep["date"]).date()).days <= 2:
         mins = max(1, round(ep["seconds"] / 60))
         listen = (f'<tr><td style="padding:14px 28px 0"><table width="100%" cellpadding="0" cellspacing="0" style="background:#EEF3F9;border-radius:16px">'
-                  f'<tr><td style="padding:14px 18px"><div style="font:700 10px Arial;letter-spacing:1.5px;color:#0A66C2">THE WEEKLY BRIEFING · {mins} MIN LISTEN</div>'
+                  f'<tr><td style="padding:14px 18px"><div style="font:700 10px Arial;letter-spacing:1.5px;color:#0A66C2">AUDIO BRIEFING · {mins} MIN LISTEN</div>'
                   f'<div style="font:700 16px/1.3 Georgia,serif;color:#052962;margin:4px 0 0">{escape(ep["title"])}</div></td>'
                   f'<td align="right" style="padding:14px 18px"><a href="{url}podcast/index.html#ep-{ep["date"]}" style="display:inline-block;background:#0A66C2;color:#FFFFFF;'
                   f'font:700 13px Arial;letter-spacing:1px;text-decoration:none;padding:11px 18px;border-radius:999px;white-space:nowrap">&#9654;&nbsp; LISTEN</a></td></tr></table></td></tr>')

@@ -13,7 +13,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from common import CANDIDATES, EDITIONS, PAPER, SITE, STATIC, TEMPLATES, load_yaml, read_json, today_local
 import podcast
 
-PODCAST_KEEP = 12  # episodes published on the site (older ones stay in git history)
+PODCAST_KEEP = 14  # episodes published on the site
 
 TOPICS = load_yaml("topics.yaml")["topics"]
 REGIONS = {"US": "United States", "CA": "Canada", "EU": "European Union"}
@@ -166,8 +166,13 @@ def normalise(ed):
 
 def episode_view(e):
     m, sec = divmod(e["seconds"], 60)
+    daily = e["start"] == e["end"]
+    day = datetime.fromisoformat(e["end"])
     return dict(e, minutes=max(1, round(e["seconds"] / 60)), duration=f"{m}:{sec:02d}", date_long=fmt_date(e["date"]),
-                range_label=f"{podcast.fmt(e['start'])} to {podcast.fmt(e['end'])}", mb=round(e["bytes"] / 1e6, 1))
+                range_label=(f"{day:%A, %B %-d}" if daily else f"{podcast.fmt(e['start'])} to {podcast.fmt(e['end'])}"),
+                dek=(f"Two AI hosts talk through the {day:%A, %B %-d} edition." if daily
+                     else f"Two AI hosts talk through the stories that mattered from {podcast.fmt(e['start'])} to {podcast.fmt(e['end'])}."),
+                mb=round(e["bytes"] / 1e6, 1))
 
 
 def build_podcast(env):
@@ -181,13 +186,18 @@ def build_podcast(env):
     (out / "index.html").write_text(env.get_template("podcast.html.j2").render(episodes=eps, root="../"), encoding="utf-8")
     d = podcast.digest()
     (out / "kit" / "sources.txt").write_text(d["text"], encoding="utf-8")
+    # an HTML copy NotebookLM can import as a "Website" source; the dated URL lets the agent confirm it has today's edition
+    page = env.get_template("podcast_sources.html.j2").render(d=d)
+    (out / "kit" / "sources.html").write_text(page, encoding="utf-8")
+    (out / "kit" / f"{d['end']}.html").write_text(page, encoding="utf-8")
     (out / "kit" / "index.html").write_text(env.get_template("podcast_kit.html.j2").render(
         d=dict(d, start_l=podcast.fmt(d["start"]), end_l=podcast.fmt(d["end"])), prompt=podcast.PROMPT, settings=podcast.SETTINGS, upload=podcast.upload_link(d["end"]), root="../../"), encoding="utf-8")
     return eps
 
 
 def episode_for(eps, date):
-    return next((e for e in eps if e["date"] <= date), None)
+    e = next((e for e in eps if e["date"] <= date), None)
+    return dict(e, is_current=(e["date"] == date)) if e else None
 
 
 def main():

@@ -9,3 +9,6 @@ max_briefings: 3          # AI-written briefings for paywalled stories (keeps Cl
 candidate_limit: 90       # max headlines handed to Claude each morning
 lookback_hours: 96        # how far back to look (4 days covers weekends)
 repo: "zizohamoui/Compliance-daily"   # used for the podcast upload link
+podcast:
+  days: 1     # 1 = a daily episode of that day's edition; 7 = a weekly recap
+  keep: 14    # episodes kept online
