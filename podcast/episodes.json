@@ -22,5 +22,42 @@
    }
   ],
   "added": "2026-11-01T21:28-07:00"
+ },
+ {
+  "date": "2026-11-02",
+  "title": "FCA Whistleblower Failures and AI Risk",
+  "file": "2026-11-02.mp3",
+  "seconds": 865,
+  "bytes": 6921487,
+  "start": "2026-11-02",
+  "end": "2026-11-02",
+  "stories": [
+   {
+    "title": "FCA publishes terms of reference for independent review concerning Mr Andriesz",
+    "url": "https://www.fca.org.uk/news/statements/fca-publishes-terms-reference-independent-review-concerning-mr-andriesz",
+    "source": "UK Financial Conduct Authority"
+   },
+   {
+    "title": "FCA restricts 6 firms following concerns over anti-money laundering controls",
+    "url": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
+    "source": "UK Financial Conduct Authority"
+   },
+   {
+    "title": "Former chief executive banned after misconduct led to £4m losses in high-risk investments",
+    "url": "https://www.fca.org.uk/news/press-releases/former-chief-executive-banned-after-misconduct-led-4m-losses-high-risk-investments",
+    "source": "UK Financial Conduct Authority"
+   },
+   {
+    "title": "FCA data chief on building the future of finance in the age of AI",
+    "url": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
+    "source": "UK Financial Conduct Authority"
+   },
+   {
+    "title": "Compliance & Risk Lessons From AI's Unruly Summer",
+    "url": "https://www.corporatecomplianceinsights.com/compliance-risk-lessons-from-ai-unruly-summer/",
+    "source": "Corporate Compliance Insights"
+   }
+  ],
+  "added": "2026-11-02T11:05-07:00"
  }
 ]
