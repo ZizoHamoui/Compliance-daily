@@ -12,8 +12,7 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+  actions: write   # starts the site build on main (Pages only deploys from main)
 
 concurrency:
   group: repo-write
@@ -45,6 +44,7 @@ jobs:
             git fetch -q origin "$REF"
             for p in $(git ls-tree -r --name-only FETCH_HEAD -- podcast/inbox); do git show "FETCH_HEAD:$p" > "/tmp/inbox/$(basename "$p")"; done
             echo "tag=$REF" >> "$GITHUB_OUTPUT"
+            [ -f /tmp/inbox/title.txt ] && echo "title=$(head -c 160 /tmp/inbox/title.txt | tr -d '\r\n')" >> "$GITHUB_OUTPUT"
           else
             gh release download "$TAG" -D /tmp/inbox -R "$GITHUB_REPOSITORY" || true
             echo "tag=$TAG" >> "$GITHUB_OUTPUT"
@@ -64,7 +64,7 @@ jobs:
         env:
           PODCAST_AUDIO_DIR: /tmp/audio
           TAG: ${{ steps.dl.outputs.tag }}
-          NAME: ${{ github.event.release.name }}
+          NAME: ${{ github.event.release.name || steps.dl.outputs.title }}
         run: |
           python scripts/podcast.py add --input "${{ steps.dl.outputs.file }}" --tag "$TAG" --title "$NAME"
           git config --global user.name "tone-at-the-top-bot"
@@ -89,7 +89,8 @@ jobs:
           if [ "$EVENT" = "push" ]; then git push -q origin --delete "$REF" || true
           elif [ "$ADDED" = "1" ]; then gh release delete "$TAG" --cleanup-tag -y -R "$GITHUB_REPOSITORY"; fi
 
-  publish:
-    needs: convert
-    if: needs.convert.outputs.added == '1'
-    uses: ./.github/workflows/build.yml
+      - name: Publish the site from main
+        if: steps.add.outputs.added == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build.yml --ref main
