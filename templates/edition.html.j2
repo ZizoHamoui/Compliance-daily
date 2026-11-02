@@ -23,7 +23,7 @@
 
 {# ---------- A. Morning brief: a greeting, the editor's lede, five things, and one sentence of numbers ---------- #}
 <section class="brief" aria-labelledby="brief-h">
-  <p class="greeting" id="brief-h"><span class="greet-word">Good morning.</span> {% if ed.express %}Here are today's headlines.{% else %}Here is what changed overnight.{% endif %}</p>
+  <p class="greeting" id="brief-h"><span class="greet-word">Good morning.</span> <span class="greet-meta"><time>{{ ed.date_long }}</time><span>No. {{ ed.edition_no }}</span></span></p>
   {% if ed.editor_note %}<p class="brief-note">{{ ed.editor_note }}</p>{% endif %}
 </section>
 

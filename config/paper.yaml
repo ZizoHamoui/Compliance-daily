@@ -1,5 +1,6 @@
 # Masthead and delivery settings. Edit freely.
-name: "The Tone at the Top"
+name: "T4 Daily"
+subtitle: "The Tone at The Top"   # each word-initial T is shown in blue
 tagline: "Ethics & compliance industry news"
 regions: "United States · Canada · United Kingdom · European Union"
 site_url: "https://zizohamoui.github.io/Compliance-daily/"

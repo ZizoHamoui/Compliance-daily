@@ -1,7 +1,7 @@
 <a class="skip" href="#feed">Skip to stories</a>
 <div class="ambient" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span></div>
 <header class="appbar glass">
-  <a class="brand" href="{{ root }}index.html"><span class="brand-mark">T</span><span class="brand-name">{{ paper.name }}</span></a>
+  <a class="brand" href="{{ root }}index.html"><span class="brand-mark">T4</span><span class="brand-name">Daily</span></a>
   <nav class="navpills" aria-label="Main">
     <a href="{{ root }}index.html"><span class="ms" aria-hidden="true">newspaper</span><span>Today</span></a>
     <a href="{{ root }}saved.html"><span class="ms" aria-hidden="true">bookmarks</span><span>Saved</span><span class="saved-count" aria-label="saved stories"></span></a>
@@ -12,8 +12,8 @@
 </header>
 {% if ed and not hide_hero %}
 <section class="hero">
-  <p class="hero-meta"><time>{{ ed.date_long }}</time><span>No. {{ ed.edition_no }}</span></p>
+  <p class="mast-kicker">{{ paper.tagline }}</p>
   <h1 class="nameplate">{{ paper.name }}</h1>
-  <p class="mast-tag">{{ paper.tagline }}</p>
+  <p class="mast-sub">{% for w in paper.subtitle.split() %}{% if w[0]|upper == 'T' %}<span class="t4">T</span>{{ w[1:] }}{% else %}{{ w }}{% endif %}{% if not loop.last %} {% endif %}{% endfor %}</p>
 </section>
 {% endif %}

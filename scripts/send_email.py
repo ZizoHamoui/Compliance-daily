@@ -96,13 +96,17 @@ def main():
                   f'<div style="font:700 16px/1.3 Georgia,serif;color:#052962;margin:4px 0 0">{escape(ep["title"])}</div></td>'
                   f'<td align="right" style="padding:14px 18px"><a href="{url}podcast/index.html#ep-{ep["date"]}" style="display:inline-block;background:#0A66C2;color:#FFFFFF;'
                   f'font:700 13px Arial;letter-spacing:1px;text-decoration:none;padding:11px 18px;border-radius:999px;white-space:nowrap">&#9654;&nbsp; LISTEN</a></td></tr></table></td></tr>')
+    subtitle_html = " ".join(
+        (f'<span style="color:#0A66C2;font-weight:800">T</span>{escape(w[1:])}' if w[:1].upper() == "T" else escape(w))
+        for w in PAPER.get("subtitle", "").split())
     html = f'''<!DOCTYPE html><html><body style="margin:0;background:#F5F8FC">
 <table width="100%" cellpadding="0" cellspacing="0" style="background:#F5F8FC"><tr><td align="center" style="padding:24px 12px">
 <table width="600" cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;background:#FFFFFF;border:1px solid #E1E8F1">
 <tr><td style="padding:22px 28px 10px;text-align:center;border-bottom:4px solid #0A66C2">
 <div style="font:11px Arial;letter-spacing:2px;color:#34435E;text-transform:uppercase">{date_long}</div>
-<div style="font:900 34px Georgia,serif;color:#052962;margin:8px 0 4px">{escape(PAPER["name"])}</div>
-<div style="font:italic 13px Georgia,serif;color:#34435E">{escape(PAPER["tagline"])}</div></td></tr>
+<div style="font:11px Arial;letter-spacing:2px;color:#56687A;text-transform:uppercase;margin:8px 0 6px">{escape(PAPER["tagline"])}</div>
+<div style="font:900 38px Georgia,serif;color:#052962;margin:0 0 4px">{escape(PAPER["name"])}</div>
+<div style="font:600 15px Georgia,serif;color:#052962">{subtitle_html}</div></td></tr>
 <tr><td style="padding:18px 28px 4px;font:15px/1.5 Georgia,serif;color:#052962">{escape(note)}</td></tr>
 <tr><td style="padding:8px 28px 0;font:13px/1.6 Arial,sans-serif;color:#56687A">{stats}</td></tr>
 {things_html}

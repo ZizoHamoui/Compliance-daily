@@ -120,9 +120,9 @@ def digest(end=None, days=DAYS):
 
     daily = start == end
     day = datetime.fromisoformat(end)
-    title = (f"{PAPER['name']} daily briefing, {day:%A %B %-d, %Y}" if daily
+    title = (f"{PAPER['name']} briefing, {day:%A %B %-d, %Y}" if daily
              else f"{PAPER['name']} weekly briefing, {fmt(start)} to {fmt(end)}, {end[:4]}")
-    head = [f"# {PAPER['name']} — {'Daily' if daily else 'Weekly'} Audio Briefing",
+    head = [f"# {PAPER['name']} — {'' if daily else 'Weekly '}Audio Briefing",
             f"## {day:%A, %B %-d, %Y} · Episode source document" if daily else f"## {fmt(start)} to {fmt(end)}, {end[:4]} · Episode source document",
             "", f"**{PAPER['regions']}** · {len(stories)} stories · Target length: about {MINUTES} minutes", "", HOST_NOTES]
     if daily and briefs:
@@ -143,7 +143,7 @@ def digest(end=None, days=DAYS):
             if s.get("impact"):
                 body += [f"**Why it matters.** {s['impact']}", ""]
     tail = ["## Sign-off", "",
-            f"That's the {PAPER['name']} {'daily' if daily else 'weekly'} briefing for "
+            f"That's the {PAPER['name']}{'' if daily else ' weekly'} briefing for "
             f"{(day.strftime('%A, %B %-d') if daily else 'this week')}. This episode was generated with AI from "
             f"{'the day' if daily else 'the week'}'s edition. It isn't legal advice, so check the original sources linked in the show notes.",
             "", "### Sources (for the show notes; the hosts don't need to read these)"]
