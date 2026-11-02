@@ -1,9 +1,21 @@
-# The weekly podcast
+# The daily podcast
 
-A roughly 9-minute audio briefing each week, made in Google NotebookLM (free). The only manual part is about five minutes on Sunday;
-everything around it is automatic.
+A short (~6 minute) audio briefing on each edition, made by Google's Gemini Notebook (formerly NotebookLM).
 
-## Your weekly routine (about 5 minutes)
+## One click (normal way)
+Open your scheduled tasks and press **Run now** on **"Tone at the Top daily podcast"**, any time after the 6 a.m. paper.
+Your Mac must be awake with Chrome open, the Claude extension connected and the Claude desktop app running.
+The agent follows `prompts/podcast.md`:
+1. It opens the notebook "Tone at the Top — Daily audio" and swaps in today's sources link (`<site>/podcast/kit/<date>.html`).
+2. It runs Customise Audio Overview with Deep dive, Short, English and the prompt, and waits about 4 minutes.
+3. It downloads the `.m4a`, picks it up from your Downloads folder and pushes it to `claude/podcast-<date>`.
+4. Workflow `5 · Publish podcast episode` converts it, rejects anything under 2.5 or over 25 minutes, and stores it on the
+   `podcast-audio` branch (newest 14 only). It then records it and rebuilds the site.
+5. The Listen bar appears on that edition, and the next morning's email has a Listen button.
+
+If a step in Gemini Notebook changes, edit `prompts/podcast.md`; the scheduled task reads it fresh on every run.
+
+## By hand (fallback)
 
 1. **Sunday morning** you get an email, *Podcast kit: week of …*, with the week's sources file attached.
    (Workflow `6 · Weekly podcast kit`; run it from the Actions tab any time. The same file and prompt are always at
