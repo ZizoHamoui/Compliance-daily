@@ -25,7 +25,9 @@
     <li><a class="kit-btn" href="{{ upload }}"><span class="ms" aria-hidden="true">upload</span>Upload the episode</a> Drag the file onto that page and press <b>Publish release</b>. The site and the next morning email update automatically within a few minutes.</li>
   </ol>
 </main>
-</div>
 <script>document.querySelectorAll('.kit-copy').forEach(function(b){b.addEventListener('click',function(){var t=document.getElementById(b.dataset.copy).textContent;(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(function(){b.lastChild.textContent='Copied';},function(){});});});</script>
+</div>
+{% include "_player.html.j2" %}
+{% include "_scripts.html.j2" %}
 </body>
 </html>

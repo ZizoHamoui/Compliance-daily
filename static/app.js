@@ -4,8 +4,20 @@
  * - Read state and Saved stories, kept in this browser only (localStorage)
  * - Keyboard: / search, j/k move, s save, Esc close
  */
-(function () {
+/* image fallback used by cards (global so it works after in-place page swaps) */
+window.tattImg = function (i, fb) {
+  if (!i.dataset.r) { i.dataset.r = 1; setTimeout(function () { i.src = i.src.split("#")[0] + "#r"; }, 1500); return; }
+  i.onerror = null; i.src = fb; var f = i.closest("figure"); if (f && (f = f.querySelector(".credit"))) f.remove();
+};
+
+/* Runs on first load and again after every in-place navigation (static/nav.js). Global listeners are tied to an
+   AbortController so the previous page's listeners are removed each time. */
+window.tattInit = function () {
   "use strict";
+  if (window._tattCtl) window._tattCtl.abort();
+  var ctl = window._tattCtl = (window.AbortController ? new AbortController() : null);
+  var SIG = ctl ? { signal: ctl.signal } : false;
+  var SIGP = ctl ? { signal: ctl.signal, passive: true } : { passive: true };
   var LS = {
     get: function (k, d) { try { var v = JSON.parse(localStorage.getItem(k)); return v == null ? d : v; } catch (e) { return d; } },
     set: function (k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } }
@@ -77,7 +89,7 @@
 
   /* ------------------------------------------------------------ edition page */
   var feed = document.getElementById("feed");
-  if (!feed) return;
+  if (!feed || !document.querySelector(".toolbar")) return;   // edition pages only
   var allCards = Array.prototype.slice.call(document.querySelectorAll(".card"));
   var lead = document.querySelector(".card-lead");
   var feedCards = allCards.filter(function (c) { return c !== lead; });
@@ -103,7 +115,7 @@
     f.querySelectorAll("input").forEach(function (i) { facetLabel[f.dataset.facet + ":" + i.value] = i.parentNode.querySelector(".opt-l").textContent; });
   });
 
-  var state = { f: {}, q: "", group: "order", view: LS.get("tatt-view", "cards"), hideRead: LS.get("tatt-hideread", false) };
+  var state = { f: {}, q: "", group: "topic", view: LS.get("tatt-view", "cards"), hideRead: false };
   FACETS.forEach(function (k) { state.f[k] = []; });
 
   // URL hash -> state (ignore plain #c-id anchors)
@@ -123,7 +135,7 @@
     var parts = [];
     FACETS.forEach(function (k) { if (state.f[k].length) parts.push(k + "=" + state.f[k].map(encodeURIComponent).join(",")); });
     if (state.q) parts.push("q=" + encodeURIComponent(state.q));
-    if (state.group !== "order") parts.push("group=" + state.group);
+    if (state.group !== "topic") parts.push("group=" + state.group);
     var h = parts.length ? "#" + parts.join("&") : " ";
     history.replaceState(null, "", h === " " ? location.pathname + location.search : h);
   }
@@ -190,8 +202,8 @@
     }
     var count = document.createElement("span");
     count.className = "result-n";
-    count.textContent = any || state.hideRead ? "Showing " + visible + " of " + allCards.length : allCards.length + " stories";
-    box.insertBefore(count, box.firstChild);
+    if (any) { count.textContent = "Showing " + visible + " of " + allCards.length; box.insertBefore(count, box.firstChild); }
+    box.closest(".tb-row2").hidden = !any;
     if (any) {
       var clr = document.createElement("button");
       clr.type = "button"; clr.className = "linkish clear-all"; clr.textContent = "Clear all";
@@ -236,7 +248,6 @@
     document.body.dataset.group = state.group;   // lets CSS drop labels the section heading already states
     document.querySelectorAll(".seg button").forEach(function (b) { b.setAttribute("aria-pressed", b.dataset.view === state.view ? "true" : "false"); });
     groupSel.value = state.group;
-    hideRead.checked = state.hideRead;
     renderApplied(visible);
     markLastRows();
     writeHash();
@@ -250,8 +261,8 @@
       Array.prototype.forEach.call(g.children, function (c) { c.classList.toggle("last-row", !c.hidden && c.offsetTop === maxTop); });
     });
   }
-  var rz; window.addEventListener("resize", function () { clearTimeout(rz); rz = setTimeout(markLastRows, 150); });
-  window.addEventListener("load", markLastRows);
+  var rz; window.addEventListener("resize", function () { clearTimeout(rz); rz = setTimeout(markLastRows, 150); }, SIG);
+  window.addEventListener("load", markLastRows, SIG);
 
   function clearAll() {
     FACETS.forEach(function (k) { state.f[k] = []; });
@@ -261,7 +272,6 @@
   /* ---- controls ---- */
   var search = document.querySelector(".search");
   var groupSel = document.querySelector(".group-by");
-  var hideRead = document.querySelector(".hide-read");
   search.value = state.q;
   var t;
   search.addEventListener("input", function () {
@@ -269,17 +279,14 @@
     t = setTimeout(function () { state.q = search.value.trim().toLowerCase(); apply(); }, 120);
   });
   groupSel.addEventListener("change", function () { state.group = groupSel.value; regroup(); apply(); });
-  hideRead.addEventListener("change", function () { state.hideRead = hideRead.checked; LS.set("tatt-hideread", state.hideRead); apply(); });
   document.querySelectorAll(".seg button").forEach(function (b) {
     b.addEventListener("click", function () { state.view = b.dataset.view; LS.set("tatt-view", state.view); apply(); });
   });
   document.querySelectorAll(".clear-all").forEach(function (b) { b.addEventListener("click", clearAll); });
-  var topBtn = document.querySelector(".dock-top");
-  if (topBtn) topBtn.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: smoothOK() ? "smooth" : "auto" }); });
   // the app bar gains a stronger glass once content scrolls beneath it
   var appbar = document.querySelector(".appbar");
   var onScroll = function () { if (appbar) appbar.classList.toggle("scrolled", window.scrollY > 8); };
-  window.addEventListener("scroll", onScroll, { passive: true }); onScroll();
+  window.addEventListener("scroll", onScroll, SIGP); onScroll();
 
   // facet popovers
   function closePanels(except) {
@@ -308,7 +315,7 @@
       });
     });
   });
-  document.addEventListener("click", function () { closePanels(); });
+  document.addEventListener("click", function () { closePanels(); }, SIG);
 
   // quick filters from the Morning brief counts
   document.querySelectorAll("[data-quick]").forEach(function (b) {
@@ -364,7 +371,7 @@
       var next = cards[Math.max(0, Math.min(cards.length - 1, idx + (e.key === "j" ? 1 : -1)))];
       if (next) { next.querySelector(".stretch").focus(); next.scrollIntoView({ block: "nearest", behavior: smoothOK() ? "smooth" : "auto" }); }
     } else if (e.key === "s" && cur) { e.preventDefault(); setSaved(cur, !saved[cur.dataset.id]); }
-  });
+  }, SIG);
 
   // relative times ("2 days ago"), with the full date kept as a tooltip
   var rtf = window.Intl && Intl.RelativeTimeFormat ? new Intl.RelativeTimeFormat("en", { numeric: "auto" }) : null;
@@ -379,6 +386,7 @@
   var gw = document.querySelector(".greet-word");
   if (gw) { var h = new Date().getHours(); gw.textContent = h < 12 ? "Good morning." : h < 18 ? "Good afternoon." : "Good evening."; }
 
-  if (state.group !== "order") regroup();
+  regroup();
   apply();
-})();
+};
+window.tattInit();

@@ -195,6 +195,7 @@ def episode_view(e):
 def build_podcast(env):
     """Episode audio, the podcast page and the producer kit page. Returns the published episodes, newest first."""
     eps = [episode_view(e) for e in podcast.episodes() if (podcast.AUDIO / e["file"]).exists()][:PODCAST_KEEP]
+    env.globals["player_ep"] = eps[0] if eps else None   # the persistent bottom player shows the newest episode
     out = SITE / "podcast"
     (out / "audio").mkdir(parents=True, exist_ok=True)
     (out / "kit").mkdir(parents=True, exist_ok=True)

@@ -36,6 +36,8 @@ reads one ~15k-token file each morning. `data/seen.json` makes sure no story rep
 
 Solution engineers working with ethics & compliance software. Stories are chosen for what general counsel, chief legal officers and compliance analysts care about, and for recent cases that work as real-world examples in a demo. The paper has no priority labels; stories run in the editor's order. Filters: region (US, Canada, UK, EU), topic, industry, persona, type, source. Internal reference only.
 
+**Audio:** the newest episode plays from a persistent bar at the bottom of every page; `static/nav.js` swaps page content in place, so playback continues while you browse.
+
 **Storylines** link stories across editions into dated timelines (`/storylines/`); the morning editor tags cards (`scripts/storylines.py list`).
 
 **Privacy and copyright:** fonts are self-hosted (no requests to Google), stored source snippets are capped at 280 characters, paywalled outlets contribute headlines only (at most 8 a day, never linked or quoted), and no photos of people are used.

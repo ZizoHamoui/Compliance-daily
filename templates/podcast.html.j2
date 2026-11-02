@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Audio briefings — {{ paper.name }}</title>
-<meta name="description" content="A short daily audio briefing on governance, risk and compliance news from {{ paper.regions }}.">
+<meta name="description" content="A short daily audio briefing on governance, risk and compliance news from the United States, Canada, the United Kingdom and the European Union.">
 <link rel="stylesheet" href="{{ root }}static/fonts.css?v={{ v }}">
 <link rel="stylesheet" href="{{ root }}static/style.css?v={{ v }}">
 </head>
@@ -20,15 +20,16 @@
   {% endif %}
   {% for e in episodes %}
   <article class="episode" id="ep-{{ e.date }}">
-    {% if loop.first %}{% with episode = e %}{% include "_listen.html.j2" %}{% endwith %}
-    {% else %}
-    <header><p class="ep-meta">{{ e.range_label }} · {{ e.minutes }} min</p><h2>{{ e.title }}</h2></header>
-    <audio controls preload="none" src="{{ root }}podcast/audio/{{ e.file }}"></audio>
-    {% endif %}
+    <div class="ep-row">
+      <button type="button" class="ep-play" data-play-ep="{{ e.date }}" data-play-src="{{ root }}podcast/audio/{{ e.file }}"
+        data-play-title="{{ e.title }}" data-play-seconds="{{ e.seconds }}" data-play-notes="{{ root }}podcast/index.html#ep-{{ e.date }}"
+        aria-label="Play {{ e.title }}"><span class="ms" aria-hidden="true">play_arrow</span></button>
+      <header><p class="ep-meta">{{ e.range_label }} · {{ e.minutes }} min</p><h2>{{ e.title }}</h2></header>
+    </div>
     {% if e.stories %}
     <details class="ep-notes"{% if loop.first %} open{% endif %}>
       <summary>Show notes · {{ e.stories|length }} stories</summary>
-      <ul>{% for s in e.stories %}<li><a href="{{ s.url }}">{{ s.title }}</a>{% if s.source %} <span class="ep-src">{{ s.source }}</span>{% endif %}</li>{% endfor %}</ul>
+      <ul>{% for s in e.stories %}<li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a>{% if s.source %} <span class="ep-src">{{ s.source }}</span>{% endif %}</li>{% endfor %}</ul>
     </details>
     {% endif %}
     <p class="ep-dl"><a href="{{ root }}podcast/audio/{{ e.file }}" download><span class="ms" aria-hidden="true">download</span>Download MP3 ({{ e.mb }} MB)</a></p>
@@ -37,6 +38,7 @@
   <p class="pod-disclaimer">Episodes are AI-generated with Google NotebookLM from each edition. The voices are synthetic and can get details wrong, so check the linked sources before relying on anything you hear. This is not legal advice.</p>
 </main>
 </div>
-<script src="{{ root }}static/player.js?v={{ v }}"></script>
+{% include "_player.html.j2" %}
+{% include "_scripts.html.j2" %}
 </body>
 </html>
