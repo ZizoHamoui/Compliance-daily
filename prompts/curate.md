@@ -102,10 +102,50 @@ Briefing object (stored under `briefings[<card id>]`):
 - `bottom_line`: 3–5 items, each `{"id": "<card id>", "text": "<≤ 20 words: what happened + what to do>"}`,
   for the stories a Chief Compliance Officer must not miss (normally the `High` ones). Plain, action-first.
 
+## 3b. Podcast brief (the source NotebookLM turns into the daily audio episode)
+NotebookLM cannot open links, so `podcast_brief` must contain everything the two AI hosts will talk about.
+Write it in Markdown, **1,500–2,600 words**, entirely in your own words (no copied sentences, at most one quote under
+15 words per source). Cover **every card**, numbered in order of importance: the lead first, then High, Medium, Low.
+**Do not** give advice or actions ("what to do", "should", checklists), and **do not** use the labels "Act now",
+"Watch", "Good to know" or "Quick hits". Code adds the host notes, sign-off and source links around your text.
+
+Research: use the candidate snippets, then up to **8 web searches in total** (WebSearch; WebFetch if allowed) to add
+real detail for the top 3 stories: dates, numbers, names, how the case or rule came about, what's disputed.
+State only what a source supports; say so plainly when something is uncertain or pending.
+
+Exact structure:
+```markdown
+## The day in one line
+
+<2–3 sentences tying the day together>
+
+## Story 1 — <headline>
+
+**The facts.**
+- <who acted, where, when; key numbers, names and details from the article>
+
+**Background.**
+- <how this came about: earlier rules, cases, timeline>
+
+**Who's affected.**
+- <industries, functions, people>
+
+**Why it matters.** <2–4 sentences: the significance, without telling anyone what to do>
+
+**Questions to explore.**
+- <2–4 questions the hosts can discuss>
+
+## Story 2 — ...
+```
+Stories 1–3 get the full treatment (the lead about 600–800 words; stories 2–3 about 300–450 each). From story 4 on,
+keep each to about 80–150 words with the same headings in short form (facts, background, who's affected, why it
+matters, one question). If something important isn't true or covered (for example, a rule applies only to medical
+cannabis), you may add a short `**What it does not change.**` list after Background.
+
 ## 4. Save, validate, publish
 Write `editions/$D.json`:
 ```json
-{"date": "YYYY-MM-DD", "lead_id": "<id>", "editor_note": "...", "bottom_line": [ ... ], "cards": [ ...25 cards, lead included... ],
+{"date": "YYYY-MM-DD", "lead_id": "<id>", "editor_note": "...", "bottom_line": [ ... ], "podcast_brief": "## The day in one line\n\n...", "cards": [ ...25 cards, lead included... ],
  "briefings": { "<briefing card id>": { ... } } }
 ```
 Then run:

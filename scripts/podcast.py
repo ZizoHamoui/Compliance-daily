@@ -36,39 +36,34 @@ REGIONS = {"US": "United States", "CA": "Canada", "EU": "European Union"}
 DEFAULT_TITLE = "Today in compliance" if DAYS == 1 else "This week in compliance"
 
 # Pasted into NotebookLM's "Customize" box. NotebookLM limits this box (reportedly 500 characters),
-# so the detailed direction lives in the PRODUCER NOTES at the top of the sources file instead.
+# so the detailed direction lives in the Notes for the hosts at the top of the source document instead.
 if DAYS == 1:
-    PROMPT = ("Audience: chief compliance officers in the US, Canada and EU. Make a ~6-minute daily briefing on this edition. "
-              "Follow the PRODUCER NOTES and running order in the source: the day in one line, ACT NOW stories in depth "
-              "(what happened, who is affected, what to do), the WATCH stories briefly, quick hits, then one thing to do today. "
-              "Name the regulator for each story. Plain, calm, professional English. Stay strictly within the sources; no legal advice.")
+    PROMPT = ("Audience: chief compliance officers in the US, Canada and EU. Make a ~6-minute daily briefing. "
+              "Follow the Notes for the hosts in the source: open with the day in one line, then cover the stories in order, "
+              "most time on story 1. For each, explain the facts, background, who's affected and why it matters, using the "
+              "questions to explore to drive the conversation. Name the agency or court and country. "
+              "Calm, professional English. Stay strictly within the source; no legal advice.")
 else:
     PROMPT = ("Audience: chief compliance officers in the US, Canada and EU. Make a ~9-minute weekly briefing. "
-              "Follow the PRODUCER NOTES and running order in the source: the week in one line, ACT NOW stories in depth "
-              "(what happened, who is affected, what to do), the WATCH list briefly, quick hits, then one thing to do Monday. "
-              "Name the regulator and date for each story. Plain, calm, professional English. "
-              "Stay strictly within the sources; no legal advice.")
+              "Follow the Notes for the hosts in the source: open with the week in brief, then cover the stories in order, "
+              "most time on the first ones. Explain the facts, background and why each matters. Name the agency or court, "
+              "country and date. Calm, professional English. Stay strictly within the source; no legal advice.")
 SETTINGS = [("Format", "Deep Dive"),
             ("Length", "Shorter" if DAYS == 1 else "Default (use Shorter if episodes run past 12 minutes)"),
             ("Language", "English")]
 
-_NOTES = """PRODUCER NOTES FOR THE HOSTS
-- Audience: chief compliance officers, general counsel and GRC teams in the United States, Canada and the European Union. They are experts: skip basic definitions and get to consequences.
-- Target length: about {minutes} minutes. Spend most of the time on ACT NOW. Cover WATCH in a sentence or two each. Read QUICK HITS as a fast list.
-- Running order:
-  1. Open with the name of the show, "The Tone at the Top {show}", the {span} covered, and the {unit} in one sentence.
-  2. ACT NOW: for each story say who acted (the regulator, court or agency), when, what happened, who is affected, and the practical step a compliance team should take.
-  3. WATCH: what is coming and when it could bite.
-  4. QUICK HITS: one line each.
-  5. Close with ONE concrete thing to do {when}, then a reminder that this is AI-generated and not legal advice; listeners should check the linked sources.
-- Always name the jurisdiction (U.S., Canada, EU or the member state).
-- Use only facts in this document. Do not guess penalties, dates or names that are not written here.
-- Tone: calm, precise and practical. No hype, no jokes about enforcement actions or victims.
-"""
-PRODUCER_NOTES = _NOTES.format(minutes=MINUTES, show="daily briefing" if DAYS == 1 else "weekly briefing",
-                               span="date" if DAYS == 1 else "dates", unit="day" if DAYS == 1 else "week",
-                               when="today" if DAYS == 1 else "on Monday morning")
+HOST_NOTES = """## Notes for the hosts
 
+This document is the **only source** for today's episode. Everything you need is written out below; you do not need to open any link. The listeners are **chief compliance officers, general counsel and GRC teams**. They are experts, so skip basic definitions and focus on the facts, the background and why each story matters.
+
+- **Running order:** open with the day in one line, then follow the stories in the order they appear. Spend the most time on story 1 (about 2½ minutes), less on stories 2 and 3 (about 45 seconds each), and cover the rest briefly (about 20 seconds each). Close with the sign-off.
+- **Always say who acted and where:** the agency or court, and the country.
+- **Stay inside this document.** If a fact isn't written here, don't say it. Where something is uncertain or disputed, the document says so; keep that nuance.
+- **Use the "questions to explore"** under each story to drive the conversation between you.
+- **Tone:** calm, curious, a little conversational. No jokes about crimes or victims.
+- **Close every episode** by saying it's AI-generated, it isn't legal advice, and listeners should check the sources in the show notes.
+"""
+PRODUCER_NOTES = HOST_NOTES  # kept for older callers
 
 def slug(s):  # same rule as build.py, so links match the briefing pages
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60] or "briefing"
@@ -90,15 +85,20 @@ def latest_edition(on_or_before=None):
 
 
 def digest(end=None, days=DAYS):
-    """Collect the stories from the `days` editions ending on `end` (default: the latest edition) into a NotebookLM sources file."""
+    """The NotebookLM source document for the `days` editions ending on `end` (default: the latest edition).
+
+    Daily: host notes + the editor's `podcast_brief` (written in the morning curation run) + sign-off + sources.
+    If an edition has no podcast_brief, a simpler version in the same format is generated from the cards."""
     end = end or latest_edition()
     start, end = week_range(end, days)
-    days = sorted((p.stem for p in EDITIONS.glob("*.json") if start <= p.stem <= end), reverse=True)
-    seen, stories, notes, briefings = set(), [], [], []
-    for d in days:
+    eds = sorted((p.stem for p in EDITIONS.glob("*.json") if start <= p.stem <= end), reverse=True)
+    seen, stories, notes, briefs, ai_bodies = set(), [], [], [], {}
+    for d in eds:
         ed = read_json(EDITIONS / f"{d}.json", {}) or {}
         if ed.get("editor_note"):
             notes.append((d, ed["editor_note"]))
+        if (ed.get("podcast_brief") or "").strip():
+            briefs.append((d, ed["podcast_brief"].strip()))
         for c in ed.get("cards", []):
             key = c.get("id") or c.get("url")
             if key in seen:
@@ -109,49 +109,50 @@ def digest(end=None, days=DAYS):
             if c.get("kind") == "briefing":
                 b = (ed.get("briefings") or {}).get(c["id"], {})
                 s["link"] = f"{PAPER['site_url']}editions/{d}/b/{slug(b.get('headline') or c['title'])}.html"
-                if b.get("body_md"):
-                    briefings.append((c["title"], b.get("body_md", "")))
+                ai_bodies[key] = b.get("body_md", "")
             else:
                 s["link"] = c.get("url", "")
             stories.append(s)
-    rank = lambda s: (-s["weight"], s["edition"])
-    high = sorted([s for s in stories if s["level"] == "High"], key=rank)[:20]
-    medium = sorted([s for s in stories if s["level"] == "Medium"], key=rank)[:15]
-    low = sorted([s for s in stories if s["level"] not in ("High", "Medium")], key=rank)[:15]
+    order = {"High": 0, "Medium": 1}
+    stories.sort(key=lambda s: (order.get(s["level"], 2), -s["weight"], s["edition"]))
+    stories = stories[:25 if days == 1 else 30]
 
-    def block(i, s, full=True):
-        meta = " · ".join(x for x in [fmt(s.get("published") or s["edition"]), REGIONS.get(s.get("region"), s.get("region", "")),
-                                      s.get("source", ""), TOPICS.get(s.get("topic"), {}).get("label", "")] if x)
-        out = [f"{i}. {s['title']}", f"   {meta}"]
-        if full:
-            if s.get("summary"):
-                out.append(f"   What happened: {s['summary']}")
-            if s.get("impact"):
-                out.append(f"   Why it matters: {s['impact']}")
-        elif s.get("impact") or s.get("summary"):
-            out.append(f"   {s.get('impact') or s.get('summary')}")
-        out.append(f"   Source: {s['link']}")
-        return "\n".join(out)
-
-    if start == end:
-        title = f"{PAPER['name']} daily briefing, {datetime.fromisoformat(end):%A %B %-d, %Y}"
+    daily = start == end
+    day = datetime.fromisoformat(end)
+    title = (f"{PAPER['name']} daily briefing, {day:%A %B %-d, %Y}" if daily
+             else f"{PAPER['name']} weekly briefing, {fmt(start)} to {fmt(end)}, {end[:4]}")
+    head = [f"# {PAPER['name']} — {'Daily' if daily else 'Weekly'} Audio Briefing",
+            f"## {day:%A, %B %-d, %Y} · Episode source document" if daily else f"## {fmt(start)} to {fmt(end)}, {end[:4]} · Episode source document",
+            "", f"**{PAPER['regions']}** · {len(stories)} stories · Target length: about {MINUTES} minutes", "", HOST_NOTES]
+    if daily and briefs:
+        body = [briefs[0][1]]
     else:
-        title = f"{PAPER['name']} weekly briefing, {fmt(start)} to {fmt(end)}, {end[:4]}"
-    parts = [title.upper(), f"{PAPER['regions']} · {len(stories)} stories from {len(days)} edition{'s' if len(days) != 1 else ''}", "", PRODUCER_NOTES]
-    if len(notes) == 1:
-        parts += ["THE DAY IN ONE LINE (the editor's summary)", notes[0][1], ""]
-    elif notes:
-        parts += ["THE WEEK, DAY BY DAY (the editor's one-line summary of each edition)"]
-        parts += [f"- {datetime.fromisoformat(d):%A %b %-d}: {n}" for d, n in notes] + [""]
-    for name, group, full in [("ACT NOW", high, True), ("WATCH", medium, True), ("QUICK HITS", low, False)]:
-        if group:
-            parts += [f"SECTION: {name} ({len(group)} stor{'y' if len(group) == 1 else 'ies'})", ""]
-            parts += [block(i, s, full or days == 1) + "\n" for i, s in enumerate(group, 1)]
-    for t, body in briefings:
-        parts += [f"BACKGROUND BRIEFING: {t}", body.strip()[:2500], ""]
-    parts += ["END OF SOURCES. Everything above was summarised from official and free public sources by an AI editor."]
-    show_notes = [{"title": s["title"], "url": s["link"], "source": s.get("source", ""), "level": s["level"]} for s in high + medium]
-    return {"start": start, "end": end, "title": title, "text": "\n".join(parts), "stories": show_notes, "count": len(stories)}
+        body = ["## The day in one line" if daily else "## The week in brief", ""]
+        body += [n for _, n in notes[:1]] if daily else [f"- {datetime.fromisoformat(d):%A %b %-d}: {n}" for d, n in notes]
+        body.append("")
+        for i, s in enumerate(stories, 1):
+            meta = " · ".join(x for x in [fmt(s.get("published") or s["edition"]), REGIONS.get(s.get("region"), s.get("region", "")),
+                                          s.get("source", "")] if x)
+            body += [f"## Story {i} — {s['title']}", "", f"*{meta}*", ""]
+            if s.get("summary"):
+                body += [f"**The facts.** {s['summary']}", ""]
+            bg = re.split(r"\n#+\s*What compliance teams should do", ai_bodies.get(s.get("id"), "") or "")[0].strip()
+            if bg:
+                body += ["**Background.**", "", bg[:2500], ""]
+            if s.get("impact"):
+                body += [f"**Why it matters.** {s['impact']}", ""]
+    tail = ["## Sign-off", "",
+            f"That's the {PAPER['name']} {'daily' if daily else 'weekly'} briefing for "
+            f"{(day.strftime('%A, %B %-d') if daily else 'this week')}. This episode was generated with AI from "
+            f"{'the day' if daily else 'the week'}'s edition. It isn't legal advice, so check the original sources linked in the show notes.",
+            "", "### Sources (for the show notes; the hosts don't need to read these)"]
+    tail += [f"- {s.get('source', '')}: {s['title']} — {s['link']}" for s in stories]
+    text = "\n".join(head + body + [""] + tail) + "\n"
+    show_notes = [{"title": s["title"], "url": s["link"], "source": s.get("source", ""), "level": s["level"]}
+                  for s in stories if s["level"] in ("High", "Medium")] or \
+                 [{"title": s["title"], "url": s["link"], "source": s.get("source", ""), "level": s["level"]} for s in stories[:8]]
+    return {"start": start, "end": end, "title": title, "text": text, "stories": show_notes,
+            "count": len(stories), "has_brief": bool(daily and briefs)}
 
 
 def episodes():

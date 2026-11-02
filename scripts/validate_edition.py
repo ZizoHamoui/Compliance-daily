@@ -88,6 +88,20 @@ def main(path):
     for b in bl:
         if b.get("id") not in ids or not b.get("text") or words(b.get("text")) > 25:
             errs.append(f"bottom_line item invalid (unknown id or text missing/over 20 words): {b}")
+    pb = (ed.get("podcast_brief") or "").strip()
+    if not pb:
+        print("warning: podcast_brief missing; the podcast kit will fall back to card summaries")
+    else:
+        low = pb.lower()
+        if words(pb) < 800:
+            errs.append(f"podcast_brief too short ({words(pb)} words; aim for 1,500-2,600)")
+        for need in ("## the day in one line", "## story 1", "**the facts.**", "**background.**", "**who's affected.**",
+                     "**why it matters.**", "**questions to explore.**"):
+            if need not in low.replace("\u2019", "'"):
+                errs.append(f"podcast_brief is missing the section {need!r}")
+        for banned in ("act now", "quick hits", "good to know", "what compliance teams should do", "what to do"):
+            if banned in low:
+                errs.append(f"podcast_brief must not contain {banned!r} (no priority labels, no advice)")
     if nb > PAPER.get("max_briefings", 3):
         errs.append(f"too many briefings ({nb})")
 

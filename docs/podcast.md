@@ -2,6 +2,13 @@
 
 A short (~6 minute) audio briefing on each edition, made by Google's Gemini Notebook (formerly NotebookLM).
 
+## The source document (podcast kit)
+NotebookLM can't open links, so each day's kit is a self-contained briefing: notes for the hosts, the day in one line, then
+every story numbered in order of importance, each with **The facts**, **Background**, **Who's affected**, **Why it matters** and
+**Questions to explore**. There are no priority labels and no "what to do" advice. The morning editor writes the stories into the
+edition (`podcast_brief`, rules in `prompts/curate.md` §3b), the validator checks the structure, and `scripts/podcast.py` adds the
+host notes, sign-off and source list. If a day has no brief, a simpler version in the same format is built from the cards.
+
 ## One click (normal way)
 Open your scheduled tasks and press **Run now** on **"Tone at the Top daily podcast"**, any time after the 6 a.m. paper.
 Your Mac must be awake with Chrome open, the Claude extension connected and the Claude desktop app running.
