@@ -33,7 +33,7 @@ jobs:
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt
       - name: Fetch, score and dedupe
-        run: python scripts/fetch.py ${{ (inputs.force == true || (github.event_name == 'push' && github.ref == 'refs/heads/main')) && '--force' || '' }}
+        run: python scripts/fetch.py ${{ (inputs.force == true || endsWith(github.ref, '-force') || (github.event_name == 'push' && github.ref == 'refs/heads/main')) && '--force' || '' }}   # a request branch ending in -force re-fetches even if today is done
       - id: commit
         name: Commit candidates
         run: |
