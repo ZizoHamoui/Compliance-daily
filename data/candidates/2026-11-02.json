@@ -1,0 +1,510 @@
+{
+ "date": "2026-11-02",
+ "generated": "2026-11-02T12:36:18+00:00",
+ "count": 19,
+ "by_region": {
+  "UK": 4,
+  "US": 2,
+  "EU": 4,
+  "CA": 1
+ },
+ "paywalled": 8,
+ "items": [
+  {
+   "id": "2e5eca952f3b",
+   "title": "FCA restricts 6 firms following concerns over anti-money laundering controls",
+   "snippet": "Restrictions have been placed on 6 unregulated lenders, known as Annex 1 firms, after the FCA raised concerns about their anti-money laundering policies, controls and procedures while assessing their applications. The restrictions were imposed by the FCA on each firm’s request…",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 15.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "id": "ad59a1753dd5",
+   "title": "Building the future of finance in the age of AI",
+   "snippet": "Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030.Some developments we anticipated…",
+   "url": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 9.68,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "26d1ff66501d",
+   "title": "Compliance & Risk Lessons From AI’s Unruly Summer",
+   "snippet": "The past several months have seen Anthropic go dark & OpenAI’s models slip into Hugging Face’s systems, signaling that AI risk is increasingly fluid The post Compliance & Risk Lessons From AI’s Unruly Summer appeared first on Corporate Compliance Insights .",
+   "url": "https://www.corporatecomplianceinsights.com/compliance-risk-lessons-from-ai-unruly-summer/",
+   "paywall_url": "",
+   "source": "Corporate Compliance Insights",
+   "source_id": "cci",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T12:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 8.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "ce2d5a9137ab",
+   "title": "Former Correctional Officer Sentenced on Federal Civil Rights Charges in Connection with Conspiracy to Violate Inmates’ Rights at West Virginia Jail",
+   "snippet": "A former correctional officer from the Southern Regional Jail in Beaver, West Virginia, was sentenced today to 24 months in prison for his role in a conspiracy in which he and other correctional officers used unreasonable and unjustified force against inmates, including pretrial…",
+   "url": "https://www.justice.gov/opa/pr/former-correctional-officer-sentenced-federal-civil-rights-charges-connection-conspiracy",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 8.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "d08b1ea5eb1e",
+   "title": "INTERVIEW: Czech ammo major CSG is fortifying its supply chain",
+   "snippet": "The CSG group is restarting production of key explosive components",
+   "url": "https://www.rapporteur.com/news/interview-csg-aims-to-control-its-supply-chain-to-curb-bottlenecks/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 6.72,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Container_cranes_at_the_Port_of_Oakland-.jpg/1280px-Container_cranes_at_the_Port_of_Oakland-.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Yair-haklai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland-.jpg"
+   }
+  },
+  {
+   "id": "a6dbc9bcd663",
+   "title": "FCA publishes terms of reference for independent review concerning Mr Andriesz",
+   "snippet": "We have published the terms of reference for the review into our handling of interactions with Mr Simon Andriesz, a whistleblower who made protected disclosures to the FCA. We shared our condolences following Mr Andriesz's tragic death and our thoughts remain with his family and…",
+   "url": "https://www.fca.org.uk/news/statements/fca-publishes-terms-reference-independent-review-concerning-mr-andriesz",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 3.3,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   }
+  },
+  {
+   "id": "900fc95efc45",
+   "title": "Financial Literacy Month 2026 encourages Canadians to talk money and build financial confidence",
+   "snippet": "November is Financial Literacy Month (FLM) in Canada, and the Financial Consumer Agency of Canada (FCAC) is encouraging Canadians to have simple, practical conversations about money to help build confidence and improve financial well-being.",
+   "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/10/financial-literacy-month-2026-encourages-canadians-to-talk-money-and-build-financial-confidence.html",
+   "paywall_url": "",
+   "source": "Financial Consumer Agency of Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-10-30T11:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 3.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "a0078cc21d18",
+   "title": "Former chief executive banned after misconduct led to £4m losses in high-risk investments",
+   "snippet": "The FCA has banned Jeffrey Dawkins, the former chief executive of Vector Wealth Ltd, after he dishonestly acted as a front for a disqualified director using the company to sell high-risk bonds. Mr Dawkins has also been fined nearly £270,000.In 2019, Mr Dawkins sold Vector Wealth…",
+   "url": "https://www.fca.org.uk/news/press-releases/former-chief-executive-banned-after-misconduct-led-4m-losses-high-risk-investments",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "ed88a0296caf",
+   "title": "Climate scientists paint devastating picture of ice loss worldwide",
+   "snippet": "Much of the damage is already irreversible but could worsen catastrophically, warns a report on the eve of the COP31 climate summit",
+   "url": "https://www.rapporteur.com/news/climate-scientists-paint-devastating-picture-of-ice-loss-worldwide/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "2ea4a25e24c8",
+   "title": "THE HACK: Cloud industry’s CAIDA gripes",
+   "snippet": "In today's edition: Kids Act, Frontex, AI stocks",
+   "url": "https://www.rapporteur.com/news/the-hack-cloud-industrys-caida-gripes/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T09:10+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.54,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "1d80b72bd488",
+   "title": "EXCLUSIVE: EU to seek global action against climate super-pollutant SF6",
+   "snippet": "Push for 'SF6-free technologies' is to be launched at Germany's COP31 pavilion",
+   "url": "https://www.rapporteur.com/news/exclusive-eu-to-seek-global-action-against-climate-super-pollutant-sf6/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "e5565d7f212d",
+   "title": "Taiwan: AML reforms target beneficial ownership transparency as enforcement expands across virtual assets and payment services",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-guide-anti-money-laundering/fourth-edition/article/taiwan-aml-reforms-target-beneficial-ownership-transparency-enforcement-expands-across-virtual-assets-and-payment-services",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-02T09:00+00:00",
+   "topic": "due_diligence",
+   "tags": [
+    "due_diligence",
+    "aml_sanctions",
+    "enforcement"
+   ],
+   "score": 19.86,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "947cff60bc9f",
+   "title": "Fines, disgorgement, injunctions, debarment: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/fines-disgorgement-injunctions-debarment-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "anti_bribery"
+   ],
+   "score": 19.04,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "8b35a192fc2e",
+   "title": "Fines, disgorgement, injunctions, debarment: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/fines-disgorgement-injunctions-debarment-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "enforcement_policy",
+    "governance"
+   ],
+   "score": 18.73,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "518b31612bc7",
+   "title": "United States: sanctions, whistleblowers and AI drive corporate investigations agenda",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/united-states-sanctions-whistleblowers-and-ai-drive-corporate-investigations-agenda",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "aml_sanctions",
+    "governance"
+   ],
+   "score": 16.29,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1ee7dee030e4",
+   "title": "Individual penalties and third-party rights: the UK perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/individual-penalties-and-third-party-rights-the-uk-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "third_party_risk",
+    "enforcement_policy"
+   ],
+   "score": 15.69,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "306b65af01af",
+   "title": "Switzerland: enforcement remains focused on financial institutions",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/switzerland-enforcement-remains-focused-financial-institutions",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "anti_bribery"
+   ],
+   "score": 14.24,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "04961d0dc9c4",
+   "title": "Self-reporting to the authorities and other disclosure obligations: the US perspective",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/self-reporting-the-authorities-and-other-disclosure-obligations-the-us-perspective",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "enforcement_policy",
+    "enforcement"
+   ],
+   "score": 13.78,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "82c5585c1929",
+   "title": "Finland: corporate liability remains in focus as fines reach unprecedented levels",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/finland-corporate-liability-remains-in-focus-fines-reach-unprecedented-levels",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-10-30T09:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions",
+    "esg"
+   ],
+   "score": 12.98,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}

@@ -5590,5 +5590,569 @@
     "title": "U.S. Department of Energy - Science - 270 046 001 (15525851438).jpg"
    }
   }
+ ],
+ "v2|bank building facade": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Taylor_Bank_Building%2C_facade_%2821617137902%29.jpg/1280px-Taylor_Bank_Building%2C_facade_%2821617137902%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Taylor_Bank_Building,_facade_(21617137902).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Taylor Bank Building, facade (21617137902).jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Nizhny_Novgorod._Facade_of_State_Bank_Building_at_Gruzinskaya_Street.jpg/1280px-Nizhny_Novgorod._Facade_of_State_Bank_Building_at_Gruzinskaya_Street.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Алексей Белобородов",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nizhny_Novgorod._Facade_of_State_Bank_Building_at_Gruzinskaya_Street.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Nizhny Novgorod. Facade of State Bank Building at Gruzinskaya Street.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fifth_Third_Bank_Building%2C_Kalamazoo%2C_fa%C3%A7ade.jpg/1280px-Fifth_Third_Bank_Building%2C_Kalamazoo%2C_fa%C3%A7ade.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Kzoo Cowboy",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fifth_Third_Bank_Building,_Kalamazoo,_fa%C3%A7ade.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Fifth Third Bank Building, Kalamazoo, façade.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Dime_Savings_Bank_Building_011.jpg/1280px-Dime_Savings_Bank_Building_011.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Kidfly182",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dime_Savings_Bank_Building_011.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Dime Savings Bank Building 011.jpg"
+   }
+  }
+ ],
+ "v2|data center servers": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Virginia_Tech_-_data_center.jpg/1280px-Virginia_Tech_-_data_center.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Christopher Bowns",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Virginia Tech - data center.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1280px-Data_center_roof.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Rsparks3",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Data center roof.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Brazil_data_center_of_the_Wikimedia_Foundation.png/1280px-Brazil_data_center_of_the_Wikimedia_Foundation.png",
+   "credit": {
+    "kind": "commons",
+    "author": "Arzhel Younsi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Brazil_data_center_of_the_Wikimedia_Foundation.png",
+    "provider": "Wikimedia Commons",
+    "title": "Brazil data center of the Wikimedia Foundation.png"
+   }
+  }
+ ],
+ "v2|robert f. kennedy department of justice building": [
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Plato inscription - 2714.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Office of AG signage - 2723.jpg"
+   }
+  }
+ ],
+ "v2|container port cranes": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Container_cranes_at_the_Port_of_Oakland-.jpg/1280px-Container_cranes_at_the_Port_of_Oakland-.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Yair-haklai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland-.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Container_cranes_at_the_Port_of_Oakland.jpg/1280px-Container_cranes_at_the_Port_of_Oakland.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Cullen328",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Port_cranes%2C_Container-Terminal_Bremerhaven.jpg/1280px-Port_cranes%2C_Container-Terminal_Bremerhaven.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Olga Ernst",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Port_cranes,_Container-Terminal_Bremerhaven.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Port cranes, Container-Terminal Bremerhaven.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Container-Terminal_Bremerhaven_02.jpg/1280px-Container-Terminal_Bremerhaven_02.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container-Terminal_Bremerhaven_02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container-Terminal Bremerhaven 02.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg/1280px-Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Chareinity",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Teal Striped Container Cranes at Tanjung Pelepas Port Ver2.jpg"
+   }
+  }
+ ],
+ "v2|whistle": [
+  {
+   "score": 1,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Pottery_Whistle_MET_DP157369.jpg/1280px-Pottery_Whistle_MET_DP157369.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Unknown author",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pottery_Whistle_MET_DP157369.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pottery Whistle MET DP157369.jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Figure_Whistle_MET_DP227402.jpg/1280px-Figure_Whistle_MET_DP227402.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Unknown author",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Figure_Whistle_MET_DP227402.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Figure Whistle MET DP227402.jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lanyard_and_whistle_%28AM_740975-5%29.jpg/1280px-Lanyard_and_whistle_%28AM_740975-5%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "not researched",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lanyard_and_whistle_(AM_740975-5).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Lanyard and whistle (AM 740975-5).jpg"
+   }
+  }
+ ],
+ "v2|parliament hill ottawa": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Parliament_Hill_from_the_Ottawa_River.JPG/1280px-Parliament_Hill_from_the_Ottawa_River.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Óðinn",
+    "license": "CC BY-SA 2.5 ca",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parliament_Hill_from_the_Ottawa_River.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Parliament Hill from the Ottawa River.JPG"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Parliament_Hill_from_a_Hot_Air_Balloon%2C_Ottawa%2C_Ontario%2C_Canada%2C_Y2K_%287173715788%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "tsaiproject from Canada",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parliament_Hill_from_a_Hot_Air_Balloon,_Ottawa,_Ontario,_Canada,_Y2K_(7173715788).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Parliament Hill from a Hot Air Balloon, Ottawa, Ontario, Canada, Y2K (7173715788).jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Parliament_Hill_Ottawa_by_Louie_Luo.jpg/1280px-Parliament_Hill_Ottawa_by_Louie_Luo.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Louie Luo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parliament_Hill_Ottawa_by_Louie_Luo.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Parliament Hill Ottawa by Louie Luo.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Parliament_Hill_Ottawa_Ontario_Canada.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Salwa Farwaneh",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parliament_Hill_Ottawa_Ontario_Canada.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Parliament Hill Ottawa Ontario Canada.jpg"
+   }
+  }
+ ],
+ "v2|courthouse columns": [
+  {
+   "score": 2,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Courthouse_Polk_County_Texas.jpg/1280px-Courthouse_Polk_County_Texas.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jim Evans",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Courthouse_Polk_County_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Courthouse Polk County Texas.jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hall_County_Courthouse_Memphis%2C_Texas%2C_United_States.jpg/1280px-Hall_County_Courthouse_Memphis%2C_Texas%2C_United_States.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Huggums537",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hall_County_Courthouse_Memphis,_Texas,_United_States.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hall County Courthouse Memphis, Texas, United States.jpg"
+   }
+  }
+ ],
+ "v2|wind turbines": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/1280px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Matthew T Rader",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roscoe_Wind_Farm_in_West_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Roscoe Wind Farm in West Texas.jpg"
+   }
+  }
+ ],
+ "v2|server room": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Server_Room_%2822397102849%29.jpg/1280px-Server_Room_%2822397102849%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Server_Room_(22397102849).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Server Room (22397102849).jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Centaur_server_room_%282293424530%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "VIA Gallery from Hsintien, Taiwan",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centaur_server_room_(2293424530).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centaur server room (2293424530).jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Server_room_backup_power_generator_-_IMG_0451.jpg/1280px-Server_room_backup_power_generator_-_IMG_0451.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jemimus",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Server_room_backup_power_generator_-_IMG_0451.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Server room backup power generator - IMG 0451.jpg"
+   }
+  }
  ]
 }
