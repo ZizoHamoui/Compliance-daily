@@ -57,3 +57,5 @@ interactive layer, and accents from Twitch, Slack and Spotify for clear, modern 
 
 `static/style.css` `:root` holds every colour as a CSS variable, and `scripts/send_email.py` and
 `scripts/build.py` (illustrations) use the same hex values. Change colours there only, and keep this document in sync.
+
+Fonts are self-hosted in `static/fonts/` (Roboto Flex and Roboto Serif under the SIL Open Font License; Material Symbols Rounded under Apache 2.0) and loaded through `static/fonts.css`, so no visitor's browser contacts Google.

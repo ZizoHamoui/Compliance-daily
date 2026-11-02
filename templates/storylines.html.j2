@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Storylines — {{ paper.name }}</title>
+<link rel="stylesheet" href="{{ root }}static/fonts.css?v={{ v }}">
+<link rel="stylesheet" href="{{ root }}static/style.css?v={{ v }}">
+</head>
+<body>
+<div class="wrap">
+{% set ed = None %}
+{% include "_masthead.html.j2" %}
+<main class="podcast-page storylines" id="feed">
+  <h1>Storylines</h1>
+  <p class="pod-intro">Ongoing threads in ethics and compliance, each with a dated timeline of every story the paper has covered, newest first.</p>
+  {% if not threads %}<p class="pod-empty">No storylines yet. They appear as soon as a story is linked to an ongoing thread.</p>{% endif %}
+  <ul class="thread-list">
+  {% for t in threads %}
+    <li><a href="{{ t.slug }}.html"><span class="tl-title">{{ t.title }}</span>
+      <span class="tl-meta">{{ t.count }} {{ 'story' if t.count == 1 else 'stories' }} · {{ t.first }}{% if t.first != t.last %} to {{ t.last }}{% endif %}</span>
+      <span class="tl-latest">Latest: {{ t.latest }}</span></a></li>
+  {% endfor %}
+  </ul>
+<p class="pod-disclaimer">Internal reference only: AI-assisted, not legal advice, and not for forwarding to clients. Check the original source before relying on any story.</p>
+</main>
+</div>
+</body>
+</html>

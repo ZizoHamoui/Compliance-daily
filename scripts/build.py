@@ -12,7 +12,9 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from common import CANDIDATES, EDITIONS, PAPER, SITE, STATIC, TEMPLATES, load_yaml, read_json, today_local
 import podcast
+import storylines as storylines_mod
 
+STORY_TITLES = {}   # storyline slug -> title, filled in main()
 PODCAST_KEEP = 14  # episodes published on the site
 
 TOPICS = load_yaml("topics.yaml")["topics"]
@@ -143,6 +145,7 @@ def normalise(ed):
         c["region_short"] = {"US": "U.S.", "CA": "Canada", "UK": "UK", "EU": "EU"}.get(c.get("region"), c.get("region", ""))
         c["industries"] = [i for i in (c.get("industries") or []) if i in INDUSTRIES]
         c["personas"] = [p for p in (c.get("personas") or []) if p in PERSONAS]
+        c["storyline_title"] = STORY_TITLES.get(c.get("storyline") or "", "")
         c["band"] = TOPIC_COLORS.get(c["topic"], ("#2a2a2a",))[0]
         if c["kind"] == "briefing":
             b = ed["briefings"].get(c["id"], {})
@@ -241,6 +244,8 @@ def main():
         (SITE / "img" / f"topic-{key}.svg").write_text(topic_svg(key), encoding="utf-8")
 
     eps = build_podcast(env)
+    STORY_TITLES.update({k: v["title"] for k, v in storylines_mod.collect().items()})
+    threads = {}
     dates = sorted(d for d, e in editions.items() if e)
     archive = []
     for n, date in enumerate(dates, start=1):
@@ -255,6 +260,10 @@ def main():
                 b = ed["briefings"][c["id"]]
                 html = env.get_template("briefing.html.j2").render(ed=ed, card=c, b=b, root="../../../")
                 (out / "b" / f"{b['slug']}.html").write_text(html, encoding="utf-8")
+        for c in ed["cards"]:
+            if c.get("storyline") in STORY_TITLES:
+                href = f"editions/{date}/{c['href']}" if c["kind"] == "briefing" else c["href"]
+                threads.setdefault(c["storyline"], []).append(dict(c, date=date, date_long=ed["date_long"], link=href))
         archive.append({"date": date, "date_long": ed["date_long"], "no": n, "express": ed.get("express", False),
                         "lead": ed["lead"]["title"] if ed["lead"] else "", "count": len(ed["cards"]),
                         "briefings": sum(1 for c in ed["cards"] if c["kind"] == "briefing")})
@@ -265,6 +274,18 @@ def main():
         front = env.get_template("edition.html.j2").render(
             ed=normalise(editions[latest]) | {"edition_no": len(dates)}, root="", base=f"editions/{latest}/", is_latest=True, episode=episode_for(eps, latest))
         (SITE / "index.html").write_text(front, encoding="utf-8")
+    sdir = SITE / "storylines"
+    sdir.mkdir(exist_ok=True)
+    index = []
+    for slug, items in threads.items():
+        items.sort(key=lambda x: x["date"], reverse=True)
+        th = {"slug": slug, "title": STORY_TITLES[slug], "stories": items, "count": len(items),
+              "first": fmt_date(items[-1]["date"]), "last": fmt_date(items[0]["date"]), "last_iso": items[0]["date"],
+              "latest": items[0]["title"]}
+        index.append(th)
+        (sdir / f"{slug}.html").write_text(env.get_template("storyline.html.j2").render(th=th, root="../"), encoding="utf-8")
+    index.sort(key=lambda t: t["last_iso"], reverse=True)
+    (sdir / "index.html").write_text(env.get_template("storylines.html.j2").render(threads=index, root="../"), encoding="utf-8")
     (SITE / "saved.html").write_text(env.get_template("saved.html.j2").render(root=""), encoding="utf-8")
     (SITE / "archive.html").write_text(
         env.get_template("archive.html.j2").render(archive=list(reversed(archive)), root=""), encoding="utf-8")

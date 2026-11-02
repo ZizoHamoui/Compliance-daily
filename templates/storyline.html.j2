@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ th.title }} — {{ paper.name }}</title>
+<link rel="stylesheet" href="{{ root }}static/fonts.css?v={{ v }}">
+<link rel="stylesheet" href="{{ root }}static/style.css?v={{ v }}">
+</head>
+<body>
+<div class="wrap">
+{% set ed = None %}
+{% include "_masthead.html.j2" %}
+<main class="podcast-page storyline" id="feed">
+  <p class="ep-meta"><a href="index.html">Storylines</a></p>
+  <h1>{{ th.title }}</h1>
+  <p class="pod-intro">{{ th.count }} {{ 'story' if th.count == 1 else 'stories' }} from {{ th.first }}{% if th.first != th.last %} to {{ th.last }}{% endif %}, newest first.</p>
+  <ol class="timeline">
+  {% for c in th.stories %}
+    <li class="tl-item">
+      <p class="tl-date"><time>{{ c.date_long }}</time> · {{ c.region_label }} · {{ c.topic_label }}{% if c.kind == 'briefing' %} · AI briefing{% endif %}</p>
+      {% set href = (root ~ c.link) if c.kind == 'briefing' else c.link %}
+      <h2 class="tl-h"><a href="{{ href }}"{% if c.kind != 'briefing' %} target="_blank" rel="noopener"{% endif %}>{{ c.title }}</a></h2>
+      {% if c.impact %}<p class="tl-why"><b>Why it matters.</b> {{ c.impact }}</p>{% endif %}
+      {% if c.summary %}<p class="tl-sum">{{ c.summary }}</p>{% endif %}
+      <p class="tl-src">{{ c.source|replace('AI Briefing · ', 'AI briefing from ') }}</p>
+    </li>
+  {% endfor %}
+  </ol>
+<p class="pod-disclaimer">Internal reference only: AI-assisted, not legal advice, and not for forwarding to clients. Check the original source before relying on any story.</p>
+</main>
+</div>
+</body>
+</html>

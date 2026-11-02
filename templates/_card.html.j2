@@ -34,6 +34,7 @@
     <h3 class="card-title"><a class="stretch" href="{{ href }}"{% if not is_brief %} target="_blank" rel="noopener"{% endif %}>{{ c.title }}</a></h3>
     {% if c.impact %}<p class="why"><span class="why-label">Why it matters.</span> {{ c.impact }}</p>{% endif %}
     {% if c.summary %}<p class="card-sum">{{ c.summary }}</p>{% endif %}
+    {% if c.storyline_title %}<p class="thread"><a href="{{ root }}storylines/{{ c.storyline }}.html"><span class="ms" aria-hidden="true">timeline</span>Part of: {{ c.storyline_title }}</a></p>{% endif %}
     <p class="byline">
       {%- if is_brief -%}
         <span class="kind kind-ai"><span class="ms" aria-hidden="true">auto_awesome</span>AI briefing</span> <span class="src">{{ c.source|replace('AI Briefing · ', 'from ') }}</span>

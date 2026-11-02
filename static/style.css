@@ -414,3 +414,28 @@ body[data-group="priority"] .feed .pri + .dl::before{content:none}
 /* no priority labels: one neutral accent for "why it matters" */
 .why-label{color:var(--primary)}
 .feed .group[data-group="all"]{margin-top:8px}
+/* ---------- Storylines ---------- */
+.thread{margin:8px 0 0;font:500 13px/1.4 var(--sans)}
+.thread a{position:relative;z-index:2;display:inline-flex;align-items:center;gap:5px;color:var(--primary);text-decoration:none}
+.thread a:hover{text-decoration:underline}
+.thread .ms{font-size:17px}
+.view-compact .feed .thread{display:none}
+.thread-list{list-style:none;margin:0;padding:0}
+.thread-list li + li{border-top:1px solid var(--outline-soft)}
+.thread-list a{display:grid;gap:3px;padding:18px 4px;text-decoration:none}
+.thread-list a:hover .tl-title{color:var(--primary)}
+.tl-title{font:700 21px/1.3 var(--serif);color:var(--ink)}
+.tl-meta{font:600 12px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--on-surface-3)}
+.tl-latest{font:15px/1.45 var(--sans);color:var(--on-surface-2)}
+.timeline{list-style:none;margin:8px 0 0;padding:0 0 0 22px;border-left:2px solid var(--surface-high)}
+.tl-item{position:relative;padding:0 0 28px 14px}
+.tl-item::before{content:"";position:absolute;left:-30px;top:6px;width:12px;height:12px;border-radius:50%;background:var(--primary);box-shadow:0 0 0 4px #fff}
+.tl-date{margin:0;font:600 12px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--on-surface-3)}
+.tl-h{margin:4px 0 6px;font:700 20px/1.3 var(--serif)}
+.tl-h a{color:var(--ink);text-decoration:none}
+.tl-h a:hover{color:var(--primary)}
+.tl-why,.tl-sum{margin:4px 0;font:15px/1.5 var(--sans);color:var(--on-surface)}
+.tl-why b{color:var(--primary)}
+.tl-sum{color:var(--on-surface-2)}
+.tl-src{margin:4px 0 0;font:13px var(--sans);color:var(--on-surface-3)}
+.storyline .ep-meta a{color:var(--primary);text-decoration:none}

@@ -9,6 +9,7 @@ import sys
 from pathlib import Path
 
 from common import CANDIDATES, PAPER, load_yaml
+import storylines as storylines_mod
 
 TOPICS = set(load_yaml("topics.yaml")["topics"])
 REGIONS = {"US", "CA", "UK", "EU"}
@@ -124,6 +125,19 @@ def main(path):
         for banned in ("act now", "quick hits", "good to know", "what compliance teams should do", "what to do"):
             if banned in low:
                 errs.append(f"podcast_brief must not contain {banned!r} (no priority labels, no advice)")
+    known = {k: v["title"] for k, v in storylines_mod.collect(exclude_date=date).items()}
+    declared = ed.get("storylines") or {}
+    for slug, title in declared.items():
+        if not storylines_mod.SLUG_RX.match(slug) or len(slug) > 60:
+            errs.append(f"storyline slug {slug!r} must be lowercase-with-hyphens, ≤ 60 characters")
+        if not title or len(title) > 70:
+            errs.append(f"storyline {slug!r} needs a title of ≤ 70 characters")
+        if slug in known:
+            errs.append(f"storyline {slug!r} already exists; reuse it without redeclaring it")
+    for c in cards:
+        s = c.get("storyline")
+        if s and s not in known and s not in declared:
+            errs.append(f"card {c.get('id')}: storyline {s!r} is unknown; declare it under 'storylines' or use an existing one")
     if nb > PAPER.get("max_briefings", 3):
         errs.append(f"too many briefings ({nb})")
 

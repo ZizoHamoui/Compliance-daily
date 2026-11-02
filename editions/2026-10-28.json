@@ -46,7 +46,8 @@
    },
    "tier": "official",
    "topic": "enforcement",
-   "image_query": "Robert F. Kennedy Department of Justice Building"
+   "image_query": "Robert F. Kennedy Department of Justice Building",
+   "storyline": "self-disclosure-credit"
   },
   {
    "id": "c71187ca8597",
@@ -73,7 +74,8 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:The_Old_Bailey_(38551767860).jpg",
     "provider": "Wikimedia Commons",
     "title": "The Old Bailey (38551767860).jpg"
-   }
+   },
+   "storyline": "whistleblower-rewards"
   },
   {
    "id": "e5f3425e3c34",
@@ -100,7 +102,8 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
     "provider": "Wikimedia Commons",
     "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
-   }
+   },
+   "storyline": "temu-digital-services-act"
   },
   {
    "id": "23e3761284a9",

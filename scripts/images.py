@@ -26,7 +26,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-from common import DATA, read_json, write_json
+from common import DATA, PAPER, read_json, write_json
 
 UA = {"User-Agent": "ToneAtTheTopBot/1.0 (https://github.com/ZizoHamoui/Compliance-daily; personal news digest)"}
 CACHE_FILE = DATA / "image_cache.json"
@@ -48,6 +48,8 @@ def official_credit(url, source):
     return None
 
 
+ALLOW_OFFICIAL = bool(PAPER.get("allow_official_images", False))
+
 # ---- Commons guardrails ---------------------------------------------------------------------------------
 LICENSE_OK = re.compile(r"^(cc0|cc-zero|public domain|pdm|pd\b|pd-|no restrictions|cc[ -]by(-sa)?[ -]?[1-4]\.\d|cc[ -]by(-sa)?[ -]?2\.5)", re.I)
 TITLE_BLOCK = re.compile(
@@ -56,6 +58,14 @@ TITLE_BLOCK = re.compile(
     r"\bflag of\b|caricature|cartoon|scenario|"
     r"child|children|kids|\bboy\b|\bgirl\b|student|pupil|baby|people|crowd|airmen|soldier|ceremony|briefing|meeting|visit|"
     r"\bbar\b|restaurant|nightclub", re.I)
+# Photos of people are never used (personality and publicity rights). Commons categories and descriptions are checked too,
+# because a file title rarely says who is in the picture.
+PEOPLE_RX = re.compile(
+    r"\b(portraits?|people|persons?|men|women|man|woman|boys?|girls?|child(ren)?|kids?|bab(y|ies)|crowds?|faces?|selfies?|"
+    r"politicians?|presidents?|ministers?|senators?|congress(wo)?m[ae]n|ceos?|executives?|officials?|delegat(e|es|ion)|"
+    r"attendees|participants|visitors|tourists|pedestrians|spectators|audience|passers-by|speakers?|employees|workers|staff|volunteers|group photo|families|family|couples?|weddings?|"
+    r"demonstrat(ors|ions?)|protesters?|police officers?|soldiers?|athletes?|actors?|actresses|musicians?|"
+    r"living people|\d{4} births|people of|people in|people at)\b", re.I)
 STOP = set("the of and a an in on for to at by with from de la le des du et u s us".split())
 
 SOURCE_QUERIES = {
@@ -117,7 +127,7 @@ def _get_json(url):
 
 
 def commons_search(query, cache, strict=True):
-    key = query.lower().strip()
+    key = "v2|" + query.lower().strip()   # v2: results re-checked with the people filter
     if key in cache:
         return cache[key]
     params = {"action": "query", "format": "json", "generator": "search", "gsrsearch": f"{query} filetype:bitmap",
@@ -139,6 +149,10 @@ def commons_search(query, cache, strict=True):
         restrictions = _strip(m.get("Restrictions", {}).get("value", ""))
         w, h = ii.get("width", 0), ii.get("height", 1)
         if not LICENSE_OK.search(lic) or restrictions or TITLE_BLOCK.search(title):
+            continue
+        cats = _strip(m.get("Categories", {}).get("value", ""))
+        desc = _strip(m.get("ImageDescription", {}).get("value", ""))[:500]
+        if PEOPLE_RX.search(title) or PEOPLE_RX.search(cats) or PEOPLE_RX.search(desc):
             continue
         if ii.get("mime") not in ("image/jpeg", "image/png") or w < 900 or not (1.2 <= w / h <= 2.4):
             continue
@@ -175,6 +189,8 @@ def fill(items, cache, used=None):
         if it.get("paywalled"):
             continue
         img, cred = it.get("image") or "", it.get("image_credit")
+        if img and not cred and not ALLOW_OFFICIAL:  # official preview images may show people: Commons only by default
+            img = ""
         if img and not cred:  # a preview image from the fetch step: keep only if reuse is allowed
             text = official_credit(it.get("url"), it.get("source", ""))
             if text:

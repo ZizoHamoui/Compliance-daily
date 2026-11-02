@@ -42,7 +42,8 @@
    "impact": "Another federal reward channel means more external reporting routes; check that internal hotlines are trusted, fast and protected against retaliation.",
    "impact_level": "High",
    "item_type": "rule",
-   "image_query": "whistle on table"
+   "image_query": "whistle on table",
+   "storyline": "whistleblower-rewards"
   },
   {
    "id": "d8a9b50335ee",
@@ -69,7 +70,8 @@
    "impact": "Healthcare compliance teams should review open overpayment and fraud findings and decide whether the pilot changes their disclosure calculus.",
    "impact_level": "High",
    "item_type": "rule",
-   "image_query": "hospital corridor"
+   "image_query": "hospital corridor",
+   "storyline": "self-disclosure-credit"
   },
   {
    "id": "095baa96fe43",

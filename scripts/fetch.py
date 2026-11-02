@@ -199,7 +199,7 @@ def main():
             key = uid(link if not paywalled else title.lower())
             if key in seen:
                 continue
-            summary = clean(e.get("summary") or e.get("description"), 420)
+            summary = clean(e.get("summary") or e.get("description"), 280)   # short factual snippet only (copyright)
             s, topic, tags = score(title, summary)
             if s == 0 and base >= 2 and not any(rx.search(title.lower()) for rx in EXCLUDE_RX) and default_topic:
                 topic, tags = default_topic, [default_topic]  # high-signal agency: keep even without keyword hits
@@ -227,7 +227,7 @@ def main():
     # Balance: best items per region, cap per source, then paywalled extras.
     limit = PAPER.get("candidate_limit", 90)
     free = sorted([i for i in items if not i["paywalled"]], key=lambda x: -x["score"])
-    pay = sorted([i for i in items if i["paywalled"]], key=lambda x: -x["score"])[:12]
+    pay = sorted([i for i in items if i["paywalled"]], key=lambda x: -x["score"])[:8]   # headlines only, the most relevant few
     per_source, per_region, chosen = {}, {}, []
     region_cap = {"US": 34, "CA": 16, "UK": 16, "EU": 24}
     for it in free:

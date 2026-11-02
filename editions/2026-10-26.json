@@ -42,7 +42,8 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
     "provider": "Wikimedia Commons",
     "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
-   }
+   },
+   "storyline": "self-disclosure-credit"
   },
   {
    "id": "942afe0670e8",
@@ -69,7 +70,8 @@
    "impact": "Online platforms and marketplaces selling into the EU should benchmark their DSA risk controls against the commitments regulators now expect after a confirmed breach.",
    "impact_level": "Medium",
    "item_type": "enforcement",
-   "image_query": "Berlaymont building Brussels"
+   "image_query": "Berlaymont building Brussels",
+   "storyline": "temu-digital-services-act"
   },
   {
    "id": "80fde8be0bae",
@@ -149,5 +151,8 @@
     "url": "https://www.complianceweek.com/healthcare/doj-hhs-launch-self-disclosure-pilot-for-health-fca-violations/"
    }
   }
+ },
+ "storylines": {
+  "temu-digital-services-act": "Temu and the EU Digital Services Act"
  }
 }

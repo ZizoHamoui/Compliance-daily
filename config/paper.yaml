@@ -25,3 +25,4 @@ personas:
   clo: "Chief legal officer"
   cco: "Chief compliance officer"
   analyst: "Compliance analyst"
+allow_official_images: false   # official preview images can show people; Commons images are filtered for people

@@ -73,7 +73,8 @@
    "impact": "Test sanctions controls at foreign subsidiaries and make sure your escalation path can support a timely, complete voluntary self-disclosure.",
    "impact_level": "High",
    "item_type": "enforcement",
-   "image_query": "network switch rack data center"
+   "image_query": "network switch rack data center",
+   "storyline": "self-disclosure-credit"
   },
   {
    "id": "868309dfd372",
@@ -100,7 +101,8 @@
    "impact": "Expect whistleblowers to be steered toward direct SEC reporting; keep internal channels credible so concerns surface to you first.",
    "impact_level": "Medium",
    "item_type": "ruling",
-   "image_query": "E. Barrett Prettyman Courthouse"
+   "image_query": "E. Barrett Prettyman Courthouse",
+   "storyline": "whistleblower-rewards"
   },
   {
    "id": "5b824df90653",

@@ -91,6 +91,14 @@ For every free card write:
 **Never write a URL yourself for a link card.** The validator rejects any link card whose URL is not
 in today's candidates.
 
+## 1b. Storylines (ongoing threads)
+Run `python3 scripts/storylines.py list` once to see the existing storylines. When a card clearly continues one of them
+(the same programme, case, law or company saga), add `"storyline": "<slug>"` to that card. Start a **new** storyline only
+for a thread that is genuinely ongoing and likely to produce more stories (a new enforcement programme, a major law moving
+through stages, a long-running case). Declare it once at the top level of the edition as
+`"storylines": {"<new-slug>": "<Title, ≤ 70 characters>"}` (slug: lowercase-with-hyphens) and tag the card. One storyline
+per card at most; most cards have none. Never declare a storyline that already exists.
+
 ## 2. Paywalled stories → AI briefings (max 3)
 Items with `paywalled: true` are headlines only (WSJ, FT, Bloomberg, Reuters, Law360, GIR, Compliance
 Week…). Only when one is **highly relevant to the top-weighted topics** (1–6 above) and newsworthy,

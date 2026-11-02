@@ -73,7 +73,8 @@
    "impact": "Review background-check policies built on the guidance; state and local fair-chance laws still apply even as federal guidance is withdrawn.",
    "impact_level": "High",
    "item_type": "rule",
-   "image_query": "EEOC headquarters building Washington"
+   "image_query": "EEOC headquarters building Washington",
+   "storyline": "eeoc-guidance-rollback"
   },
   {
    "id": "1dbd06133e0a",

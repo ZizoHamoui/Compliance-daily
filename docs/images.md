@@ -33,3 +33,11 @@ Preview images from news outlets, law-firm sites and blogs are **never** reused,
 
 Licences such as CC BY and CC BY-SA require attribution; we display images unmodified (only resized by
 Wikimedia's own thumbnailer), so share-alike obligations on adaptations do not arise.
+
+## November 2026 update
+- **No photos of people.** Besides the file title, each Wikimedia Commons candidate's categories and description are
+  checked for people terms (portraits, officials, workers, crowds, visitors, "living people" and so on). Any match is skipped.
+- **Official preview images are off by default** (`allow_official_images: false` in `config/paper.yaml`), because
+  agency press photos often show people. All images now come from Commons under the licence rules above.
+- The image cache was versioned (`v2|`), so every search is re-checked with the new filter.
+
