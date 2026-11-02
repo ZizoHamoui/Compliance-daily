@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "date": "2026-11-01",
+  "title": "Today in compliance — Nov 1",
+  "file": "2026-11-01.mp3",
+  "seconds": 362,
+  "bytes": 2900298,
+  "start": "2026-11-01",
+  "end": "2026-11-01",
+  "stories": [
+   {
+    "title": "Justice Department Announces Federal Registrations for Medical Marijuana Dispensaries",
+    "url": "https://www.justice.gov/opa/pr/justice-department-announces-issuance-federal-registrations-medical-marijuana-dispensaries",
+    "source": "U.S. Department of Justice",
+    "level": "High"
+   },
+   {
+    "title": "Israeli National Extradited to Face Charges Over $2.89M Nomad Bridge Crypto Heist",
+    "url": "https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist",
+    "source": "U.S. Department of Justice",
+    "level": "Medium"
+   }
+  ],
+  "added": "2026-11-01T21:28-07:00"
+ }
+]
