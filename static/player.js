@@ -21,7 +21,7 @@
   var speedBtn = bar.querySelector(".pl-speed"), notes = bar.querySelector(".pl-notes");
   // relative URLs would break once the page around the bar changes depth: make them absolute now
   audio.src = audio.src;
-  notes.setAttribute("href", notes.href);
+  if (notes) notes.setAttribute("href", notes.href);
 
   var st = load(), ep = bar.dataset.ep, speed = st.speed || 1, resumeAt = 0;
   document.body.classList.add("has-player");
@@ -59,7 +59,7 @@
     audio.src = new URL(o.src, location.href).href;
     titleEl.textContent = o.title;
     kicker.textContent = "Audio briefing · " + Math.max(1, Math.round((o.seconds || 0) / 60)) + " min";
-    notes.setAttribute("href", new URL(o.notes || notes.href, location.href).href);
+    if (notes && o.notes) notes.setAttribute("href", new URL(o.notes, location.href).href);
     restore();
     if (autoplay) toggle();
   }
