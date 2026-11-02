@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["templates/**", "static/**", "scripts/build.py", "config/**", "editions/**"]
+    paths: ["templates/**", "static/**", "scripts/build.py", "scripts/podcast.py", "config/**", "editions/**", "podcast/**"]
 
 permissions:
   contents: read

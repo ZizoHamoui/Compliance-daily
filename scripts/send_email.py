@@ -8,9 +8,10 @@ import os
 import smtplib
 import sys
 from email.message import EmailMessage
+from datetime import datetime
 from html import escape
 
-from common import CANDIDATES, EDITIONS, PAPER, get_state, load_yaml, now_local, read_json, set_state, today_local
+from common import CANDIDATES, EDITIONS, PAPER, ROOT, get_state, load_yaml, now_local, read_json, set_state, today_local
 
 TOPICS = load_yaml("topics.yaml")["topics"]
 
@@ -75,6 +76,16 @@ def main():
 <div style="margin-top:6px">{badge}<span style="font:11px Arial;color:#56687A">{escape(c.get("source", ""))}</span></div>
 </td></tr>''')
 
+    # weekly podcast button: shown while the latest episode is at most 8 days old
+    listen = ""
+    ep = next(iter(read_json(ROOT / "podcast" / "episodes.json", [])[::-1]), None)
+    if ep and (now_local().date() - datetime.fromisoformat(ep["date"]).date()).days <= 8:
+        mins = max(1, round(ep["seconds"] / 60))
+        listen = (f'<tr><td style="padding:14px 28px 0"><table width="100%" cellpadding="0" cellspacing="0" style="background:#EEF3F9;border-radius:16px">'
+                  f'<tr><td style="padding:14px 18px"><div style="font:700 10px Arial;letter-spacing:1.5px;color:#0A66C2">THE WEEKLY BRIEFING · {mins} MIN LISTEN</div>'
+                  f'<div style="font:700 16px/1.3 Georgia,serif;color:#052962;margin:4px 0 0">{escape(ep["title"])}</div></td>'
+                  f'<td align="right" style="padding:14px 18px"><a href="{url}podcast/index.html#ep-{ep["date"]}" style="display:inline-block;background:#0A66C2;color:#FFFFFF;'
+                  f'font:700 13px Arial;letter-spacing:1px;text-decoration:none;padding:11px 18px;border-radius:999px;white-space:nowrap">&#9654;&nbsp; LISTEN</a></td></tr></table></td></tr>')
     html = f'''<!DOCTYPE html><html><body style="margin:0;background:#F5F8FC">
 <table width="100%" cellpadding="0" cellspacing="0" style="background:#F5F8FC"><tr><td align="center" style="padding:24px 12px">
 <table width="600" cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;background:#FFFFFF;border:1px solid #E1E8F1">
@@ -84,6 +95,7 @@ def main():
 <div style="font:italic 13px Georgia,serif;color:#34435E">{escape(PAPER["tagline"])}</div></td></tr>
 <tr><td style="padding:18px 28px 4px;font:15px/1.5 Georgia,serif;color:#052962">{escape(note)}</td></tr>
 <tr><td style="padding:8px 28px 0;font:13px/1.6 Arial,sans-serif">{stats}</td></tr>
+{listen}
 <tr><td style="padding:16px 28px 0;font:700 11px Arial;letter-spacing:2px;color:#6E32D9">{"ACT NOW" if not express else "TODAY'S HEADLINES"}</td></tr>
 <tr><td style="padding:6px 28px"><table width="100%" cellpadding="0" cellspacing="0">{"".join(rows)}</table></td></tr>
 <tr><td align="center" style="padding:22px 28px 28px">

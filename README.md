@@ -31,3 +31,7 @@ reads one ~15k-token file each morning. `data/seen.json` makes sure no story rep
 - Edit `.github/run-fetch` and commit → fetch now
 - Edit `.github/send-test-email` and commit → send the email now
 - Repo secrets: `GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD` (Gmail app password), optional `EMAIL_TO`
+
+## Weekly podcast
+
+A ~9-minute audio briefing made each week in NotebookLM: a Sunday kit email, about 5 minutes of your time, then one upload. The site and email pick it up automatically. See [docs/podcast.md](docs/podcast.md).

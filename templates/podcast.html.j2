@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The weekly briefing — {{ paper.name }}</title>
+<meta name="description" content="A weekly audio briefing on governance, risk and compliance news from {{ paper.regions }}.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400..700&family=Roboto+Serif:opsz,wght@8..144,500..800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,400,0..1,0&display=block" rel="stylesheet">
+<link rel="stylesheet" href="{{ root }}static/style.css?v={{ v }}">
+</head>
+<body>
+<div class="wrap">
+{% set ed = None %}
+{% include "_masthead.html.j2" %}
+<main class="podcast-page" id="feed">
+  <h1>The weekly briefing</h1>
+  <p class="pod-intro">Every week, two AI hosts talk through the governance, risk and compliance stories that mattered most in the United States, Canada and the European Union. Each episode runs about ten minutes, and the show notes link to every source.</p>
+  {% if not episodes %}
+  <p class="pod-empty">The first episode is on its way. It will appear here, and on the front page, as soon as it is published.</p>
+  {% endif %}
+  {% for e in episodes %}
+  <article class="episode" id="ep-{{ e.date }}">
+    {% if loop.first %}{% with episode = e %}{% include "_listen.html.j2" %}{% endwith %}
+    {% else %}
+    <header><p class="ep-meta">{{ e.range_label }} · {{ e.minutes }} min</p><h2>{{ e.title }}</h2></header>
+    <audio controls preload="none" src="{{ root }}podcast/audio/{{ e.file }}"></audio>
+    {% endif %}
+    {% if e.stories %}
+    <details class="ep-notes"{% if loop.first %} open{% endif %}>
+      <summary>Show notes · {{ e.stories|length }} stories</summary>
+      {% for lvl, label in [('High', 'Act now'), ('Medium', 'Watch')] %}
+      {% set group = e.stories|selectattr('level', 'equalto', lvl)|list %}
+      {% if group %}<h3>{{ label }}</h3>
+      <ul>{% for s in group %}<li><a href="{{ s.url }}">{{ s.title }}</a>{% if s.source %} <span class="ep-src">{{ s.source }}</span>{% endif %}</li>{% endfor %}</ul>{% endif %}
+      {% endfor %}
+    </details>
+    {% endif %}
+    <p class="ep-dl"><a href="{{ root }}podcast/audio/{{ e.file }}" download><span class="ms" aria-hidden="true">download</span>Download MP3 ({{ e.mb }} MB)</a></p>
+  </article>
+  {% endfor %}
+  <p class="pod-disclaimer">Episodes are AI-generated with Google NotebookLM from the week's editions. The voices are synthetic and can get details wrong, so check the linked sources before relying on anything you hear. This is not legal advice.</p>
+</main>
+</div>
+<script src="{{ root }}static/player.js?v={{ v }}"></script>
+</body>
+</html>

@@ -47,6 +47,8 @@
   </p>
 </section>
 
+{% if episode %}{% include "_listen.html.j2" %}{% endif %}
+
 {% if ed.lead %}
 <section class="above-fold" aria-label="Lead story">
   {% with c = ed.lead, lead = True %}{% include "_card.html.j2" %}{% endwith %}
@@ -116,5 +118,6 @@
 </footer>
 </div>
 <script src="{{ root }}static/app.js?v={{ v }}"></script>
+{% if episode %}<script src="{{ root }}static/player.js?v={{ v }}"></script>{% endif %}
 </body>
 </html>

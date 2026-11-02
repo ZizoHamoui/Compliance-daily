@@ -11,6 +11,9 @@ import markdown
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from common import CANDIDATES, EDITIONS, PAPER, SITE, STATIC, TEMPLATES, load_yaml, read_json, today_local
+import podcast
+
+PODCAST_KEEP = 12  # episodes published on the site (older ones stay in git history)
 
 TOPICS = load_yaml("topics.yaml")["topics"]
 REGIONS = {"US": "United States", "CA": "Canada", "EU": "European Union"}
@@ -161,6 +164,32 @@ def normalise(ed):
     return ed
 
 
+def episode_view(e):
+    m, sec = divmod(e["seconds"], 60)
+    return dict(e, minutes=max(1, round(e["seconds"] / 60)), duration=f"{m}:{sec:02d}", date_long=fmt_date(e["date"]),
+                range_label=f"{podcast.fmt(e['start'])} to {podcast.fmt(e['end'])}", mb=round(e["bytes"] / 1e6, 1))
+
+
+def build_podcast(env):
+    """Episode audio, the podcast page and the producer kit page. Returns the published episodes, newest first."""
+    eps = [episode_view(e) for e in podcast.episodes() if (podcast.AUDIO / e["file"]).exists()][:PODCAST_KEEP]
+    out = SITE / "podcast"
+    (out / "audio").mkdir(parents=True, exist_ok=True)
+    (out / "kit").mkdir(parents=True, exist_ok=True)
+    for e in eps:
+        shutil.copy2(podcast.AUDIO / e["file"], out / "audio" / e["file"])
+    (out / "index.html").write_text(env.get_template("podcast.html.j2").render(episodes=eps, root="../"), encoding="utf-8")
+    d = podcast.digest()
+    (out / "kit" / "sources.txt").write_text(d["text"], encoding="utf-8")
+    (out / "kit" / "index.html").write_text(env.get_template("podcast_kit.html.j2").render(
+        d=dict(d, start_l=podcast.fmt(d["start"]), end_l=podcast.fmt(d["end"])), prompt=podcast.PROMPT, settings=podcast.SETTINGS, upload=podcast.upload_link(d["end"]), root="../../"), encoding="utf-8")
+    return eps
+
+
+def episode_for(eps, date):
+    return next((e for e in eps if e["date"] <= date), None)
+
+
 def main():
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html", "j2"]))
     env.filters["md"] = lambda s: markdown.markdown(s or "", extensions=["extra", "sane_lists"])
@@ -187,6 +216,7 @@ def main():
     for key in TOPICS:
         (SITE / "img" / f"topic-{key}.svg").write_text(topic_svg(key), encoding="utf-8")
 
+    eps = build_podcast(env)
     dates = sorted(d for d, e in editions.items() if e)
     archive = []
     for n, date in enumerate(dates, start=1):
@@ -194,7 +224,7 @@ def main():
         ed["edition_no"] = n
         out = SITE / "editions" / date
         (out / "b").mkdir(parents=True, exist_ok=True)
-        page = env.get_template("edition.html.j2").render(ed=ed, root="../../", base="", is_latest=(date == dates[-1]))
+        page = env.get_template("edition.html.j2").render(ed=ed, root="../../", base="", is_latest=(date == dates[-1]), episode=episode_for(eps, date))
         (out / "index.html").write_text(page, encoding="utf-8")
         for c in ed["cards"]:
             if c["kind"] == "briefing" and c["id"] in ed["briefings"]:
@@ -209,7 +239,7 @@ def main():
         latest = dates[-1]
         # the front page renders the latest edition with links pointing into its folder
         front = env.get_template("edition.html.j2").render(
-            ed=normalise(editions[latest]) | {"edition_no": len(dates)}, root="", base=f"editions/{latest}/", is_latest=True)
+            ed=normalise(editions[latest]) | {"edition_no": len(dates)}, root="", base=f"editions/{latest}/", is_latest=True, episode=episode_for(eps, latest))
         (SITE / "index.html").write_text(front, encoding="utf-8")
     (SITE / "saved.html").write_text(env.get_template("saved.html.j2").render(root=""), encoding="utf-8")
     (SITE / "archive.html").write_text(

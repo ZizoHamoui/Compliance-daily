@@ -1,0 +1,65 @@
+name: 5 · Publish podcast episode
+# You publish a GitHub Release with the NotebookLM audio attached (the weekly kit email has a one-click link).
+# This converts it to a small MP3, adds it to podcast/, deletes the release (the MP3 now lives in the repo),
+# and republishes the site. The next morning email shows the Listen button.
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    outputs:
+      added: ${{ steps.add.outputs.added }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Install ffmpeg
+        run: command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+      - name: Download the attached audio
+        id: dl
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.release.tag_name }}
+        run: |
+          mkdir -p /tmp/inbox
+          gh release download "$TAG" -D /tmp/inbox -R "$GITHUB_REPOSITORY" || true
+          f=$(find /tmp/inbox -maxdepth 1 -type f \( -iname '*.wav' -o -iname '*.m4a' -o -iname '*.mp3' -o -iname '*.aac' -o -iname '*.ogg' -o -iname '*.webm' -o -iname '*.mp4' \) -printf '%s %p\n' | sort -rn | head -1 | cut -d' ' -f2-)
+          if [ -z "$f" ]; then echo "::warning::Release $TAG has no audio file attached, so nothing was published. Attach the NotebookLM download and publish again."; fi
+          echo "file=$f" >> "$GITHUB_OUTPUT"
+      - name: Convert and register the episode
+        id: add
+        if: steps.dl.outputs.file != ''
+        env:
+          TAG: ${{ github.event.release.tag_name }}
+          NAME: ${{ github.event.release.name }}
+        run: |
+          python scripts/podcast.py add --input "${{ steps.dl.outputs.file }}" --tag "$TAG" --title "$NAME"
+          git config user.name "tone-at-the-top-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add podcast
+          git commit -m "Podcast episode ${TAG#podcast-}"
+          git pull --rebase origin main && git push origin HEAD:main
+          echo "added=1" >> "$GITHUB_OUTPUT"
+      - name: Remove the release (the MP3 is now in the repo)
+        if: steps.add.outputs.added == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release delete "${{ github.event.release.tag_name }}" --cleanup-tag -y -R "$GITHUB_REPOSITORY"
+
+  publish:
+    needs: convert
+    if: needs.convert.outputs.added == '1'
+    uses: ./.github/workflows/build.yml
