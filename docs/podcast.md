@@ -1,6 +1,6 @@
 # The daily podcast
 
-A short (~6 minute) audio briefing on each edition, made by Google's Gemini Notebook (formerly NotebookLM).
+A ~10 minute audio briefing on each edition, made by Google's Gemini Notebook (formerly NotebookLM).
 
 ## The source document (podcast kit)
 NotebookLM can't open links, so each day's kit is a self-contained briefing: notes for the hosts, the day in one line, then
@@ -14,7 +14,7 @@ Open your scheduled tasks and press **Run now** on **"Tone at the Top daily podc
 Your Mac must be awake with Chrome open, the Claude extension connected and the Claude desktop app running.
 The agent follows `prompts/podcast.md`:
 1. It opens the notebook "Tone at the Top — Daily audio" and swaps in today's sources link (`<site>/podcast/kit/<date>.html`).
-2. It runs Customise Audio Overview with Deep dive, Short, English and the prompt, and waits about 4 minutes.
+2. It runs Customise Audio Overview with Deep dive, Default length, English and the prompt, and waits for it to finish (a few minutes).
 3. It downloads the `.m4a`, picks it up from your Downloads folder and pushes it to `claude/podcast-<date>`.
 4. Workflow `5 · Publish podcast episode` converts it, rejects anything under 2.5 or over 25 minutes, and stores it on the
    `podcast-audio` branch (newest 14 only). It then records it and rebuilds the site.
@@ -24,13 +24,12 @@ If a step in Gemini Notebook changes, edit `prompts/podcast.md`; the scheduled t
 
 ## By hand (fallback)
 
-1. **Sunday morning** you get an email, *Podcast kit: week of …*, with the week's sources file attached.
-   (Workflow `6 · Weekly podcast kit`; run it from the Actions tab any time. The same file and prompt are always at
-   `<site>/podcast/kit/`.)
+1. Run the workflow `6 · Podcast kit (manual fallback)` from the Actions tab. You get an email, *Podcast kit: …*, with the sources file attached.
+   (The same file and prompt are always at `<site>/podcast/kit/`.)
 2. Open [NotebookLM](https://notebooklm.google.com) → **New notebook** → upload the attached `.txt` as the only source.
 3. **Studio → Audio Overview → Customize**:
    - Format: **Deep Dive**
-   - Length: **Default** (switch to *Shorter* if episodes run past 12 minutes)
+   - Length: **Default**
    - Language: English
 4. Paste the prompt below into the prompt box → **Generate** (takes a few minutes).
 5. Spot-check the start and end, then **⋮ → Download**. It saves a WAV file.
@@ -42,20 +41,17 @@ That's it. Workflow `5 · Publish podcast episode` then:
 - saves it in `podcast/audio/` and adds it to `podcast/episodes.json`, with show notes listing that edition's stories in the editor's order;
 - deletes the release and republishes the site.
 
-The **Listen** bar appears at the top of every edition, on the Podcast page and in the morning email for the next 8 days.
+The new episode loads into the audio bar at the bottom of every page, appears on the Podcast page, and is linked from the next morning's email (for 2 days).
 
 ## The NotebookLM prompt
 
-NotebookLM's prompt box is short (about 500 characters), so detailed direction sits in the **PRODUCER NOTES** at the top of the
-sources file. Paste this:
+NotebookLM's prompt box is short (about 500 characters), so detailed direction sits in the **Notes for the hosts** at the top of the
+source document. Paste this (it is also printed by `python scripts/podcast.py prompt`):
 
-> Audience: chief compliance officers in the US, Canada and EU. Make a ~9-minute weekly briefing. Follow the PRODUCER NOTES and
-> running order in the source: the week in one line, ACT NOW stories in depth (what happened, who is affected, what to do), the
-> WATCH list briefly, quick hits, then one thing to do Monday. Name the regulator and date for each story. Plain, calm,
-> professional English. Stay strictly within the sources; no legal advice.
+> Audience: solution engineers who meet general counsel, chief legal officers and compliance analysts. Make a ~10-minute daily briefing. Follow the Notes for the hosts in the source: open with the day in one line, cover every story in order (most time on the first three), and use each story's "How this comes up with a GC or CLO" and "Questions a buyer might ask" to drive the conversation. Calm, professional English. Stay strictly within the source; no legal advice.
 
-To change the prompt, edit `PROMPT` in `scripts/podcast.py`; the email and kit page update automatically.
-To change the running order or tone, edit `PRODUCER_NOTES` in the same file.
+To change the prompt, edit `PROMPT` in `scripts/podcast.py`; the kit email and kit page update automatically.
+To change the timing or tone, edit `HOST_NOTES` in the same file.
 
 ## Notes
 

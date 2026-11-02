@@ -26,7 +26,7 @@ from common import EDITIONS, PAPER, ROOT, load_yaml, now_local, read_json, today
 POD_CFG = PAPER.get("podcast", {}) or {}
 DAYS = int(POD_CFG.get("days", 1))            # 1 = a daily episode of that day's edition; 7 = a weekly recap
 KEEP = int(POD_CFG.get("keep", 14))           # episodes kept online (audio lives on the podcast-audio branch)
-MINUTES = 6 if DAYS == 1 else 9
+MINUTES = 10 if DAYS == 1 else 9
 PODCAST = ROOT / "podcast"
 AUDIO = Path(os.environ.get("PODCAST_AUDIO_DIR") or PODCAST / "audio")
 REGISTRY = PODCAST / "episodes.json"
@@ -38,25 +38,25 @@ DEFAULT_TITLE = "Today in compliance" if DAYS == 1 else "This week in compliance
 # Pasted into NotebookLM's "Customize" box. NotebookLM limits this box (reportedly 500 characters),
 # so the detailed direction lives in the Notes for the hosts at the top of the source document instead.
 if DAYS == 1:
-    PROMPT = ("Audience: chief compliance officers in the US, Canada and EU. Make a ~6-minute daily briefing. "
-              "Follow the Notes for the hosts in the source: open with the day in one line, then cover the stories in order, "
-              "most time on story 1. For each, explain the facts, background, who's affected and why it matters, using the "
-              "questions to explore to drive the conversation. Name the agency or court and country. "
+    PROMPT = ("Audience: solution engineers who meet general counsel, chief legal officers and compliance analysts. "
+              "Make a ~10-minute daily briefing. Follow the Notes for the hosts in the source: open with the day in one line, "
+              "cover every story in order (most time on the first three), and use each story's \"How this comes up with "
+              "a GC or CLO\" and \"Questions a buyer might ask\" to drive the conversation. "
               "Calm, professional English. Stay strictly within the source; no legal advice.")
 else:
-    PROMPT = ("Audience: chief compliance officers in the US, Canada and EU. Make a ~9-minute weekly briefing. "
+    PROMPT = ("Audience: solution engineers who meet general counsel, chief legal officers and compliance analysts. Make a ~9-minute weekly briefing. "
               "Follow the Notes for the hosts in the source: open with the week in brief, then cover the stories in order, "
               "most time on the first ones. Explain the facts, background and why each matters. Name the agency or court, "
               "country and date. Calm, professional English. Stay strictly within the source; no legal advice.")
 SETTINGS = [("Format", "Deep Dive"),
-            ("Length", "Shorter" if DAYS == 1 else "Default (use Shorter if episodes run past 12 minutes)"),
+            ("Length", "Default" if DAYS == 1 else "Default (use Shorter if episodes run past 12 minutes)"),
             ("Language", "English")]
 
 HOST_NOTES = """## Notes for the hosts
 
 This document is the **only source** for today's episode. Everything you need is written out below; you do not need to open any link. The listeners are **solution engineers who work with ethics and compliance software**. They meet general counsel, chief legal officers, chief compliance officers and compliance analysts, so they need to understand the news those leaders care about, and to be able to retell these stories as real-world examples. Skip basic definitions and focus on the facts, the background, why each story matters and how it comes up with legal and compliance leaders.
 
-- **Running order:** open with the day in one line, then follow the stories in the order they appear. Spend the most time on story 1 (about 2½ minutes), less on stories 2 and 3 (about 45 seconds each), and cover the rest briefly (about 20 seconds each). Close with the sign-off.
+- **Length and running order:** the whole episode should run about 10 minutes, however many stories there are. Open with the day in one line (about 30 seconds). Spend about half the time on the first three stories: roughly 2½ minutes on story 1 and 1½ minutes each on stories 2 and 3. Cover the remaining stories in the remaining time, in order, shorter the further down the list they are, and group closely related ones. Close with the sign-off (about 30 seconds).
 - **Always say who acted and where:** the agency or court, and the country.
 - **Stay inside this document.** If a fact isn't written here, don't say it. Where something is uncertain or disputed, the document says so; keep that nuance.
 - **Use "How this comes up with a GC or CLO" and "Questions a buyer might ask"** under each story to drive the conversation between you.
@@ -206,7 +206,7 @@ def kit_email(end=None):
     msg["From"] = f"{PAPER['name']} <{sender}>"
     msg["To"] = to
     msg.set_content(f"Podcast kit for {fmt(d['start'])} to {fmt(d['end'])}.\n\n1. NotebookLM → new notebook → upload the attached file.\n"
-                    f"2. Audio Overview → Customize: Deep Dive, Default length, English.\n3. Prompt:\n{PROMPT}\n\n"
+                    f"2. Audio Overview → Customize: " + ", ".join(f"{k} {v}" for k, v in SETTINGS) + f"\n3. Prompt:\n{PROMPT}\n\n"
                     f"4. Download the audio.\n5. Upload it here and press Publish release: {up}\n\nKit page: {kit}\n")
     msg.add_alternative(html, subtype="html")
     msg.add_attachment(d["text"].encode("utf-8"), maintype="text", subtype="plain", filename=fname)

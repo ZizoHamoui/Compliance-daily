@@ -32,12 +32,12 @@ coordinates from an earlier screenshot often miss. Take a screenshot after each 
    wait 2 minutes and retry once).
 5. **Studio panel:** if older Audio Overview items exist below the tiles, delete them (item ⋮ → Delete) so the notebook stays tidy.
 6. Click the **Audio Overview** tile. It opens the **Customise Audio Overview** dialog:
-   - Format **Deep dive** (selected by default) · Language **English** · Length: click the radio **Short**
+   - Format **Deep dive** (selected by default) · Language **English** · Length: leave **Default** selected (do not choose Short or Long)
    - Click the textbox "What should the AI hosts focus on in this episode?" and type the prompt from step 0 exactly.
-   - Screenshot to confirm Short is ticked and the prompt is in the box, then click **Generate now** (not "Generate later").
+   - Screenshot to confirm Default is ticked and the prompt is in the box, then click **Generate now** (not "Generate later").
 7. A "Generating Audio Overview… Come back in a few minutes" item appears in Studio. Check every 60 seconds (a small screenshot)
    for up to 20 minutes. It is ready when the item shows a title and a play control. If a usage-limit or error message
-   appears → **stop** and report the exact message. (The first run took about 4 minutes for a 6-minute episode.)
+   appears → **stop** and report the exact message. (A Shorter run took about 4 minutes for a 6-minute episode; Default should take somewhat longer.)
 8. Note the episode's full title (hover it or use `find`). It becomes the episode title on the site.
    On the finished item, click its **More** (⋮) button, then the **Download** menu item. Chrome saves an `.m4a` named after the
    episode title (for example `DEA_Schedule_III_Registrations_Create_Compliance_Risks.m4a`, about 12 MB). Download may also open
@@ -61,5 +61,5 @@ printf '%s' "<the episode title shown in NotebookLM>" > podcast/inbox/title.txt
 git add -f podcast/inbox && git commit -qm "Podcast audio $D" && git push -q origin claude/podcast-$D
 ```
 The push starts the "Publish podcast episode" workflow. It converts the audio, rejects anything under 2.5 or over 25 minutes,
-publishes it and deletes the branch. Reply in one or two lines: the episode date, its length, and that it was handed off.
+publishes it and deletes the branch. Reply in one or two lines: the episode date, its length (the target is about 10 minutes; if it is under 7 or over 14, say so), and that it was handed off.
 Leave the NotebookLM tab open; do not delete the generated audio from NotebookLM.
