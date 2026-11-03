@@ -1,0 +1,796 @@
+{
+ "date": "2026-11-03",
+ "generated": "2026-11-03T12:33:55+00:00",
+ "count": 29,
+ "by_region": {
+  "US": 8,
+  "UK": 2,
+  "EU": 9,
+  "CA": 2
+ },
+ "paywalled": 8,
+ "items": [
+  {
+   "id": "acc646b1b204",
+   "title": "Gator Strong Services Resolves EEOC Sexual Harassment Suit",
+   "snippet": "WILMINGTON, N.C. — Gator Strong, LLC and Gator Strong NC, LLC, who operate Gator Strong Services in Wilmington, agreed to pay $25,000 and furnish other relief to settle a sexual harassment lawsuit filed by the U.S. Equal Employment Opportunity Commission (EEOC), the federal…",
+   "url": "https://www.eeoc.gov/newsroom/gator-strong-services-resolves-eeoc-sexual-harassment-suit",
+   "paywall_url": "",
+   "source": "U.S. EEOC",
+   "source_id": "eeoc",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-02T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "enforcement"
+   ],
+   "score": 21.49,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   }
+  },
+  {
+   "id": "8e435a516e4f",
+   "title": "NWC Calls for Global Education on Whistleblower Laws at United Nations Conference on Transnational Crime",
+   "snippet": "The National Whistleblower Center (NWC) called on foreign governments to strengthen whistleblower protections and financial incentives during an address at the 13th Session of the Conference of the Parties to the United Nations Convention Against Transnational Organized Crime…",
+   "url": "https://whistleblowersblog.org/whistleblower-news/nwc-calls-for-global-education-on-whistleblower-laws-at-united-nations-conference-on-transnational-crime/",
+   "paywall_url": "",
+   "source": "Whistleblower Network News",
+   "source_id": "wnn",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T19:59+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 14.0,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   }
+  },
+  {
+   "id": "aed481d7c89d",
+   "title": "NWC Advocates for Whistleblower Rewards at United Nations Conference on Transnational Crime",
+   "snippet": "During the 13th session of the Conference of the Parties to the United Nations Convention against Transnational Organized Crime (UNTOC), the National Whistleblower Center (NWC) advocated for widespread whistleblower reward laws to combat transnational crime. Representing NWC,…",
+   "url": "https://whistleblowersblog.org/whistleblower-news/nwc-advocates-for-whistleblower-rewards-at-united-nations-conference-on-transnational-crime/",
+   "paywall_url": "",
+   "source": "Whistleblower Network News",
+   "source_id": "wnn",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T19:42+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 14.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Pottery_Whistle_MET_DP157369.jpg/1280px-Pottery_Whistle_MET_DP157369.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Unknown author",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pottery_Whistle_MET_DP157369.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pottery Whistle MET DP157369.jpg"
+   }
+  },
+  {
+   "id": "74361e59eebb",
+   "title": "Extreme, Part II: The Sanctions Violations",
+   "snippet": "Today we return to Extreme Networks, the tech company fined $2.5 million last week for sanctions violations and its “near miss” in voluntary self-disclosure that left the company with a non-prosecution agreement rather than a declination. Fascinating as that disclosure flub…",
+   "url": "https://www.radicalcompliance.com/2026/11/02/extreme-part-ii-the-sanctions-violations/",
+   "paywall_url": "",
+   "source": "Radical Compliance",
+   "source_id": "radical",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T21:55+00:00",
+   "topic": "enforcement_policy",
+   "tags": [
+    "enforcement_policy",
+    "aml_sanctions",
+    "enforcement"
+   ],
+   "score": 13.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg/1280px-Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto,_Japan.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Illuminated white and purple facade of the office building Rohm Semiconductor in Kyoto, Japan.jpg"
+   }
+  },
+  {
+   "id": "8a775e25fc41",
+   "title": "Justice Department Announces Charges Involving 63 Individuals for Election-Related Crimes",
+   "snippet": "Today, the Justice Department announced charges involving 63 individuals, including four illegal aliens, in connection with illegal voting, fraudulent voter registration, and related election crimes across the country. The cases include voting by aliens in federal elections,…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-announces-charges-involving-63-individuals-election-related-crimes",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-02T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "1f148c2ee545",
+   "title": "FCA sets expectations for firms making car finance settlement offers",
+   "snippet": "Research shows consumers want the choice, rather than wait for the legal challenges to conclude. Almost 9 out of 10 (89%) car finance customers who have complained or are considering doing so want the choice of an offer of compensation now, rather than waiting for the legal…",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-sets-expectations-firms-making-car-finance-settlement-offers",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 7.92,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "d08b1ea5eb1e",
+   "title": "INTERVIEW: Czech ammo major CSG is fortifying its supply chain",
+   "snippet": "The CSG group is restarting production of key explosive components",
+   "url": "https://www.rapporteur.com/news/interview-csg-aims-to-control-its-supply-chain-to-curb-bottlenecks/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 6.72,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Container_cranes_at_the_Port_of_Oakland-.jpg/1280px-Container_cranes_at_the_Port_of_Oakland-.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Yair-haklai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland-.jpg"
+   }
+  },
+  {
+   "id": "0da005ca0083",
+   "title": "United Nations Side Event Examines the Future of Combatting Transnational Crime",
+   "snippet": "On October 21, 2026, the National Whistleblower Center hosted a side-event at the 13th Conference of the Parties to the UN Convention against Transnational Organized Crime (UNTOC COP13). The panel examined how anti-corruption advocates can promote cross-border cooperation and…",
+   "url": "https://whistleblowersblog.org/whistleblower-news/united-nations-side-event-examines-the-future-of-combatting-transnational-crime/",
+   "paywall_url": "",
+   "source": "Whistleblower Network News",
+   "source_id": "wnn",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T17:30+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing",
+    "anti_bribery"
+   ],
+   "score": 5.84,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Figure_Whistle_MET_DP227402.jpg/1280px-Figure_Whistle_MET_DP227402.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Unknown author",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Figure_Whistle_MET_DP227402.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Figure Whistle MET DP227402.jpg"
+   }
+  },
+  {
+   "id": "af8789590a37",
+   "title": "AI faces limits in reusing news articles, says top EU court advisor",
+   "snippet": "But influential opinion also states that chatbots may be trained on copyrighted data",
+   "url": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-03T10:44+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.28,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "00984d0be15f",
+   "title": "Climate promises are not enough. It’s time to deliver. [Promoted Content]",
+   "snippet": "As COP31 approaches, Europe must turn climate ambition into action. Reforming global climate governance, strengthening accountability, ending fossil fuel dependency and genuinely including civil society are essential to delivering climate targets while ensuring a fair transition…",
+   "url": "https://www.rapporteur.com/opinion/climate-promises-are-not-enough-its-time-to-deliver/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T13:00+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "esg"
+   ],
+   "score": 4.9,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   }
+  },
+  {
+   "id": "77a01e987f42",
+   "title": "New FCA rules bring ESG rating providers into UK regulation for the first time",
+   "snippet": "New UK rules for environmental, social and governance (ESG) rating providers will raise standards in the market, helping investors to make better informed decisions. The new framework brings ESG rating providers into FCA regulation for the first time, covering a market that…",
+   "url": "https://www.fca.org.uk/news/press-releases/new-fca-rules-bring-esg-rating-providers-uk-regulation-first-time",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "esg",
+   "tags": [
+    "esg",
+    "governance"
+   ],
+   "score": 4.49,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "e734970cd33b",
+   "title": "News release: Privacy Commissioner of Canada appears before Standing Senate Committee on National Security, Defence and Veterans Affairs on Bill C-22",
+   "snippet": "News release",
+   "url": "/en/opc-news/news-and-announcements/2026/nr-c_261102/",
+   "paywall_url": "",
+   "source": "Privacy Commissioner of Canada",
+   "source_id": "opc",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-02T05:00+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 3.9,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "3038145c77dc",
+   "title": "Y’all Street Plays by Familiar Rules — With a Few Twists",
+   "snippet": "TXSE’s governance framework mostly tracks the incumbents, so the question for boards is where it doesn’t The post Y’all Street Plays by Familiar Rules — With a Few Twists appeared first on Corporate Compliance Insights .",
+   "url": "https://www.corporatecomplianceinsights.com/yall-street-plays-by-familiar-rules/",
+   "paywall_url": "",
+   "source": "Corporate Compliance Insights",
+   "source_id": "cci",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-03T12:00+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 3.25,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-01.jpg/1280px-Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jacklee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Singapore_Surrender_table,_Singapore_History_Gallery,_National_Museum_of_Singapore_-_20151125-01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Singapore Surrender table, Singapore History Gallery, National Museum of Singapore - 20151125-01.jpg"
+   }
+  },
+  {
+   "id": "1ad5e5d96921",
+   "title": "Secretary of State Sarai announces Government of Canada’s appointment of new chairperson of board of International Development Research Centre",
+   "snippet": "Mr. Rae recently served as ambassador and permanent representative of Canada to the United Nations, where he helped advance international cooperation on humanitarian, development and global governance issues.",
+   "url": "https://www.canada.ca/en/global-affairs/news/2026/11/secretary-of-state-sarai-announces-government-of-canadas-appointment-of-new-chairperson-of-board-of-international-development-research-centre.html",
+   "paywall_url": "",
+   "source": "Global Affairs Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-02T20:35+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 3.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-02.jpg/1280px-Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-02.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jacklee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Singapore_Surrender_table,_Singapore_History_Gallery,_National_Museum_of_Singapore_-_20151125-02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Singapore Surrender table, Singapore History Gallery, National Museum of Singapore - 20151125-02.jpg"
+   }
+  },
+  {
+   "id": "ed88a0296caf",
+   "title": "Climate scientists paint devastating picture of ice loss worldwide",
+   "snippet": "Much of the damage is already irreversible but could worsen catastrophically, warns a report on the eve of the COP31 climate summit",
+   "url": "https://www.rapporteur.com/news/climate-scientists-paint-devastating-picture-of-ice-loss-worldwide/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "2ea4a25e24c8",
+   "title": "THE HACK: Cloud industry’s CAIDA gripes",
+   "snippet": "In today's edition: Kids Act, Frontex, AI stocks",
+   "url": "https://www.rapporteur.com/news/the-hack-cloud-industrys-caida-gripes/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T09:10+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.54,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "85c382eb47c8",
+   "title": "Amy L. Cocuzza Named Solicitor to the National Labor Relations Board",
+   "snippet": "November 02, 2026 The National Labor Relations Board (NLRB) today announced the appointment of Amy L. Cocuzza as the new Solicitor. Ms. Cocuzza is now the chief legal advisor and consultant to the entire Board on all questions of law regarding the Board’s general operations and…",
+   "url": "https://www.nlrb.gov/news-outreach/news-story/amy-l-cocuzza-named-solicitor-to-the-national-labor-relations-board",
+   "paywall_url": "",
+   "source": "U.S. NLRB",
+   "source_id": "nlrb",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-02T15:55+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 2.2,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/1099_16th_Street_%E2%80%93_National_Labor_Relations_Board_-_Building.JPG/1280px-1099_16th_Street_%E2%80%93_National_Labor_Relations_Board_-_Building.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Geraldshields11",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1099_16th_Street_%E2%80%93_National_Labor_Relations_Board_-_Building.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "1099 16th Street – National Labor Relations Board - Building.JPG"
+   }
+  },
+  {
+   "id": "c9c5ca59e433",
+   "title": "THE HACK: Copenhagen’s disappointment",
+   "snippet": "In today's edition: French data tax, ITU, supermarket cyberattacks",
+   "url": "https://www.rapporteur.com/news/the-hack-copenhagens-disappointment/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-03T06:55+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "1d80b72bd488",
+   "title": "EXCLUSIVE: EU to seek global action against climate super-pollutant SF6",
+   "snippet": "Push for 'SF6-free technologies' is to be launched at Germany's COP31 pavilion",
+   "url": "https://www.rapporteur.com/news/exclusive-eu-to-seek-global-action-against-climate-super-pollutant-sf6/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-02T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "06a0b3dfb15c",
+   "title": "Jump-starting Europe’s Bioeconomy with Working Forests [Promoted Content]",
+   "snippet": "To deliver on its bioeconomy strategy, Europe will need an abundant supply of sustainable, renewable feedstock and products. America's private working forests offer abundant, renewable wood and fiber backed by strong sustainability systems and decades of stable forest cover.",
+   "url": "https://www.rapporteur.com/opinion/jump-starting-europes-bioeconomy-with-working-forests/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-03T11:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg"
+   }
+  },
+  {
+   "id": "5d85077e1534",
+   "title": "European firefighters demand action, not applause",
+   "snippet": "Emergency workers find common ground with environmentalists on the front line of climate change",
+   "url": "https://www.rapporteur.com/news/european-firefighters-demand-action-not-applause/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-03T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/1280px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Matthew T Rader",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roscoe_Wind_Farm_in_West_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Roscoe Wind Farm in West Texas.jpg"
+   }
+  },
+  {
+   "id": "fb288e692ce0",
+   "title": "UK SFO strengthens guidance on corporate self-reporting for fraud, bribery, and corruption",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/regulatory-policy/uk-sfo-strengthens-guidance-on-corporate-self-reporting-for-fraud-bribery-and-corruption/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-03T02:43+00:00",
+   "topic": "enforcement_policy",
+   "tags": [
+    "enforcement_policy",
+    "anti_bribery"
+   ],
+   "score": 23.88,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1e6729953aab",
+   "title": "Ex-PDVSA exec sues Big Law firm over alleged whistleblower retaliation",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-anti-corruption/article/ex-pdvsa-exec-sues-big-law-firm-over-alleged-whistleblower-retaliation",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-02T22:29+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing",
+    "anti_bribery",
+    "aml_sanctions"
+   ],
+   "score": 20.38,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e5565d7f212d",
+   "title": "Taiwan: AML reforms target beneficial ownership transparency as enforcement expands across virtual assets and payment services",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-guide-anti-money-laundering/fourth-edition/article/taiwan-aml-reforms-target-beneficial-ownership-transparency-enforcement-expands-across-virtual-assets-and-payment-services",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-02T09:00+00:00",
+   "topic": "due_diligence",
+   "tags": [
+    "due_diligence",
+    "aml_sanctions",
+    "enforcement"
+   ],
+   "score": 19.86,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "4c0288968fe0",
+   "title": "FCA Sets Scope Of Review Into Its Treatment Of Whistleblower",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1cFVWMmVnekxkVEJLdm1pYnpnclotb0R0WV81ZVlUdVlnVmwwRE4xNlMwcFBjVnhiRzdDUS12R25HNWpkWm1ZdDBrbEFkdW5XRnhnN0ZB0gFWQVVfeXFMUDVwVVYyZWd6TGRUQkt2bWliemdyWi1vRHRZXzVlWVR1WWdWbDBETjE2UzBwUGNWeGJHN0NRLXZHbkc1amRabVl0MGtsQWR1bldGeGc3RkE?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-02T14:20+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "accdbe25da96",
+   "title": "Compliance spend on AI rising, but fears about accuracy, reliability remain",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/artificial-intelligence/compliance-spend-on-ai-rising-but-fears-about-accuracy-reliability-remain/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-03T03:14+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "due_diligence"
+   ],
+   "score": 9.71,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "da1fa8f2dea1",
+   "title": "Calif. AG Hits Lyft With $1.8M Fine For Opt-Out 'Barrier'",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzRaVVdPVHA3Rm9KRmRuM2p3NGVZQWNTN0NudUdBUmRvQlJvdC1nZHY1dWl1cktIM19tYzlOOTNrMzRTSmppY3duZG9vZWRkbUEyXzdkZ3RiUWw4SDI3NHJBMVU3aUMxSThiT3Q5bG1lWDBsaEljSXlONzlHUVc5YTI4QjNUQXhPSFA0ZDlFdU5IdmxONWszdWszZkRvaGtfOWVESDVoRW5wZGN2d2fSAVZBVV95cUxOdG9HUmg4RHpuaFRMNl9vQUNWaE9uTmdKSWwwRVJIdEdiMkxCeVlRdmNZOWhzeHMtYnFXSmFRUExTNXhKQ2N1QlNrTjhPQzR5cHp5eng3UQ?oc=5",
+   "source": "Law360",
+   "source_id": "gn-ca",
+   "region": "CA",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-03T04:33+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "aa7b33203458",
+   "title": "I'm an employment law attorney. Here are the 3 steps you should take if you're offered a buyout like Microsoft's.",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnRDNEhTcy1pbmFuVTRKMThUbmV3cWZSbXFOS1phclNOOWFSYWEwMEpOTTJQUHd6MVBsZXdjU2Rlbl94VGw3X3NDVEwyS3I3MHQzNWVwWmpCamdKV0UtdThJNm5DMW85U1JaN0tGWkRXVTJWUkJ2WkdZUDY0aVYzdkdrOTZBLWJHWnJha19FU1pQSHdCb1E?oc=5",
+   "source": "Business Insider",
+   "source_id": "gn-employ",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-03T10:15+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 8.8,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "87f3c5a674ca",
+   "title": "Huawei fights to put US sanctions guidance before jury",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-sanctions/article/huawei-fights-put-us-sanctions-guidance-jury",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-02T21:50+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
