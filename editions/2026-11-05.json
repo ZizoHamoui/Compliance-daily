@@ -1,0 +1,290 @@
+{
+ "date": "2026-11-05",
+ "lead_id": "f09349da4bcc",
+ "editor_note": "Two anti-money laundering cases lead a quiet day: Block nears a deferred prosecution agreement over Cash App, and the OCC's order shows how Bank of America's monitoring broke down. Conduct and retaliation disputes in France and Baltimore fill out the paper.",
+ "bottom_line": [
+  {
+   "id": "f09349da4bcc",
+   "text": "Block reached an agreement in principle on a three-year deferred prosecution deal, expecting to pay about $764 million over its AML programme."
+  },
+  {
+   "id": "ee50899a2b38",
+   "text": "The OCC order behind Bank of America's $1.2 billion penalty ties flawed models, thin investigator capacity and weak oversight into one failure."
+  },
+  {
+   "id": "1c641d3e3844",
+   "text": "French dentists fired in a dispute over a 30% Chinese sourcing demand are taking legal action, saying their employer put profits before patients."
+  }
+ ],
+ "stat": {
+  "id": "ee50899a2b38",
+  "text": "Nearly 200,000 cases: the peak 2024 investigation backlog at Bank of America, according to the OCC's consent order."
+ },
+ "podcast_brief": "## The day in one line\n\nA quiet news day with two large stories about the same weakness: anti-money laundering programmes that could not keep pace with the business. Block is close to a deferred prosecution agreement over Cash App, and the detail of Bank of America's penalty shows what regulators found when they looked inside. Smaller stories from France, Baltimore and Brussels add conduct, retaliation and the shape of EU enforcement.\n\n## Story 1 — Block expects to pay about $764 million in a Justice Department deal over its Cash App anti-money laundering programme\n\n**The facts.**\n- Block, the owner of Cash App and Square, disclosed in a filing on November 3 that it expects to pay about $764 million to resolve a Justice Department investigation of its anti-money laundering controls. These details come from press reports of the filing rather than from the filing itself.\n- The company reached an agreement in principle in October on a deferred prosecution agreement. The department would defer for three years a charge that Block failed to establish and maintain an effective anti-money laundering programme under the Bank Secrecy Act.\n- If Block complies, the department would move to dismiss the charge with prejudice. A breach could lead to prosecution on that charge.\n- The gross monetary component is about $964 million. Credits of about $200 million for earlier regulatory settlements bring it down to about $764 million. The reports do not break down which settlements produced those credits.\n- The deal is not final. It depends on a final agreement satisfactory to all parties and on court approval. Block says losses above its accrual are reasonably possible.\n- The money has been building on the balance sheet. Block disclosed a $240 million reserve in May, had $526 million accrued at the end of June, and reached $764 million at September 30.\n- The same quarter was strong commercially: gross profit rose 22% to $3.24 billion, which is part of why the accrual stands out.\n- The reports do not name the Justice Department office or the court, and the terms of any monitor or reporting duties are not known.\n\n**Background.**\n- The story starts with a March 2023 report from Hindenburg Research, a short seller, alleging weak fraud controls at Cash App, duplicate and fraudulent accounts, and a pattern of disregard for anti-money laundering and know-your-customer rules. Block called the report inaccurate and misleading. Hindenburg closed in 2025.\n- In January 2025, Block agreed to pay $255 million to federal and state regulators, including an $80 million fine from 48 state regulators.\n- In April 2025, New York's financial regulator imposed a $40 million penalty and an independent monitor. It found that unresolved suspicious-transaction alerts grew from about 18,000 in 2018 to more than 169,000 by 2020.\n- In March 2026 the Justice Department put potential terms to Block, and the SEC told the company it had ended its own investigation with no enforcement recommendation. Block countered in April. As of June it still said it disputed the basis and methodology of the department's assessment.\n\n**What it does not change.**\n- Nothing is final, and no charge has been filed in the reports available so far.\n- The reported charge is a programme failure. The reports do not describe the filing as saying Block itself laundered money.\n\n**Who's affected.**\n- Payments companies, fintechs and crypto businesses subject to the Bank Secrecy Act.\n- Chief compliance officers and anti-money laundering officers at high-growth firms, and the boards that oversee them.\n- General counsel handling several regulators at once, since credit for earlier settlements affected the final figure here.\n\n**Why it matters.** This is a bank-scale number for a company that many people think of as an app. The legal theory is a failure to run an effective programme, which makes the size of the payment a statement about controls rather than about any single laundering scheme. The arc also runs more than three years, with state regulators, New York and the federal government each acting in turn. The alert backlog from the New York case gives the story a concrete number that anyone can picture.\n\n**How this comes up with a GC or CLO.** It is likely to surface as shorthand for growth outrunning controls, and as a reference point for how a short-seller report can turn into a criminal resolution. Legal leaders may also raise the crediting of earlier payments, because multi-regulator resolutions are a common worry. Compliance leaders are likely to focus on alert backlogs as the measure that regulators later put in an order.\n\n**Questions a buyer might ask.**\n- How does a deferred prosecution agreement differ from a non-prosecution agreement once it comes to monitoring and reporting?\n- How were the credits for earlier settlements worked out, and will the method be public?\n- Will the final deal add a monitor or reporting duties on top of the New York monitor?\n\n## Story 2 — Inside the OCC order: how Bank of America's monitoring left suspicious activity unreported\n\n**The facts.**\n- Treasury announced the action on October 13. FinCEN assessed a $1.2 billion penalty, with $750 million going to the Office of the Comptroller of the Currency, the largest fine that regulator has imposed. OFAC reached a separate $11.6 million settlement.\n- AP reported it as the third-largest penalty in Treasury history, behind Binance and TD Bank.\n- The OCC order describes problems with suspicious activity \"feeder\" models, risk scores from a system called the Event Processor, and the thresholds and timelines for opening investigations.\n- Hundreds of thousands of customer transactions were not monitored through suspicious activity processes. A gap in credit card monitoring delayed reporting across a $102 billion portfolio.\n- The investigation backlog peaked at nearly 200,000 cases in 2024, and the bank lacked investigators with adequate skills and training.\n- From 2019 to 2023 the bank failed to file reports on roughly 18% to 44% of certain potentially suspicious activity not referred for investigation, depending on the year.\n\n**Background.**\n- The OCC issued a cease-and-desist order on December 23, 2024, and says progress since then was insufficient.\n- Treasury says the bank admits it willfully violated the Bank Secrecy Act. The OCC order says the bank neither admits nor denies the OCC's findings. Those two statements come from different agencies and different documents.\n- The bank says it has invested heavily in people and technology and that much of the work is complete. About 1,000 people were moved from other units, and a third party will look back at past transactions.\n- This story returns because legal commentary is now turning to the order's detail, three weeks after the headline number.\n\n**Who's affected.**\n- Banks and other financial institutions running automated monitoring, and the audit and BSA officers who oversee it.\n\n**Why it matters.** The order does not treat this as a simple software failure. Models, thresholds, staffing, audit and management reporting all appear in the same chain. The sharpest detail is that management received reports on missed filings for years, and that a prior order had not brought enough progress.\n\n**How this comes up with a GC or CLO.** Legal leaders may use it as the current example of what a repeat regulatory problem costs. Compliance analysts are likely to focus on the numbers: the backlog, the unmonitored transactions and the share of missed reports.\n\n**Questions a buyer might ask.**\n- How do examiners test whether feeder models and thresholds catch what they were built to catch?\n- What size of investigation backlog do regulators treat as a programme failure?\n- How do the FinCEN admission and the OCC no-admission language fit together?\n\n## Story 3 — French dentists fired over Chinese prostheses take legal action\n\n**The facts.**\n- Dentists in France who were fired in a dispute over Chinese prostheses are taking legal action, Euractiv reports.\n- They say their employer put profits before patients by demanding that they source 30% of dental prostheses from China.\n- Only the headline and summary were available for this story, so the employer's name, the number of dentists and the employer's response are not given here.\n\n**Background.**\n- The available summary gives no timeline or detail of the legal claim. The account here is the dentists' own allegation.\n\n**Who's affected.**\n- Healthcare employers, procurement teams, and clinical professionals with their own duties to patients.\n\n**Why it matters.** A procurement target became a dispute about patient care and dismissal. That is a common pattern in conduct cases: a commercial instruction meets a professional's judgement, and the disagreement becomes a claim about what the employer valued. The numbers here are simple, which makes it easy to retell.\n\n**How this comes up with a GC or CLO.** It is a useful story when the conversation is about employees objecting to a business instruction, and what happens to those objections before they reach a tribunal. Legal leaders in healthcare may also see the supply-chain angle.\n\n**Questions a buyer might ask.**\n- Were the dentists' concerns raised through a formal channel before the dismissals?\n- Does French law treat this kind of objection as protected reporting?\n\n## Story 4 — Horseshoe Casino and Caesars Entertainment companies to pay $150,000 in EEOC case\n\n**The facts.** Casino operators CBAC Borrower, LLC, Caesars Baltimore Management Co., LLC and Caesars Entertainment, Inc., doing business together as Horseshoe Casino, will pay $150,000 and provide other equitable relief to settle a disability discrimination and retaliation lawsuit brought by the EEOC.\n\n**Background.** The agency announced the settlement from Baltimore on November 4. This paper has carried a run of smaller EEOC resolutions in recent weeks.\n\n**Who's affected.** Large hospitality employers and HR and legal teams handling disability accommodation.\n\n**Why it matters.** The payment is modest, but the case names a major corporate parent, and retaliation sits beside the underlying discrimination claim.\n\n**How this comes up with a GC or CLO.** As a routine example of how a local workplace dispute reaches a parent company's name.\n\n**Questions a buyer might ask.**\n- What does the equitable relief require in practice?\n\n## Story 5 — United Nations side event examines the future of combatting transnational crime\n\n**The facts.** On October 21 the National Whistleblower Center hosted a side event at the 13th Conference of the Parties to the UN Convention against Transnational Organized Crime. The panel examined how anti-corruption advocates can promote cross-border cooperation.\n\n**Background.** This paper reported earlier this week on the Center's address at the same conference, calling for stronger whistleblower protections and rewards.\n\n**Who's affected.** Multinationals with speak-up channels across several countries.\n\n**Why it matters.** Whistleblower advocates are working inside treaty forums rather than only national legislatures. It is advocacy, not a rule change.\n\n**How this comes up with a GC or CLO.** Mostly as background for leaders tracking the international direction of whistleblower policy.\n\n**Questions a buyer might ask.**\n- Is any government proposing concrete treaty-level language?\n\n## Story 6 — Commissioner Dombrovskis presents report on simplification, implementation and enforcement at CEPS\n\n**The facts.** In a speech at the CEPS think tank in Brussels on November 5, Commissioner Dombrovskis presented the Commission's report on simplification, implementation and enforcement. He opened with the message that EU rules need to be simpler to comply with.\n\n**Background.** The report was published alongside the Commission's 2027 work programme, which this paper covered yesterday.\n\n**Who's affected.** Companies with EU compliance obligations and the legal teams tracking them.\n\n**Why it matters.** Simplification and enforcement are being presented together, which matters for how the coming year's EU rulemaking is described.\n\n**How this comes up with a GC or CLO.** As context in discussions about which EU obligations are likely to ease, and which are not.\n\n**Questions a buyer might ask.**\n- Does simplification change any deadlines already in force?",
+ "storylines": {
+  "block-cash-app-aml": "Block and the DOJ's Cash App anti-money laundering case"
+ },
+ "cards": [
+  {
+   "id": "f09349da4bcc",
+   "title": "Block expects to pay about $764M in DOJ deal over Cash App anti-money laundering programme",
+   "summary": "Block disclosed an agreement in principle with the Justice Department on a three-year deferred prosecution agreement over its anti-money laundering programme. The gross amount is about $964 million, or about $764 million after credits. The deal is not final.",
+   "impact": "A payments company faces a bank-scale resolution over a Bank Secrecy Act programme charge, more than three years after a short-seller report first raised the allegations.",
+   "industries": [
+    "financial_services",
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "mobile payment smartphone terminal",
+   "topic": "aml_sanctions",
+   "kind": "briefing",
+   "tier": "ai",
+   "source": "AI Briefing · 24/7 Wall St.",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-03T12:00+00:00",
+   "storyline": "block-cash-app-aml",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "id": "ee50899a2b38",
+   "title": "Inside the OCC order: how Bank of America's monitoring left suspicious activity unreported",
+   "summary": "The OCC's order behind Bank of America's $1.2 billion penalty describes flawed monitoring models, a backlog of nearly 200,000 cases and hundreds of thousands of transactions never run through suspicious activity processes.",
+   "impact": "The order places model design, investigator capacity and audit in one failure chain, and regulators priced in insufficient progress since a 2024 order.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst",
+    "gc"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Bank of America Plaza Charlotte",
+   "topic": "aml_sanctions",
+   "kind": "briefing",
+   "tier": "ai",
+   "source": "AI Briefing · Office of the Comptroller of the Currency",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Charlotte_Supply_site.jpg/1280px-Charlotte_Supply_site.jpg",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-10-13T12:00+00:00",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Nyttend",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Charlotte_Supply_site.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Charlotte Supply site.jpg"
+   }
+  },
+  {
+   "id": "1c641d3e3844",
+   "url": "https://www.rapporteur.com/news/french-dentists-fired-over-chinese-prostheses-take-legal-action/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-05T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Liberty_Wing%27s_Dental_Lab_%288419855%29.jpg/1280px-Liberty_Wing%27s_Dental_Lab_%288419855%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "U.S. Air Force photo by Airman 1st Class Alexander Vasquez",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Liberty_Wing%27s_Dental_Lab_(8419855).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Liberty Wing's Dental Lab (8419855).jpg"
+   },
+   "tier": "press",
+   "topic": "employment_law",
+   "title": "French dentists fired over Chinese prostheses take legal action",
+   "summary": "Dentists in France dismissed in a dispute over Chinese prostheses are taking legal action. They say their employer put profits before patients by demanding that they source 30% of dental prostheses from China.",
+   "impact": "A sourcing quota turned into a dismissal dispute framed around patient care, showing how procurement targets can become conduct and retaliation claims when professionals object.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "dental prosthesis laboratory",
+   "kind": "link"
+  },
+  {
+   "id": "fbec33c5989c",
+   "url": "https://www.eeoc.gov/newsroom/horseshoe-casino-and-caesars-entertainment-companies-pay-150000-eeoc-disability",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-04T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Horseshoe_Casino_Grand_Opening_2014.jpg/1280px-Horseshoe_Casino_Grand_Opening_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Maryland GovPics",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Horseshoe_Casino_Grand_Opening_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Horseshoe Casino Grand Opening 2014.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "title": "Horseshoe Casino and Caesars Entertainment companies to pay $150,000 in EEOC disability discrimination and retaliation lawsuit",
+   "summary": "Casino operators doing business as Horseshoe Casino, including Caesars Entertainment, Inc., will pay $150,000 and provide other equitable relief to settle an EEOC disability discrimination and retaliation lawsuit.",
+   "impact": "Retaliation claims keep appearing alongside underlying discrimination allegations in EEOC settlements, and equitable relief extends a modest payment into changes in how a large employer operates.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Horseshoe Casino Baltimore",
+   "kind": "link"
+  },
+  {
+   "id": "0da005ca0083",
+   "url": "https://whistleblowersblog.org/whistleblower-news/united-nations-side-event-examines-the-future-of-combatting-transnational-crime/",
+   "source": "Whistleblower Network News",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-02T17:30+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Alte_Donau_Vienna_International_Center_2008.jpg/1280px-Alte_Donau_Vienna_International_Center_2008.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Manfred Werner / Tsui",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Alte_Donau_Vienna_International_Center_2008.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Alte Donau Vienna International Center 2008.jpg"
+   },
+   "tier": "press",
+   "topic": "whistleblowing",
+   "title": "United Nations side event examines the future of combatting transnational crime",
+   "summary": "On October 21, the National Whistleblower Center hosted a side event at the UN transnational organized crime conference. The panel examined how anti-corruption advocates can promote cross-border cooperation.",
+   "impact": "Whistleblower advocates are pressing the case inside UN treaty forums, keeping cross-border reporting on the agenda for multinationals whose speak-up channels span jurisdictions.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Vienna International Centre",
+   "kind": "link"
+  },
+  {
+   "id": "c817c30a5c78",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2357",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-05T12:04+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "title": "Commissioner Dombrovskis presents report on simplification, implementation and enforcement at CEPS",
+   "summary": "Speaking at CEPS in Brussels, Commissioner Dombrovskis presented the Commission's report on simplification, implementation and enforcement, opening with the message that EU rules must be simpler to comply with.",
+   "impact": "The Commission is pairing lighter rulebooks with enforcement in one political message, which shapes how EU compliance obligations are likely to be framed in the coming year.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "rule",
+   "image_query": "Berlaymont building Brussels",
+   "kind": "link"
+  }
+ ],
+ "briefings": {
+  "f09349da4bcc": {
+   "headline": "Block expects to pay about $764M in DOJ deal over Cash App anti-money laundering programme",
+   "dek": "A three-year deferred prosecution agreement would close an inquiry that began with a 2023 short-seller report, but the deal is not yet final.",
+   "body_md": "Block, the owner of Cash App, expects to pay about $764 million to resolve a Justice Department investigation into its anti-money laundering controls. The company disclosed the proposed resolution in a filing on November 3, according to reports of that filing.\n\nThe company reached an agreement in principle in October on a deferred prosecution agreement. The Justice Department would defer for three years a charge that Block failed to establish and maintain an effective anti-money laundering programme under the Bank Secrecy Act. If Block complies, the department would move to dismiss the charge with prejudice; a breach could lead to prosecution. The reports do not describe the filing as saying Block itself laundered money.\n\nThe gross monetary component is about $964 million, reduced by about $200 million in credits for earlier regulatory settlements. Block had accrued $764 million by September 30, up from $526 million at the end of June and from the $240 million reserve it disclosed in May. The deal remains subject to a final agreement and court approval, and Block says losses above the accrual are reasonably possible. The reports reviewed for this briefing do not identify the Justice Department office or the court.\n\nThe inquiry traces to a March 2023 Hindenburg Research report alleging weak fraud controls and a disregard for know-your-customer rules at Cash App. Block called the report inaccurate and misleading, and as recently as its filing for the June quarter it disputed the department's methodology. The SEC closed its own investigation in March 2026 without recommending action.\n\nBlock has already paid for related failures. In January 2025 it agreed to pay $255 million to federal and state regulators, including an $80 million fine from 48 states. In April 2025 New York's financial regulator imposed a $40 million penalty and an independent monitor, finding that unresolved suspicious-transaction alerts had grown from about 18,000 in 2018 to more than 169,000 by 2020.\n\n### What this means for legal and compliance leaders\n\nThe case shows how an AML programme charge can reach a fintech at a scale once associated with large banks, and how crediting of earlier regulatory payments can shape the final figure. It also shows the distance between a short-seller report and a criminal resolution: more than three years, with state, federal and New York actions along the way. The growth-versus-controls story, with alert backlogs as the measurable symptom, is a familiar one in the sector.\n\n### Questions you may hear\n\n- How does a deferred prosecution agreement differ from a non-prosecution agreement in terms of monitoring and reporting?\n- How were credits for earlier settlements calculated, and will that method be published?\n- Will the final agreement add a monitor or reporting duties beyond New York's?",
+   "sources": [
+    {
+     "title": "Block Expects to Pay $764 Million to Settle a Justice Department Money-Laundering Probe",
+     "publisher": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/04/block-expects-to-pay-764-million-to-settle-a-justice-department-money-laundering-probe/"
+    },
+    {
+     "title": "Jack Dorsey's Block Faces $764 Million DOJ Settlement Over Anti-Money Laundering Failures",
+     "publisher": "Cryptowisser",
+     "url": "https://www.cryptowisser.com/news/block-to-pay-764m-over-money-laundering-failures-at-cash-app/"
+    },
+    {
+     "title": "Block inches closer to DOJ settlement",
+     "publisher": "Payments Dive",
+     "url": "https://paymentsdive.com/news/block-inches-closer-to-doj-settlement/820194/"
+    }
+   ],
+   "prompted_by": {
+    "title": "Block reaches tentative DOJ deal over alleged AML failures",
+    "publisher": "Global Investigations Review",
+    "url": "https://globalinvestigationsreview.com/article/block-reaches-tentative-doj-deal-over-alleged-aml-failures"
+   }
+  },
+  "ee50899a2b38": {
+   "headline": "Inside the OCC order: how Bank of America's monitoring left suspicious activity unreported",
+   "dek": "The regulator's order links monitoring models, thin investigator capacity and weak oversight behind one of Treasury's largest penalties.",
+   "body_md": "Three weeks after Bank of America's $1.2 billion anti-money laundering penalty, the detail of the regulators' case is drawing fresh legal attention. The Office of the Comptroller of the Currency's consent order describes how monitoring systems, staffing and oversight failed together at the second-largest US bank.\n\nTreasury announced the action on October 13. FinCEN assessed the $1.2 billion penalty, with $750 million of it going to the OCC, the largest fine that regulator has imposed. OFAC reached a separate $11.6 million settlement. AP reported it as the third-largest penalty in Treasury history. Treasury says the bank admits it willfully violated the Bank Secrecy Act, while the OCC order states the bank neither admits nor denies its findings.\n\nAccording to the OCC, problems reached suspicious activity \"feeder\" models, risk scores assigned by a system called the Event Processor, and the thresholds and timelines for opening investigations. Hundreds of thousands of customer transactions were not monitored through suspicious activity processes. A gap in credit card monitoring delayed reporting across a $102 billion portfolio. Trade-based money laundering red flags went unaddressed for at least two more years after OCC warnings.\n\nPeople were part of the same failure. The bank lacked investigators with adequate skills and training, and the case backlog peaked at nearly 200,000 in 2024. From 2019 to 2023 it failed to file reports on roughly 18% to 44% of certain potentially suspicious activity not referred for investigation, depending on the year. The order also faults the BSA officer and corporate audit for failing to identify significant deficiencies, and says progress since a December 2024 order was insufficient.\n\nThe bank said it has invested heavily in people and technology and that much of the work is complete. Reports said about 1,000 staff were moved from other units, and a consent order requires an independent third party to look back at past transactions.\n\n### What this means for legal and compliance leaders\n\nThe order reads as a warning about treating monitoring as a system problem alone. Models, score thresholds, investigator capacity, audit and senior reporting all appear in one causal chain, and management had reports of missed filings for years. For boards, the sharpest point is the regulator's view of remediation: a prior order, slow progress, and then the agency's largest fine.\n\n### Questions you may hear\n\n- How do regulators test whether feeder models and thresholds are actually catching suspicious activity?\n- What level of investigator backlog do examiners treat as a programme failure?\n- How was FinCEN's finding of admitted wilfulness reconciled with the OCC's no-admission order?",
+   "sources": [
+    {
+     "title": "Consent Order AA-ENF-2026-41, Bank of America, N.A.",
+     "publisher": "Office of the Comptroller of the Currency",
+     "url": "https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2026-41.pdf"
+    },
+    {
+     "title": "Bank of America fined $1.2B for allegedly violating anti-money laundering, sanctions laws",
+     "publisher": "AP via ABC30",
+     "url": "https://abc30.com/story/us-hits-bank-america-12b-fine-allegedly-violating-anti-money-laundering-sanctions-laws/19937937/"
+    },
+    {
+     "title": "Bank of America fined $1.21B over anti-money laundering policies",
+     "publisher": "The Daily Record",
+     "url": "https://thedailyrecord.com/2026/10/14/bank-of-america-fined-1-21b-over-anti-money-laundering-policies/"
+    }
+   ],
+   "prompted_by": {
+    "title": "BofA's $1.2B AML Fine Shows Perils Of Tech Overreliance",
+    "publisher": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEdtWUFxVEZXRXBTT3kzZ00tOFBpeGZqYVlBRnRJSnBsbjBCOURtdmpZVEJJN1R5LVoxM2VuT3BCRFhnclVYTUdwWFVlQVhpR0wyMmhMcWhNZGt5NElqeXQ1aHRLcjVQUHo3dnJGMElZNG84SkVFQUVGSHFNcDRsc193TXYwUE1tZmhnYV9BS0hENWg2WTBIR3dtdUk4MXBsWUJNSUxzMzfSAVZBVV95cUxPN0RTbzN6VWdLSmhELUc4anJpcEktcnlnbkU1cnVIQ1k3ZzRkMlZJWHdoUERELS14QWRRQXpCcDNtWUhYQXFxVjBVYW44RmozVnFmazBiQQ?oc=5"
+   }
+  }
+ }
+}
