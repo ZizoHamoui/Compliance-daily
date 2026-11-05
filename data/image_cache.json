@@ -7100,5 +7100,139 @@
     "title": "Home-office-336377.jpg"
    }
   }
+ ],
+ "v2|paris skyline": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Skyline_in_Paris%2C_12_July_2017.jpg/1280px-Skyline_in_Paris%2C_12_July_2017.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Christer Gundersen",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_in_Paris,_12_July_2017.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Skyline in Paris, 12 July 2017.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Chinatown_skyline_in_Paris%2C_19_June_2015.jpg/1280px-Chinatown_skyline_in_Paris%2C_19_June_2015.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Thibauld Nion",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chinatown_skyline_in_Paris,_19_June_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Chinatown skyline in Paris, 19 June 2015.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Paris_Skyline_at_Sunset.jpg/1280px-Paris_Skyline_at_Sunset.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "DiscoA340",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris_Skyline_at_Sunset.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Paris Skyline at Sunset.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Paris_skyline_from_the_Centre_Georges-Pompidou_2010.jpg/1280px-Paris_skyline_from_the_Centre_Georges-Pompidou_2010.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "zoetnet",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris_skyline_from_the_Centre_Georges-Pompidou_2010.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Paris skyline from the Centre Georges-Pompidou 2010.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Skyline_of_Paris_4.jpg/1280px-Skyline_of_Paris_4.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "DiscoA340",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_of_Paris_4.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Skyline of Paris 4.jpg"
+   }
+  }
+ ],
+ "v2|gavel": [
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Legal_Gavel_%2827571702173%29.jpg/1280px-Legal_Gavel_%2827571702173%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Blogtrepreneur",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Legal_Gavel_(27571702173).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Legal Gavel (27571702173).jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Wooden_gavel_20170417.jpg/1280px-Wooden_gavel_20170417.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Santeri Viinamäki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wooden_gavel_20170417.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wooden gavel 20170417.jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Angeline_Starr%2C_Gavel%2C_c._1940%2C_NGA_23466.jpg/1280px-Angeline_Starr%2C_Gavel%2C_c._1940%2C_NGA_23466.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Angeline Starr",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Angeline_Starr,_Gavel,_c._1940,_NGA_23466.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Angeline Starr, Gavel, c. 1940, NGA 23466.jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Wellington_City_Council_mayoral_gavel.jpg/1280px-Wellington_City_Council_mayoral_gavel.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Wellington City Council, photographer A K Bristow",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wellington_City_Council_mayoral_gavel.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wellington City Council mayoral gavel.jpg"
+   }
+  },
+  {
+   "score": 1,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Gavel-saam_1906.9.25.jpg/1280px-Gavel-saam_1906.9.25.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Unknown author",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gavel-saam_1906.9.25.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Gavel-saam 1906.9.25.jpg"
+   }
+  }
  ]
 }
