@@ -1,0 +1,354 @@
+{
+ "date": "2026-11-06",
+ "lead_id": "09760e17f42e",
+ "editor_note": "A thin news day with a clear thread: regulators testing whether controls do real work. The UK replaces reporting with a due diligence duty, FINRA penalises Webull's weak identity checks, and Brussels challenges TikTok's assessment of its own algorithm.",
+ "bottom_line": [
+  {
+   "id": "09760e17f42e",
+   "text": "The UK committed to a mandatory human rights due diligence law for businesses above £350 million, though regulator, penalties and timing remain undefined."
+  },
+  {
+   "id": "8aaa05517771",
+   "text": "FINRA fined Webull $4.2 million, finding it approved over 120,000 accounts without reasonably knowing who its customers were as growth outran compliance."
+  },
+  {
+   "id": "8bdbc3e06e74",
+   "text": "The European Commission preliminarily found TikTok's 'For You' feed in breach of the Digital Services Act over its rabbit hole effect."
+  }
+ ],
+ "stat": {
+  "id": "8aaa05517771",
+  "text": "More than 120,000 Webull accounts were approved without a reasonable belief in customers' identities; over 50 customers submitted landscape photos instead of ID."
+ },
+ "podcast_brief": "## The day in one line\n\nToday's paper is about what happens when a control exists only on paper. The UK says reporting on supply chains is no longer enough, FINRA says one broker's identity checks could not keep up with its growth, and Brussels says TikTok did not properly assess what its own algorithm does to people. It is a thin news day, so the list is short, but the top stories are substantial.\n\n## Story 1 — UK commits to mandatory human rights due diligence for businesses above £350m\n\n**The facts.**\n- On 4 November 2026 the UK government published a written ministerial statement committing to a mandatory human rights due diligence law, according to Baker McKenzie's update dated the following day.\n- Business Secretary Jonathan Reynolds made the announcement, and ESG Today reports it came out of a review of the UK's approach to responsible business conduct.\n- That review called the current framework for preventing forced labour \"fragmented and overly reliant on voluntary action and reporting measures\". Reynolds described the UK as out of step with other major economies.\n- The law would cover UK businesses with global turnover above £350 million, roughly US$470 million, and non-UK businesses whose UK-generated turnover is above £350 million.\n- Those companies would have to identify, assess and address human rights and labour exploitation risks in their operations and supply chains. Baker McKenzie stresses that this is a risk-based due diligence obligation and not simply a reporting requirement.\n- The framework is meant to align with the OECD Guidelines for Responsible Business Conduct and the UN Guiding Principles on Business and Human Rights.\n- A regulator would be able to investigate businesses suspected of placing forced-labour goods on the market. Where the due diligence duty has not been met and forced labour is identified, it could direct withdrawal of those goods from the Great Britain market.\n- Geography is split. The regime covers services across the UK and goods in Great Britain, while the EU Forced Labour Regulation applies in Northern Ireland under the Windsor Framework.\n- The government also plans a central guidance hub on responsible business conduct on GOV.UK.\n\n**Background.**\n- The UK's main supply-chain law until now has been the Modern Slavery Act, whose business provisions centre on transparency. Anti-Slavery International says the government has now accepted those transparency requirements are not sufficient.\n- Parliamentary pressure had been building, with a joint committee reporting on forced labour in UK supply chains and calling for reform.\n- There is a trade angle. Earlier in 2026 the US imposed new tariffs on UK imports after the US Trade Representative listed the UK among trading partners that had not effectively enforced a ban on forced-labour imports. ESG Today notes that the UK review predates those tariffs, though the government says the new rules bring it into line with major trading partners.\n- In the EU, the comparison point is the Corporate Sustainability Due Diligence Directive, which covers environmental impacts as well. The UK plan appears to exclude them.\n\n**What it does not change.**\n- Nothing is in force. There is no draft bill, no commencement date and no transition period. The government says only that legislation will come as soon as parliamentary time allows, after consulting stakeholders.\n- The regulator has not been named. Its investigatory and enforcement powers are not defined, and the withdrawal of goods is the only sanction announced so far.\n- It is unclear whether the new regime replaces the Modern Slavery Act or sits alongside it.\n\n**Who's affected.**\n- Large UK companies, and foreign groups with significant UK revenue, across every sector with a supply chain: retail and apparel, consumer goods, manufacturing, energy and technology hardware.\n- Inside those companies, the people who feel it first are legal, compliance, procurement and sustainability teams, because the duty sits across all four.\n- Campaigners are not fully satisfied. Anti-Slavery International wants all British companies covered, environmental harms included and a single forced-labour import ban for the whole UK, rather than what it calls a patchwork. Its manager Craig Bradshaw said: \"Comprehensive, dedicated and robust legislation is essential.\"\n\n**Why it matters.** This is the moment the UK moves from asking companies to describe their efforts to requiring the effort itself. For a decade, a modern slavery statement could satisfy the law even if it said very little. A due diligence duty, backed by a regulator that can pull goods off the market, attaches a commercial consequence to what happens several tiers down a supply chain. It also lands while the EU has been pulling back and simplifying its own rules, which means the direction of travel in Europe is no longer one way.\n\n**How this comes up with a GC or CLO.** A general counsel at a multinational is likely to raise this as a scoping question first: are we caught, and is it through our UK entity or through UK revenue alone? The second conversation is about overlap, meaning how much of the work done for the EU regime transfers and how much of it would have to be rebuilt for a UK law that focuses on human rights and labour. A retailer's legal team may be most interested in the withdrawal power, because it turns a supplier failure into a stock and revenue problem.\n\n**Questions a buyer might ask.**\n- Does the £350 million threshold capture our group through UK revenue alone?\n- Would the Modern Slavery Act statement continue alongside the new duty?\n- How much of our EU due diligence work carries over to a UK regime that appears to leave out environmental impacts?\n\n## Story 2 — FINRA fines Webull $4.2M after 120,000 accounts opened on weak identity checks\n\n**The facts.**\n- FINRA fined Webull Financial $4.2 million, announced on 5 November 2026. Webull accepted the findings without admitting or denying them.\n- Webull has to certify that its AML and identity theft deficiencies are fixed and retain an independent consultant for its best execution programme.\n- From January 2020 to September 2023, Webull approved more than 120,000 new accounts through outside identity verification services without a reasonable belief that it knew customers' true identities.\n- More than 50 customers were approved after submitting scenic landscape photos instead of government ID. Some accounts were approved even though the firm's systems indicated the customer had died.\n- Webull missed 473 unauthorised ACH transfers worth over $1.5 million from customers at other institutions.\n- One account generated nearly 13,000 alerts for potentially manipulative trading across more than 100 symbols over about 18 months, with no timely investigation.\n- The firm did not check for unrelated accounts sharing a Social Security number until August 2021.\n- On best execution, from at least February 2020 to at least May 2025, it at times reviewed no execution quality data from competing markets, while receiving payment for order flow.\n\n**Background.**\n- FINRA says Webull grew rapidly and opened millions of accounts each year during the period.\n- This is not its first FINRA case. In 2025 it was censured and fined $1.6 million over supervising and retaining influencer communications.\n\n**Who's affected.**\n- Retail brokers and fintech firms, and anyone who has outsourced customer identification to a third party.\n\n**Why it matters.** The landscape photos will get the headlines, but the deeper finding is structural. Bill St. Louis, FINRA's head of enforcement, said the firm's \"compliance program did not keep pace.\" That framing measures the programme against the speed of the business, and outsourcing a control did not transfer responsibility for it.\n\n**How this comes up with a GC or CLO.** A chief compliance officer at a growing firm is likely to hear this as a capacity story: how many alerts, how many investigators, and who noticed the gap. For a general counsel, the consultant and certification terms are the reminder that the settlement is not the end of the cost.\n\n**Questions a buyer might ask.**\n- When identity checks are outsourced, who owns the failure?\n- How do regulators assess compliance capacity against customer growth?\n- What does a backlog of unworked alerts look like to an examiner?\n\n## Story 3 — Commission preliminarily finds TikTok's 'For You' feed in breach of the Digital Services Act over harmful 'rabbit holes'\n\n**The facts.**\n- On 6 November 2026 the European Commission preliminarily found TikTok in breach of the Digital Services Act over the rabbit hole effect of its recommender system.\n- The Commission says the more a user engages with a type of content, the more similar content the feed serves. Repeated exposure to videos about sadness, isolation or body image can harm mental health, especially for minors and vulnerable adults.\n- The findings cover both risk assessment and mitigation.\n- AP reports that the changes the Commission wants include giving users more control to opt out of content, giving more weight to explicit preferences, ending reliance on viewing time as a recommendation metric and making controls easier to reach.\n- TikTok has added measures such as a \"not interested\" button, which the Commission considers ineffective. AP reported that TikTok did not immediately respond to a request for comment.\n- Executive Vice-President Henna Virkkunen said: \"Every time a user scrolls or likes a video on TikTok, the algorithm serves more of the same.\"\n\n**Background.**\n- The investigation opened more than two years ago. AP says the Commission issued two other sets of preliminary findings against TikTok earlier this year, one on addictive design and one on children's privacy.\n\n**What it does not change.**\n- This is a preliminary view, not a final decision. TikTok can respond before any decision is made. A final decision could bring a fine of up to 6% of total annual revenue.\n\n**Who's affected.**\n- Large online platforms directly. The wider audience is any organisation running algorithmic systems that shape what people see or receive.\n\n**Why it matters.** The case is less about one piece of bad content and more about whether a company has honestly assessed what its system tends to do. That is a governance question, and it reads across to how legal teams document risk assessments on automated systems generally. If the Commission's approach holds, an engagement metric itself becomes a compliance issue.\n\n**How this comes up with a GC or CLO.** A technology general counsel is likely to raise it as a test of how specific a risk assessment needs to be, and whether a mitigation counts if it exists but does not visibly reduce the harm. Outside technology, it is a useful example of a regulator looking at the outcome of a control and not merely its existence.\n\n**Questions a buyer might ask.**\n- What evidence would show that a mitigation actually worked?\n- Could the same logic reach other automated systems?\n\n## Story 4 — CEO and VA employee sentenced for paying and receiving illegal health care kickbacks and bribes\n\n**The facts.** The Justice Department said two Florida men were sentenced on 5 November for a conspiracy to pay and receive illegal health care kickbacks. Laurent Cassagnol received six months in prison and Heriberto Rivera 13 months.\n\n**Background.** The release's headline identifies one defendant as a chief executive and the other as a Veterans Affairs employee. We only have the opening of the release, so the scheme's mechanics are not covered here.\n\n**Who's affected.** Health care companies and contractors dealing with public bodies.\n\n**Why it matters.** It shows prosecutors pursuing both ends of the relationship, the executive paying and the public employee receiving.\n\n**How this comes up with a GC or CLO.** As a compact example of conflict-of-interest risk where an employee of a customer is also a decision maker.\n\n**Questions a buyer might ask.** How would a company see a payment like this before prosecutors do?\n\n## Story 5 — EBA publishes revised Guidelines on internal governance\n\n**The facts.** The European Banking Authority published revised Guidelines on internal governance on 5 November, saying they deliver greater proportionality and simplification for banks.\n\n**Background.** The EBA consulted on the revision last year, and industry bodies submitted responses. Today's source is a short alert, so the detail of what changed is not covered here.\n\n**Who's affected.** EU banks, particularly their boards, compliance, risk and internal audit functions.\n\n**Why it matters.** Governance guidelines set the baseline supervisors use when assessing how a bank's board and control functions work, and the framing matches a broader EU shift toward lighter burdens.\n\n**How this comes up with a GC or CLO.** Likely as a question of what proportionality means for a mid-sized bank in practice.\n\n**Questions a buyer might ask.** Which requirements ease, and which stay the same?\n\n## Story 6 — Schumacher Auto Group to pay $112,500 in EEOC disability discrimination lawsuit\n\n**The facts.** Schumacher Auto Group, a Palm Beach County car dealership company, will pay $112,500 and implement significant policy and training reforms to settle a disability discrimination lawsuit filed by the EEOC.\n\n**Background.** The EEOC announced the settlement on 5 November. The underlying allegations are not in the available text.\n\n**Who's affected.** Employers generally, and HR and employee relations teams in particular.\n\n**Why it matters.** The dollar figure is modest. The policy and training terms are the more interesting part, because they reach into how the company runs its programme after the case ends.\n\n**How this comes up with a GC or CLO.** As a reminder that smaller cases often come with conduct terms attached.\n\n**Questions a buyer might ask.** How often do EEOC settlements include programme terms?\n\n## Story 7 — The not-so-fine print: making consumer contracts fair\n\n**The facts.** The UK Financial Conduct Authority published a blog on the fairness of consumer contracts, noting how few people read terms and conditions before buying a financial product, and that those terms shape loans, holiday insurance and crypto wallets alike.\n\n**Background.** The piece addresses firms' responsibility for their contracts. We only have the opening text, so its specific findings are not covered here.\n\n**Who's affected.** UK financial firms and their legal teams.\n\n**Why it matters.** It keeps contract wording in view as a conduct issue, not just a drafting one.\n\n**How this comes up with a GC or CLO.** A UK general counsel at a consumer-facing firm may see it as a signal of regulator interest in terms.\n\n**Questions a buyer might ask.** Is this a signal of supervisory work to come?\n\n## Story 8 — Mexican federal judge arrested on US charges of accepting $2 million bribe to free accused trafficker\n\n**The facts.** The Justice Department said a Mexican federal judge was arrested on a nine-count indictment charging him with accepting a $2 million bribe to grant bond to, and order the release of, a Canadian drug trafficker alleged to be second-in-command to Ryan Wedding, the former Olympic snowboarder.\n\n**Background.** The arrest followed a Homeland Security Task Force investigation. These are allegations, and the case is pending.\n\n**Who's affected.** The direct corporate link is thin, but organisations that rely on local courts have an interest in the integrity of those courts.\n\n**Why it matters.** It is a vivid example of judicial corruption risk, brought by US prosecutors against a foreign judge.\n\n**How this comes up with a GC or CLO.** More as a talking point on country risk than as an enforcement precedent.\n\n**Questions a buyer might ask.** How is judicial corruption reflected in a country risk assessment?\n",
+ "storylines": {
+  "uk-human-rights-due-diligence": "UK mandatory human rights due diligence law",
+  "tiktok-digital-services-act": "TikTok and the EU Digital Services Act"
+ },
+ "cards": [
+  {
+   "id": "09760e17f42e",
+   "title": "UK commits to mandatory human rights due diligence for businesses above £350m",
+   "summary": "The UK government says businesses with more than £350 million in UK or global turnover will have to identify and address human rights and labour risks in their supply chains, with a regulator able to pull forced-labour goods.",
+   "impact": "The plan would move the UK beyond Modern Slavery Act reporting and place supplier diligence in statute, including for non-UK groups with large UK revenues.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "container ship Port of Felixstowe",
+   "topic": "third_party_risk",
+   "kind": "briefing",
+   "tier": "ai",
+   "source": "AI Briefing · Baker McKenzie",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Container_cranes_at_the_Port_of_Oakland-.jpg/1280px-Container_cranes_at_the_Port_of_Oakland-.jpg",
+   "region": "UK",
+   "lang": "en",
+   "published": "2026-11-04",
+   "storyline": "uk-human-rights-due-diligence",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Yair-haklai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland-.jpg"
+   }
+  },
+  {
+   "id": "8aaa05517771",
+   "title": "FINRA fines Webull $4.2M after 120,000 accounts opened on weak identity checks",
+   "summary": "FINRA fined Webull $4.2 million over anti-money laundering, identity theft and best execution failures, finding it approved more than 120,000 accounts without a reasonable belief it knew customers' true identities. Webull neither admitted nor denied the findings.",
+   "impact": "The case ties rapid growth to control failure: outsourced identity checks, unworked alerts and missing surveillance appear as one programme breakdown at a fast-scaling firm.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst",
+    "gc"
+   ],
+   "item_type": "enforcement",
+   "image_query": "New York Stock Exchange trading floor",
+   "topic": "aml_sanctions",
+   "kind": "briefing",
+   "tier": "ai",
+   "source": "AI Briefing · FINRA",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg/1280px-New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-05",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Ken Lund from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange,_Manhattan,_New_York_(7236984682).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "New York Stock Exchange, Manhattan, New York (7236984682).jpg"
+   }
+  },
+  {
+   "id": "8bdbc3e06e74",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-05T23:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "title": "Commission preliminarily finds TikTok's 'For You' feed in breach of the Digital Services Act over harmful 'rabbit holes'",
+   "summary": "The European Commission has preliminarily found TikTok in breach of the Digital Services Act over the so-called rabbit hole effect of its recommender system, the mechanism behind the app's 'For You' feed.",
+   "impact": "The finding treats algorithm design as a risk-governance question, signalling how EU regulators may judge whether a recommender system's harms were properly assessed.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Berlaymont building Brussels",
+   "kind": "link",
+   "storyline": "tiktok-digital-services-act"
+  },
+  {
+   "id": "4eefba48c378",
+   "url": "https://www.justice.gov/opa/pr/ceo-and-va-employee-sentenced-paying-and-receiving-illegal-health-care-kickbacks-and-bribes",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-05T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Veterans_Affairs_Hospital_in_the_Edenvale_district_of_San_Jose%2C_California_2013.jpg/1280px-Veterans_Affairs_Hospital_in_the_Edenvale_district_of_San_Jose%2C_California_2013.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Cristiano Tomás",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Veterans_Affairs_Hospital_in_the_Edenvale_district_of_San_Jose,_California_2013.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Veterans Affairs Hospital in the Edenvale district of San Jose, California 2013.jpg"
+   },
+   "tier": "official",
+   "topic": "anti_bribery",
+   "title": "CEO and VA employee sentenced for paying and receiving illegal health care kickbacks and bribes",
+   "summary": "Two Florida men were sentenced for a conspiracy to pay and receive illegal health care kickbacks. Laurent Cassagnol received six months in prison and Heriberto Rivera received 13 months.",
+   "impact": "A chief executive and a public employee sentenced together shows bribery cases reaching both sides of a government health care relationship, with personal consequences at the top.",
+   "industries": [
+    "healthcare",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Veterans Affairs hospital building",
+   "kind": "link"
+  },
+  {
+   "id": "43270cbe9a56",
+   "url": "https://www.eba.europa.eu/node/20162",
+   "source": "European Banking Authority",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-05T16:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Towers_over_a_park%2C_La_D%C3%A9fense%2C_Paris.jpg/1280px-Towers_over_a_park%2C_La_D%C3%A9fense%2C_Paris.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Daniel Case",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Towers_over_a_park,_La_D%C3%A9fense,_Paris.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Towers over a park, La Défense, Paris.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "title": "EBA publishes revised Guidelines on internal governance",
+   "summary": "The European Banking Authority has published revised Guidelines on internal governance, which it says deliver greater proportionality and simplification for banks.",
+   "impact": "Revised governance guidelines reset the supervisory baseline for bank boards and control functions, and the simplification framing reflects a wider EU shift on regulatory burden.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "European Banking Authority Paris La Defense",
+   "kind": "link"
+  },
+  {
+   "id": "f198a2f1a09d",
+   "url": "https://www.eeoc.gov/newsroom/schumacher-auto-group-pay-112500-eeoc-disability-discrimination-lawsuit",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-05T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ultimate_Image_Auto%2C_Tallahassee%2C_Florida.jpg/1280px-Ultimate_Image_Auto%2C_Tallahassee%2C_Florida.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "The Bushranger",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ultimate_Image_Auto,_Tallahassee,_Florida.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Ultimate Image Auto, Tallahassee, Florida.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "title": "Schumacher Auto Group to pay $112,500 in EEOC disability discrimination lawsuit",
+   "summary": "Schumacher Auto Group, a Palm Beach County car dealership company, will pay $112,500 and implement significant policy and training reforms to settle a disability discrimination lawsuit filed by the EEOC.",
+   "impact": "The settlement's policy and training terms show the EEOC continuing to use resolutions to shape internal programmes, even in modest-value disability cases.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "car dealership lot Florida",
+   "kind": "link"
+  },
+  {
+   "id": "16e6b076083b",
+   "url": "https://www.fca.org.uk/news/blogs/not-so-fine-print-making-consumer-contracts-fair",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/City_of_London_financial_district.jpg/1280px-City_of_London_financial_district.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:City_of_London_financial_district.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "City of London financial district.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "title": "The not-so-fine print: making consumer contracts fair",
+   "summary": "An FCA blog says contract terms shape consumers' financial lives, whether they are taking out a loan, insuring a holiday or signing up for a crypto wallet, and addresses firms' responsibility for them.",
+   "impact": "The regulator's attention to contract wording keeps consumer terms on the conduct agenda for UK legal teams, beyond sales practices and disclosure.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "City of London financial district",
+   "kind": "link"
+  },
+  {
+   "id": "47d68df42b9c",
+   "url": "https://www.justice.gov/opa/pr/homeland-security-task-force-investigation-leads-mexican-federal-judges-arrest-us-charges",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-05T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Federal_Building_and_US_Courthouse%2C_Roswell%2C_NM-front.jpg/1280px-Federal_Building_and_US_Courthouse%2C_Roswell%2C_NM-front.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Myotus",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Federal_Building_and_US_Courthouse,_Roswell,_NM-front.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Federal Building and US Courthouse, Roswell, NM-front.jpg"
+   },
+   "tier": "official",
+   "topic": "anti_bribery",
+   "title": "Mexican federal judge arrested on US charges of accepting $2 million bribe to free accused trafficker",
+   "summary": "A Mexican judge was arrested on a nine-count US indictment charging him with accepting a $2 million bribe to grant bond to and release a Canadian drug trafficker alleged to be second-in-command to Ryan Wedding.",
+   "impact": "The allegation adds a US prosecution of a foreign judge to the record on judicial corruption, a recurring risk for organisations relying on local courts.",
+   "industries": [
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Mexico federal courthouse building",
+   "kind": "link"
+  }
+ ],
+ "briefings": {
+  "09760e17f42e": {
+   "headline": "UK commits to mandatory human rights due diligence for businesses above £350m",
+   "dek": "A written statement on 4 November moves the UK from supply-chain reporting to a due diligence duty, but the regulator, penalties and timetable are still undefined.",
+   "body_md": "The UK government has committed to a mandatory human rights due diligence law for its largest businesses, a shift from the transparency model that has defined British supply-chain regulation for more than a decade. The commitment came in a written ministerial statement on 4 November 2026 and followed a government review of responsible business conduct.\n\nThe duty would cover UK businesses with global turnover above £350 million and non-UK businesses with UK-generated turnover above that level, according to Baker McKenzie's analysis. In-scope companies would have to identify, assess and address human rights and labour exploitation risks in their operations and supply chains. The firm describes this as a risk-based obligation rather than a reporting exercise. The framework is expected to align with the OECD Guidelines for Responsible Business Conduct and the UN Guiding Principles on Business and Human Rights.\n\nA regulator would be able to investigate suspected forced-labour goods. Where due diligence duties have not been met and forced labour is identified, it could direct those goods to be withdrawn from the Great Britain market. Baker McKenzie notes that this is the only sanction announced so far. The regulator's identity, its wider powers and any other penalties are undefined, no commencement date has been set, and draft legislation will come \"as soon as parliamentary time allows\", after consultation.\n\nESG Today reports that Business Secretary Jonathan Reynolds described the UK as out of step with other major economies. The review called the existing framework \"fragmented and overly reliant on voluntary action and reporting measures\". The announcement also carries a trade dimension: the US imposed tariffs on UK imports earlier in 2026 after the US Trade Representative listed the UK among partners that had not effectively enforced a ban on forced-labour imports. The review predates those tariffs.\n\nThe plan departs from the EU's Corporate Sustainability Due Diligence Directive in one visible way: environmental impacts appear to be excluded. Anti-Slavery International welcomed the commitment but wants environmental harms covered, all British companies included, and a single import ban across the UK rather than the EU Forced Labour Regulation applying in Northern Ireland alone. It remains unclear whether the new regime will replace or sit alongside the Modern Slavery Act.\n\n### What this means for legal and compliance leaders\n\nThe commitment changes the question in the UK from what a company discloses to what it does. Multinationals already preparing for EU rules gain another regime with overlapping but not identical scope, while the £350 million test reaches non-UK groups through UK revenue alone. Linking the duty to withdrawal of goods puts a commercial consequence, not just a reputational one, behind supplier diligence. With the design still open, the consultation is where scope and penalties will be settled.\n\n### Questions you may hear\n\n- Does the £350 million threshold capture our group through UK revenue alone?\n- How much of our EU due diligence work would carry over to a UK regime that excludes environmental impacts?\n- Would the Modern Slavery Act statement continue alongside the new duty?",
+   "sources": [
+    {
+     "title": "United Kingdom to Mandate Human Rights Due Diligence",
+     "publisher": "Baker McKenzie",
+     "url": "https://www.bakermckenzie.com/en/insight/publications/2026/11/united-kingdom-to-mandate-human-rights-due-diligence"
+    },
+    {
+     "title": "UK to Introduce Mandatory Supply Chain Human Rights Due Diligence Law",
+     "publisher": "ESG Today",
+     "url": "https://www.esgtoday.com/uk-to-introduce-mandatory-supply-chain-human-rights-due-diligence-law/"
+    },
+    {
+     "title": "Statement on the UK Government's commitment to introduce mandatory human rights due diligence and forced labour import bans",
+     "publisher": "Anti-Slavery International",
+     "url": "https://www.antislavery.org/latest/anti-slavery-international-statement-on-the-uk-governments-commitment-to-introduce-mandatory-human-rights-due-diligence-and-forced-labour-import-bans/"
+    }
+   ],
+   "prompted_by": {
+    "title": "UK To Introduce Forced Labor Due Diligence For Big Business",
+    "publisher": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Fb1Q2YnRSOGdoYUEzbFMtV3dNQVdQQmxqbGhQSXQwVWNhc3hNUjZxRDRVYUR1SllXZFl5V0lxb3MxQVdHaHhScXlhdkdzVXhEZE9zVFBB0gFWQVVfeXFMTkVvVDZidFI4Z2hhQTNsUy1Xd01BV1BCbGpsaFBJdDBVY2FzeE1SNnFENFVhRHVKWVdkWXlXSXFvczFBV0doeFJxeWF2R3NVeERkT3NUUEE?oc=5"
+   }
+  },
+  "8aaa05517771": {
+   "headline": "FINRA fines Webull $4.2M after 120,000 accounts opened on weak identity checks",
+   "dek": "Landscape photos passed as ID, deceased customers were approved and one account drew nearly 13,000 alerts, as the regulator said compliance failed to keep up with growth.",
+   "body_md": "FINRA has fined Webull Financial $4.2 million for anti-money laundering, identity theft prevention and best execution failures, in a case the regulator framed as a compliance programme outrun by the firm's own growth. Webull consented to the findings without admitting or denying them. It must certify that its AML and identity theft deficiencies are fixed and retain an independent consultant on best execution.\n\nBetween January 2020 and September 2023, while opening millions of accounts a year, Webull approved more than 120,000 new accounts through outside identity verification services without a reasonable belief that it knew the customers' true identities, FINRA said. More than 50 customers submitted scenic landscape photos instead of government ID and were approved. Some accounts were approved even though the firm's own systems indicated the customer was deceased.\n\nMonitoring failed in parallel. FINRA said Webull did not identify or investigate 473 unauthorised ACH transfers totalling more than $1.5 million that moved from customers at other institutions into Webull accounts. One account triggered nearly 13,000 alerts for potentially manipulative trading across more than 100 symbols over about 18 months without timely investigation. The firm also lacked surveillance for suspicious out-of-the-money options trading, for unrelated customers trading from the same address or device, and for prompt detection of account takeovers.\n\nFrom January 2020 to February 2023, Webull's identity theft programme was not reasonably designed, relying instead on a deficient customer identification programme, according to FINRA. Dozens of accounts were opened for foreign nationals sharing an IP address or device, and the firm did not check for unrelated accounts sharing a Social Security number until August 2021.\n\nThe best execution findings run longest, from at least February 2020 to at least May 2025. In that period Webull received payment for order flow, yet at times did not review execution quality at competing market centres, and at certain points did not review non-marketable orders, which made up 60% to 70% of its order flow in some periods.\n\n\"Webull's business grew rapidly, but its compliance program did not keep pace,\" said Bill St. Louis, FINRA's head of enforcement. In 2025, FINRA censured Webull and fined it $1.6 million over supervision and retention of influencer communications.\n\n### What this means for legal and compliance leaders\n\nThe order reads as a single chain rather than a list of separate lapses: onboarding delegated to third parties, alerts left uninvestigated, and surveillance scenarios that never existed. FINRA's framing measures the control programme against the pace of the business rather than a static standard. The outcome also shows that the fine is only part of the cost, with certification and an independent consultant extending the matter beyond settlement.\n\n### Questions you may hear\n\n- When identity checks are outsourced, who owns the failure?\n- How do regulators assess compliance capacity against customer growth?\n- What does a backlog of unworked alerts look like to an examiner?",
+   "sources": [
+    {
+     "title": "FINRA Fines Webull $4.2 Million for Anti-Money Laundering and Best Execution Violations",
+     "publisher": "FINRA via Business Wire",
+     "url": "https://www.businesswire.com/news/home/20261105791646/en/FINRA-Fines-Webull-$4.2-Million-for-Anti-Money-Laundering-and-Best-Execution-Violations"
+    },
+    {
+     "title": "FINRA Fines Webull $4.2M: 120,000 Accounts, Weak ID Checks",
+     "publisher": "FinanceFeeds",
+     "url": "https://financefeeds.com/webull-fined-4-2-million-over-customer-verification-and-trading-failures/"
+    }
+   ],
+   "prompted_by": {
+    "title": "Webull pays $4.2M to settle allegations of AML, ID theft failures",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/regulatory-enforcement/webull-pays-4-2m-to-settle-allegations-of-aml-id-theft-failures/"
+   }
+  }
+ }
+}
