@@ -1,0 +1,185 @@
+{
+ "date": "2026-11-08",
+ "lead_id": "kw-pifss-man-0811",
+ "editor_note": "A quiet Sunday edition. A London court puts a decades-old intermediary bribery scheme, and a compliance review that missed it, on the record, while global regulators set out how financial firms are expected to govern AI.",
+ "bottom_line": [
+  {
+   "id": "kw-pifss-man-0811",
+   "text": "A London judge found two Man Group subsidiaries liable over bribes to Kuwait's late pension chief; the fund can recover about $155 million."
+  },
+  {
+   "id": "fsb-ai-practices-0811",
+   "text": "The Financial Stability Board finalised 12 AI sound practices for financial firms, led by organisation-wide governance and third-party risk."
+  },
+  {
+   "id": "0224349908e0",
+   "text": "The Federal Reserve terminated its enforcement action against Nano Banc and its holding companies, formally closing the supervisory order."
+  }
+ ],
+ "stat": {
+  "id": "kw-pifss-man-0811",
+  "text": "About $1 billion: what Kuwait's pension fund says its late director and associates siphoned off through unnecessary commission payments over two decades."
+ },
+ "podcast_brief": "## The day in one line\n\nIt is a short Sunday paper with one big story. A London judge has ruled that two subsidiaries of the asset manager Man Group must answer for bribes paid to the late head of Kuwait's state pension fund, in a case that also put an old internal compliance review under the microscope. Alongside it, the Financial Stability Board has set out what good AI governance looks like for financial firms, and the Federal Reserve has closed out an enforcement action against a small California banking group.\n\n## Story 1 — London court finds Man Group units liable in \"breathtaking\" Kuwaiti pension fund bribery case\n\n**The facts.**\n- On Thursday, 5 November 2026, Judge Richard Jacobs of the High Court in London handed down judgment in a lawsuit brought by Kuwait's Public Institution for Social Security, usually shortened to PIFSS. PIFSS runs Kuwait's social security and state pension scheme.\n- The judge said the fund's compensation claims were, broadly speaking, successful, and described the case as involving proven corruption on \"a breathtaking scale\" reaching senior public officials and figures in the financial industry.\n- The fund's case is that its long-serving director general, Fahad Al-Rajaan, and people around him took roughly $1 billion over about two decades in commission payments that banks and investment firms had no need to make. The defendants were accused of helping to launder those bribes.\n- PIFSS sought about $156 million from Man Group, alleging that bribes were paid to Al-Rajaan to win the fund's investment in Man products. The judge ruled the fund can recover around $155 million from Man. That figure is not final: it has to be adjusted for settlements that other defendants reached during the trial, and a further hearing in November is due to set the amounts.\n- According to Bloomberg's account, the liability findings concern two Man subsidiaries and two former employees, who were found to have known that an intermediary was bribing Al-Rajaan. One of them, Antoine Massad, a former head of Man's Middle East business, was found to have knowingly taken part and was held personally liable. The judge rejected his account as unreliable.\n- The judgment, around 800 pages long, also looked at an internal review Man carried out years ago into its relationship with one of Al-Rajaan's key fixers. The judge criticised the compliance officers involved for confirmation bias. The review cleared everyone, and the relationship carried on. Bloomberg notes that Robyn Grew, now Man's chief executive, was global head of compliance at the time and supervised those officers; the judge did not directly criticise her role.\n- Man Group said it disagrees with the decision on liability and on the amount, called it a legacy matter tied to a contract terminated more than 30 years ago, and said it is evaluating its full range of options, including appeal. Its shares fell as much as 5.9 percent on Friday.\n- The Swiss bank EFG, which had contested a claim of roughly $450 million, settled with PIFSS in September, before judgment. Several other defendants were also ordered to repay the fund or settled along the way.\n\n**Background.**\n- Al-Rajaan ran PIFSS from 1984 for roughly three decades. A Kuwaiti court convicted him in absentia in 2016 of corruption and embezzling public money. He lived in London and died there in 2022, so the claim proceeded against his estate.\n- PIFSS filed its London claim in 2019 against dozens of defendants, including banks, investment firms and individuals. The trial opened in March 2025 and ran for about a year, one of the longest civil trials in England in decades.\n- Reports describe the proceeds being spent on property, including a house in Knightsbridge valued at about £6.7 million, a villa in Thailand and chalets in France.\n\n**What it does not change.**\n- The amounts are not settled. The $155 million figure is the judge's starting point for Man, before deductions for other settlements.\n- This is a civil judgment, not a criminal conviction of Man Group, and Man may appeal.\n\n**Who's affected.**\n- Asset managers, private banks and fund distributors that win mandates from sovereign wealth funds, state pension schemes and other public investors, especially where introducers, placement agents or consultants are involved.\n- Compliance teams that run reviews of intermediary relationships, and the senior people who sign off on them.\n- Public pension funds, which now have a high-profile example of a victim recovering losses through the English civil courts.\n\n**Why it matters.** This is a textbook case of bribery through an intermediary, with a twist: it was brought as a civil claim by the victim, years after the conduct, rather than as a prosecution. The court tied liability to what two employees knew about an intermediary's payments, and it looked hard at a compliance review that reached a clean conclusion. That combination, old relationships, departed staff and a past review being re-examined by a judge, is exactly the kind of long-tail exposure that legal and compliance leaders worry about.\n\n**How this comes up with a GC or CLO.** A general counsel at a firm that sells to public funds may raise it as an example of how far back exposure can reach and how long it can take to resolve. Chief compliance officers are likely to focus on the finding of confirmation bias, because it is unusual for a court to grade the quality of an internal investigation so directly.\n\n**Questions a buyer might ask.**\n- How far back can a civil bribery claim reach, and who carries the cost once the people involved have left the firm?\n- What exactly did the court find wrong with the internal review of the intermediary?\n- If other defendants have settled, how does that change what the remaining defendants owe?\n\n## Story 2 — Financial Stability Board finalises 12 sound practices for responsible AI adoption\n\n**The facts.**\n- The Financial Stability Board, which coordinates financial regulation for the G20, published the final version of its sound practices for the responsible adoption of artificial intelligence on 15 October 2026, together with a summary of the feedback it received. Compliance media returned to the report this week.\n- There are 12 practices in three groups. Practices one to four cover organisation-wide AI governance. Practices five to ten cover risk management across the AI development and deployment lifecycle. Practices eleven and twelve cover AI-related cyber, ICT and third-party risk.\n- The FSB describes the practices as a toolkit that financial institutions are encouraged to consider and tailor to their own context and risk profile, and to fold into existing frameworks, including cyber and third-party risk. The final report adds case studies on reported benefits and on applying the practices proportionately.\n\n**Background.**\n- The FSB consulted on a draft in June 2026. It does not write binding rules; its recommendations usually reach firms through national supervisors, and authorities from the United States, the United Kingdom, Canada and the European Union sit on it.\n\n**Who's affected.**\n- Banks, insurers, asset managers and payment firms using AI, and the boards, risk, legal and compliance functions that oversee them.\n\n**Why it matters.** The order of the list sends a message: governance and accountability come first, before model-level controls. Putting AI next to cyber and third-party risk reflects how most firms actually use AI, through vendors. Because national supervisors often borrow FSB language, the practices are an early indication of how AI oversight will be examined, even without a new rule.\n\n**How this comes up with a GC or CLO.** Chief legal officers in financial services are likely to raise it when asked who owns AI risk in the firm, and how it maps onto the EU AI Act and model-risk guidance they already follow.\n\n**Questions a buyer might ask.**\n- Are these practices binding anywhere yet, and which supervisors are likely to adopt them first?\n- How do they sit alongside the EU AI Act?\n- Who is accountable when the AI comes from a third-party vendor?\n\n## Story 3 — Federal Reserve terminates enforcement action against Allegiant United Holdings, Nano Financial Holdings and Nano Banc\n\n**The facts.**\n- On 5 November 2026 the Federal Reserve Board announced the termination of an enforcement action involving Allegiant United Holdings, LLC, Nano Financial Holdings, Inc. and Nano Banc. The announcement itself is brief and does not describe the original issues.\n\n**Background.**\n- The Fed regularly publishes both new enforcement actions and terminations. A termination means the Board has decided the order is no longer needed, typically after the institution has addressed the problems the order identified.\n\n**Who's affected.**\n- The bank and its holding companies; more broadly, banks working through consent orders and written agreements.\n\n**Why it matters.** Terminations are the less publicised half of enforcement. They mark the end state that institutions under orders work toward, and they show regulators formally closing the file.\n\n**How this comes up with a GC or CLO.** It can come up when a compliance leader at a bank under an order asks what it takes, and how long it takes, to get one lifted.\n\n**Questions a buyer might ask.**\n- What evidence do supervisors typically want to see before they terminate an enforcement action?",
+ "storylines": {
+  "pifss-man-group-bribery": "Kuwait pension fund bribery case against Man Group"
+ },
+ "cards": [
+  {
+   "id": "kw-pifss-man-0811",
+   "title": "London court finds Man Group units liable in 'breathtaking' Kuwaiti pension fund bribery case",
+   "summary": "The High Court ruled that Kuwait's state pension fund can recover about $155 million from two Man Group subsidiaries over bribes paid to its late director, after a year-long trial over a roughly $1 billion scheme.",
+   "impact": "An asset manager is held liable for bribes routed through an intermediary decades ago, and the court faulted an internal compliance review that cleared the relationship.",
+   "industries": [
+    "financial_services",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "ruling",
+   "image_query": "Rolls Building London court",
+   "topic": "anti_bribery",
+   "kind": "briefing",
+   "tier": "ai",
+   "source": "AI Briefing · Kuwait Times (Reuters)",
+   "url": "",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Rolls_Building%2C_Royal_Courts_of_Justice.jpg",
+   "region": "UK",
+   "lang": "en",
+   "published": "2026-11-05",
+   "storyline": "pifss-man-group-bribery",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Muhammad Karns",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rolls_Building,_Royal_Courts_of_Justice.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Rolls Building, Royal Courts of Justice.jpg"
+   }
+  },
+  {
+   "id": "fsb-ai-practices-0811",
+   "title": "Financial Stability Board finalises 12 sound practices for responsible AI adoption",
+   "summary": "The FSB has published final sound practices for financial institutions adopting AI, grouped into organisation-wide governance, lifecycle risk management, and AI-related cyber, ICT and third-party risk, after a June consultation.",
+   "impact": "A global standard-setter now frames AI as a board-level governance and third-party risk issue, a reference point national supervisors are likely to draw on.",
+   "industries": [
+    "financial_services",
+    "tech"
+   ],
+   "personas": [
+    "clo",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Bank for International Settlements Basel",
+   "topic": "ai_governance",
+   "kind": "briefing",
+   "tier": "ai",
+   "source": "AI Briefing · A&O Shearman",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Basel_-_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich-Tower_Building_%2827527280652%29.jpg/1280px-Basel_-_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich-Tower_Building_%2827527280652%29.jpg",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-10-15",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Fred Romero from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Basel_-_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich-Tower_Building_(27527280652).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Basel - Bank für Internationalen Zahlungsausgleich-Tower Building (27527280652).jpg"
+   }
+  },
+  {
+   "id": "0224349908e0",
+   "title": "Federal Reserve terminates enforcement action against Allegiant United Holdings, Nano Financial Holdings and Nano Banc",
+   "summary": "The Federal Reserve Board announced it has terminated an enforcement action involving Allegiant United Holdings, LLC, Nano Financial Holdings, Inc. and Nano Banc.",
+   "impact": "Terminations mark the point where a supervisor judges remediation complete, the end state that banks under consent orders are working toward.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Marriner Eccles Federal Reserve Building",
+   "kind": "link",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "source": "Federal Reserve Board",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-05T16:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1280px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "AgnosticPreachersKid",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Marriner S. Eccles Federal Reserve Board Building.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement"
+  }
+ ],
+ "briefings": {
+  "kw-pifss-man-0811": {
+   "headline": "London court finds Man Group units liable in 'breathtaking' Kuwaiti pension fund bribery case",
+   "dek": "Judge Richard Jacobs found two Man subsidiaries and two former employees liable over bribes paid to the fund's late director, with damages still to be fixed.",
+   "body_md": "A London judge has found two subsidiaries of asset manager Man Group liable in a long-running lawsuit brought by Kuwait's Public Institution for Social Security (PIFSS), the state pension fund, over bribes paid to its late director general, Fahad Al-Rajaan. Judge Richard Jacobs of the High Court ruled on 5 November that the fund's compensation claims were, broadly speaking, successful, and described the case as one of proven corruption on \"a breathtaking scale\".\n\n**The key facts.** PIFSS sued in 2019, alleging that Al-Rajaan and associates siphoned off roughly $1 billion over about two decades through commission payments that banks and investment firms had no need to make, and that defendants helped launder the bribes. It sought about $156 million from Man Group, alleging bribes were paid to win PIFSS investments in Man products. The judge held that the fund can recover around $155 million from Man, subject to adjustment for settlements other defendants reached during the trial. Swiss lender EFG Bank, which had contested a claim of about $450 million, settled with the fund in September.\n\nAccording to Bloomberg's report, carried by Insurance Journal, the findings against Man concern two subsidiaries and two former employees, who were found to have known that an intermediary was bribing Al-Rajaan. One of them, Antoine Massad, a former head of Man's Middle East business, was found personally liable. The judgment of roughly 800 pages also criticised compliance officers who reviewed Man's relationship with one of Al-Rajaan's fixers for confirmation bias: the review cleared everyone and the relationship continued.\n\nMan said it disagrees with the decision on both liability and the amount, called it a legacy matter tied to a contract terminated more than 30 years ago, and is evaluating its options, including an appeal. Its shares fell as much as 5.9% the following day. A further hearing this month is due to settle the amounts owed.\n\n**Background.** Al-Rajaan led PIFSS from 1984. A Kuwaiti court convicted him in absentia of corruption and embezzlement in 2016, and he died in London in 2022. The trial, which opened in March 2025, lasted around a year and was among the longest civil trials in England in decades.\n\n### What this means for legal and compliance leaders\nThe ruling shows how exposure from intermediary relationships can surface decades later, through civil claims by the victim rather than criminal prosecution. It also puts an internal compliance review under judicial scrutiny: a review that reached a clean conclusion was found to have been shaped by confirmation bias. For firms that distribute products to sovereign or public funds through introducers, the case is a reminder that third-party payments, and the quality of the diligence behind them, can be tested in open court long after the people involved have moved on.\n\n### Questions you may hear\n- How far back can a civil claim over third-party bribery reach, and who carries the liability once employees have left?\n- What did the court find wrong with the internal review, and how would a regulator or court judge ours?\n- Does a settlement by one defendant reduce what the others owe?",
+   "sources": [
+    {
+     "title": "PIFSS wins London case over money stolen by director",
+     "publisher": "Kuwait Times (Reuters)",
+     "url": "https://kuwaittimes.com/article/53114/kuwait/pifss-wins-london-case-over-money-stolen-by-director/"
+    },
+    {
+     "title": "Man Group Found Liable by Judge for 'Breathtaking' Kuwaiti Bribery",
+     "publisher": "Insurance Journal (Bloomberg)",
+     "url": "https://www.insurancejournal.com/news/international/2026/11/06/891797.htm"
+    },
+    {
+     "title": "Kuwait pension fund wins London case over money stolen by late director",
+     "publisher": "Devdiscourse (Reuters)",
+     "url": "https://www.devdiscourse.com/article/international/4002284-kuwait-pension-fund-wins-london-case-over-money-stolen-by-late-director"
+    }
+   ],
+   "prompted_by": {
+    "title": "Kuwait pension fund victim of “breathtaking” corruption",
+    "publisher": "Global Investigations Review",
+    "url": "https://globalinvestigationsreview.com/article/kuwait-pension-fund-victim-of-breathtaking-corruption"
+   }
+  },
+  "fsb-ai-practices-0811": {
+   "headline": "Financial Stability Board finalises 12 sound practices for responsible AI adoption",
+   "dek": "The final report groups 12 practices under governance, lifecycle risk management and cyber and third-party risk, after a June consultation.",
+   "body_md": "The Financial Stability Board, the G20's coordinating body for financial regulation, has published the final version of its sound practices for the responsible adoption of artificial intelligence by financial institutions. The report, released on 15 October 2026 together with a summary of consultation feedback, sets out 12 practices intended to help firms gain the benefits of AI while managing its risks in ways that support the resilience of the financial system.\n\n**The key facts.** The 12 practices fall into three groups. Practices 1 to 4 deal with organisation-wide AI governance. Practices 5 to 10 cover risk management and mitigation across the AI development and deployment lifecycle. Practices 11 and 12 address AI-related cyber, ICT and third-party risks. The FSB presents the practices as a toolkit that institutions can tailor to their size, context and risk profile and fold into existing frameworks, including those already in place for cyber and third-party risk. Financial institutions are encouraged to consider them, rather than bound by them, and the final report adds case studies on reported benefits and proportionate application.\n\n**Background.** The FSB consulted on a draft in June 2026, inviting comment from firms, industry groups and authorities. The publication has drawn renewed attention in compliance media in recent days as firms digest what the final text expects. The FSB does not make binding rules itself; its standards and recommendations usually reach firms through national supervisors and member authorities, which in the US, UK, Canada and EU sit on its plenary.\n\n### What this means for legal and compliance leaders\nThe framework treats AI as a governance question first: organisation-wide accountability sits at the top of the list, ahead of model-level controls. Grouping AI with cyber and third-party risk also matters, because many firms use AI through vendors rather than building it. Because supervisors frequently borrow FSB language, the practices offer an early signal of the questions that examiners and boards are likely to ask about AI inventories, ownership and vendor oversight, even where no new rule is issued.\n\n### Questions you may hear\n- Are the FSB practices binding, and which regulators are likely to adopt them?\n- How do they fit with the EU AI Act and existing model-risk guidance?\n- Where does responsibility for AI provided by third-party vendors sit under the framework?",
+   "sources": [
+    {
+     "title": "FSB finalises sound practices for the responsible adoption of AI",
+     "publisher": "A&O Shearman",
+     "url": "https://finreg.aoshearman.com/fsb-finalises-sound-practices-for-the-responsible-adoption-of-ai"
+    },
+    {
+     "title": "FSB sound practices for responsible adoption of AI",
+     "publisher": "CMS",
+     "url": "https://cms.law/en/int/regulatory-news/fsb-sound-practices-for-responsible-adoption-of-ai3"
+    }
+   ],
+   "prompted_by": {
+    "title": "Financial Stability Board sets out 12 ‘sound practices’ for FS firms’ AI adoption",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/artificial-intelligence/financial-stability-board-sets-out-12-sound-practices-for-fs-firms-ai-adoption/"
+   }
+  }
+ }
+}
