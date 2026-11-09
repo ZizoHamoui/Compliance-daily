@@ -1,0 +1,715 @@
+{
+ "date": "2026-11-09",
+ "generated": "2026-11-09T12:33:27+00:00",
+ "count": 26,
+ "by_region": {
+  "US": 3,
+  "CA": 1,
+  "EU": 15
+ },
+ "paywalled": 7,
+ "items": [
+  {
+   "id": "49feadb5c5ad",
+   "title": "AI Is Prompting New Legal Risks in the Workplace",
+   "snippet": "AI use, particularly by leaders, can heighten exposure for employers The post AI Is Prompting New Legal Risks in the Workplace appeared first on Corporate Compliance Insights .",
+   "url": "https://www.corporatecomplianceinsights.com/ai-prompting-new-legal-risks-workplace/",
+   "paywall_url": "",
+   "source": "Corporate Compliance Insights",
+   "source_id": "cci",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-09T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "ai_governance"
+   ],
+   "score": 11.69,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   }
+  },
+  {
+   "id": "6a728ee390a1",
+   "title": "Supply Chain Platform Achilles Acquires Contractor Management Tool Cm3",
+   "snippet": "Achilles, a supply chain risk management provider, announced that it completed an acquisition of Australian contractor management and compliance software company Cm3. Details of the acquisition were not disclosed. Achilles said in a news release that the acquisition followed…",
+   "url": "https://www.corporatecomplianceinsights.com/supply-chain-platform-achilles-acquires-contractor-management-tool-cm3/",
+   "paywall_url": "",
+   "source": "Corporate Compliance Insights",
+   "source_id": "cci",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-05T14:19+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 11.08,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Container_cranes_at_the_Port_of_Oakland-.jpg/1280px-Container_cranes_at_the_Port_of_Oakland-.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Yair-haklai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container cranes at the Port of Oakland-.jpg"
+   }
+  },
+  {
+   "id": "898990ce657b",
+   "title": "Minister Anand announces additional sanctions to reduce Russia’s missile capabilities and raise economic costs",
+   "snippet": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced on the margins of the G7 Foreign Ministers’ Meeting in Paris, France, that Canada is imposing additional sanctions on Russia under the Special Economic Measures (Russia) Regulations.",
+   "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+   "paywall_url": "",
+   "source": "Global Affairs Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-09T12:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 9.6,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "id": "fde66d409775",
+   "title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
+   "snippet": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
+   "url": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
+   "paywall_url": "",
+   "source": "CNIL (France)",
+   "source_id": "cnil-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-09T12:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "cybersecurity"
+   ],
+   "score": 8.21,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Skyline_in_Paris%2C_12_July_2017.jpg/1280px-Skyline_in_Paris%2C_12_July_2017.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christer Gundersen",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_in_Paris,_12_July_2017.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Skyline in Paris, 12 July 2017.jpg"
+   }
+  },
+  {
+   "id": "38d42dbc8f95",
+   "title": "Webinaire - Lutte contre le blanchiment des capitaux et le financement du terrorisme",
+   "snippet": "Support événement Lutte anti blanchiment Conseil en investissement Obligations professionnelles Webinaire - Lutte contre le blanchiment des capitaux et le financement du terrorisme",
+   "url": "https://www.amf-france.org/fr/actualites-publications/evenements-de-lamf/colloques-et-conferences-de-lamf/webinaire-lutte-contre-le-blanchiment-des-capitaux-et-le-financement-du-terrorisme#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-06T07:13+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   }
+  },
+  {
+   "id": "9e5fe4d0595a",
+   "title": "THE HACK: EU leaders to talk AI challenges",
+   "snippet": "In today's edition: CAIDA, TikTok algorithm, Polish Kids Act",
+   "url": "https://www.rapporteur.com/news/the-hack-eu-leaders-to-talk-ai-challenges/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-09T07:47+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 7.71,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "d53c5ee983c1",
+   "title": "EXCLUSIVE: Capitals to hear from group pitching AI supply ‘bazooka’",
+   "snippet": "Ex-commissioner Vestager among backers of group set to present to national AI experts",
+   "url": "https://www.rapporteur.com/news/exclusive-capitals-to-hear-from-group-pitching-ai-supply-bazooka/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-09T03:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 7.04,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "16ea3e5ca695",
+   "title": "EU emissions continue to fall as clean energy gains ground",
+   "snippet": "European Commission Press release Brussels, 09 Nov 2026 The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report, showing that EU greenhouse gas (GHG) emissions continue to fall, clean technologies are expanding, and an…",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-08T23:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 4.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   }
+  },
+  {
+   "id": "337e1b687a2c",
+   "title": "Compliance Jobs Report: Nov. 6",
+   "snippet": "Another brisk Compliance Jobs Report! This week we have new hires at LACERA, Bank of Montreal, Avangrid, Zee Entertainment, Akamai Technologies, and more. Promotions to note at Temple University, Amazon, and Allianz Life; and job leads are in AI, medical care, and credit cards.…",
+   "url": "https://www.radicalcompliance.com/2026/11/06/compliance-jobs-report-nov-6-2/",
+   "paywall_url": "",
+   "source": "Radical Compliance",
+   "source_id": "radical",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-06T16:09+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 2.98,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Virginia_Tech_-_data_center.jpg/1280px-Virginia_Tech_-_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christopher Bowns",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Virginia Tech - data center.jpg"
+   }
+  },
+  {
+   "id": "c99cebea41a2",
+   "title": "Daily News 06 / 11 / 2026",
+   "snippet": "European Commission Daily news Brussels, 06 Nov 2026 Commission preliminarily finds TikTok's ‘For You' feed in breach of Digital Services Act for harmful ‘rabbit holes' effect Today, the European Commission has pr...",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2364",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-06T09:38+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   }
+  },
+  {
+   "id": "087fb14a1a39",
+   "title": "Six things to watch at the COP31 climate talks",
+   "snippet": "Electrification tops the agenda as climate diplomats meet for an ‘implementation’ COP",
+   "url": "https://www.rapporteur.com/news/six-things-to-watch-at-the-cop31-climate-talks/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-09T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "43baa98a9eda",
+   "title": "Finland wants eastern EU to share ‘burden’ of climate action, minister says",
+   "snippet": "Helsinki 'struggling' to meet EU-mandated 50% emissions reduction target by 2030",
+   "url": "https://www.rapporteur.com/news/we-are-carrying-a-big-burden-finland-warns-as-eu-climate-targets-are-realigned/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-06T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "97c6cf6212b1",
+   "title": "THE HACK: Data centre rage hits Europe",
+   "snippet": "In today's edition: AI evaluations, EU–US data deal, Space Act",
+   "url": "https://www.rapporteur.com/news/the-hack-data-centre-rage-hits-europe/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-06T08:50+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.54,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "6539cf9583c6",
+   "title": "Dublin seeks to rein in Franco-German car emissions deal",
+   "snippet": "Irish proposal would deny zero-emission status to cars running on clean fuels",
+   "url": "https://www.rapporteur.com/news/dublin-seeks-to-rein-in-franco-german-car-emissions-deal/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-05T12:57+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "3511a86b5b7d",
+   "title": "Europe risks confusing more data centres with greater digital sovereignty [Promoted Content]",
+   "snippet": "Building more data centres will not secure Europe’s digital sovereignty. Greater control over cloud and AI infrastructure requires stronger demand for European providers, credible financing and community benefits, including better use of energy and water, and heating for nearby…",
+   "url": "https://www.rapporteur.com/opinion/europe-risks-confusing-more-data-centres-with-greater-digital-sovereignty/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-09T11:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 1.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1280px-Data_center_roof.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Rsparks3",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Data center roof.jpg"
+   }
+  },
+  {
+   "id": "d7f62dd9abab",
+   "title": "Norway suspends electricity grid access for new data centres",
+   "snippet": "Oslo's move reflects growing concern across Europe over impact of AI industry's hunger for power",
+   "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-09T10:33+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 1.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Brazil_data_center_of_the_Wikimedia_Foundation.png/1280px-Brazil_data_center_of_the_Wikimedia_Foundation.png",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Arzhel Younsi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Brazil_data_center_of_the_Wikimedia_Foundation.png",
+    "provider": "Wikimedia Commons",
+    "title": "Brazil data center of the Wikimedia Foundation.png"
+   }
+  },
+  {
+   "id": "2d5bd9858adb",
+   "title": "A tale of two bubbles",
+   "snippet": "The AI bubble will devastate Europe when it bursts. Why is Brussels inflating it?",
+   "url": "https://www.rapporteur.com/news/a-tale-of-two-bubbles/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-07T07:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 1.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "b6b0c6d6e342",
+   "title": "No ‘revolutions’ – EU aims to hold line at COP31",
+   "snippet": "Beyond electrification, Brussels aims to keep existing climate commitments alive in Antalya",
+   "url": "https://www.rapporteur.com/news/no-revolutions-eu-aims-to-hold-line-at-cop31/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-06T13:52+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg"
+   }
+  },
+  {
+   "id": "91ccffd03bc7",
+   "title": "VOLTAGE: Europe falls behind on renewables",
+   "snippet": "In today's edition: Russian gas, CO₂ cars, climate targets",
+   "url": "https://www.rapporteur.com/news/voltage-europe-falls-behind-on-renewables/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-06T08:38+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/1280px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Matthew T Rader",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roscoe_Wind_Farm_in_West_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Roscoe Wind Farm in West Texas.jpg"
+   }
+  },
+  {
+   "id": "2d14bb6c6967",
+   "title": "UK experts divided over sudden rise in whistleblower reports",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/whistleblowers/uk-experts-divided-over-sudden-rise-in-whistleblower-reports/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-06T22:22+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing",
+    "governance",
+    "ai_governance"
+   ],
+   "score": 16.64,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "8b29c6e34307",
+   "title": "Anti-Money Laundering Roundtable",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-guide-anti-money-laundering/fourth-edition/article/anti-money-laundering-roundtable",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-06T17:30+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 14.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "975557625f47",
+   "title": "Finra fines investment platform $4.2m over AML and customer ID failings",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/finra-fines-investment-platform-42m-over-aml-and-customer-id-failings",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-06T11:53+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions"
+   ],
+   "score": 11.7,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "79be47648d11",
+   "title": "Experts warn of ‘compliance conflict’ between GDPR and companies’ AI use",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/data-privacy/experts-warn-of-compliance-conflict-between-gdpr-and-companies-ai-use/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-06T02:17+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "privacy"
+   ],
+   "score": 11.08,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "6bd68be7f69e",
+   "title": "BDO 2026 Board Survey: Keeping pace with AI is a top challenge",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/boards-shareholders/bdo-2026-board-survey-keeping-pace-with-ai-is-a-top-challenge/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-06T02:24+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 11.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "bb254c0cac98",
+   "title": "ECI-CW TPRM 2026: The two sides of the coin in AI risk management",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/artificial-intelligence/eci-cw-tprm-2026-the-two-sides-of-the-coin-in-ai-risk-management/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-06T22:12+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "due_diligence",
+    "governance"
+   ],
+   "score": 10.59,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "91a6974d1534",
+   "title": "Kuwait pension fund victim of “breathtaking” corruption",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/kuwait-pension-fund-victim-of-breathtaking-corruption",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-06T15:11+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery",
+    "third_party_risk"
+   ],
+   "score": 10.58,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
