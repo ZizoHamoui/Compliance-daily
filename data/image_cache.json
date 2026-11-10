@@ -8672,5 +8672,87 @@
     "title": "Europa Building (EU Brussels) 42.jpg"
    }
   }
+ ],
+ "v2|hospital corridor": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg/1280px-Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "W.carter",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corridor on the second level - NÄL hospital 1.jpg"
+   }
+  }
+ ],
+ "v2|frances perkins building department of labor": [
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg/1280px-Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_-_Department_of_Labor_(53839145147).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building - Department of Labor (53839145147).jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Frances_Perkins_Building_-_Department_of_Labor_%2855256126078%29.jpg/1280px-Frances_Perkins_Building_-_Department_of_Labor_%2855256126078%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "ajay_suresh",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_-_Department_of_Labor_(55256126078).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building - Department of Labor (55256126078).jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Frances_Perkins_Building.JPG/1280px-Frances_Perkins_Building.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "AgnosticPreachersKid",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building.JPG"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg/1280px-Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Department of Labor sign Washington DC 2025-02-04 12-38-46.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Frances_Perkins_Building_-_Union_Plaques_at_Century_2001_Exhibit_at_Frances_Perkins_Building_-_DPLA_-_248a57837a2eee2782cc0242edb7beb2.jpg/1280px-Frances_Perkins_Building_-_Union_Plaques_at_Century_2001_Exhibit_at_Frances_Perkins_Building_-_DPLA_-_248a57837a2eee2782cc0242edb7beb2.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Department of Labor. Office of Public Affairs. Division of Audiovisual Communica",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_-_Union_Plaques_at_Century_2001_Exhibit_at_Frances_Perkins_Building_-_DPLA_-_248a57837a2eee2782cc0242edb7beb2.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building - Union Plaques at Century 2001 Exhibit at Frances Perkins Building - DPLA - 248a57837a2eee2782cc0242edb7beb2.jpg"
+   }
+  }
  ]
 }
