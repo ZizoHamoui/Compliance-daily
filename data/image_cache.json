@@ -9027,5 +9027,373 @@
    }
   }
  ],
- "v2|securities and exchange commission headquarters building": []
+ "v2|securities and exchange commission headquarters building": [],
+ "v2|sec headquarters washington building": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg/1280px-Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Seattle (WA, USA), HomeStreet Bank Headquarters -- 2022 -- 1454.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1455.jpg/1280px-Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1455.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_HomeStreet_Bank_Headquarters_--_2022_--_1455.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Seattle (WA, USA), HomeStreet Bank Headquarters -- 2022 -- 1455.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454_%28bw%29.jpg/1280px-Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454_%28bw%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_HomeStreet_Bank_Headquarters_--_2022_--_1454_(bw).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Seattle (WA, USA), HomeStreet Bank Headquarters -- 2022 -- 1454 (bw).jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/American_Red_Cross_-_Headquarters_%26_Buildings_-_American_Red_Cross_Headquarters_in_France_-_NARA_-_20804264.jpg/1280px-American_Red_Cross_-_Headquarters_%26_Buildings_-_American_Red_Cross_Headquarters_in_France_-_NARA_-_20804264.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Unknown author Unknown author or not provided",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:American_Red_Cross_-_Headquarters_%26_Buildings_-_American_Red_Cross_Headquarters_in_France_-_NARA_-_20804264.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "American Red Cross - Headquarters & Buildings - American Red Cross Headquarters in France - NARA - 20804264.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/American_Red_Cross_-_Headquarters_%26_Buildings_-_Headquarters_of_the_American_Red_Cross%2C_Camp_Upton%2C_Yaphank%2C_L.I_-_NARA_-_20802340.jpg/1280px-American_Red_Cross_-_Headquarters_%26_Buildings_-_Headquarters_of_the_American_Red_Cross%2C_Camp_Upton%2C_Yaphank%2C_L.I_-_NARA_-_20802340.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Unknown author Unknown author or not provided",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:American_Red_Cross_-_Headquarters_%26_Buildings_-_Headquarters_of_the_American_Red_Cross,_Camp_Upton,_Yaphank,_L.I_-_NARA_-_20802340.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "American Red Cross - Headquarters & Buildings - Headquarters of the American Red Cross, Camp Upton, Yaphank, L.I - NARA - 20802340.jpg"
+   }
+  }
+ ],
+ "v2|lockheed martin f-35 aircraft": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Lockheed_F-35_Joint_Strike_Fighter.jpg/1280px-Lockheed_F-35_Joint_Strike_Fighter.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "U.S. Air Force photo",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lockheed_F-35_Joint_Strike_Fighter.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Lockheed F-35 Joint Strike Fighter.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg/1280px-F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "John E. Wilson",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "F-35 AA-1 from the runway at the Lockheed Martin Aeronautics plant.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/RAF_Lockheed_Martin_F-35A_Lightning_II_ZM163_Royal_International_Air_Tattoo_2024_01.jpg/1280px-RAF_Lockheed_Martin_F-35A_Lightning_II_ZM163_Royal_International_Air_Tattoo_2024_01.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Julian Herzog ( Website )",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:RAF_Lockheed_Martin_F-35A_Lightning_II_ZM163_Royal_International_Air_Tattoo_2024_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "RAF Lockheed Martin F-35A Lightning II ZM163 Royal International Air Tattoo 2024 01.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lockheed_Martin_F-35C-6-CF_Lightning_II_%28USN_BuNo_169601%2C_cn_CF-35%29_%287-28-2023%29.jpg/1280px-Lockheed_Martin_F-35C-6-CF_Lightning_II_%28USN_BuNo_169601%2C_cn_CF-35%29_%287-28-2023%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "ZLEA",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_F-35C-6-CF_Lightning_II_(USN_BuNo_169601,_cn_CF-35)_(7-28-2023).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Lockheed Martin F-35C-6-CF Lightning II (USN BuNo 169601, cn CF-35) (7-28-2023).jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Lockheed_Martin_L-645_F-22A-35-LM_Raptor_%28USAF_sn_08-4169%29_%287-28-2023%29.jpg/1280px-Lockheed_Martin_L-645_F-22A-35-LM_Raptor_%28USAF_sn_08-4169%29_%287-28-2023%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "ZLEA",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_L-645_F-22A-35-LM_Raptor_(USAF_sn_08-4169)_(7-28-2023).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Lockheed Martin L-645 F-22A-35-LM Raptor (USAF sn 08-4169) (7-28-2023).jpg"
+   }
+  }
+ ],
+ "v2|fordham law school building manhattan": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Fordham_%282888053685%29.jpg/1280px-Fordham_%282888053685%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jere Keys from New York City, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fordham_(2888053685).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Fordham (2888053685).jpg"
+   }
+  }
+ ],
+ "v2|european court of auditors luxembourg": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/European_Court_of_Auditors_flags_2014_01.jpg/1280px-European_Court_of_Auditors_flags_2014_01.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "VT98Fan",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Court_of_Auditors_flags_2014_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Court of Auditors flags 2014 01.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Europ%C3%A4ischer_Rechnungshof.jpg/1280px-Europ%C3%A4ischer_Rechnungshof.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "de:Euseson",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ischer_Rechnungshof.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Europäischer Rechnungshof.jpg"
+   }
+  }
+ ],
+ "v2|parliament hill ottawa centre block": [
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Ottawa_-_ON_-_Parlamentsgeb%C3%A4ude_%28Centre_Block%29.jpg/1280px-Ottawa_-_ON_-_Parlamentsgeb%C3%A4ude_%28Centre_Block%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Wladyslaw",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ottawa_-_ON_-_Parlamentsgeb%C3%A4ude_(Centre_Block).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Ottawa - ON - Parlamentsgebäude (Centre Block).jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Ottawa_Centre_Block_seen_from_the_eastern_cornder_of_Parliament_Hill_Square.jpg/1280px-Ottawa_Centre_Block_seen_from_the_eastern_cornder_of_Parliament_Hill_Square.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Ymblanter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ottawa_Centre_Block_seen_from_the_eastern_cornder_of_Parliament_Hill_Square.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Ottawa Centre Block seen from the eastern cornder of Parliament Hill Square.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Ottawa_Centre_Block_and_Library_of_Parliament_seen_from_Major%27s_Hill_Park.jpg/1280px-Ottawa_Centre_Block_and_Library_of_Parliament_seen_from_Major%27s_Hill_Park.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Ymblanter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ottawa_Centre_Block_and_Library_of_Parliament_seen_from_Major%27s_Hill_Park.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Ottawa Centre Block and Library of Parliament seen from Major's Hill Park.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ottawa_Centre_Block_and_Library_of_Parliament_seen_from_Major%27s_Hill_Park_1.jpg/1280px-Ottawa_Centre_Block_and_Library_of_Parliament_seen_from_Major%27s_Hill_Park_1.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Ymblanter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ottawa_Centre_Block_and_Library_of_Parliament_seen_from_Major%27s_Hill_Park_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Ottawa Centre Block and Library of Parliament seen from Major's Hill Park 1.jpg"
+   }
+  }
+ ],
+ "v2|commercial roofing construction site": [],
+ "v2|european parliament strasbourg building": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hemicycle_of_Louise_Weiss_building_of_the_European_Parliament%2C_Strasbourg.jpg/1280px-Hemicycle_of_Louise_Weiss_building_of_the_European_Parliament%2C_Strasbourg.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "jeffowenphotos",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hemicycle_of_Louise_Weiss_building_of_the_European_Parliament,_Strasbourg.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hemicycle of Louise Weiss building of the European Parliament, Strasbourg.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_05.jpg/1280px-Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_05.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_05.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Interpreting booths Louise Weiss building European Parliament Strasbourg 05.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_02.jpg/1280px-Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_02.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Interpreting booths Louise Weiss building European Parliament Strasbourg 02.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_011.jpg/1280px-Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_011.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Interpreting_booths_Louise_Weiss_building_European_Parliament_Strasbourg_011.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Interpreting booths Louise Weiss building European Parliament Strasbourg 011.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Interpreting_booth_Louise_Weiss_building_European_Parliament_Strasbourg_01.jpg/1280px-Interpreting_booth_Louise_Weiss_building_European_Parliament_Strasbourg_01.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Interpreting_booth_Louise_Weiss_building_European_Parliament_Strasbourg_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Interpreting booth Louise Weiss building European Parliament Strasbourg 01.jpg"
+   }
+  }
+ ],
+ "v2|ballot box polling station": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ballot_box_at_the_No._490_polling_station%2C_Astana%2C_August_2026.jpg/1280px-Ballot_box_at_the_No._490_polling_station%2C_Astana%2C_August_2026.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Nurken",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ballot_box_at_the_No._490_polling_station,_Astana,_August_2026.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Ballot box at the No. 490 polling station, Astana, August 2026.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ballot_box_in_%C4%B0stanbul_1923.jpg/1280px-Ballot_box_in_%C4%B0stanbul_1923.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Bilinmeyen",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ballot_box_in_%C4%B0stanbul_1923.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Ballot box in İstanbul 1923.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Atat%C3%BCrk_Airport_ballot_box_1.jpg/1280px-Atat%C3%BCrk_Airport_ballot_box_1.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Sakhalinio This photo was taken with Samsung Galaxy S4",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_Airport_ballot_box_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Atatürk Airport ballot box 1.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Atat%C3%BCrk_Airport_ballot_box_2.JPG/1280px-Atat%C3%BCrk_Airport_ballot_box_2.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Sakhalinio",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_Airport_ballot_box_2.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Atatürk Airport ballot box 2.JPG"
+   }
+  }
+ ],
+ "v2|belastingdienst building netherlands": [],
+ "v2|data center server hall": []
 }
