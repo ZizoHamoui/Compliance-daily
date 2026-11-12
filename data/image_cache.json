@@ -9395,5 +9395,234 @@
   }
  ],
  "v2|belastingdienst building netherlands": [],
- "v2|data center server hall": []
+ "v2|data center server hall": [],
+ "v2|data center server racks": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg/1280px-Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Joël van der Loo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Duga-1 radar data center inside empty server racks 2018.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Racks_Amravati_Data_Center.jpg/1280px-Racks_Amravati_Data_Center.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "PiDatacenters",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Racks_Amravati_Data_Center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Racks Amravati Data Center.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/EFTA00002518_-_Server_rack_with_multiple_hard_drives_and_network_cables_connected_in_a_data_center_environment.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Federal Bureau of Investigation",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:EFTA00002518_-_Server_rack_with_multiple_hard_drives_and_network_cables_connected_in_a_data_center_environment.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "EFTA00002518 - Server rack with multiple hard drives and network cables connected in a data center environment.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/EFTA00002629_-_Server_rack_with_multiple_networking_devices_and_cables_connected_showing_a_typical_data_center_setup.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Federal Bureau of Investigation",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:EFTA00002629_-_Server_rack_with_multiple_networking_devices_and_cables_connected_showing_a_typical_data_center_setup.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "EFTA00002629 - Server rack with multiple networking devices and cables connected showing a typical data center setup.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/EFTA00002520_-_Server_rack_filled_with_colorful_cables_and_hard_drives_in_a_cluttered_data_center.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Federal Bureau of Investigation",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:EFTA00002520_-_Server_rack_filled_with_colorful_cables_and_hard_drives_in_a_cluttered_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "EFTA00002520 - Server rack filled with colorful cables and hard drives in a cluttered data center.jpg"
+   }
+  }
+ ],
+ "v2|european parliament strasbourg hemicycle": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Parliament Strasbourg Hemicycle - Diliff.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hemicycle_of_Louise_Weiss_building_of_the_European_Parliament%2C_Strasbourg.jpg/1280px-Hemicycle_of_Louise_Weiss_building_of_the_European_Parliament%2C_Strasbourg.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "jeffowenphotos",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hemicycle_of_Louise_Weiss_building_of_the_European_Parliament,_Strasbourg.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hemicycle of Louise Weiss building of the European Parliament, Strasbourg.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Hemicycle_of_European_Parliament%2C_Strasbourg%2C_with_chamber_orchestra_performing.jpg/1280px-Hemicycle_of_European_Parliament%2C_Strasbourg%2C_with_chamber_orchestra_performing.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "inyucho",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hemicycle_of_European_Parliament,_Strasbourg,_with_chamber_orchestra_performing.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hemicycle of European Parliament, Strasbourg, with chamber orchestra performing.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Hemicycle_of_the_European_Parliament%2C_Strasbourg_2023_003.jpg/1280px-Hemicycle_of_the_European_Parliament%2C_Strasbourg_2023_003.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Sebastian Wallroth",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hemicycle_of_the_European_Parliament,_Strasbourg_2023_003.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hemicycle of the European Parliament, Strasbourg 2023 003.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Hemicycle_of_the_European_Parliament%2C_Strasbourg_2023_001.jpg/1280px-Hemicycle_of_the_European_Parliament%2C_Strasbourg_2023_001.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Sebastian Wallroth",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hemicycle_of_the_European_Parliament,_Strasbourg_2023_001.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hemicycle of the European Parliament, Strasbourg 2023 001.jpg"
+   }
+  }
+ ],
+ "v2|canary wharf london skyline": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg/1280px-Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_Skyline_2,_London_UK_-_Oct_2012.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Canary Wharf Skyline 2, London UK - Oct 2012.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/London_MMB_H2_Canary_Wharf.jpg/1280px-London_MMB_H2_Canary_Wharf.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "mattbuck ( category )",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:London_MMB_H2_Canary_Wharf.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "London MMB H2 Canary Wharf.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Canary_Wharf_Reza_02.jpg/1280px-Canary_Wharf_Reza_02.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "M R Karim Reza",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_Reza_02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Canary Wharf Reza 02.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Canary_Wharf_Reza_05.jpg/1280px-Canary_Wharf_Reza_05.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "M R Karim Reza",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_Reza_05.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Canary Wharf Reza 05.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Canary_Wharf_Reza_04.jpg/1280px-Canary_Wharf_Reza_04.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "M R Karim Reza",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_Reza_04.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Canary Wharf Reza 04.jpg"
+   }
+  }
+ ],
+ "v2|artist painting easel studio": [
+  {
+   "score": 4,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Wilf-_painting_in_his_studio_2007_sm.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Wilf Perreault",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wilf-_painting_in_his_studio_2007_sm.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wilf- painting in his studio 2007 sm.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Paintings_and_easel_in_painters_studio.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Vadim Cole",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paintings_and_easel_in_painters_studio.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Paintings and easel in painters studio.jpg"
+   }
+  }
+ ]
 }

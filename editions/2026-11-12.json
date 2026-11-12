@@ -1,0 +1,203 @@
+{
+ "date": "2026-11-12",
+ "lead_id": "361d0a16c15d",
+ "editor_note": "A quiet day led by Brussels: a Digital Fairness Act with turnover-based fines, sovereignty tiers for cloud and AI, and fresh signs that AI agents and AI imitation are becoming legal-department problems.",
+ "bottom_line": [
+  {
+   "id": "361d0a16c15d",
+   "text": "The EU’s new online consumer rules allow fines of up to 6% of annual turnover, bringing manipulative design into high-stakes enforcement."
+  },
+  {
+   "id": "df7bd04f7c12",
+   "text": "Another major business is refusing AI agents acting for customers, exposing unresolved questions about identity, consent and liability."
+  },
+  {
+   "id": "9374883a98f7",
+   "text": "MEPs want pan-European cloud sovereignty tiers inside the Cloud and AI Development Act, making supplier control a legal test."
+  }
+ ],
+ "stat": {
+  "id": "361d0a16c15d",
+  "text": "6% of annual turnover: the maximum fine Brussels could impose on Big Tech for breaching its new online consumer-harm rules."
+ },
+ "storylines": {
+  "eu-digital-fairness-act": "The EU Digital Fairness Act",
+  "eu-cloud-ai-development-act": "The EU Cloud and AI Development Act"
+ },
+ "podcast_brief": "## The day in one line\n\nIt is a quiet news day, and most of it comes from Brussels. The European Commission has put forward a Digital Fairness Act that could fine companies up to 6% of global turnover for manipulative online design. MEPs are working on sovereignty tiers for cloud and AI services. Two more stories show AI agents and AI-made imitation becoming problems for legal departments, and the UK's FCA wants to loosen part of its rules on how workplace pensions invest.\n\n## Story 1 — EU unveils Digital Fairness Act to tackle online consumer harms\n\n**The facts.**\n- The European Commission has presented a new set of consumer-protection rules called the Digital Fairness Act. EU Justice Commissioner Michael McGrath was due to present it on Wednesday, 11 November.\n- Breaches could cost a company up to 6% of its annual worldwide turnover. That is the same top level as the Digital Services Act, and it puts consumer-law exposure in the same range as the EU's biggest platform fines.\n- Earlier reports on the draft listed what it targets. It goes after \"dark patterns\", meaning website and app designs that push people into purchases through misleading techniques. It would ban personalised advertising aimed at children and vulnerable consumers. It would require businesses using dynamic pricing to say how many products or tickets are left at the advertised price. And it would require online platforms to let users switch off features built to drive excessive engagement.\n- Coverage has stressed what this means for Big Tech, but the rules are written for consumer-facing digital businesses in general.\n- Not everyone is satisfied. The consumer group Finance Watch said the draft does too little for people using online investment services. Euractiv's tech newsletter described early reactions to the package as mixed.\n\n**Background.**\n- The Commission ran a public consultation on the idea in mid-2025. It was framed as a \"fitness check\" of older EU consumer laws, such as the Unfair Commercial Practices Directive, against how people actually shop and use services online.\n- The Digital Services Act and Digital Markets Act already regulate very large platforms. The Digital Fairness Act is meant to fill the gaps those laws leave on manipulative design, addictive features and personalisation, across a much wider group of businesses.\n- The text is now only a Commission proposal. The European Parliament and the member states, through the Council, both have to approve it before it becomes law. That usually takes more than a year, and the content can change a lot along the way.\n\n**What it does not change.**\n- Nothing applies yet. Obligations would start only after adoption and any transition period the final text sets.\n- It does not replace the Digital Services Act or the GDPR. It sits alongside them.\n\n**Who's affected.**\n- E-commerce, travel, ticketing, gaming, streaming, social media and subscription businesses selling to EU consumers, including companies based outside the EU.\n- Financial services firms with consumer apps, given that Finance Watch argues investment platforms are not covered enough.\n- Inside companies: legal, product counsel, privacy, marketing compliance, and the teams who design checkout and engagement features.\n\n**Why it matters.** Questions about design have mostly been handled by product and UX teams. A ceiling of 6% of global turnover turns them into a board-level liability issue, because design choices become something a regulator can fine. The proposal also continues a trend in EU digital law of setting penalties as a share of turnover, which makes fines grow with company size. The negotiations will decide how far the final rules reach beyond the largest platforms.\n\n**How this comes up with a GC or CLO.** General counsel at consumer-facing companies are likely to bring this up as the next layer of EU digital regulation, after the DSA, DMA and AI Act. Expect questions about who inside the company owns decisions on interface design, and how the company would show a regulator that its engagement features are not manipulative.\n\n**Questions a buyer might ask.**\n- Does the Digital Fairness Act apply to us if we are not a very large online platform under the DSA?\n- How would a regulator decide whether a design feature counts as a \"dark pattern\"?\n- When could these rules actually take effect, given that Parliament and the Council still have to agree on them?\n\n## Story 2 — The AI agents, and risks, keep coming\n\n**The facts.**\n- Matt Kelly of Radical Compliance notes that yet another major business has said it will not let AI agents deal with it on behalf of customers.\n- He argues that compliance officers should pay attention, because the issue raises hard questions about regulatory risk when software, rather than a person, starts transactions.\n\n**Background.**\n- This is part of a wider pattern in 2026. In September, Amazon was widely reported to have blocked Meta's Muse shopping agent from completing purchases on its site.\n- Earlier this year, a US judge sided with Amazon against Perplexity's AI shopping bot. Coverage called it an early legal test of what is now called agentic commerce.\n- Retailers and banks have been reported to be shutting out shopping agents as well, often pointing to security, fraud and customer-verification concerns.\n\n**Who's affected.**\n- Retailers, banks and payment firms deciding whether to accept transactions started by agents.\n- Companies building or deploying agents for customers or employees.\n- Compliance teams covering anti-money-laundering and know-your-customer checks, consumer protection and fraud, along with privacy and information security teams.\n\n**Why it matters.** Most compliance frameworks assume a human is on the other side of the transaction. AI agents break that assumption, and they raise questions that existing rules do not answer clearly. Who is the customer when an agent buys something? Who consented to the terms? Who is responsible when an agent makes a mistake or is manipulated? Companies are answering for now by refusing access, which shows how unsettled the legal position still is.\n\n**How this comes up with a GC or CLO.** Legal leaders tend to raise agentic AI from two sides at once: their own company's plans to use agents, and how to respond when other people's agents arrive at their front door. Both lead back to questions about governance, authority and accountability that boards are starting to ask.\n\n**Questions a buyer might ask.**\n- If a customer's AI agent completes a transaction, whose identity have we actually verified?\n- Who in the business decides whether we accept or block third-party AI agents?\n- How do we keep a record of what our own AI agents did, and on whose authority?\n\n## Story 3 — MEPs create pan-European rules for cloud sovereignty tiers\n\n**The facts.**\n- The two European Parliament co-rapporteurs on the Cloud and AI Development Act (CAIDA, also shortened to CADA) want to centralise the data-security regime inside the law and set common Europe-wide rules for cloud \"sovereignty tiers\".\n\n**Background.**\n- The Commission proposed the Act on 3 June 2026 as part of its Tech Sovereignty Package. Final adoption is targeted for late 2027.\n- The proposal sets four assurance levels. Level 1 requires data processing within the EU. Level 2 adds independence from third countries and supply-chain transparency. Level 3 adds EU ownership and control. Level 4 requires full supply-chain control with no third-country interference.\n- Under the Commission's text, member states would set the required level for each public-sector use and buy services to match within a year of adoption. Later delegated acts could extend sovereignty risk assessments to private companies in sectors covered by NIS2, such as banking, energy, telecoms and health care. That point is still being negotiated.\n\n**Who's affected.**\n- Cloud providers, especially non-EU hyperscalers, plus software and SaaS vendors that sell to the public sector.\n- Possibly regulated private-sector firms that rely on cloud and AI services, if the scope is widened.\n\n**Why it matters.** Under these rules, where a supplier is based, who owns it and who controls its supply chain would become a formal compliance test for cloud and AI services, not only a commercial preference. That is third-party risk management applied to technology infrastructure. If Parliament succeeds in centralising the regime, companies would face one Europe-wide standard instead of a patchwork of national rules.\n\n**How this comes up with a GC or CLO.** It is most likely to come up in discussions about vendor due diligence and contracts for public-sector work, and in regulated industries asking whether sovereignty assessments will become part of their own outsourcing duties.\n\n**Questions a buyer might ask.**\n- Would sovereignty requirements reach private companies in our sector, or only public bodies?\n- How would we show which sovereignty level our cloud and AI suppliers meet?\n\n## Story 4 — FCA proposes greater pension investment flexibility to support long-term value for savers\n\n**The facts.** The UK Financial Conduct Authority is consulting on excluding certain performance-linked fees from the cap on charges in workplace pensions. The aim is to give providers more room to invest for the long term while protecting savers.\n\n**Background.** Default workplace pension arrangements are subject to a charge cap. Performance fees, which are common in private markets, have been seen as a barrier to those investments. The FCA had said it would review this.\n\n**Who's affected.** Workplace pension providers, asset managers and the compliance teams that oversee value-for-money and consumer duty obligations.\n\n**Why it matters.** It shows a regulator trying to balance growth and long-term investment against protecting consumers, with firms left to prove that the outcomes are good for savers.\n\n**How it comes up.** It is relevant mainly to financial services clients tracking FCA priorities. **One question:** How would we show the FCA that performance fees deliver value for members?\n\n## Story 5 — Photoshop maker Adobe backs rules against AI style mimicry\n\n**The facts.** Adobe is lobbying in Brussels for rules that would give artists a way to fight back against people who use AI to copy their style for money.\n\n**Background.** The EU AI Act already imposes transparency and copyright-related duties on general-purpose AI. Whether an artist's style can be protected is a separate, unsettled question in copyright law.\n\n**Who's affected.** Creative industries, generative-AI developers, and companies that use AI-generated content in marketing.\n\n**Why it matters.** It is a sign that EU debate on intellectual property and AI is moving past training data to what AI outputs can legally be.\n\n**How it comes up.** Legal teams approving AI-generated content may ask where the line on imitation will fall. **One question:** Could content made by our AI tools expose us to style-mimicry claims under future EU rules?\n",
+ "cards": [
+  {
+   "id": "361d0a16c15d",
+   "url": "https://www.rapporteur.com/news/eu-unveils-new-rules-to-tackle-online-consumer-harms/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-11T10:13+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "press",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "EU unveils new rules to tackle online consumer harms",
+   "summary": "Brussels has unveiled new rules to tackle online consumer harms, under which it can fine Big Tech up to 6% of annual turnover for breaches.",
+   "impact": "Turnover-based penalties extend the EU’s digital enforcement model into consumer law, turning interface and engagement design into a board-level liability question.",
+   "industries": [
+    "tech",
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "proposal",
+   "image_query": "Berlaymont building Brussels",
+   "storyline": "eu-digital-fairness-act"
+  },
+  {
+   "id": "df7bd04f7c12",
+   "url": "https://www.radicalcompliance.com/2026/11/11/the-ai-agents-and-risks-keep-coming/",
+   "source": "Radical Compliance",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-12T03:44+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg/1280px-Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Joël van der Loo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Duga-1 radar data center inside empty server racks 2018.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "The AI agents, and risks, keep coming",
+   "summary": "Another major business has announced it will not let AI agents act on customers’ behalf, an issue that raises difficult questions about regulatory risk for compliance officers.",
+   "impact": "Transactions initiated by software rather than people strain identity, consent and accountability assumptions built into most compliance frameworks, leaving legal teams with unsettled exposure.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "data center server racks"
+  },
+  {
+   "id": "9374883a98f7",
+   "url": "https://www.rapporteur.com/news/meps-create-pan-european-rules-for-cloud-sovereignty-tiers/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-12T09:50+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Parliament Strasbourg Hemicycle - Diliff.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "MEPs create pan-European rules for cloud sovereignty tiers",
+   "summary": "The European Parliament’s co-rapporteurs on the Cloud and AI Development Act aim to centralise the data security regime inside the law, creating pan-European rules for cloud sovereignty tiers.",
+   "impact": "Supplier ownership and control are becoming formal legal tests for cloud and AI services, extending third-party risk scrutiny into technology infrastructure.",
+   "industries": [
+    "tech",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "image_query": "European Parliament Strasbourg hemicycle",
+   "storyline": "eu-cloud-ai-development-act"
+  },
+  {
+   "id": "1481c7635aaf",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg/1280px-Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_Skyline_2,_London_UK_-_Oct_2012.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Canary Wharf Skyline 2, London UK - Oct 2012.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "kind": "link",
+   "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
+   "summary": "The FCA is consulting on excluding certain performance-linked fees, giving workplace pension providers more flexibility to invest for the long term while keeping savers’ interests protected.",
+   "impact": "The consultation reflects a UK regulator balancing growth and long-term investment against consumer protection, with firms carrying the burden of evidencing good saver outcomes.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "image_query": "Canary Wharf London skyline"
+  },
+  {
+   "id": "9607f368d7d4",
+   "url": "https://www.rapporteur.com/news/photoshop-maker-adobe-backs-rules-against-ai-style-mimicry/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-11T03:00+00:00",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Wilf-_painting_in_his_studio_2007_sm.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Wilf Perreault",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wilf-_painting_in_his_studio_2007_sm.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wilf- painting in his studio 2007 sm.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Photoshop maker Adobe backs rules against AI style mimicry",
+   "summary": "Adobe is pitching EU rules that would give artists recourse against those who use AI to copy their style for profit.",
+   "impact": "EU debate on AI and intellectual property is shifting from training data to the legality of outputs, widening potential exposure for companies using generative content.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "analysis",
+   "image_query": "artist painting easel studio"
+  }
+ ],
+ "briefings": {}
+}
