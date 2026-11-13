@@ -1,0 +1,424 @@
+{
+ "date": "2026-11-13",
+ "lead_id": "375a282fc17b",
+ "editor_note": "A quiet Friday led by tougher audit oversight: the PCAOB builds specialist enforcement teams, including one for AI, while Washington prepares for a new wave of congressional investigations and Europe's leaders turn to AI.",
+ "bottom_line": [
+  {
+   "id": "375a282fc17b",
+   "text": "The PCAOB created five specialist enforcement units, including teams for fraud risk and AI use in audits."
+  },
+  {
+   "id": "eba75bb658b0",
+   "text": "Incoming Democratic committee chairs have named corporate investigation targets, from crypto ventures to AI's debt-fuelled build-out."
+  },
+  {
+   "id": "4914a026a9a1",
+   "text": "A New York doctor faces charges over an alleged $6.8 million Medicare scheme involving phantom consultations and orthotic braces."
+  }
+ ],
+ "stat": {
+  "id": "5226cc5890ed",
+  "text": "70%: share of product compliance still run on spreadsheets, even as AI becomes ubiquitous in financial decision-making."
+ },
+ "podcast_brief": "## The day in one line\n\nIt is a quiet Friday, and the clearest thread running through it is accountability for the people who check the numbers. The US audit regulator has rebuilt its enforcement team around fraud risk and artificial intelligence, Washington is bracing for a new season of congressional investigations, and in Europe, heads of government spent the day talking about AI while their own institutions wrestle with it.\n\n## Story 1 — The PCAOB splits its enforcement division into five specialist units, including one for AI in audits\n\n**The facts.**\n- On 10 November 2026, the Public Company Accounting Oversight Board, the body that oversees the auditors of US-listed companies, announced that its Division of Enforcement and Investigations has been reorganised into five specialised units.\n- Each unit has its own chief and is staffed by a mix of attorneys, accountants and other specialists.\n- The Strategic Risk Unit looks at how auditors identify, evaluate and respond to signs of fraud and other significant accounting issues. The stated aim is to find audit failures.\n- The Super Intelligence Unit covers emerging risks and possible misconduct involving artificial intelligence in public company audits. The board says it does not want to discourage appropriate use of the technology, and the unit will also use such tools to sharpen the division's own investigative work. Trade press noted that \"super intelligence\" is now the administration's preferred term for AI.\n- The Global Network Firm Unit handles investigations of the largest registered accounting firms and the people associated with them, including quality-control failures.\n- The Non-Affiliate Firm Unit covers firms with smaller public-company and broker-dealer audit practices. The board's message here is that being small is no shield.\n- The International Unit covers non-US registered firms. It draws on staff with language skills and cross-border experience and works with the board's Office of International Affairs and with foreign regulators.\n- Chairman Demetrios Logothetis described enforcement as central to returning the board to its investor-protection mission. Enforcement director George Demos said the new structure lets the team be nimble in finding audit violations.\n- The division will keep the Securities and Exchange Commission, which oversees the PCAOB and appoints its board members, informed about its investigations.\n\n**Background.**\n- The PCAOB was created by the Sarbanes-Oxley Act after the accounting scandals of the early 2000s. Its future has been debated in Washington in recent years, with proposals at various points to fold its functions into the SEC.\n- Earlier in 2026 the SEC confirmed it was staffing its own new enforcement group focused on auditors and Sarbanes-Oxley compliance, so both the SEC and the PCAOB are now signalling more targeted attention to audit quality.\n- Coverage of the announcement noted that the board gave no details on how many people will staff the units, what budget they have, or when they will be fully operational. Those questions remain open.\n\n**Who's affected.**\n- Audit firms of every size, including non-US firms that audit parts of US-listed groups.\n- Indirectly, the companies they audit: finance teams, internal audit, audit committees and the legal and compliance functions that run investigations, hotlines and internal controls.\n\n**Why it matters.** The PCAOB regulates auditors, not companies, but its investigations inevitably reach into the companies being audited: the documents, the representations management made, and the control evidence the auditor relied on. A unit dedicated to how auditors respond to fraud red flags is significant because many of those red flags begin inside the company, in a hotline report, an internal investigation or a control breakdown. The AI unit is also notable as one of the first enforcement teams at a US regulator built around the use of AI inside a regulated professional process.\n\n**How this comes up with a GC or CLO.** It is likely to arrive through the audit committee, either as a briefing from the external auditor or as a question from directors about how exposed the company would be if its audit came under review. Legal leaders may also connect it to their own AI governance work, since a regulator is now explicitly examining how AI-assisted judgements are documented and checked.\n\n**Questions a buyer might ask.**\n- If our auditor were investigated by the new fraud-risk unit, what would they need from us, and how quickly?\n- How well can we show, after the fact, how AI tools were used in our financial reporting and controls?\n- Does this change what our audit committee expects to hear from compliance about red flags and investigations?\n\n## Story 2 — A Democratic Congress is drawing up its corporate subpoena list\n\n**The facts.**\n- Corporate Compliance Insights reports that incoming Democratic committee chairs have already named the corporate areas they intend to investigate once they take control of the gavel.\n- The named targets include crypto ventures, so-called surveillance pricing (setting individual prices using personal data), government equity stakes in private companies, and the debt-fuelled build-out of artificial intelligence infrastructure.\n\n**Background.**\n- Throughout 2026, major law firms published client alerts on preparing for congressional investigations in the event that control of a chamber changed after the midterm elections. The new Congress, the 120th, convenes in January 2027.\n- Congressional committees can issue subpoenas for documents and testimony, hold public hearings and refer matters to enforcement agencies. Unlike a regulator, a committee's aims are often as much political as legal, and hearings happen in public.\n\n**Who's affected.**\n- Companies in crypto, consumer technology and retail pricing, AI infrastructure and its financing, and businesses where the government has taken an equity stake.\n- Inside those companies, general counsel, government affairs, communications and, often, the board.\n\n**Why it matters.** A change in congressional control reliably brings a new wave of letters, document demands and hearings aimed at companies. Congressional inquiries move at political speed, can surface internal emails publicly, and can lead to referrals to regulators. The early naming of targets gives a sense of which sectors are likely to be first in line.\n\n**How this comes up with a GC or CLO.** Legal leaders in the named sectors are likely already asking how quickly they could collect and review documents on a given topic, and who would testify if a chief executive were called. The topic also raises questions about how consistent a company's internal records are with its public statements.\n\n**Questions a buyer might ask.**\n- How fast could we pull together every internal document on a specific topic if a committee asked tomorrow?\n- How do we keep the board informed when an inquiry is political as well as legal?\n- What happens to our internal investigation records if Congress requests them?\n\n## Story 3 — New York doctor charged in $6.8 million Medicare fraud scheme\n\n**The facts.**\n- A federal grand jury in the Southern District of Florida returned an indictment on Tuesday, 10 November, charging Dr. Edgard Salazar, 57, of Armonk, New York.\n- Prosecutors allege he conspired to bill Medicare for thousands of consultations that never took place, and for millions of dollars of orthotic braces.\n- The Justice Department puts the scheme at $6.8 million. Charges are allegations; Dr. Salazar is presumed innocent unless proven guilty.\n\n**Background.**\n- Orthotic brace fraud has been one of the Justice Department's most persistent healthcare fraud targets for years. A 2019 takedown alone charged two dozen people over an alleged $1.2 billion brace scheme, often run through telemarketing and telemedicine companies that paid doctors to sign orders for patients they never examined.\n- Several doctors have since been convicted at trial over brace schemes, which shows prosecutors are willing to pursue the physicians who sign the orders, not only the companies that organise the schemes.\n\n**Who's affected.**\n- Physicians, telehealth providers, durable medical equipment suppliers and laboratories that bill federal healthcare programmes.\n- Compliance teams in healthcare organisations responsible for billing integrity and oversight of referral relationships.\n\n**Why it matters.** The case is a clean example of the classic healthcare fraud pattern: services billed but not delivered, and equipment ordered without genuine medical need. It shows that even a single physician's signature can sit at the centre of a multimillion-dollar exposure, and why billing data analytics and oversight of third-party arrangements are central to healthcare compliance programmes.\n\n**How this comes up with a GC or CLO.** Healthcare compliance officers will recognise the pattern immediately. It tends to come up when discussing how organisations spot unusual billing volumes, how they vet the telehealth and marketing partners they work with, and how employees can raise concerns about questionable orders.\n\n**Questions a buyer might ask.**\n- How would we detect a single provider billing for consultations that never happened?\n- What due diligence do we do on telehealth or marketing partners that generate orders?\n- If an employee suspected this kind of billing, where would that concern go?\n\n## Story 4 — Federal Reserve takes enforcement action against a former United Community Bank employee\n\n**The facts.** On 12 November the Federal Reserve Board announced an enforcement action against a former employee of United Community Bank. The release published in the feed does not give further detail.\n\n**Background.** The Fed regularly brings actions against individual former bank staff, most often orders barring them from working in the banking industry after misconduct such as misappropriating funds.\n\n**Who's affected.** Banks, their employees, and the fraud, HR and compliance teams that detect and report insider misconduct.\n\n**Why it matters.** These individual actions show regulators following misconduct to the person responsible, not only to the institution.\n\n**How this comes up.** Bank compliance leaders often discuss insider fraud detection and how quickly cases are escalated and reported.\n\n**A question a buyer might ask.** How do we make sure a terminated employee's misconduct is reported and recorded properly?\n\n## Story 5 — EU leaders open their first in-depth summit talks on AI\n\n**The facts.** Speaking in Dublin before the informal European Council of 13 November, Commission President Ursula von der Leyen said leaders would discuss artificial intelligence, both its risks, including what she called runaway AI, and its opportunities. Press coverage noted the debate was squeezed by Ukraine and EU budget talks.\n\n**Background.** The EU AI Act is being phased in, and the debate in Brussels has shifted between competitiveness and safety.\n\n**Who's affected.** Any business developing or deploying AI in the EU.\n\n**Why it matters.** Leader-level attention to AI risk influences how the AI Act is implemented and how strictly it is enforced.\n\n**How this comes up.** Legal leaders following the AI Act timeline will be listening for signals of either acceleration or delay.\n\n**A question a buyer might ask.** Does a summit like this change our AI Act compliance timeline?\n\n## Story 6 — EU data protection supervisor urges GDPR changes to align children's age limits\n\n**The facts.** The European Data Protection Supervisor is calling for changes to the GDPR so that age limits for children line up across EU rules, citing concern about a duplication of age-assurance processes.\n\n**Background.** The GDPR lets member states set the age of digital consent anywhere from 13 to 16, and newer EU online-safety rules add their own age-assurance expectations.\n\n**Who's affected.** Online platforms, games, apps and services used by minors.\n\n**Why it matters.** Different thresholds in different countries make consent and age-verification programmes complicated and costly.\n\n**How this comes up.** Privacy and product counsel at consumer platforms deal with this patchwork constantly.\n\n**A question a buyer might ask.** If the age limits were aligned, how much of our age-verification process would change?\n\n## Story 7 — Survey: AI is everywhere in financial decisions, but spreadsheets still run 70% of product compliance\n\n**The facts.** A Corporate Compliance Insights roundup reports that AI is now ubiquitous in financial decision-making, while spreadsheets are still used for 70 percent of product compliance work, and most tax departments say they are feeling the crunch.\n\n**Background.** Surveys across 2026 have repeatedly found AI adoption running ahead of the governance around it.\n\n**Who's affected.** Finance, tax and compliance functions.\n\n**Why it matters.** The gap between fast AI adoption and manual compliance tooling is where control errors and audit findings tend to appear.\n\n**How this comes up.** It tends to surface in conversations about where manual work creates risk.\n\n**A question a buyer might ask.** Where in our compliance process are we still relying on spreadsheets?\n\n## Story 8 — Mixed reviews for the EU's Digital Fairness Act\n\n**The facts.** Early reactions to the EU's proposed Digital Fairness Act, its planned overhaul of online consumer protection, are mixed.\n\n**Background.** The proposal targets practices such as dark patterns, addictive design and personalised pricing, and it now begins its path through the Parliament and Council.\n\n**Who's affected.** Digital businesses selling to EU consumers.\n\n**Why it matters.** It would pull design choices into consumer-law territory, widening conduct risk.\n\n**How this comes up.** Product and consumer counsel are tracking how far the final text goes.\n\n**A question a buyer might ask.** Which of our online design practices would fall within the new rules?\n\n## Story 9 — AI is making the EU institutions \"hallucinate\"\n\n**The facts.** Reporting from Brussels describes EU institutions struggling to manage the new workload and quality problems that AI is creating, even as leaders debate the technology.\n\n**Background.** Public bodies, like companies, have adopted generative AI quickly, often before clear internal rules were in place.\n\n**Who's affected.** Public-sector bodies and any organisation using generative AI for drafting and analysis.\n\n**Why it matters.** It is a reminder that AI output errors are an operational and accountability issue, not only a technical one.\n\n**How this comes up.** Legal teams writing AI-use policies will recognise the problem.\n\n**A question a buyer might ask.** Who is accountable when an AI-drafted document contains an error?\n\n## Story 10 — EU Court of Justice throws out Poland's bid to scrap EU climate laws\n\n**The facts.** The European Court of Justice dismissed seven cases brought by Poland's previous nationalist government seeking to annul EU climate legislation.\n\n**Background.** The cases challenged parts of the EU's climate package; the court has now ruled on all seven.\n\n**Who's affected.** Energy-intensive industry and companies subject to EU emissions rules.\n\n**Why it matters.** The rulings confirm the legal footing of the climate framework, removing one source of uncertainty.\n\n**How this comes up.** It may come up with clients in energy and manufacturing when discussing regulatory certainty.\n\n**A question a buyer might ask.** Does this ruling change any of our emissions-related obligations?\n\n## Story 11 — Court bars Florida tax preparer and orders $558,520 disgorgement\n\n**The facts.** A federal court in Florida permanently barred Juan Humberto Garcia and his business, The Tax Master of BVL, Inc., from preparing federal tax returns for others and ordered them to pay $558,520. A second individual was also barred.\n\n**Background.** The Justice Department routinely uses civil injunctions to shut down preparers who file false returns.\n\n**Who's affected.** Tax preparation businesses and their clients.\n\n**Why it matters.** It shows the government closing down a business model, not only prosecuting individuals.\n\n**How this comes up.** It is a simple example of disgorgement as an enforcement tool.\n\n**A question a buyer might ask.** How does disgorgement differ from a fine?\n",
+ "cards": [
+  {
+   "id": "375a282fc17b",
+   "kind": "briefing",
+   "tier": "ai",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Old_Post_Office_building_tower_and_roofline_Washington_DC_2026-10-07_14-22-37_1.jpg/1280px-Old_Post_Office_building_tower_and_roofline_Washington_DC_2026-10-07_14-22-37_1.jpg",
+   "source": "AI Briefing · PCAOB",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-10",
+   "topic": "enforcement",
+   "title": "PCAOB splits enforcement into five specialist units, including one for AI in audits",
+   "summary": "The US audit regulator has reorganised its enforcement division into five units covering fraud risk, AI in audits, the largest firms, smaller firms and non-US firms.",
+   "impact": "Sharper, specialised audit enforcement raises the stakes for audit committees and finance teams whose auditors' fraud and AI work may now draw closer scrutiny.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "clo"
+   ],
+   "item_type": "rule",
+   "image_query": "Washington DC office building",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Old_Post_Office_building_tower_and_roofline_Washington_DC_2026-10-07_14-22-37_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Old Post Office building tower and roofline Washington DC 2026-10-07 14-22-37 1.jpg"
+   }
+  },
+  {
+   "id": "eba75bb658b0",
+   "url": "https://www.corporatecomplianceinsights.com/democratic-congress-drawing-up-corporate-subpoena-list/",
+   "source": "Corporate Compliance Insights",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/1280px-Capitol_Building_Full_View.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Noclip",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Capitol Building Full View.jpg"
+   },
+   "tier": "press",
+   "topic": "governance",
+   "kind": "link",
+   "title": "A Democratic Congress is drawing up its corporate subpoena list",
+   "summary": "Incoming committee chairs have already named investigation targets, including crypto ventures, surveillance pricing, government equity stakes and the debt-fuelled build-out of AI.",
+   "impact": "A change in congressional control typically brings document demands and hearings for companies, putting legal departments' investigation readiness and board reporting under pressure.",
+   "industries": [
+    "tech",
+    "financial_services",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "United States Capitol building"
+  },
+  {
+   "id": "4914a026a9a1",
+   "url": "https://www.justice.gov/opa/pr/new-york-doctor-charged-68m-medicare-fraud-scheme",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-12T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   },
+   "tier": "official",
+   "topic": "false_claims",
+   "kind": "link",
+   "title": "New York doctor charged in $6.8M Medicare fraud scheme",
+   "summary": "A Florida federal grand jury indicted Dr. Edgard Salazar, 57, of Armonk, New York, for allegedly conspiring to bill Medicare for thousands of consultations that never occurred and millions of dollars of orthotic braces.",
+   "impact": "Brace and phantom-consultation schemes remain a core DOJ healthcare fraud priority, keeping provider billing controls and ordering-physician oversight under scrutiny.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "orthopedic knee brace"
+  },
+  {
+   "id": "6baae670e70b",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "source": "Federal Reserve Board",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-12T16:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1280px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "AgnosticPreachersKid",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Marriner S. Eccles Federal Reserve Board Building.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Federal Reserve issues enforcement action against former United Community Bank employee",
+   "summary": "The Federal Reserve Board announced an enforcement action against a former employee of United Community Bank.",
+   "impact": "Individual actions against bank staff show regulators pursuing personal accountability, keeping insider misconduct and banks' detection and reporting controls in focus.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Eccles Federal Reserve Board Building"
+  },
+  {
+   "id": "958c99eb8fa1",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2431",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-13T08:53+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dublin_Castle_courtyard_tower.jpg/1280px-Dublin_Castle_courtyard_tower.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Wknight94",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dublin_Castle_courtyard_tower.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Dublin Castle courtyard tower.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "EU leaders open first in-depth summit talks on AI",
+   "summary": "Ahead of the informal European Council in Dublin on 13 November, Commission President von der Leyen said leaders would discuss AI's risks, including runaway AI, as well as its opportunities.",
+   "impact": "Leader-level attention to AI risk shapes how the EU AI Act is implemented and enforced, keeping AI governance on legal departments' agendas.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "proposal",
+   "image_query": "Dublin Castle courtyard"
+  },
+  {
+   "id": "f3810c1d6098",
+   "url": "https://www.rapporteur.com/news/eu-privacy-watchdog-urges-gdpr-changes-to-align-kids-age-limits/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-13T11:04+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/European_Parliament_building_in_Brussels%2C_Belgium%2C_July_2026_03.jpg/1280px-European_Parliament_building_in_Brussels%2C_Belgium%2C_July_2026_03.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dev Jadiya",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_building_in_Brussels,_Belgium,_July_2026_03.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Parliament building in Brussels, Belgium, July 2026 03.jpg"
+   },
+   "tier": "press",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "EU privacy watchdog urges GDPR changes to align children's age limits",
+   "summary": "The European Data Protection Supervisor is calling for GDPR changes to align age limits for children, citing concern over a 'duplication' of age-assurance processes.",
+   "impact": "Divergent age thresholds complicate consent and age-verification programmes, so alignment would reshape privacy compliance for online services used by minors.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "image_query": "European Parliament Brussels building"
+  },
+  {
+   "id": "5226cc5890ed",
+   "url": "https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026/",
+   "source": "Corporate Compliance Insights",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-12T16:29+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Survey: AI ubiquitous in financial decision-making, but spreadsheets still run 70% of product compliance",
+   "summary": "A news roundup reports AI is now ubiquitous in financial decision-making, while spreadsheets are still used for 70% of product compliance and most tax departments feel the crunch.",
+   "impact": "The gap between rapid AI adoption and manual compliance tooling points to governance and control risks that legal and compliance leaders increasingly face.",
+   "industries": [
+    "financial_services",
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "office desk spreadsheet printout"
+  },
+  {
+   "id": "f863772b63bd",
+   "url": "https://www.rapporteur.com/news/the-hack-mixed-reviews-for-digital-fairness-act/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-12T07:49+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "press",
+   "topic": "governance",
+   "kind": "link",
+   "title": "Mixed reviews for the EU's Digital Fairness Act",
+   "summary": "Early reactions to the EU's proposed Digital Fairness Act, the planned overhaul of online consumer protection rules, are mixed.",
+   "impact": "The Act would bring dark patterns, addictive design and personalised pricing under consumer law, widening the conduct exposure of digital businesses selling in the EU.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "proposal",
+   "image_query": "Berlaymont building Brussels",
+   "storyline": "eu-digital-fairness-act"
+  },
+  {
+   "id": "1d594e5f538f",
+   "url": "https://www.rapporteur.com/news/ai-is-making-the-eu-institutions-hallucinate/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-13T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/European_Quarter_of_Brussels_%284257730091%29.jpg/1280px-European_Quarter_of_Brussels_%284257730091%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "William Murphy from Dublin, Ireland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Quarter_of_Brussels_(4257730091).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Quarter of Brussels (4257730091).jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "AI is making the EU institutions 'hallucinate'",
+   "summary": "As European leaders discuss AI, EU institutions are struggling to manage the extra workload the technology is creating.",
+   "impact": "Public bodies grappling with AI output quality mirror the challenge facing corporate legal teams: governing generative AI use without losing accuracy or accountability.",
+   "industries": [
+    "public_sector",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "European Commission Brussels offices"
+  },
+  {
+   "id": "d7eb3ca066e5",
+   "url": "https://www.rapporteur.com/news/polish-bid-to-scrap-eu-climate-laws-thrown-out-of-court/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-12T13:08+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Court_of_Justice_of_the_European_Union_Luxembourg_01.jpg/1280px-Court_of_Justice_of_the_European_Union_Luxembourg_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Court_of_Justice_of_the_European_Union_Luxembourg_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Court of Justice of the European Union Luxembourg 01.jpg"
+   },
+   "tier": "press",
+   "topic": "esg",
+   "kind": "link",
+   "title": "EU Court of Justice throws out Poland's bid to scrap EU climate laws",
+   "summary": "The European Court of Justice dismissed seven cases brought by Poland's previous nationalist government seeking to annul EU climate legislation.",
+   "impact": "The rulings confirm the legal footing of EU climate rules, keeping related reporting and emissions obligations firmly in place for companies operating in Europe.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "ruling",
+   "image_query": "Court of Justice European Union Luxembourg"
+  },
+  {
+   "id": "1a7c12a2a79c",
+   "url": "https://www.justice.gov/opa/pr/court-permanently-bars-florida-tax-return-preparer-and-tax-preparation-business-and-orders",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-10T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/David_W._Dyer_Federal_Building_and_United_States_Courthouse_%2815130121621%29.jpg/1280px-David_W._Dyer_Federal_Building_and_United_States_Courthouse_%2815130121621%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Phillip Pessar from Miami, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:David_W._Dyer_Federal_Building_and_United_States_Courthouse_(15130121621).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "David W. Dyer Federal Building and United States Courthouse (15130121621).jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Court permanently bars Florida tax preparer and business, orders $558,520 disgorgement",
+   "summary": "A federal court in Florida permanently barred Juan Humberto Garcia and his business, The Tax Master of BVL, Inc., from preparing others' federal returns and ordered them to pay $558,520.",
+   "impact": "Disgorgement and permanent bars show the government using civil injunctions to shut down businesses built on fraudulent filings, not only individual prosecutions.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "analyst"
+   ],
+   "item_type": "ruling",
+   "image_query": "Miami federal courthouse"
+  }
+ ],
+ "briefings": {
+  "375a282fc17b": {
+   "headline": "PCAOB splits enforcement into five specialist units, including one for AI in audits",
+   "dek": "The audit regulator's enforcement division now has dedicated teams for fraud risk, AI, the largest firms, smaller firms and non-US auditors.",
+   "body_md": "The Public Company Accounting Oversight Board (PCAOB), the body that polices auditors of US-listed companies, announced on 10 November 2026 that it has reorganised its Division of Enforcement and Investigations into five specialised units. Each unit will be supervised by a unit chief and staffed by attorneys, accountants and other specialists.\n\nThe five units are:\n\n- **Strategic Risk Unit**, focused on how auditors identify, evaluate and respond to signs of fraud and other significant accounting issues, with the aim of finding audit failures.\n- **Super Intelligence Unit**, covering emerging risks and possible misconduct involving artificial intelligence in public company audits. According to the board, it will do so without discouraging appropriate use of the technology, and it will also use such tools in the division's own enforcement work.\n- **Global Network Firm Unit**, dedicated to investigations of the largest registered accounting firms and their associated persons, including quality-control deficiencies.\n- **Non-Affiliate Firm Unit**, covering registered firms with smaller public-company and broker-dealer audit practices. The board signalled that a firm's size will not shield misconduct from scrutiny.\n- **International Unit**, covering non-US registered firms, staffed by people with language skills and cross-border experience and working with the PCAOB's Office of International Affairs and foreign counterparts.\n\nChairman Demetrios Logothetis said the reorganisation would strengthen the enforcement division and described enforcement as \"central to our efforts\" to refocus the board on investor protection. Enforcement director George Demos said the units would let staff be \"nimble and agile\" in finding audit violations. The division will keep the Securities and Exchange Commission, which oversees the PCAOB and appoints its members, informed about investigations.\n\nThe move follows a year in which audit oversight has been a live question in Washington. Earlier in 2026 the SEC confirmed it was staffing a new enforcement group targeting auditors and Sarbanes-Oxley compliance. Trade press coverage of the PCAOB announcement noted that it gave no detail on staffing levels, budgets or timelines.\n\n### What this means for legal and compliance leaders\n\nThe PCAOB regulates auditors, not companies, but its investigations reach into the companies being audited: documents, management representations and the internal-control evidence auditors relied on. A dedicated fraud-risk unit puts the spotlight on how auditors respond to red flags, which often originate in a company's own hotline reports, internal investigations and control failures. The AI unit is one of the first enforcement teams at a US regulator built specifically around AI use in a regulated professional process, and it signals that \"the model did it\" will be examined rather than accepted. For multinational groups, a separate international unit suggests more cross-border requests involving non-US component auditors.\n\n### Questions you may hear\n\n- If our auditor is investigated by the new Strategic Risk Unit, what will they ask us for?\n- How do we document the way AI tools are used in our own financial reporting and controls?\n- Does this change how our audit committee oversees the external auditor?\n",
+   "sources": [
+    {
+     "title": "PCAOB Announces New Specialized Units in Enforcement Division",
+     "publisher": "PCAOB",
+     "url": "https://pcaobus.org/news-events/news-releases/news-release-detail/pcaob-announces-new-specialized-units-in-enforcement-division"
+    },
+    {
+     "title": "PCAOB Creates Five Units Within Enforcement Division",
+     "publisher": "CPA Practice Advisor",
+     "url": "https://www.cpapracticeadvisor.com/2026/11/11/pcaob-creates-five-units-within-enforcement-division/193684/"
+    },
+    {
+     "title": "PCAOB Announces Five Specialized Enforcement Units to Ferret Out Audit Violations",
+     "publisher": "Going Concern",
+     "url": "https://www.goingconcern.com/pcaob-announces-five-specialized-enforcement-units-to-ferret-out-audit-violations/"
+    }
+   ],
+   "prompted_by": {
+    "title": "PCAOB unveils specialist units to further enforcement priorities and investigate misconduct",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/accounting-auditing/pcaob-unveils-specialist-units-to-further-enforcement-priorities-and-investigate-misconduct/"
+   }
+  }
+ }
+}
