@@ -1,0 +1,381 @@
+{
+ "date": "2026-11-14",
+ "lead_id": "4ff733084226",
+ "editor_note": "A quiet Saturday paper led by another cybersecurity False Claims Act settlement brought by whistleblowers, a negotiated end to Wise's Belgian AML probe, a reversal risk for Google in Luxembourg, and a run of EEOC pregnancy and disability settlements.",
+ "bottom_line": [
+  {
+   "id": "4ff733084226",
+   "text": "Johnson Controls will pay $5 million over alleged cybersecurity failures on federal contracts, a case brought by whistleblowers including a former employee."
+  },
+  {
+   "id": "a238942009e4",
+   "text": "Wise's Belgian subsidiary settled a criminal money-laundering probe with Brussels prosecutors, without admitting wrongdoing; terms were not disclosed."
+  },
+  {
+   "id": "ca4dc2791ad7",
+   "text": "An EU court adviser says Google's annulled €1.49 billion AdSense fine was wrongly annulled; the Court of Justice is expected to rule in 2027."
+  }
+ ],
+ "stat": {
+  "id": "4ff733084226",
+  "text": "$850,000: the share of Johnson Controls' $5 million cybersecurity settlement going to the former employee who filed the whistleblower suit."
+ },
+ "podcast_brief": "## The day in one line\n\nIt is a quiet weekend edition, but the main stories share a theme: commitments made on paper, whether cybersecurity promises in government contracts, customer checks at a payments firm or clauses in advertising agreements, being tested by enforcers. Alongside them are an SEC rethink of executive pay disclosure and a cluster of EEOC settlements on pregnancy and disability.\n\n## Story 1 — Johnson Controls pays $5 million to settle cybersecurity fraud allegations\n\n**The facts.**\n- On 13 November 2026 the US Department of Justice announced that Johnson Controls, Inc., based in Milwaukee, and two subsidiaries, Johnson Controls Fire Protection LP and Johnson Controls Security Solutions LLC, agreed to pay $5 million to resolve False Claims Act allegations.\n- The government alleged that the companies did not meet cybersecurity requirements in federal contracts and subcontracts for building products and services, including heating, ventilation and air-conditioning work.\n- The contracts were with NASA and the Departments of Defense, Energy and Justice. The conduct covered runs from January 2018 to August 2025, more than seven years.\n- According to the Justice Department, the companies did not adequately control access to protected government information because they lacked enough information about, and control over, their own information systems.\n- On contracts that required the federal security controls known as NIST Special Publication 800-171, including defence contracts, the government said the companies did not keep a system security plan that met the contract terms. It also said they did not properly document, develop or carry out a plan of action and milestones to fix known weaknesses.\n- The settlement resolves two whistleblower suits. One was filed in federal court in the Northern District of Georgia in 2024 by Kelly Vance, a former Johnson Controls employee, who will receive $850,000. The second was filed in 2026 in the District of Columbia by David Thomas; the release does not state his share.\n- Investigators came from a long list of agencies: the Defense Criminal Investigative Service, the Naval Criminal Investigative Service, the Air Force Office of Special Investigations, and the inspectors general for NASA, Energy, Justice and the General Services Administration.\n- As usual in these settlements, the claims are allegations only, and there has been no finding of liability.\n\n**Background.**\n- The Justice Department has been bringing False Claims Act cases over contractor cybersecurity for several years. The theory is that a company that accepts federal money while promising to protect government data, and then does not, may be making false claims for payment.\n- Many cases turn on the same documents seen here: the system security plan, which describes how a contractor protects controlled information, and the plan of action that tracks fixes for gaps. Defence contracts tie these documents to the NIST 800-171 standard.\n- This paper has followed the thread in recent weeks. This settlement adds a large building-services company to cases that more often involve technology or defence specialists.\n- The whistleblower element is central. Under the False Claims Act, private individuals can sue on the government's behalf and share in any recovery, usually between 15 and 30 percent. Mr Vance's $850,000 is about 17 percent of the total, although the release does not say how the money was split between the two suits.\n\n**Who's affected.**\n- Any company that sells to the US government, including firms that do not see themselves as technology vendors, such as facilities, construction and maintenance providers.\n- Subcontractors, because the requirements pass down the supply chain.\n- Information security, legal, contracts and compliance teams, who all have a part in certifying that controls exist.\n\n**Why it matters.** The case shows that cybersecurity requirements in a government contract are treated as compliance obligations with fraud consequences, not just technical goals. It also shows that the people best placed to spot a gap between what was promised and what was done are often insiders, and that insiders are being paid well for reporting it. A seven-year conduct period suggests the issue was not a one-time lapse but a long-running gap between documentation and reality.\n\n**How this comes up with a GC or CLO.** A general counsel at a government contractor may raise this as an example of how a cybersecurity weakness becomes a legal and financial event. Compliance leaders may raise the whistleblower angle: the first suit came from a former employee, which links the case to questions about how internal concerns are raised, heard and handled before they reach a court.\n\n**Questions a buyer might ask.**\n- How did a former employee's concern turn into a federal lawsuit, and were there internal reports first?\n- Which documents do investigators focus on when they test a contractor's cybersecurity claims?\n- Are subcontractors exposed in the same way as prime contractors?\n\n## Story 2 — Wise settles Belgian money-laundering investigation\n\n**The facts.**\n- Wise Europe, the Belgian subsidiary of the London-based money transfer group Wise, has reached an agreement with the Brussels prosecutor's office to fully resolve a criminal investigation into its anti-money laundering controls.\n- Wise disclosed the agreement in its half-year results on 12 November 2026 and said the settlement involved no admission of wrongdoing.\n- The company did not disclose the amount or any other terms. Press coverage repeats earlier reports that about €500 million in transactions were scrutinised; the company has not confirmed that figure.\n\n**Background.**\n- The probe became public on 1 June 2026, when Brussels prosecutors confirmed it to the French news agency AFP after a European investigative journalism network reported on it.\n- According to Euronews, the investigation began in 2025 because Wise's name kept appearing in hundreds of requests for help from investigators in other countries.\n- Prosecutors pointed to indications that Wise accounts had been used for crime, with suspected underlying offences including fraud, corruption and drug trafficking. The main alleged weakness was not identifying customers and their activities well enough.\n- Wise said at the time that it was cooperating and that information requests were a normal part of its business. Its shares fell almost 15 percent in London that day.\n- The group reports more than 19 million active customers and about 4.7 million transactions a day.\n\n**Who's affected.**\n- Payment institutions, e-money firms and fintech companies operating across Europe.\n- Money laundering reporting officers, financial crime teams and boards of fast-growing financial firms.\n\n**Why it matters.** The case shows how a pattern of foreign police requests can become the trigger for a domestic criminal investigation of the firm itself. It also shows the market impact of a money-laundering probe, and how a negotiated resolution can close the matter while keeping its price out of public view. The lack of disclosed terms means much remains uncertain, including what remediation, if any, was agreed.\n\n**How this comes up with a GC or CLO.** Legal and compliance leaders at payments and fintech firms are likely to discuss this as a case study in customer due diligence at scale, and in how quickly an AML question becomes a share-price event.\n\n**Questions a buyer might ask.**\n- What did Wise agree to, and will the terms ever be made public?\n- How often do repeated foreign information requests lead to an investigation of the firm itself?\n- Does a settlement without admission limit later action by supervisors?\n\n## Story 3 — EU court adviser says Google's €1.49 billion AdSense fine was wrongly annulled\n\n**The facts.**\n- On 12 November 2026, Advocate General Juliane Kokott of the EU Court of Justice advised the court to set aside a 2024 General Court judgment that had annulled Google's €1.49 billion AdSense fine, and to send the case back for a new ruling.\n- She said the lower court set the bar too high by demanding a detailed look at individual contracts. In her view, the European Commission's assessment of the contracts' combined effect on competition was enough.\n- One report says she also suggested the fine should be reduced rather than restored in full, because the Commission did not challenge some of the lower court's findings about 2016.\n\n**Background.**\n- The Commission fined Google in March 2019, finding it abused a dominant position in search advertising intermediation from 2006 to 2016.\n- From 2009, Google's contracts with large website publishers included three types of clause: exclusivity, which kept rival search ads off those sites; placement, which reserved the best page space for Google ads; and prior approval, which required Google's sign-off for changes to how competing ads appeared. Google dropped or changed them after the Commission opened its case.\n- In September 2024 the General Court annulled the fine, finding the Commission had not properly assessed how long the contracts lasted and whether publishers could end them. It was the only one of Google's EU antitrust fines to be overturned.\n- Kokott also wrote the adviser's opinions in Google's Shopping and Android cases.\n\n**What it does not change.**\n- The opinion is not binding. The court often follows its Advocates General, but not always. A judgment is expected in 2027.\n\n**Who's affected.**\n- Large technology platforms and any company with a dominant market position that uses exclusivity or placement terms in standard contracts.\n- Competition lawyers and in-house legal teams.\n\n**Why it matters.** The question is how much evidence a regulator needs when it challenges restrictive clauses spread across many agreements. If the court accepts that a combined assessment is enough, it becomes easier for authorities to act against contract terms like these. It also shows that annulling a fine in a lower court does not always end the matter.\n\n**How this comes up with a GC or CLO.** General counsel at large companies may raise this when talking about contract governance: how standard commercial terms are approved, monitored and changed when regulators start asking questions.\n\n**Questions a buyer might ask.**\n- How much of the fine could return if the court follows the opinion?\n- Does this lower the bar for regulators in other dominance cases?\n\n## Story 4 — SEC proposes executive and director pay disclosure reforms\n\n**The facts.** On 13 November 2026 the SEC proposed amendments to make its executive and director compensation disclosure rules more principles-based and focused on materiality, with the stated aim of clearer, shorter and less complex disclosure. Chairman Paul Atkins issued a statement alongside the proposal.\n\n**Background.** The chairman has criticised the current rules for some time as an accumulation of requirements built up over decades. The proposal now goes out for public comment.\n\n**Who's affected.** Public company boards, compensation committees, corporate secretaries and securities lawyers.\n\n**Why it matters.** Moving from detailed tables to materiality-based disclosure puts more judgement on boards and their advisers about what to say. It is one of the largest governance rule changes on the SEC's agenda.\n\n**How this comes up.** General counsel preparing proxy statements will follow the comment process closely.\n\n**Question.** Which current disclosures would no longer be required?\n\n## Story 5 — Delta Air Lines resolves EEOC pregnancy discrimination suit\n\n**The facts.** Delta Air Lines agreed to pay monetary relief and provide other relief to settle a federal pregnancy discrimination lawsuit brought by the Equal Employment Opportunity Commission, announced on 13 November 2026. The announcement summary does not give the amount.\n\n**Background.** Pregnancy discrimination and accommodation have been recurring themes in EEOC enforcement.\n\n**Who's affected.** Large employers with shift-based and frontline workforces.\n\n**Why it matters.** Even very large employers face these cases, and settlements usually include required changes to practice as well as payments.\n\n**How this comes up.** Employment counsel may raise it as a reminder of how individual complaints become federal lawsuits.\n\n**Question.** What non-monetary relief did Delta agree to?\n\n## Story 6 — CFTC seeks comment on renewing its whistleblower information collection\n\n**The facts.** The Commodity Futures Trading Commission published a notice inviting public comment on renewing the information collection behind its whistleblower programme, as required under the Paperwork Reduction Act.\n\n**Background.** Federal agencies must periodically renew approval for the forms they use, including the tip and award forms in whistleblower programmes.\n\n**Who's affected.** Commodity, derivatives and financial firms, and the people who report misconduct to the CFTC.\n\n**Why it matters.** It is routine, but it is a reminder that the CFTC runs its own paid whistleblower channel alongside the SEC's.\n\n**How this comes up.** Compliance leaders in trading firms may mention it when discussing external reporting routes.\n\n**Question.** Is the CFTC proposing any changes to its forms?\n\n## Story 7 — Wabash National settles EEOC pregnancy discrimination lawsuit\n\n**The facts.** Wabash National, an Indiana-based maker of semi-trailers with nine major facilities in seven states, will pay $50,000 and provide other relief to settle an EEOC pregnancy discrimination lawsuit.\n\n**Background.** It is the second EEOC pregnancy settlement announced on the same day.\n\n**Who's affected.** Manufacturers with large plant workforces.\n\n**Why it matters.** It shows the EEOC's continued attention to pregnancy cases in industrial workplaces, where physical job demands raise accommodation questions.\n\n**How this comes up.** Human resources and employment counsel at manufacturers may cite it.\n\n**Question.** What changes to policy or training does the settlement require?\n\n## Story 8 — Labor Department issues enforcement alert on health plan provider directories\n\n**The facts.** The US Department of Labor issued an enforcement alert to help employers and health plan fiduciaries make sure participants get accurate provider directories.\n\n**Background.** Inaccurate directories, which list doctors who are not available or not in network, have been a long-running complaint about health plans.\n\n**Who's affected.** Employers that sponsor health plans, plan fiduciaries and benefits teams.\n\n**Why it matters.** An enforcement alert signals where the department plans to look, and employers act as fiduciaries for their plans.\n\n**How this comes up.** Benefits counsel may raise it when discussing fiduciary oversight of plan vendors.\n\n**Question.** What will investigators ask plans to show?\n\n## Story 9 — Osmose Utilities Services settles EEOC disability discrimination lawsuit\n\n**The facts.** Osmose Utilities Services, an Atlanta-based provider of infrastructure services to utility companies, will pay $25,000 and provide other equitable relief to settle an EEOC disability discrimination lawsuit.\n\n**Background.** Disability accommodation remains one of the most common grounds for EEOC charges.\n\n**Who's affected.** Employers with field-based crews and physically demanding roles.\n\n**Why it matters.** The dollar amount is small, but equitable relief usually brings policy, training and reporting obligations.\n\n**How this comes up.** Employment counsel may mention it as part of a pattern of accommodation cases.\n\n**Question.** How long do the settlement's reporting obligations last?\n",
+ "cards": [
+  {
+   "id": "4ff733084226",
+   "url": "https://www.justice.gov/opa/pr/hvac-supplier-johnson-controls-inc-and-two-subsidiaries-agree-pay-5-million-settle",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/130420-F-ZZ999-101_%2815718415681%29%2C_rooftop_HVAC.jpg/1280px-130420-F-ZZ999-101_%2815718415681%29%2C_rooftop_HVAC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Los Angeles Air Force Base Space and Missile System Center",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:130420-F-ZZ999-101_(15718415681),_rooftop_HVAC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "130420-F-ZZ999-101 (15718415681), rooftop HVAC.jpg"
+   },
+   "tier": "official",
+   "topic": "false_claims",
+   "kind": "link",
+   "title": "Johnson Controls and two subsidiaries agree to pay $5 million to settle cybersecurity fraud allegations",
+   "summary": "Johnson Controls and two subsidiaries will pay $5 million to resolve allegations that they violated the False Claims Act by failing to meet cybersecurity requirements in federal building-services contracts.",
+   "impact": "Cybersecurity commitments in government contracts keep turning into fraud exposure, and former employees acting as whistleblowers are driving many of these cases.",
+   "industries": [
+    "manufacturing_energy",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "HVAC rooftop units building",
+   "storyline": "doj-civil-cyber-fraud"
+  },
+  {
+   "id": "a238942009e4",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "Wise settles Belgian money-laundering investigation without admitting wrongdoing",
+   "summary": "Wise Europe, the payments group's Belgian subsidiary, has reached an agreement with the Brussels prosecutor's office to resolve an investigation into alleged anti-money laundering failures, with no admission of wrongdoing.",
+   "impact": "The case shows how repeated cross-border requests for information can turn into a criminal AML investigation for fast-growing payment firms.",
+   "industries": [
+    "financial_services",
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Palace of Justice Brussels",
+   "topic": "aml_sanctions",
+   "region": "EU",
+   "lang": "en",
+   "source": "AI Briefing · Wise Group plc results release",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Brussels_Palace_of_Justice_detaill.jpg/1280px-Brussels_Palace_of_Justice_detaill.jpg",
+   "published": "2026-11-12",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Napoleon Distelmans",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Brussels_Palace_of_Justice_detaill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Brussels Palace of Justice detaill.jpg"
+   }
+  },
+  {
+   "id": "ca4dc2791ad7",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "EU court adviser says Google's €1.49 billion AdSense fine was wrongly annulled",
+   "summary": "An Advocate General at the EU Court of Justice has advised setting aside the 2024 ruling that scrapped Google's €1.49 billion AdSense fine and sending the case back to the General Court.",
+   "impact": "Restrictive clauses in commercial contracts remain a live competition-law risk, and courts may accept a regulator's assessment of their combined effect.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "ruling",
+   "image_query": "Court of Justice European Union Luxembourg",
+   "topic": "enforcement",
+   "region": "EU",
+   "lang": "en",
+   "source": "AI Briefing · EU Perspectives",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Court_of_Justice_of_the_European_Union_Luxembourg_01.jpg/1280px-Court_of_Justice_of_the_European_Union_Luxembourg_01.jpg",
+   "published": "2026-11-12",
+   "image_credit": {
+    "kind": "commons",
+    "author": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Court_of_Justice_of_the_European_Union_Luxembourg_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Court of Justice of the European Union Luxembourg 01.jpg"
+   }
+  },
+  {
+   "id": "864d97a81cf5",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+   "source": "U.S. SEC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T16:57+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Acting_Sec_%2847995470443%29.jpg/1280px-Acting_Sec_%2847995470443%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "DHSgov",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Acting_Sec_(47995470443).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Acting Sec (47995470443).jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "kind": "link",
+   "title": "SEC proposes executive and director compensation disclosure reforms",
+   "summary": "The SEC proposed amendments to make its executive and director pay disclosure rules more principles-based and materiality-driven, aiming for clearer, more concise and less complex disclosure for investors.",
+   "impact": "A shift to materiality-driven pay disclosure moves more judgement onto boards, compensation committees and legal teams preparing proxy statements.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "proposal",
+   "image_query": "SEC headquarters Washington"
+  },
+  {
+   "id": "c93daba876fe",
+   "url": "https://www.eeoc.gov/newsroom/delta-air-lines-resolves-eeoc-pregnancy-discrimination-suit",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Delta_Air_Lines_Boeing_737-900ER_N853DN_and_other_aircraft_at_Seattle-Tacoma_May_2026_2.jpg/1280px-Delta_Air_Lines_Boeing_737-900ER_N853DN_and_other_aircraft_at_Seattle-Tacoma_May_2026_2.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "4300streetcar",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Delta_Air_Lines_Boeing_737-900ER_N853DN_and_other_aircraft_at_Seattle-Tacoma_May_2026_2.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Delta Air Lines Boeing 737-900ER N853DN and other aircraft at Seattle-Tacoma May 2026 2.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Delta Air Lines resolves EEOC pregnancy discrimination suit",
+   "summary": "Delta Air Lines will pay monetary relief and provide other relief to settle a federal pregnancy discrimination lawsuit, the EEOC announced.",
+   "impact": "Pregnancy accommodation remains an active EEOC enforcement area, and even large employers face settlements that include relief beyond money.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Delta Air Lines Boeing aircraft"
+  },
+  {
+   "id": "66042724d70f",
+   "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23203/agency-information-collection-activities-notice-of-intent-to-extend-collection-3038-0082",
+   "source": "Federal Register",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-16T05:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/22-2-32%2C_deuxi%C3%A8me_centenaire_de_Washington_au_cimeti%C3%A8re_de_Picpus%2C%28au_centre%29_Raynal_%28et%2C_inclin%C3%A9_sur_la_tombe_de_La_Fayette%29_de_Beaumont_-_btv1b53252984h.jpg/1280px-thumbnail.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Agence Rol. Agence photographique (commanditaire)",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:22-2-32,_deuxi%C3%A8me_centenaire_de_Washington_au_cimeti%C3%A8re_de_Picpus,(au_centre)_Raynal_(et,_inclin%C3%A9_sur_la_tombe_de_La_Fayette)_de_Beaumont_-_btv1b53252984h.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "22-2-32, deuxième centenaire de Washington au cimetière de Picpus,(au centre) Raynal (et, incliné sur la tombe de La Fayette) de Beaumont - btv1b53252984h.jpg"
+   },
+   "tier": "official",
+   "topic": "whistleblowing",
+   "kind": "link",
+   "title": "CFTC seeks comment on renewing its whistleblower information collection",
+   "summary": "The CFTC is inviting public comment on renewing the information collection behind its whistleblower provisions, as required under the Paperwork Reduction Act.",
+   "impact": "The renewal keeps the CFTC's tip and award process running, a reminder that commodity and derivatives misconduct has its own paid whistleblower channel.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "image_query": "Three Lafayette Centre Washington",
+   "storyline": "whistleblower-rewards"
+  },
+  {
+   "id": "7207f5f4a7f3",
+   "url": "https://www.eeoc.gov/newsroom/wabash-national-settles-eeoc-pregnancy-discrimination-lawsuit",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Amazon_truck_in_Oakville%2C_Ontario_20260626.jpg/1280px-Amazon_truck_in_Oakville%2C_Ontario_20260626.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "VynedJ",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Amazon_truck_in_Oakville,_Ontario_20260626.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Amazon truck in Oakville, Ontario 20260626.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Wabash National settles EEOC pregnancy discrimination lawsuit",
+   "summary": "Wabash National, a semi-trailer maker with nine major facilities in seven states, will pay $50,000 and provide other relief to settle an EEOC pregnancy discrimination lawsuit.",
+   "impact": "A second pregnancy case in one day underlines how frontline manufacturing workplaces remain a focus for EEOC enforcement.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "semi-trailer truck highway"
+  },
+  {
+   "id": "0e2c207fd655",
+   "url": "http://www.dol.gov/newsroom/releases/ebsa/ebsa20261113",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg/1280px-Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Department of Labor sign Washington DC 2025-02-04 12-38-46.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Labor Department issues enforcement alert on inaccurate health plan provider directories",
+   "summary": "The Department of Labor issued an enforcement alert to help employers and plan fiduciaries ensure participants receive accurate health network provider directories.",
+   "impact": "Employer-sponsored health plans are a fiduciary compliance area, and inaccurate provider directories are now a stated enforcement focus.",
+   "industries": [
+    "all",
+    "healthcare"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Frances Perkins Building Washington"
+  },
+  {
+   "id": "94e46d2e85e7",
+   "url": "https://www.eeoc.gov/newsroom/osmose-utilities-pay-25000-eeoc-disability-discrimination-lawsuit",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Power_Lines-1310449%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Power_Lines-1310449%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Wainuio",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Power_Lines-1310449,_Wainuiomata,_Wellington,_New_Zealand.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Power Lines-1310449, Wainuiomata, Wellington, New Zealand.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Osmose Utilities Services to pay $25,000 to settle EEOC disability discrimination lawsuit",
+   "summary": "Osmose Utilities Services, an Atlanta-based provider of infrastructure services to utilities, will pay $25,000 and provide other equitable relief to settle an EEOC disability discrimination lawsuit.",
+   "impact": "Smaller disability settlements still carry injunctive terms that reshape accommodation practices for field-based workforces.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "utility poles power lines"
+  }
+ ],
+ "briefings": {
+  "a238942009e4": {
+   "headline": "Wise settles Belgian money-laundering investigation without admitting wrongdoing",
+   "dek": "The payments group's Belgian subsidiary has resolved a criminal AML probe that began after its name kept appearing in foreign police requests.",
+   "body_md": "Wise Europe, the Belgian subsidiary of the London-based money transfer group Wise, has reached an agreement with the Brussels prosecutor's office that fully resolves a criminal investigation into its anti-money laundering controls. The company disclosed the agreement in its half-year results on 12 November 2026, saying it was reached \"with no admission of wrongdoing.\"\n\nThe key facts are limited. Wise did not disclose a settlement amount or other terms, and its results release does not mention a provision linked to the matter. The disclosure appears among business developments after 30 September 2026. Coverage of the deal cites earlier reports that about €500 million in transactions came under scrutiny, though that figure has not been confirmed by the company or prosecutors.\n\nThe investigation became public on 1 June 2026, when Brussels prosecutors confirmed it to AFP after the European Investigative Collaborations network reported on it. According to Euronews, the probe began in 2025 after Wise's name repeatedly appeared in hundreds of requests for assistance from investigating authorities in other countries. Prosecutors pointed to indications that Wise accounts had been used for criminal purposes, with suspected underlying offences including fraud, corruption and drug trafficking. The main alleged failing was not identifying customers and their activities well enough. At the time, a spokesperson described the probe as advanced and nearing its conclusion.\n\nWise said then that it was cooperating, that information requests are a normal part of its business, and that no specific findings had been shared with it. Its London-listed shares fell almost 15% on the day the probe was reported. The group reports more than 19 million active customers and about 4.7 million transactions a day.\n\n### What this means for legal and compliance leaders\n\nThe case follows a familiar path for high-volume payment firms: a pattern of foreign law-enforcement requests becomes the trigger for a domestic criminal inquiry into customer due diligence. It also shows how quickly an AML investigation can move markets, and how a negotiated resolution without admission can close the matter while leaving the amount and terms out of public view.\n\n### Questions you may hear\n\n- What did Wise agree to pay, and will the terms ever be published?\n- How often do repeated information requests from foreign authorities lead to an investigation of the firm itself?\n- Does a settlement with no admission of wrongdoing limit follow-on action by supervisors?\n",
+   "sources": [
+    {
+     "title": "Wise Group plc H1 Results for Fiscal Year 2027",
+     "publisher": "Wise Group plc (GlobeNewswire)",
+     "url": "https://globenewswire.com/news-release/2026/11/12/3402135/0/en/wise-group-plc-h1-results-for-fiscal-year-2027.html"
+    },
+    {
+     "title": "Wise settles with prosecutor after money laundering probe",
+     "publisher": "BusinessCloud",
+     "url": "https://businesscloud.co.uk/news/wise-settles-with-prosecutor-after-money-laundering-probe/"
+    },
+    {
+     "title": "Wise under Belgian investigation over alleged money laundering control failures",
+     "publisher": "Euronews",
+     "url": "https://www.euronews.com/business/2026/06/01/wise-under-belgian-investigation-over-alleged-money-laundering-control-failures"
+    }
+   ],
+   "prompted_by": {
+    "title": "Wise reaches deal to resolve Belgian AML investigation",
+    "publisher": "Global Investigations Review",
+    "url": "https://globalinvestigationsreview.com/article/wise-reaches-deal-resolve-belgian-aml-investigation"
+   }
+  },
+  "ca4dc2791ad7": {
+   "headline": "EU court adviser says Google's €1.49 billion AdSense fine was wrongly annulled",
+   "dek": "Advocate General Kokott proposes sending the AdSense for Search case back to the General Court.",
+   "body_md": "An Advocate General at the EU Court of Justice has advised the court to overturn the 2024 judgment that annulled Google's €1.49 billion ($1.7 billion) AdSense fine. In an opinion published on 12 November 2026, Advocate General Juliane Kokott proposed setting aside the General Court's ruling and sending the case back to that court for a fresh examination.\n\nThe European Commission imposed the fine in March 2019. It found that Google abused a dominant position in online search advertising intermediation from 2006 to 2016. From 2009, Google's AdSense for Search contracts with large website publishers included an exclusivity clause that kept rival search ads off their pages, a placement clause that reserved the most visible space for Google's ads, and a clause requiring Google's prior approval for changes to how competing ads were displayed. Google dropped or changed these terms after the Commission opened proceedings.\n\nIn September 2024 the General Court annulled the fine. It accepted much of the Commission's analysis but found that the Commission had not looked closely enough at individual contracts, especially how long they ran and whether publishers could end them. The Commission appealed. AdSense was the only one of Google's EU antitrust fines to be annulled in court.\n\nKokott said the General Court set the bar too high. In her view, the Commission only had to show the combined effect of the contracts on competition, and its cumulative assessment was enough. EU Perspectives reports that she also said the fine should be reduced rather than restored in full, because the Commission did not challenge some of the General Court's findings for 2016. Kokott also wrote the opinions in the Google Shopping and Android cases.\n\nThe opinion is not binding, though the court often follows its Advocates General. A judgment is expected in 2027. If the court agrees, the General Court will rule on the case again.\n\n### What this means for legal and compliance leaders\n\nThe opinion addresses how much evidence a competition authority needs when it challenges restrictive clauses spread across many commercial agreements. If the court accepts that a combined assessment is enough, regulators would find it easier to pursue exclusivity and placement terms in standard contracts. It also signals that a court annulment of a large fine is not always the end of the matter.\n\n### Questions you may hear\n\n- How much of the original fine could be restored if the court follows the opinion?\n- Does a cumulative analysis of contracts lower the evidential bar in other abuse-of-dominance cases?\n- When will the Court of Justice give its judgment?\n",
+   "sources": [
+    {
+     "title": "Google faces fresh €1.5bn fine threat as EU legal adviser sides with Brussels",
+     "publisher": "EU Perspectives",
+     "url": "https://euperspectives.eu/2026/11/google-adsense-eu-competition-case-advocate-general-opinion/"
+    },
+    {
+     "title": "EU court adviser says Google's €1.49B AdSense fine was wrongly scrapped",
+     "publisher": "The Next Web",
+     "url": "https://thenextweb.com/news/googles-e1-49b-adsense-fine-was-wrongly-scrapped"
+    }
+   ],
+   "prompted_by": {
+    "title": "Setback for Google as EU Court adviser backs $1.7 billion antitrust fine",
+    "publisher": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm13elhGVjJBZFpZVlZDbDB2VGROQ3B6bFJ5dW1QcVNXdGV4cUVNWWMtQXRuVEt0YVNQMF80d3dsTFpEVFd5ZUFGdVVmU29wX243MFljWEd3cEtFZTFpQmhidE8ycFNmWXpiMTJmQnk0b1lLb3BfZkk5SC1SVDIwdE9saWREU0Nyb2ZYb2pnaDRhZWQxN2JKX0FNVkoxZEg5cTR4T0I1Sms?oc=5"
+   }
+  }
+ }
+}
