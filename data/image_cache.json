@@ -9989,5 +9989,33 @@
     "title": "David W. Dyer Federal Building and United States Courthouse (16874668157).jpg"
    }
   }
+ ],
+ "v2|united states capitol": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/1280px-Capitol_Building_Full_View.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Noclip",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Capitol Building Full View.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg/1280px-2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Tyler Merbler from USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2021_storming_of_the_United_States_Capitol_DSC09254-2_(50820534063)_(retouched).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2021 storming of the United States Capitol DSC09254-2 (50820534063) (retouched).jpg"
+   }
+  }
  ]
 }
