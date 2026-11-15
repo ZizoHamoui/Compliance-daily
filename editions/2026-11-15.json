@@ -1,0 +1,471 @@
+{
+ "date": "2026-11-15",
+ "lead_id": "67eb43cae566",
+ "editor_note": "A quiet Sunday with a clear thread: internal policies becoming legal exposure, from Lockheed's diversity programmes under the False Claims Act to the SEC's turn toward individuals and a large Italian consent fine against Meta.",
+ "bottom_line": [
+  {
+   "id": "67eb43cae566",
+   "text": "Lockheed Martin will pay 9.5 million to settle DOJ False Claims Act and EEOC claims tied to its diversity programmes."
+  },
+  {
+   "id": "8efc75f08797",
+   "text": "The SEC's fiscal 2026 results show fewer enforcement actions and a stronger emphasis on charging individuals."
+  },
+  {
+   "id": "baf7a9329e6c",
+   "text": "Italy fined Meta €805 million, finding the company had not obtained specific consent for its handling of users' photos."
+  }
+ ],
+ "stat": {
+  "id": "67eb43cae566",
+  "text": "9.5 million: Lockheed Martin's combined DOJ and EEOC settlement over allegations its diversity programmes violated Title VII."
+ },
+ "podcast_brief": "## The day in one line\n\nIt is a quiet Sunday, but the stories that did land share a thread: regulators are turning internal policies into legal exposure. A defence contractor paid to settle claims that its diversity programmes made its federal certifications false, the SEC reported a smaller but more individual-focused year, and an Italian regulator put a very large number on a consent failure.\n\n## Story 1 — Lockheed Martin pays $29.5 million to settle DOJ and EEOC claims over diversity programmes\n\n**The facts.**\n- In early November 2026 the Department of Justice and the Equal Employment Opportunity Commission announced a two-part settlement with Lockheed Martin worth about $29.5 million in total. The EEOC's press release is dated November 4.\n- The larger part, $22 million, resolves a False Claims Act case brought by the Justice Department. The government alleged that Lockheed falsely certified to federal agencies that it complied with anti-discrimination requirements, from 2019 to the present.\n- That case began as a whistleblower suit. The relator, a former Lockheed vice president named Tim Booher, will receive $4.4 million of the federal recovery.\n- The second part, about $7.5 million, resolves a Title VII matter with the EEOC on behalf of more than 1,000 employees. It grew out of a 2025 Commissioner's Charge filed by EEOC Chair Andrea Lucas, which alleged race discrimination against white employees in performance assessments, bonuses and other pay.\n- The government's allegations centre on several programmes. One was an incentive raise, introduced from 2021, for the top 20 percent of employees in each business area; the DOJ alleges selections were flagged by race and sex composition and that leaders were pressed to add or remove people on that basis. Others involved hiring and promotion tied to non-public workforce composition goals, a management incentive plan with metrics linked to demographic goals, and mentoring programmes offered by race or sex.\n- Under the EEOC agreement, Lockheed commits to comply with Title VII and Executive Order 14151 and to keep a merit-based workplace where race and sex are not considered in hiring, pay, bonuses or promotion. The EEOC can review compliance during the agreement.\n- These are allegations resolved by settlement; there was no finding of liability. Lucas said the deal delivers \"meaningful monetary relief\" to more than a thousand workers.\n\n**Background.**\n- In 2025 the Justice Department launched a Civil Rights Fraud Initiative, which uses the False Claims Act against federal funding recipients and contractors whose diversity programmes it considers unlawful. The theory is that a company certifying compliance with civil rights law while running such programmes makes a false claim for payment.\n- Executive orders issued in early 2025 changed federal contracting rules on affirmative action and asked contractors to certify they run no illegal DEI programmes.\n- The EEOC under Chair Lucas has also publicly prioritised what it calls DEI-related discrimination.\n- The Lockheed matter is one of the most significant corporate resolutions to come out of this combined approach, and it pairs a fraud statute with an employment statute in one deal.\n\n**Who's affected.**\n- Federal contractors and grant recipients across defence, aerospace, healthcare, universities and technology.\n- HR, diversity and compensation teams, who design the programmes; legal and compliance, who sign off on the certifications.\n- Employees and former executives, who can bring qui tam suits and share in the recovery.\n\n**Why it matters.** The case shows that the way a company designs bonuses, mentoring and promotion targets can become a fraud matter, not just an employment one. False Claims Act damages and whistleblower shares raise the stakes well beyond what a Title VII case alone would cost. It also shows that a senior insider was the source of the case, which puts the spotlight on how companies handle internal concerns about their own programmes.\n\n**How this comes up with a GC or CLO.** A general counsel at a federal contractor is likely to ask who owns the annual compliance certifications and what evidence sits behind them. Chief compliance officers may raise it when discussing how concerns about HR programmes are reported and investigated, given that this case started with a former vice president.\n\n**Questions a buyer might ask.**\n- How do we connect the certifications we sign for federal contracts to the programmes that actually run inside HR?\n- If a senior employee raised a concern about one of our diversity or pay programmes, where would that concern be recorded and who would investigate it?\n- Does this change how we document the business reasons behind compensation and promotion decisions?\n\n## Story 2 — SEC reports fiscal 2026 enforcement results, with fewer cases and a focus on individuals\n\n**The facts.**\n- On November 10 the Securities and Exchange Commission released its enforcement results for the fiscal year that ended September 30, 2026.\n- The agency brought 348 enforcement actions, down from 456 in fiscal 2025.\n- It obtained orders for about $1.095 billion in financial remedies: roughly $343 million in civil penalties and about $752 million in disgorgement and prejudgment interest. These are amounts ordered, not necessarily collected.\n- About $731 million was distributed to more than 250,000 harmed investors.\n- Two-thirds of the standalone actions charged at least one individual, which the agency highlighted as a sign of its emphasis on personal accountability.\n- The SEC also described a modernisation of its Division of Enforcement. Chairman Paul Atkins said money remedies are not the only or most telling measure of enforcement.\n\n**Background.**\n- Fiscal 2025's headline relief figure was much larger, driven by unusual items including judgments in the long-running Robert Allen Stanford matter. On a narrower basis, the SEC reported about $1.4 billion in disgorgement and $1.3 billion in penalties that year.\n- Press coverage described fiscal 2026 as the lowest in nearly two decades, though commentators note the agency's older figures used different categories, so a like-for-like comparison is uncertain.\n- Since 2025 the SEC leadership has described a \"return to basics\" focus on fraud that harms investors, with less emphasis on novel theories and large corporate penalties.\n\n**Who's affected.**\n- Public companies, broker-dealers and investment advisers.\n- Executives and individual employees, who now feature in most standalone cases.\n- Disclosure, audit committee and compliance teams.\n\n**Why it matters.** The headline numbers fell, but the mix shifted toward individuals. For companies, that changes the conversation from the size of a possible corporate fine to the personal exposure of the people who approve disclosures and handle red flags. A smaller docket also tends to mean the cases that are brought involve clearer fraud.\n\n**How this comes up with a GC or CLO.** Legal leaders often use the annual results to brief their boards and audit committees on enforcement direction. Expect them to mention the individual accountability statistic when talking about executive certifications and how concerns are escalated.\n\n**Questions a buyer might ask.**\n- With most SEC cases now naming individuals, how do our executives get comfortable that concerns raised internally actually reached them?\n- Does a smaller enforcement docket change how we think about self-reporting to the SEC?\n\n## Story 3 — Italy fines Meta €805 million over photo privacy\n\n**The facts.**\n- Italian regulators fined Meta €805 million over the way it handled users' photos, according to a Euractiv report published November 14.\n- The authority said Meta had not obtained \"specific\" consent from users for the processing in question.\n- Fuller details of the decision, such as the exact processing involved and whether Meta will appeal, were not available in the sources reviewed for this brief.\n\n**Background.**\n- Under the EU General Data Protection Regulation, consent must be freely given, specific, informed and unambiguous. Regulators have repeatedly found that broad or bundled consent does not meet that standard.\n- Meta has faced a series of large European penalties in recent years, including a record €1.2 billion fine from Ireland's regulator in 2023 over data transfers to the United States.\n- Italian authorities have been among the most active in Europe on big tech, including on generative AI and data use.\n\n**Who's affected.**\n- Consumer-facing technology platforms, especially those that process images or use personal content to train or improve products.\n- Privacy, product and legal teams that design consent flows.\n\n**Why it matters.** A fine of this size from a single national authority is notable and shows that consent design remains one of the costliest privacy risks. The word \"specific\" is the heart of the case: a general agreement to terms is not enough when personal content is reused for new purposes.\n\n**How this comes up with a GC or CLO.** A general counsel at a company that uses customer content for AI or new features may cite this when discussing how consent is captured and recorded. Privacy and compliance leaders may raise it as a benchmark for what a consent failure can cost in Europe.\n\n**Questions a buyer might ask.**\n- Can we show, for each purpose, what a user agreed to and when?\n- How do we track when a product team starts using existing data for a new purpose?\n\n## Story 4 — SEC chairman issues statement on proposed executive pay disclosure reform\n\n**The facts.** SEC Chairman Paul Atkins issued a statement on November 13 accompanying a proposing release to reform executive compensation disclosure.\n**Background.** Pay disclosure rules have grown over decades; the current leadership has signalled interest in simplifying them.\n**Who's affected.** Public company boards, compensation committees and securities lawyers.\n**Why it matters.** Changes would alter what companies explain to shareholders about pay in proxy statements.\n**How this comes up.** General counsel preparing for proxy season may ask how the proposal shifts disclosure work.\n**Question.** Would simpler rules change how our compensation committee documents its decisions?\n\n## Story 5 — Ninth Circuit splits California's climate disclosure regime\n\n**The facts.** One day before California's first mandatory greenhouse gas reporting deadline, the Ninth Circuit ruled that the Scope 1 and Scope 2 requirements remain, while Scope 3 and the SB 261 climate-risk reporting duties are likely unconstitutional.\n**Background.** California passed SB 253 and SB 261 in 2023, and business groups challenged them on free-speech grounds.\n**Who's affected.** Large companies doing business in California.\n**Why it matters.** Companies now face a partial regime, with direct emissions reporting in force but supply-chain and risk reporting on hold.\n**How this comes up.** Legal teams may ask which parts of the disclosure work they built still apply.\n**Question.** Which of our climate disclosures are now required, and which are paused?\n\n## Story 6 — The EU Cyber Resilience Act brings due diligence on third-party components\n\n**The facts.** A DLA Piper analysis notes that the Cyber Resilience Act, often treated as a product safety law, also requires manufacturers to exercise due diligence on third-party and open-source components in their products.\n**Background.** The CRA was adopted in 2024, with obligations phasing in through 2027.\n**Who's affected.** Makers of software and connected products sold in the EU.\n**Why it matters.** It turns software suppliers into a regulated third-party risk.\n**How this comes up.** Compliance leaders may connect it to their wider supplier due diligence.\n**Question.** Do we know which third-party components sit inside our products?\n\n## Story 7 — Netherlands widens foreign investment screening to six new technologies\n\n**The facts.** From January 1, 2027, Dutch foreign direct investment screening will cover six highly sensitive technology categories, including biotechnology, AI and nanotechnology.\n**Background.** The Netherlands introduced its investment screening law in 2023 and has been expanding its scope.\n**Who's affected.** Investors and companies in AI, biotech and advanced technology deals.\n**Why it matters.** More transactions will need clearance, extending due diligence on who owns and controls investors.\n**How this comes up.** Deal lawyers may raise it when timelines for Dutch transactions slip.\n**Question.** Does this affect any investment we are planning in the Netherlands?\n\n## Story 8 — Employee allegedly asked his employer's AI how to break his noncompete\n\n**The facts.** A law-firm blog highlights a case in which an employee allegedly used his employer's AI tool to ask how to violate his noncompete agreement.\n**Background.** Courts and employers increasingly treat AI prompts and outputs as business records.\n**Who's affected.** Employers with workplace AI tools and restrictive covenants.\n**Why it matters.** Prompts can become evidence in misconduct and departure disputes.\n**How this comes up.** Investigators may mention AI logs as a new source of evidence.\n**Question.** Are AI prompts kept and reachable in an investigation?\n\n## Story 9 — Contracting for agentic AI governance\n\n**The facts.** An analysis explains that AI agents that plan and act on their own, calling tools and changing business systems, create governance challenges for companies that buy them.\n**Background.** Earlier AI contracts focused on data use and output accuracy rather than autonomous actions.\n**Who's affected.** Legal departments negotiating technology contracts.\n**Why it matters.** Responsibility for an agent's mistakes is being decided in contracts.\n**How this comes up.** General counsel may raise it when procurement brings in AI agents.\n**Question.** Who is liable when an AI agent takes an action we did not intend?\n\n## Story 10 — European Parliament committee seeks scrutiny of AI's impact on democracy\n\n**The facts.** The Parliament's Constitutional Affairs Committee called for parliamentary scrutiny and regulation of AI's impact on democratic processes, institutional balance and fundamental rights.\n**Background.** The EU AI Act is already in force and phasing in.\n**Who's affected.** AI developers and platforms operating in the EU.\n**Why it matters.** It signals political appetite for more AI rules beyond the AI Act.\n**How this comes up.** Policy-minded legal leaders may cite it as a sign of future rules.\n**Question.** Could new rules on AI and elections reach our platforms?\n\n## Story 11 — Why financial audits alone cannot resolve workplace fraud\n\n**The facts.** A commentary describes a public agency that received a co-worker's complaint that a colleague may not have worked claimed weekend overtime, and argues an audit alone could not answer it.\n**Background.** Many fraud cases are first reported by colleagues rather than found in the books.\n**Who's affected.** Investigation and internal audit teams.\n**Why it matters.** It shows how investigations rely on reports, interviews and records together.\n**How this comes up.** Compliance analysts may mention it when discussing how tips are investigated.\n**Question.** How do our investigators combine a tip with financial evidence?\n\n## Story 12 — Labour law shifts possible after the 2026 midterms\n\n**The facts.** An analysis notes that the midterm results will not immediately change the National Labor Relations Board, but could shape labour rules over time.\n**Background.** NLRB decisions have swung between administrations on handbook rules and confidentiality clauses.\n**Who's affected.** Employers with conduct policies and non-disclosure terms.\n**Why it matters.** These rules sit underneath speak-up and confidentiality policies.\n**How this comes up.** Employment counsel may raise it when updating handbooks.\n**Question.** Would a change at the NLRB affect our confidentiality policies?\n\n## Story 13 — Florida man pleads guilty to $42 million Medicare fraud\n\n**The facts.** A Florida man pleaded guilty to a $42 million Medicare fraud involving false claims for medical equipment and cancer genetic testing, and to fraudulently obtaining a pandemic-era loan.\n**Background.** Genetic testing and equipment billing have been major Justice Department healthcare fraud targets for years.\n**Who's affected.** Healthcare providers, labs and equipment suppliers.\n**Why it matters.** It keeps attention on billing and referral controls.\n**How this comes up.** Healthcare compliance teams may cite it as a familiar fraud pattern.\n**Question.** How do we spot unusual billing patterns from partners?\n",
+ "cards": [
+  {
+   "id": "67eb43cae566",
+   "url": "https://www.jdsupra.com/legalnews/lockheed-martin-to-pay-29-5-million-in-4314715/",
+   "source": "JD Supra",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T19:09+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lockheed_Martin_headquarters.jpg/1280px-Lockheed_Martin_headquarters.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Coolcaesar at en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_headquarters.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Lockheed Martin headquarters.jpg"
+   },
+   "tier": "press",
+   "topic": "enforcement",
+   "title": "Lockheed Martin to pay $29.5 million in two-part DOJ and EEOC settlement",
+   "summary": "The DOJ and EEOC announced a two-part settlement with Lockheed Martin resolving allegations that the company's activities violated Title VII of the Civil Rights Act, with the company paying $29.5 million in total.",
+   "impact": "Diversity programmes now carry False Claims Act and Title VII exposure at once for federal contractors, turning HR policy into a fraud and certification risk.",
+   "industries": [
+    "manufacturing_energy",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Lockheed Martin headquarters Bethesda",
+   "storyline": "civil-rights-fraud-initiative",
+   "kind": "link"
+  },
+  {
+   "id": "8efc75f08797",
+   "url": "https://www.jdsupra.com/legalnews/sec-announces-fiscal-year-2026-5647473/",
+   "source": "JD Supra",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T16:12+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Richard_M._Daley_at_DOT_HQ_with_Sec._Norman_Mineta_398-D-75362-DSC_5210.jpg/1280px-Richard_M._Daley_at_DOT_HQ_with_Sec._Norman_Mineta_398-D-75362-DSC_5210.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Richard_M._Daley_at_DOT_HQ_with_Sec._Norman_Mineta_398-D-75362-DSC_5210.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Richard M. Daley at DOT HQ with Sec. Norman Mineta 398-D-75362-DSC 5210.jpg"
+   },
+   "tier": "press",
+   "topic": "enforcement",
+   "title": "SEC announces fiscal year 2026 enforcement results, emphasising individual accountability and modernisation",
+   "summary": "On November 10 the SEC released its enforcement results for the fiscal year ended September 30, emphasising individual accountability and modernisation of its Division of Enforcement.",
+   "impact": "Fewer, more individual-focused SEC cases shift exposure from corporate penalties toward executives, raising the stakes of internal escalation and personal accountability.",
+   "industries": [
+    "financial_services",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "SEC headquarters Washington DC",
+   "kind": "link"
+  },
+  {
+   "id": "baf7a9329e6c",
+   "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-14T15:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2024-10-11_Rome%2C_Palazzo_Montecitorio.jpg/1280px-2024-10-11_Rome%2C_Palazzo_Montecitorio.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Alexkom000",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2024-10-11_Rome,_Palazzo_Montecitorio.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2024-10-11 Rome, Palazzo Montecitorio.jpg"
+   },
+   "tier": "press",
+   "topic": "enforcement",
+   "title": "Italy fines Meta €805 million over photo privacy",
+   "summary": "Italian regulators fined Meta €805 million over its handling of users' photos, saying the company had not secured 'specific' consent.",
+   "impact": "A fine of this size from a single national authority shows how consent design failures can become one of the largest privacy exposures a company carries.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Palazzo Montecitorio Rome",
+   "kind": "link"
+  },
+  {
+   "id": "faf5964f7f9c",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-proposing-release-executive-compensation-disclosure-reform-111326",
+   "source": "U.S. SEC (speeches & statements)",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T17:04+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Richard_M._Daley_at_DOT_HQ_with_Sec._Norman_Mineta_398-D-75362-DSC_5209.jpg/1280px-Richard_M._Daley_at_DOT_HQ_with_Sec._Norman_Mineta_398-D-75362-DSC_5209.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Richard_M._Daley_at_DOT_HQ_with_Sec._Norman_Mineta_398-D-75362-DSC_5209.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Richard M. Daley at DOT HQ with Sec. Norman Mineta 398-D-75362-DSC 5209.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "title": "SEC Chairman Atkins issues statement on proposed executive compensation disclosure reform",
+   "summary": "SEC Chairman Paul S. Atkins issued a statement on the Commission's proposing release to reform executive compensation disclosure.",
+   "impact": "A rewrite of pay disclosure would change what boards and compensation committees publicly explain, a core governance and proxy-season issue for legal teams.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "proposal",
+   "image_query": "SEC headquarters Washington DC",
+   "kind": "link"
+  },
+  {
+   "id": "2ecbb66430eb",
+   "url": "https://www.jdsupra.com/legalnews/for-california-climate-disclosure-laws-9446418/",
+   "source": "JD Supra",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T19:19+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/James_R_Browning_Courthouse_Courtroom_1_Wall.JPG/1280px-James_R_Browning_Courthouse_Courtroom_1_Wall.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sam Wheeler",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:James_R_Browning_Courthouse_Courtroom_1_Wall.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "James R Browning Courthouse Courtroom 1 Wall.JPG"
+   },
+   "tier": "press",
+   "topic": "governance",
+   "title": "Ninth Circuit upholds California Scope 1 and 2 climate disclosure but draws the line at Scope 3 and climate-risk reporting",
+   "summary": "One day before California's first mandatory greenhouse gas reporting deadline, the Ninth Circuit issued a decision splitting the state's climate disclosure regime, in a ruling that could reshape corporate climate disclosure.",
+   "impact": "Companies face a split regime where direct-emissions reporting stands while supply-chain and climate-risk duties look unconstitutional, complicating disclosure controls built for the full law.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "ruling",
+   "image_query": "James R. Browning Courthouse San Francisco",
+   "kind": "link"
+  },
+  {
+   "id": "a329983cab44",
+   "url": "https://www.jdsupra.com/legalnews/cyber-resilience-act-due-diligence-6410136/",
+   "source": "JD Supra",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-13T16:07+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "press",
+   "topic": "third_party_risk",
+   "title": "Cyber Resilience Act: due diligence obligations for third-party components",
+   "summary": "Often viewed as a product safety regulation, the EU Cyber Resilience Act also has significant implications for the supply chain, including due diligence on third-party components, DLA Piper writes.",
+   "impact": "The CRA turns software suppliers and open-source components into a regulated third-party risk, pulling product security into the due diligence programme.",
+   "industries": [
+    "tech",
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Berlaymont building Brussels",
+   "kind": "link"
+  },
+  {
+   "id": "0ee611bcfdce",
+   "url": "https://www.jdsupra.com/legalnews/dutch-fdi-screening-expands-to-six-new-7549246/",
+   "source": "JD Supra",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-13T19:23+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Binnenhof%2C_The_Hague_-hu-1806.jpg/1280px-Binnenhof%2C_The_Hague_-hu-1806.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Hubertl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Binnenhof,_The_Hague_-hu-1806.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Binnenhof, The Hague -hu-1806.jpg"
+   },
+   "tier": "press",
+   "topic": "due_diligence",
+   "title": "Dutch FDI screening expands to six new technologies on January 1, 2027",
+   "summary": "The Netherlands has formally adopted an expansion of its foreign direct investment screening framework to six 'highly sensitive' technology categories, including biotechnology, AI and nanotechnology, effective January 1, 2027.",
+   "impact": "Wider investment screening adds a regulatory gate to deals and partnerships in AI and biotech, extending due diligence on investors and their owners.",
+   "industries": [
+    "tech",
+    "healthcare",
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Binnenhof The Hague",
+   "kind": "link"
+  },
+  {
+   "id": "b5ebd6fd978a",
+   "url": "https://www.jdsupra.com/legalnews/employee-should-ve-listened-to-claude-1998352/",
+   "source": "JD Supra",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T17:08+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   },
+   "tier": "press",
+   "topic": "employment_law",
+   "title": "Employee allegedly asked his employer's AI how to violate his noncompete",
+   "summary": "An employee allegedly consulted his employer's AI tool about how to get around his noncompete agreement, a case highlighted in a law-firm commentary on AI use in the workplace.",
+   "impact": "Prompts typed into workplace AI tools are becoming evidence in restrictive-covenant and misconduct disputes, widening what internal investigations can find.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "office laptop keyboard",
+   "kind": "link"
+  },
+  {
+   "id": "1f476fe28b89",
+   "url": "https://www.jdsupra.com/legalnews/contracting-to-address-agentic-ai-3043773/",
+   "source": "JD Supra",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-14T02:58+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg/1280px-Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Joël van der Loo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Duga-1 radar data center inside empty server racks 2018.jpg"
+   },
+   "tier": "press",
+   "topic": "governance",
+   "title": "Contracting to address agentic AI governance",
+   "summary": "Agentic AI's ability to plan and act on its own, executing multistep processes, calling external tools and altering business systems, creates governance challenges for nearly every company contracting for these capabilities.",
+   "impact": "As AI agents take actions rather than just give answers, accountability for their errors is being settled in vendor contracts, a growing legal-department workload.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "data center server racks",
+   "kind": "link"
+  },
+  {
+   "id": "6e63cb2aea8d",
+   "url": "https://www.europarl.europa.eu/news/en/press-room/20261110IPR48745/",
+   "source": "European Parliament",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-12T11:13+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Parliament Strasbourg Hemicycle - Diliff.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "title": "European Parliament calls for oversight of AI's impact on democracy",
+   "summary": "The European Parliament's Constitutional Affairs Committee called for parliamentary scrutiny and regulation of AI's impact on EU democratic processes, institutional balance and fundamental rights.",
+   "impact": "Lawmakers pressing for further AI scrutiny signal that the EU AI Act is a floor, not a ceiling, for political expectations on AI accountability.",
+   "industries": [
+    "tech",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "proposal",
+   "image_query": "European Parliament Strasbourg hemicycle",
+   "kind": "link"
+  },
+  {
+   "id": "be9d4d59b9bd",
+   "url": "https://www.jdsupra.com/legalnews/beyond-the-numbers-why-financial-audits-4007268/",
+   "source": "JD Supra",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T18:43+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Clock_and_exterior_of_Saigon_Central_Post_Office.JPG/1280px-Clock_and_exterior_of_Saigon_Central_Post_Office.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Prenn",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Clock_and_exterior_of_Saigon_Central_Post_Office.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Clock and exterior of Saigon Central Post Office.JPG"
+   },
+   "tier": "press",
+   "topic": "employment_law",
+   "title": "Why financial audits alone cannot resolve workplace fraud",
+   "summary": "A public agency received an employee complaint that a colleague may not have worked claimed weekend overtime; the commentary argues financial audits alone cannot resolve such workplace fraud allegations.",
+   "impact": "Timesheet and expense fraud is usually surfaced by a co-worker's report, not the ledger, underscoring how investigations depend on speak-up channels and interviews.",
+   "industries": [
+    "public_sector",
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "office time clock",
+   "kind": "link"
+  },
+  {
+   "id": "61de16f2085c",
+   "url": "https://www.jdsupra.com/legalnews/potential-nlrb-and-labor-law-shifts-1028611/",
+   "source": "JD Supra",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T17:40+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/1280px-Capitol_Building_Full_View.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Noclip",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Capitol Building Full View.jpg"
+   },
+   "tier": "press",
+   "topic": "employment_law",
+   "title": "Potential NLRB and labour law shifts after the 2026 midterms",
+   "summary": "The 2026 midterm results extend beyond Congress to workplace and collective bargaining rules; Democratic control does not immediately change the NLRB, the analysis notes.",
+   "impact": "Labour-law direction after the midterms shapes rules on handbooks, confidentiality clauses and concerted activity that sit underneath speak-up and conduct policies.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "United States Capitol building",
+   "kind": "link"
+  },
+  {
+   "id": "061efe63106a",
+   "url": "https://www.justice.gov/opa/pr/florida-man-pleads-guilty-42m-durable-medical-equipment-and-cancer-genetic-testing-fraud",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-13T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg/1280px-Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "W.carter",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corridor on the second level - NÄL hospital 1.jpg"
+   },
+   "tier": "official",
+   "topic": "false_claims",
+   "title": "Florida man pleads guilty to $42 million Medicare fraud on medical equipment and cancer genetic testing",
+   "summary": "A Florida man pleaded guilty to a $42 million fraud on Medicare involving false claims for durable medical equipment and cancer genetic testing, and to fraudulently obtaining a Paycheck Protection Program loan.",
+   "impact": "Genetic testing and equipment billing remain top healthcare fraud targets, keeping referral and billing controls at providers and labs under scrutiny.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "hospital corridor",
+   "kind": "link"
+  }
+ ],
+ "briefings": {}
+}
