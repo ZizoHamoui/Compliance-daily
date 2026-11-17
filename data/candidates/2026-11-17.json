@@ -1,0 +1,1056 @@
+{
+ "date": "2026-11-17",
+ "generated": "2026-11-17T12:33:16+00:00",
+ "count": 38,
+ "by_region": {
+  "US": 7,
+  "UK": 3,
+  "EU": 19,
+  "CA": 1
+ },
+ "paywalled": 8,
+ "items": [
+  {
+   "id": "52f9dd6c7762",
+   "title": "American Medical Response to Pay $2.2 Million in Nationwide Settlement of EEOC Religion and Disability Discrimination Suit",
+   "snippet": "ATLANTA — Lewisville, Texas-based emergency medical services provider Global Medical Response, Inc., American Medical Response, Inc., and their subsidiaries (AMR), will pay $2,200,000 and provide other relief to settle a religious and disability accommodation lawsuit filed by…",
+   "url": "https://www.eeoc.gov/newsroom/american-medical-response-pay-22-million-nationwide-settlement-eeoc-religion-and",
+   "paywall_url": "",
+   "source": "U.S. EEOC",
+   "source_id": "eeoc",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-16T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "enforcement"
+   ],
+   "score": 21.87,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   }
+  },
+  {
+   "id": "02229e9001c0",
+   "title": "Former Honduran Consul General Charged and 3 Others Arrested in Alleged Bribery and Money Laundering Scheme",
+   "snippet": "Ada Evila Serrano Nuñez (Ada Serrano), the former Consul General of the Honduran Consulate in Atlanta, was arrested in Atlanta on charges alleging her participation in a bribery and money laundering scheme. The indictment, which was unsealed after her arrest, includes one count…",
+   "url": "https://www.justice.gov/opa/pr/former-honduran-consul-general-charged-and-3-others-arrested-alleged-bribery-and-money",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-16T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "anti_bribery",
+    "aml_sanctions"
+   ],
+   "score": 21.79,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "20d74a27b048",
+   "title": "SFO charges eight over London Capital & Finance collapse",
+   "snippet": "Investment firm’s collapse in 2019 led to loss of £251 million.",
+   "url": "https://www.gov.uk/government/news/sfo-charges-eight-over-london-capital-finance-collapse",
+   "paywall_url": "",
+   "source": "UK Serious Fraud Office",
+   "source_id": "sfo",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-16T14:14+00:00",
+   "topic": "enforcement_policy",
+   "tags": [
+    "enforcement_policy",
+    "enforcement"
+   ],
+   "score": 17.98,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg/1280px-Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto,_Japan.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Illuminated white and purple facade of the office building Rohm Semiconductor in Kyoto, Japan.jpg"
+   }
+  },
+  {
+   "id": "05718377d9e8",
+   "title": "EEOC Releases Fiscal Year 2026 Agency Financial Report",
+   "snippet": "WASHINGTON — The U.S. Equal Employment Opportunity Commission (EEOC) today released its Fiscal Year (FY) 2026 Agency Financial Report (AFR), highlighting continued sound financial stewardship and strong enforcement results.",
+   "url": "https://www.eeoc.gov/newsroom/eeoc-releases-fiscal-year-2026-agency-financial-report",
+   "paywall_url": "",
+   "source": "U.S. EEOC",
+   "source_id": "eeoc",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-16T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "enforcement"
+   ],
+   "score": 13.57,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Corner_view_of_desks%2C_office%2C_Mary_McLeod_Bethune_Council_House_NHS.jpg/1280px-Corner_view_of_desks%2C_office%2C_Mary_McLeod_Bethune_Council_House_NHS.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Ser Amantio di Nicolao",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corner_view_of_desks,_office,_Mary_McLeod_Bethune_Council_House_NHS.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corner view of desks, office, Mary McLeod Bethune Council House NHS.jpg"
+   }
+  },
+  {
+   "id": "8758d0d57911",
+   "title": "Séance publique de la commission des sanctions - 29 janvier 2027",
+   "snippet": "Séance Commission des sanctions Sanctions & transactions",
+   "url": "https://www.amf-france.org/fr/sanctions-transactions/seances-de-la-commission-des-sanctions/seance-publique-de-la-commission-des-sanctions-29-janvier-2027#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-16T14:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   }
+  },
+  {
+   "id": "5f4961b4595f",
+   "title": "Séance publique de la commission des sanctions - 2 avril 2027",
+   "snippet": "Séance Commission des sanctions Sanctions & transactions",
+   "url": "https://www.amf-france.org/fr/sanctions-transactions/seances-de-la-commission-des-sanctions/seance-publique-de-la-commission-des-sanctions-2-avril-2027#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-16T13:59+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Towards_Nanterre_%40_Grande_Arche_%40_La_D%C3%A9fense_%40_Paris_%2835053726941%29.jpg/1280px-Towards_Nanterre_%40_Grande_Arche_%40_La_D%C3%A9fense_%40_Paris_%2835053726941%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Towards_Nanterre_@_Grande_Arche_@_La_D%C3%A9fense_@_Paris_(35053726941).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Towards Nanterre @ Grande Arche @ La Défense @ Paris (35053726941).jpg"
+   }
+  },
+  {
+   "id": "c8c0fd7eb71a",
+   "title": "Séance publique de la commission des sanctions - 19 mars 2027",
+   "snippet": "Séance Commission des sanctions Sanctions & transactions",
+   "url": "https://www.amf-france.org/fr/sanctions-transactions/seances-de-la-commission-des-sanctions/seance-publique-de-la-commission-des-sanctions-19-mars-2027#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-16T13:59+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Parvis_%40_La_D%C3%A9fense_%40_Paris_%2835056735311%29.jpg/1280px-Parvis_%40_La_D%C3%A9fense_%40_Paris_%2835056735311%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parvis_@_La_D%C3%A9fense_@_Paris_(35056735311).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Parvis @ La Défense @ Paris (35056735311).jpg"
+   }
+  },
+  {
+   "id": "a63e4c1a50a4",
+   "title": "Séance publique de la commission des sanctions - 5 février 2027",
+   "snippet": "Séance Commission des sanctions Sanctions & transactions",
+   "url": "https://www.amf-france.org/fr/sanctions-transactions/seances-de-la-commission-des-sanctions/seance-publique-de-la-commission-des-sanctions-5-fevrier-2027#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-16T13:58+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Parvis_%40_La_D%C3%A9fense_%40_Paris_%2834377793483%29.jpg/1280px-Parvis_%40_La_D%C3%A9fense_%40_Paris_%2834377793483%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parvis_@_La_D%C3%A9fense_@_Paris_(34377793483).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Parvis @ La Défense @ Paris (34377793483).jpg"
+   }
+  },
+  {
+   "id": "e4a866d9c2f9",
+   "title": "Séance publique de la commission des sanctions - 21 mai 2027",
+   "snippet": "Séance Commission des sanctions Sanctions & transactions",
+   "url": "https://www.amf-france.org/fr/sanctions-transactions/seances-de-la-commission-des-sanctions/seance-publique-de-la-commission-des-sanctions-21-mai-2027#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-16T13:58+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Parvis_%40_La_D%C3%A9fense_%40_Paris_%2835147101536%29.jpg/1280px-Parvis_%40_La_D%C3%A9fense_%40_Paris_%2835147101536%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parvis_@_La_D%C3%A9fense_@_Paris_(35147101536).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Parvis @ La Défense @ Paris (35147101536).jpg"
+   }
+  },
+  {
+   "id": "3464939ea987",
+   "title": "Séance publique de la commission des sanctions - 23 avril 2027",
+   "snippet": "Séance Commission des sanctions Sanctions & transactions",
+   "url": "https://www.amf-france.org/fr/sanctions-transactions/seances-de-la-commission-des-sanctions/seance-publique-de-la-commission-des-sanctions-23-avril-2027#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-16T13:58+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "id": "f48546083041",
+   "title": "US Department of Labor cites powder coating company for willful toxic substance exposures, repeat violations, proposes more than $1.6M in penalties",
+   "snippet": "HOUSTON – The U.S. Department of Labor has cited a powder coating and furniture restoration company for willfully and repeatedly exposing workers to toxic substances and other safety and health hazards.The department’s Occupational Safety and Health Administration conducted…",
+   "url": "http://www.dol.gov/newsroom/releases/osha/osha20261116",
+   "paywall_url": "",
+   "source": "U.S. Department of Labor",
+   "source_id": "dol",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-16T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 7.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg/1280px-Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_-_Department_of_Labor_(53839145147).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building - Department of Labor (53839145147).jpg"
+   }
+  },
+  {
+   "id": "63f93379e416",
+   "title": "US Labor Department cites New Jersey pastry maker, staffing agency for endangering workers after 2 injuries in 3 months; proposes $351K in fines",
+   "snippet": "PEDRICKTOWN, NJ – The U.S. Department of Labor has cited a pastry manufacturer and a staffing agency for endangering employees by exposing them to hazardous energy and amputation hazards.Investigators with the Occupational Safety and Health Administration responded to an April…",
+   "url": "http://www.dol.gov/newsroom/releases/osha/osha20261116-0",
+   "paywall_url": "",
+   "source": "U.S. Department of Labor",
+   "source_id": "dol",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-16T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 7.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Frances_Perkins_Building_-_Department_of_Labor_%2855256126078%29.jpg/1280px-Frances_Perkins_Building_-_Department_of_Labor_%2855256126078%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "ajay_suresh",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_-_Department_of_Labor_(55256126078).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building - Department of Labor (55256126078).jpg"
+   }
+  },
+  {
+   "id": "e9c522606ba3",
+   "title": "INTERVIEW: AI won’t go away even if stocks go down, says Estonian PM",
+   "snippet": "Kristen Michal also renewed the push for Europe to build its own AI",
+   "url": "https://www.rapporteur.com/news/interview-ai-wont-go-away-even-if-stocks-go-down-says-estonian-prime-minister/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-16T05:19+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 7.04,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "debabc4a4fb5",
+   "title": "THE HACK: Kids Act rapporteur eyes AI",
+   "snippet": "In today's edition: Chips Act 2, DMA, Finnish gigafactory",
+   "url": "https://www.rapporteur.com/news/the-hack-kids-act-rapporteur-eyes-ai/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-17T08:52+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 5.95,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "50013f344d0e",
+   "title": "Alleged Member of “8-Digits Team” Ransomware Group Extradited from Italy for Role in Major Data Extortion Campaign Against U.S. Hospitals, Healthcare Entities, and Schools",
+   "snippet": "Roman Khlynovskiy, 43, a Kazak national, made his initial appearance in Knoxville, Tennessee, federal court today after being extradited from Italy to face charges for his alleged role in a ransomware and extortion conspiracy that targeted U.S. schools, hospitals, and healthcare…",
+   "url": "https://www.justice.gov/opa/pr/alleged-member-8-digits-team-ransomware-group-extradited-italy-role-major-data-extortion",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-16T12:00+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "enforcement"
+   ],
+   "score": 4.85,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "0191a57abcb3",
+   "title": "EU’s Russia sanctions have a Hong Kong loophole",
+   "snippet": "Shell companies and Hong Kong traders are funnelling European goods to Russia’s military-industrial complex",
+   "url": "https://www.rapporteur.com/news/eus-russia-sanctions-have-a-hong-kong-loophole/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-17T03:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 4.8,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Taylor_Bank_Building%2C_facade_%2821617137902%29.jpg/1280px-Taylor_Bank_Building%2C_facade_%2821617137902%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Taylor_Bank_Building,_facade_(21617137902).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Taylor Bank Building, facade (21617137902).jpg"
+   }
+  },
+  {
+   "id": "a6dbc9bcd663",
+   "title": "FCA publishes terms of reference for independent review concerning Mr Andriesz",
+   "snippet": "We have published the terms of reference for the review into our handling of interactions with Mr Simon Andriesz, a whistleblower who made protected disclosures to the FCA. We shared our condolences following Mr Andriesz's tragic death and our thoughts remain with his family and…",
+   "url": "https://www.fca.org.uk/news/statements/fca-publishes-terms-reference-independent-review-concerning-mr-andriesz",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 3.3,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   }
+  },
+  {
+   "id": "4c93dd277422",
+   "title": "Commission and Kenya strike deal on personal data",
+   "snippet": "Brussels and Nairobi hope an agreement on data adequacy will strengthen economic ties",
+   "url": "https://www.rapporteur.com/news/commission-and-kenya-strike-deal-on-personal-data/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-16T12:35+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 3.12,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Padlock_with_chain.jpg/1280px-Padlock_with_chain.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lacz02",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Padlock_with_chain.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Padlock with chain.jpg"
+   }
+  },
+  {
+   "id": "01afb2bd3323",
+   "title": "Speech at the BDO Debt Solutions Financial Literacy Month Panel Discussion & Leadership Breakfast by Director of Insights and Impact Ruth Stephen",
+   "snippet": "Speech at the BDO Debt Solutions Financial Literacy Month Panel Discussion & Leadership Breakfast by FCAC Director of Insights and Impact Ruth Stephen, on November 12, 2026",
+   "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/11/speech-at-the-bdo-debt-solutions-financial-literacy-month-panel-discussion--leadership-breakfast-by-director-of-insights-and-impact-ruth-stephen.html",
+   "paywall_url": "",
+   "source": "Financial Consumer Agency of Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-13T14:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 3.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "48382fde2c7b",
+   "title": "Daily News 17 / 11 / 2026",
+   "snippet": "European Commission Daily news Brussels, 17 Nov 2026 Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products The European Commission preliminari...",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2471",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-17T10:04+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   }
+  },
+  {
+   "id": "d092567782fd",
+   "title": "US Department of Labor applauds federal appeals court decision on administrative exhaustion requirement under federal benefits law",
+   "snippet": "WASHINGTON – The U.S. Department of Labor applauded a federal appeals court decision allowing employees to bring legal claims directly to federal court if they reasonably suspect fiduciary violations in their employee benefit plans covered under the Employee Retirement Income…",
+   "url": "http://www.dol.gov/newsroom/releases/ebsa/ebsa20261116",
+   "paywall_url": "",
+   "source": "U.S. Department of Labor",
+   "source_id": "dol",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-16T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 2.42,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Frances_Perkins_Building.JPG/1280px-Frances_Perkins_Building.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "AgnosticPreachersKid",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building.JPG"
+   }
+  },
+  {
+   "id": "9b80dc57527a",
+   "title": "What we’re learning from firms engaging with our innovation services",
+   "snippet": "Three themes stand out: the growing use of AI, innovation crossing traditional sector boundaries, and financial inclusion.As firms develop new products, services and business models, many engage with us through our Regulatory Sandbox and Innovation Pathways to understand how…",
+   "url": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 2.42,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Virginia_Tech_-_data_center.jpg/1280px-Virginia_Tech_-_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christopher Bowns",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Virginia Tech - data center.jpg"
+   }
+  },
+  {
+   "id": "5403833e6722",
+   "title": "THE HACK: What if drones hit data centres?",
+   "snippet": "In today's edition: Kenya adequacy, GDPR tweaks, Microsoft",
+   "url": "https://www.rapporteur.com/news/the-hack-what-if-drones-hit-data-centres/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-16T08:39+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "privacy"
+   ],
+   "score": 2.29,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "b8bcdaec8f58",
+   "title": "INTERVIEW: Climate change from a weather forecaster’s perspective",
+   "snippet": "Heatwaves are getting easier to predict, but thunderstorms remain tricky, says Europe’s forecasting chief",
+   "url": "https://www.rapporteur.com/news/interview-climate-change-from-a-weather-forecasters-perpective/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-16T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "b69e6098b6c5",
+   "title": "Nations grapple with loss of 1.5°C target at UN climate summit",
+   "snippet": "Some negotiators are sceptical but reluctant to abandon a target seen as essential",
+   "url": "https://www.rapporteur.com/news/nations-grapple-with-loss-of-1-5c-target-at-un-climate-summit/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-15T08:20+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "dfab01c5ed00",
+   "title": "Paris to host international conference on Russian shadow fleet",
+   "snippet": "France is also calling for restrictions on entities exporting petrol to Russia as part of the 22nd sanctions package",
+   "url": "https://www.rapporteur.com/news/paris-to-host-international-conference-on-russian-shadow-fleet/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-16T12:48+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 1.6,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Nizhny_Novgorod._Facade_of_State_Bank_Building_at_Gruzinskaya_Street.jpg/1280px-Nizhny_Novgorod._Facade_of_State_Bank_Building_at_Gruzinskaya_Street.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Алексей Белобородов",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nizhny_Novgorod._Facade_of_State_Bank_Building_at_Gruzinskaya_Street.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Nizhny Novgorod. Facade of State Bank Building at Gruzinskaya Street.jpg"
+   }
+  },
+  {
+   "id": "7a08f4da2ad3",
+   "title": "Speech by Commissioner Kadis at the Blue NDC Challenge event hosted by France and Brazil",
+   "snippet": "European Commission Speech Antalya, 17 Nov 2026 Excellencies, dear friends, ladies and gentlemen, Thank you for the opportunity to participate in this important event. The climate crisis is no longer a distan...",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2466",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-17T08:48+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   }
+  },
+  {
+   "id": "b15e630561e8",
+   "title": "EU risks undermining the global consensus for aviation decarbonization. Here is how we avoid that. [Promoted Content]",
+   "snippet": "Written by Neva Sadikoglu Novaky. As COP31 comes to a close and the International Civil Aviation Organization (ICAO) Worldwide Air Transport Conference commences, international consensus for climate action has never been more vital. Commission President von der Leyen’s COP…",
+   "url": "https://www.rapporteur.com/opinion/eu-risks-undermining-the-global-consensus-for-aviation-decarbonization-here-is-how-we-avoid-that/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-17T11:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "a398729ca0e6",
+   "title": "Europe cannot confront interconnected crises with fragmented policies [Promoted Content]",
+   "snippet": "Climate change, food security, political instability and human mobility interact in ways that make isolated policy responses progressively less effective. Europe’s crises are interconnected, and its responses must be too.",
+   "url": "https://www.rapporteur.com/opinion/europe-cannot-confront-interconnected-crises-with-fragmented-policies/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-17T06:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg"
+   }
+  },
+  {
+   "id": "08a4916bd99c",
+   "title": "Hoekstra open to ‘grey’ electrification at COP31",
+   "snippet": "'A certain degree of pragmatism is probably warranted,' EU climate commissioner says",
+   "url": "https://www.rapporteur.com/news/hoekstra-open-to-grey-electrification-at-cop31/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-13T15:47+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/1280px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Matthew T Rader",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roscoe_Wind_Farm_in_West_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Roscoe Wind Farm in West Texas.jpg"
+   }
+  },
+  {
+   "id": "be22805563ea",
+   "title": "Deutsche Bank Shares Drop After Wide-Ranging Whistleblower Leaks",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemthcWFzbFdXOUIzNFRNZGFQRkJHbkZTYVVkNHZYcUlwd2x3U2YwMGZfejhwTDJ5bzV1Zk5ydGJfRVdsSXg2eDZqYmtJOWhtcnNtR2ZoM3V6eThuWHNiMmduRmNrQkd4d2hodEZPdmJ4Y3YzVDd6V0FiS1g1Ym1tN3BKYnJSNkxFSDRlaUNOOHZBRkxYdHdTUG5lQTNfSkZUVG9z?oc=5",
+   "source": "WSJ",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-17T09:22+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1c0082b2c25b",
+   "title": "Mass. Whistleblower Law Doesn't Shield Ex-Transit Official",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDJNcW9LaGFzZVBRMXA2WW9NMDBYQ1QtQUt2eXhRSTRVYXdWU29hMzFseGxXbGZDZUVUWDBYYk92Y0dQRXVnbTVFLWRMZ3JFRVlRLWNRQ0htZzJRM0o5T2RpZkVHWmF5ZUJjWlc4WFJLcnZFcnZtMU5DY1ZObHNfaVlnRGJYc2xvUWtzdkJNS1BFRlFMdG5LU1Q4U1RhUVVaQVdFTnNaSVo2V210TmpaV1FuRFVteHBwTmfSAXJBVV95cUxOUE04bndIVnlvNGpVWG5SRWljN2FiRjRSTTZzQXhrNUprRHY4S2M1c3FvZzJnTFZueERjTDhjdjZpcWxUVTViYTJYT29OOWRISXF5NmozMDZHTzRsUnJ5azJmb3dNeWx5VzJJSkxUSTRrSFE?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-16T22:13+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "c34099e34975",
+   "title": "Opinion | Windy City Whistleblower",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfUXhQTE9HTk1fV1NPdHVINHUydjhmcnpWQUc5UmRRUGsybmlGck93NjByR0FRU2EzcWc3cW5JWGxITVhZRktzQzMtLU92MzBwWFYwOEFzTGNCQWRyQzZfQldJVF9oZnhzYjEtc1BB?oc=5",
+   "source": "WSJ",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-16T21:15+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "7a0fc19e98e0",
+   "title": "DOJ charges Honduran diplomat in first-ever foreign extortion case",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-charges-honduran-diplomat-in-first-ever-foreign-extortion-case",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-16T22:46+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "anti_bribery"
+   ],
+   "score": 10.44,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "974587f2c7e5",
+   "title": "SEC enforcement drops to new low",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-anti-corruption/article/sec-enforcement-drops-new-low",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-16T17:19+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "anti_bribery"
+   ],
+   "score": 10.44,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e3199f6698b0",
+   "title": "Sanctioned Russian, Iranian airlines serviced by EU subsidiary in Turkey and Georgia",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/sanctions/sanctioned-russian-iranian-airlines-serviced-by-eu-subsidiary-in-turkey-and-georgia/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-17T01:22+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions"
+   ],
+   "score": 10.3,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "303ab73d4288",
+   "title": "China’s Ping An Bank adopts board-level AI rules in a first for listed banks",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/banking/chinas-ping-an-bank-adopts-board-level-ai-rules-in-a-first-for-listed-banks/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-13T20:18+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "governance"
+   ],
+   "score": 9.68,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "dd5b83bcd3c2",
+   "title": "Football Leaks hacker in contact with SFO",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/football-leaks-hacker-in-contact-sfo",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-13T12:53+00:00",
+   "topic": "enforcement_policy",
+   "tags": [
+    "enforcement_policy"
+   ],
+   "score": 9.0,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
