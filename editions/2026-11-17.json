@@ -1,0 +1,485 @@
+{
+ "date": "2026-11-17",
+ "lead_id": "be22805563ea",
+ "editor_note": "Speak-up dominates: a mass whistleblower leak hits Deutsche Bank while the FCA scrutinises its own treatment of a whistleblower. In the US, SEC corporate enforcement hits a record low as DOJ turns to the officials who demand bribes.",
+ "bottom_line": [
+  {
+   "id": "be22805563ea",
+   "text": "Two whistleblowers leaked millions of Deutsche Bank records spanning two decades; reports on Russia, Epstein and Trump ties sent shares down nearly 6%."
+  },
+  {
+   "id": "a6dbc9bcd663",
+   "text": "The FCA set the scope of an independent review into how it handled whistleblower Simon Andriesz, putting regulator conduct toward reporters under scrutiny."
+  },
+  {
+   "id": "974587f2c7e5",
+   "text": "SEC actions against public companies fell to a record 16 in fiscal 2026, with no FCPA cases for the first time since tracking began."
+  }
+ ],
+ "stat": {
+  "id": "974587f2c7e5",
+  "text": "16: SEC enforcement actions against public companies and subsidiaries in fiscal 2026, down 71% from 56 a year earlier and a record low."
+ },
+ "storylines": {
+  "deutsche-bank-leaks": "The Deutsche Bank whistleblower leaks"
+ },
+ "podcast_brief": "## The day in one line\n\nSpeak-up is the thread running through today's news. Two anonymous whistleblowers have handed journalists millions of Deutsche Bank's internal records, the UK's Financial Conduct Authority has set out how it will review its own handling of a whistleblower, and new data shows the US Securities and Exchange Commission bringing fewer cases against public companies than at any point on record.\n\n## Story 1 — Deutsche Bank shares slide as two whistleblowers leak millions of internal records\n\n**The facts.**\n- On Tuesday, 17 November, a group of news organisations began publishing an investigation called \"Inside Deutsche Bank\", based on a leak of the bank's internal emails, meeting minutes and other documents.\n- The material came from two anonymous whistleblowers. Journalists in India and South Africa obtained it and shared it with more than 200 reporters at over 50 outlets, including Der Spiegel, Le Monde, the New York Times, ZDF and Der Standard. One account puts the trove at around 15 million records spanning roughly twenty years.\n- The reports focus on the bank's dealings with Russian oligarchs, the late financier Jeffrey Epstein and Donald Trump before he became president.\n- According to the coverage, the bank courted wealthy Russian clients and grew its Russian business shortly before the 2022 invasion of Ukraine, despite internal warnings about money-laundering risk. The documents reportedly list chief executive Christian Sewing among members of the working group that shaped that strategy.\n- The reports say the withdrawal from Russia is still not complete: 162 employees remained there last year, and the local subsidiary made a pre-tax profit of 61 million euros.\n- Other strands describe commercial goals sometimes taking priority over sanctions rules, anti-money-laundering controls and internal procedures; tax-optimisation structures for wealthy clients; criminal networks allegedly moving money through the bank; and accounts for the AfD party kept open despite internal objections.\n- Deutsche Bank shares were indicated about 2.7% lower before trading in Frankfurt and fell close to 6% soon after the open.\n- The bank did not dispute that the documents are real but called them purported internal records. It said the matters go back many years, some as far as two decades, and that some were reviewed with regulators at the time. It said it had invested 7 billion euros in control systems between 2019 and 2025 and called itself \"a different bank today\", citing record 2025 pre-tax profit of 9.7 billion euros.\n\n**Background.**\n- Large data leaks passed to journalist consortiums have become a recurring feature of financial-crime reporting, and this one follows that model: anonymous insiders, a shared archive, and coordinated publication across many countries.\n- News agencies said they could not immediately verify the reports, and none of the allegations has been tested by a court or regulator.\n\n**What it does not change.**\n- No new regulatory investigation linked to the leak had been reported in the first day's coverage.\n- The bank's position is that the issues are historic and its controls have since been rebuilt.\n\n**Who's affected.**\n- Banks and other financial institutions with exposure to sanctioned or high-risk jurisdictions, and their compliance, AML and sanctions teams.\n- Boards and senior executives whose names appear in internal decision records.\n- Any organisation where internal warnings are documented but not visibly resolved.\n\n**Why it matters.** This story shows what happens when internal disagreement over risk is written down, overruled and left unresolved. Those records can surface years later, in front of the whole world and on the same day. It also shows the two whistleblowers going to the press rather than to a regulator or internal hotline. That outcome takes control of the story away from the organisation completely. The share-price fall shows that the market charges for the damage long before any regulator acts.\n\n**How this comes up with a GC or CLO.** Legal leaders at banks are likely to raise this as a \"could it happen here\" question about their own email and minutes, and about how sanctions decisions made under commercial pressure are documented. Compliance leaders may connect it to whether employees trust internal channels enough to use them.\n\n**Questions a buyer might ask.**\n- If our internal escalations from the past ten years were published, would they show warnings that were raised and then dropped?\n- How do people who raise sanctions or money-laundering concerns find out what happened to them?\n- Can regulators reopen matters that were reviewed with them years ago?\n\n## Story 2 — FCA publishes terms of reference for independent review of its handling of whistleblower Simon Andriesz\n\n**The facts.**\n- The UK Financial Conduct Authority has published the terms of reference for an independent review into how it handled its interactions with Simon Andriesz.\n- Mr Andriesz was a whistleblower who made protected disclosures to the FCA. The regulator has expressed condolences following his death and said its thoughts remain with his family.\n- The terms of reference set out the scope of the review, which looks at the regulator's own conduct rather than at the firm he reported on.\n\n**Background.**\n- The FCA first announced it would commission this review earlier this autumn, and this paper continues that thread.\n- The FCA receives whistleblowing reports from employees of the firms it supervises.\n\n**Who's affected.**\n- Whistleblowers in UK financial services and the people who support them.\n- Regulated firms, whose staff may report to the FCA directly as well as internally.\n- Other regulators that run their own whistleblowing channels.\n\n**Why it matters.** It is unusual for a regulator to commission an outside review of how it treated a single whistleblower. The case moves the conversation away from whether a report was \"substantiated\". The question becomes how the person who made it was treated while they waited. The review's findings could shape expectations of good whistleblower care in the UK, for regulators and firms alike.\n\n**How this comes up with a GC or CLO.** UK compliance leaders are likely to see this as a sign that treatment of the reporter, including contact, feedback and wellbeing, is becoming a measure of a speak-up programme in its own right.\n\n**Questions a buyer might ask.**\n- What does good communication with a whistleblower look like during a long investigation?\n- If a regulator can be reviewed for how it treated a reporter, what standard will firms be held to?\n\n## Story 3 — SEC actions against public companies fall to a record low in fiscal 2026\n\n**The facts.**\n- A report released on 12 November by Cornerstone Research and the NYU Pollack Center for Law & Business counts 16 SEC enforcement actions against public companies and their subsidiaries in fiscal 2026, which ended on 30 September. That is down 71% from 56 the year before.\n- It is the lowest total since the database began in fiscal 2010, and the largest one-year drop it has recorded.\n- Settlements totalled 184 million dollars, also a record low; disgorgement and interest came to just 1 million dollars.\n- For the first time there were no Foreign Corrupt Practices Act actions against public companies or subsidiaries. No corporate defendant admitted wrongdoing.\n- Half of the actions involved issuer reporting and disclosure. Individuals were named as defendants in a larger share of cases than in any of the previous ten years.\n- Across the SEC's whole docket, other counts show the same trend: Covington counted 232 stand-alone actions, down from 303 in fiscal 2025 and 431 in fiscal 2024.\n\n**Background.**\n- Chair Paul Atkins has said the agency is moving away from \"regulation by enforcement\" and focusing on fraud, market manipulation and abuses of trust.\n- Enforcement Director David Woodcock, in post since May, has pointed to a staff cut of about 20% in 2025 and a 43-day government shutdown early in the fiscal year.\n- A February 2025 executive order pausing FCPA enforcement has, in effect, halted new SEC foreign bribery cases.\n\n**Who's affected.**\n- Public companies and their boards, audit committees and disclosure teams.\n- Executives, who are being named personally more often.\n\n**Why it matters.** A historic drop in SEC corporate cases changes the enforcement map but does not remove the risk. Exposure remains through the Justice Department, state enforcers, foreign authorities and private litigation. The growing focus on individuals points to where the SEC's remaining attention is going. A future administration could also reverse course quickly.\n\n**How this comes up with a GC or CLO.** General counsel may raise this as a question about budgets and priorities, or about whether a quieter SEC means less pressure. Compliance leaders are likely to point out that the rules themselves have not changed.\n\n**Questions a buyer might ask.**\n- With the SEC bringing so few cases, where does our real enforcement exposure now sit?\n- Does zero FCPA cases mean foreign bribery risk has gone away?\n- Why are executives being named more often even as corporate cases fall?\n\n## Story 4 — SFO charges eight over London Capital & Finance collapse\n\n**The facts.** On 16 November the Serious Fraud Office charged eight people over the 2019 collapse of investment firm London Capital & Finance, which cost investors 251 million pounds. Six face conspiracy-to-defraud charges, one faces a concealment charge, and an eighth faces fraud and director-disqualification charges. All are due at Westminster Magistrates' Court on 7 December.\n\n**Background.** The SFO opened its investigation in March 2019, after the firm sold bonds to the public from 2013 to 2018.\n\n**Who's affected.** Investment firms, directors and promoters of retail financial products.\n\n**Why it matters.** Charges after a seven-year inquiry show the SFO taking large investment-fraud cases to court.\n\n**How this comes up.** It is a familiar example of how director conduct and mis-selling can end in criminal charges.\n\n**Question a buyer might ask.** How long can a fraud investigation hang over a firm's former leaders?\n\n## Story 5 — Former Honduran consul general charged in alleged bribery and money laundering scheme\n\n**The facts.** The US Justice Department says Ada Serrano, formerly the Consul General at Honduras's consulate in Atlanta, was arrested on charges of taking part in a bribery and money laundering scheme. Three other people were also arrested, and the indictment was unsealed after her arrest.\n\n**Background.** US foreign bribery law has traditionally targeted those who pay bribes. This case focuses on the official alleged to have taken part in the scheme.\n\n**Who's affected.** Companies and individuals dealing with foreign consular and government offices.\n\n**Why it matters.** Charging the official, not just the payer, widens the US anti-corruption toolkit.\n\n**How this comes up.** It is likely to come up when someone asks what happens when an employee is asked for a bribe.\n\n**Question a buyer might ask.** Does this change how we handle and report bribe demands?\n\n## Story 6 — Commission preliminarily finds Temu in breach of the Digital Services Act over illegal products\n\n**The facts.** The European Commission has preliminarily found that Temu breached the Digital Services Act by failing to tackle the sale of illegal products on its marketplace.\n\n**Background.** This is the latest step in a long-running Commission case against the platform under the Digital Services Act.\n\n**Who's affected.** Online marketplaces and the third-party sellers on them.\n\n**Why it matters.** EU regulators are treating seller risk as the platform's own compliance duty.\n\n**How this comes up.** It is an example of third-party risk at very large scale.\n\n**Question a buyer might ask.** How far are we responsible for what third parties sell or do on our platforms?\n\n## Story 7 — EU Russia sanctions have a Hong Kong loophole\n\n**The facts.** A press investigation reports that shell companies and Hong Kong traders are routing European goods to Russia's military-industrial complex.\n\n**Background.** Diversion through third countries has been a persistent weakness since EU sanctions on Russia began.\n\n**Who's affected.** European exporters, distributors and their banks.\n\n**Why it matters.** It keeps end-use checks and counterparty diligence at the heart of sanctions exposure.\n\n**How this comes up.** It is a concrete illustration of a supply-chain blind spot.\n\n**Question a buyer might ask.** How would we know if a customer was re-exporting our goods?\n\n## Story 8 — American Medical Response to pay $2.2 million to settle EEOC accommodation suit\n\n**The facts.** Emergency medical services provider American Medical Response and its parent Global Medical Response will pay 2.2 million dollars and provide other relief to settle an EEOC lawsuit over religious and disability accommodation.\n\n**Background.** The settlement is nationwide and resolves a suit brought by the agency itself.\n\n**Who's affected.** Large employers, especially in healthcare and shift-based work.\n\n**Why it matters.** How companies handle employee accommodation requests continues to draw multimillion-dollar settlements.\n\n**How this comes up.** HR and employment counsel are likely to raise it as a programme-wide process issue.\n\n**Question a buyer might ask.** How consistently are accommodation requests tracked across our sites?\n\n## Story 9 — What the FCA is learning from firms using its innovation services\n\n**The facts.** The FCA says three themes stand out among firms in its Regulatory Sandbox and Innovation Pathways: growing use of AI, innovation crossing sector lines, and financial inclusion.\n\n**Background.** The FCA uses these services to engage with firms before new products launch.\n\n**Who's affected.** UK fintechs and established financial firms building AI-driven products.\n\n**Why it matters.** The regulator's view of AI risk is being shaped by direct contact with firms.\n\n**How this comes up.** It is likely to come up in conversations about AI governance in UK financial services.\n\n**Question a buyer might ask.** What will the FCA expect us to show about how we govern AI?\n\n## Story 10 — Appeals court lets employees take ERISA fiduciary claims straight to federal court\n\n**The facts.** The Labor Department welcomed a federal appeals court ruling that employees may sue directly in federal court when they reasonably suspect fiduciary violations in benefit plans covered by ERISA.\n\n**Background.** The ruling concerns whether employees must first exhaust a plan's internal claims process.\n\n**Who's affected.** Employers and the fiduciaries who run benefit plans.\n\n**Why it matters.** It removes a hurdle to litigation and raises the stakes of plan governance.\n\n**How this comes up.** Benefits and employment counsel are likely to flag the wider exposure.\n\n**Question a buyer might ask.** Does this increase the risk of litigation over our retirement plans?\n\n## Story 11 — Commission and Kenya strike deal on personal data\n\n**The facts.** The European Commission and Kenya have reached an agreement on data adequacy, which both sides hope will strengthen economic ties.\n\n**Background.** Adequacy decisions allow personal data to flow from the EU to another country without extra safeguards.\n\n**Who's affected.** Companies with operations or service providers in Kenya.\n\n**Why it matters.** It widens the list of countries that are simple data-transfer destinations.\n\n**How this comes up.** Privacy teams are likely to raise it in vendor and outsourcing discussions.\n\n**Question a buyer might ask.** Does this simplify transfers to our Kenyan service providers?\n\n## Story 12 — OSHA cites Houston powder coating company, proposes more than $1.6 million in penalties\n\n**The facts.** The Labor Department's OSHA cited a powder coating and furniture restoration company in Houston for willfully and repeatedly exposing workers to toxic substances and other hazards. It proposed more than 1.6 million dollars in penalties.\n\n**Background.** Willful and repeat violations carry OSHA's highest penalties.\n\n**Who's affected.** Manufacturers and industrial employers.\n\n**Why it matters.** Repeated, ignored safety findings turn into large costs.\n\n**How this comes up.** It illustrates how unaddressed findings escalate.\n\n**Question a buyer might ask.** How do we make sure prior safety citations are actually closed out?\n",
+ "cards": [
+  {
+   "id": "be22805563ea",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "Deutsche Bank shares slide as two whistleblowers leak millions of internal records",
+   "summary": "Media reports built on a leak of millions of Deutsche Bank emails and documents, supplied by two anonymous whistleblowers, describe dealings with Russian oligarchs, Jeffrey Epstein and Donald Trump. The bank calls the matters historic; its shares fell sharply.",
+   "impact": "A mass leak of internal debate over sanctions and anti-money-laundering decisions shows how unresolved internal warnings can resurface years later as reputational and regulatory exposure.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "Deutsche Bank twin towers Frankfurt",
+   "source": "AI Briefing · Yahoo Finance UK (AFP)",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Deutsche_Bank_neue_Fassade.jpg/1280px-Deutsche_Bank_neue_Fassade.jpg",
+   "published": "2026-11-17",
+   "region": "EU",
+   "lang": "en",
+   "topic": "whistleblowing",
+   "storyline": "deutsche-bank-leaks",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Thomas Wolf ( Der Wolf im Wald )",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Deutsche_Bank_neue_Fassade.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Deutsche Bank neue Fassade.jpg"
+   }
+  },
+  {
+   "id": "a6dbc9bcd663",
+   "url": "https://www.fca.org.uk/news/statements/fca-publishes-terms-reference-independent-review-concerning-mr-andriesz",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   },
+   "tier": "official",
+   "topic": "whistleblowing",
+   "kind": "link",
+   "title": "FCA publishes terms of reference for independent review of its handling of whistleblower Simon Andriesz",
+   "summary": "The FCA has published the terms of reference for an independent review of how it handled its interactions with Simon Andriesz, a whistleblower who made protected disclosures to the regulator, following his death.",
+   "impact": "A regulator reviewing its own treatment of a whistleblower puts the care and follow-up given to reporters, not just case outcomes, at the centre of UK speak-up scrutiny.",
+   "industries": [
+    "financial_services",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Financial Conduct Authority building Stratford London",
+   "storyline": "fca-andriesz-review"
+  },
+  {
+   "id": "974587f2c7e5",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "SEC actions against public companies fall to a record low in fiscal 2026",
+   "summary": "Cornerstone Research and NYU count 16 SEC enforcement actions against public companies and subsidiaries in fiscal 2026, down 71% from 56, with no FCPA cases and $184 million in settlements, both record lows.",
+   "impact": "The collapse in SEC corporate cases shifts the weight of deterrence toward individual liability, DOJ, state enforcers, foreign regulators and private litigation.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "SEC headquarters building Washington",
+   "source": "AI Briefing · Cornerstone Research",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg/1280px-Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
+   "published": "2026-11-12",
+   "region": "US",
+   "lang": "en",
+   "topic": "enforcement",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Seattle (WA, USA), HomeStreet Bank Headquarters -- 2022 -- 1454.jpg"
+   }
+  },
+  {
+   "id": "20d74a27b048",
+   "url": "https://www.gov.uk/government/news/sfo-charges-eight-over-london-capital-finance-collapse",
+   "source": "UK Serious Fraud Office",
+   "region": "UK",
+   "lang": "en",
+   "published": "2026-11-16T14:14+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Entrance_to_Westminster_Magistrates%27_Court%2C_March_2025.jpg/1280px-Entrance_to_Westminster_Magistrates%27_Court%2C_March_2025.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Entrance_to_Westminster_Magistrates%27_Court,_March_2025.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Entrance to Westminster Magistrates' Court, March 2025.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement_policy",
+   "kind": "link",
+   "title": "SFO charges eight over London Capital & Finance collapse",
+   "summary": "The Serious Fraud Office has charged eight people in connection with the 2019 collapse of investment firm London Capital & Finance, which led to losses of £251 million.",
+   "impact": "Charges after a seven-year investigation show the SFO pursuing complex investment-fraud cases to court, keeping mis-selling and director conduct high on the UK enforcement agenda.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Westminster Magistrates Court London"
+  },
+  {
+   "id": "02229e9001c0",
+   "url": "https://www.justice.gov/opa/pr/former-honduran-consul-general-charged-and-3-others-arrested-alleged-bribery-and-money",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-16T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Former Honduran consul general charged and three others arrested in alleged bribery and money laundering scheme",
+   "summary": "Ada Serrano, the former Consul General of the Honduran Consulate in Atlanta, was arrested on charges of taking part in a bribery and money laundering scheme; three others were also arrested, according to the Justice Department.",
+   "impact": "Prosecuting the foreign official who demands a bribe, not only the payer, signals a widening US anti-corruption toolkit with implications for how demands are reported.",
+   "industries": [
+    "public_sector",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Atlanta federal courthouse"
+  },
+  {
+   "id": "48382fde2c7b",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2471",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-17T10:04+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Commission preliminarily finds Temu in breach of the Digital Services Act over illegal products",
+   "summary": "The European Commission has preliminarily found that Temu breached the Digital Services Act by failing to tackle the sale of illegal products on its marketplace.",
+   "impact": "Preliminary DSA findings against a major marketplace show EU regulators treating third-party seller risk as a platform-level compliance obligation with potentially large penalties.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "parcel sorting warehouse conveyor",
+   "storyline": "temu-digital-services-act"
+  },
+  {
+   "id": "0191a57abcb3",
+   "url": "https://www.rapporteur.com/news/eus-russia-sanctions-have-a-hong-kong-loophole/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-17T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Tug_Boat_Hong_Kong._%2816819523827%29.jpg/1280px-Tug_Boat_Hong_Kong._%2816819523827%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tug_Boat_Hong_Kong._(16819523827).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Tug Boat Hong Kong. (16819523827).jpg"
+   },
+   "tier": "press",
+   "topic": "aml_sanctions",
+   "kind": "link",
+   "title": "EU Russia sanctions have a Hong Kong loophole",
+   "summary": "Shell companies and Hong Kong traders are funnelling European goods to Russia’s military-industrial complex, according to the report.",
+   "impact": "Diversion through intermediaries in third countries keeps end-use and counterparty diligence at the heart of EU sanctions exposure for exporters.",
+   "industries": [
+    "manufacturing_energy",
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Hong Kong container port Kwai Chung"
+  },
+  {
+   "id": "52f9dd6c7762",
+   "url": "https://www.eeoc.gov/newsroom/american-medical-response-pay-22-million-nationwide-settlement-eeoc-religion-and",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-16T12:00+00:00",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1949_Humber_Pullman_Ambulance_-_Flickr_-_111_Emergency_2.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "111 Emergency from New Zealand",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1949_Humber_Pullman_Ambulance_-_Flickr_-_111_Emergency_2.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "1949 Humber Pullman Ambulance - Flickr - 111 Emergency 2.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "American Medical Response to pay $2.2 million in nationwide settlement of EEOC religion and disability discrimination suit",
+   "summary": "Emergency medical services provider American Medical Response and its parent Global Medical Response will pay $2.2 million and provide other relief to settle an EEOC lawsuit over religious and disability accommodation.",
+   "impact": "A nationwide accommodation settlement shows the EEOC still extracting multimillion-dollar, programme-wide relief over how companies handle employee requests.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "ambulance emergency vehicle"
+  },
+  {
+   "id": "9b80dc57527a",
+   "url": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "What the FCA is learning from firms engaging with its innovation services",
+   "summary": "The FCA says three themes stand out among firms using its Regulatory Sandbox and Innovation Pathways: the growing use of AI, innovation crossing sector boundaries, and financial inclusion.",
+   "impact": "The UK regulator’s view of AI comes increasingly from direct supervisory contact, shaping its expectations of how firms govern new AI-driven products.",
+   "industries": [
+    "financial_services",
+    "tech"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "server room data center"
+  },
+  {
+   "id": "d092567782fd",
+   "url": "http://www.dol.gov/newsroom/releases/ebsa/ebsa20261116",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-16T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg/1280px-Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Department of Labor sign Washington DC 2025-02-04 12-38-46.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Labor Department welcomes appeals court ruling letting employees take ERISA fiduciary claims straight to federal court",
+   "summary": "The Department of Labor applauded a federal appeals court decision allowing employees to sue directly in federal court when they reasonably suspect fiduciary violations in ERISA-covered benefit plans.",
+   "impact": "Removing an internal-exhaustion hurdle widens litigation exposure for plan fiduciaries and raises the stakes of benefit-plan governance.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "ruling",
+   "image_query": "Frances Perkins Building Washington"
+  },
+  {
+   "id": "4c93dd277422",
+   "url": "https://www.rapporteur.com/news/commission-and-kenya-strike-deal-on-personal-data/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-16T12:35+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Nairobi_City_Skyline.jpg/1280px-Nairobi_City_Skyline.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Raidarmax",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nairobi_City_Skyline.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Nairobi City Skyline.jpg"
+   },
+   "tier": "press",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "Commission and Kenya strike deal on personal data",
+   "summary": "Brussels and Nairobi have reached an agreement on data adequacy that they hope will strengthen economic ties.",
+   "impact": "An adequacy arrangement with Kenya widens the map of destinations where personal data can move from the EU without extra transfer safeguards.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Nairobi city skyline"
+  },
+  {
+   "id": "f48546083041",
+   "url": "http://www.dol.gov/newsroom/releases/osha/osha20261116",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-16T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg/1280px-Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_-_Department_of_Labor_(53839145147).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building - Department of Labor (53839145147).jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Labor Department cites Houston powder coating company for willful toxic exposures and proposes more than $1.6 million in penalties",
+   "summary": "OSHA has cited a powder coating and furniture restoration company for willfully and repeatedly exposing workers to toxic substances and other hazards, proposing more than $1.6 million in penalties.",
+   "impact": "Willful and repeat findings carry the steepest OSHA penalties, showing how ignored safety warnings turn into large financial and reputational costs.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "industrial spray painting booth"
+  }
+ ],
+ "briefings": {
+  "be22805563ea": {
+   "headline": "Deutsche Bank shares slide as two whistleblowers leak millions of internal records",
+   "dek": "A global media consortium has published reports drawn from roughly two decades of the bank’s internal emails and minutes; the bank says it is a different institution today.",
+   "body_md": "Deutsche Bank shares fell sharply on Tuesday, 17 November, after a coordinated set of media investigations drew on a vast leak of the lender's internal records. The material was supplied by two anonymous whistleblowers and, according to the reports, covers roughly two decades of the bank's business.\n\n**What was leaked.** The trove runs to millions of emails, meeting minutes and other documents; one account puts it at about 15 million records. Journalists in India and South Africa obtained the files and shared them with a consortium of more than 200 reporters at over 50 outlets, among them Der Spiegel, Le Monde, ZDF and Der Standard. The project is being published under the banner \"Inside Deutsche Bank\".\n\n**What the reports allege.** The coverage centres on the bank's relationships with Russian oligarchs, the late financier Jeffrey Epstein and Donald Trump before his presidency. Reports say the bank courted wealthy Russian clients and expanded its Russian operations shortly before the 2022 invasion of Ukraine despite internal warnings about money-laundering risk, and that Chief Executive Christian Sewing appears in documents as part of the working group behind that strategy. Other strands describe commercial interests at times taking priority over sanctions rules, anti-money-laundering controls and internal procedures, along with tax-optimisation arrangements for wealthy clients and accounts linked to the AfD party despite internal objections. The reports also say the Russian exit remains incomplete, with 162 staff still employed there last year and the local unit posting a pre-tax profit of €61 million. None of these allegations has been tested by a regulator or court, and news agencies said they could not immediately verify them.\n\n**Market reaction.** Shares were indicated about 2.7% lower before the open in Frankfurt and fell close to 6% soon after trading began.\n\n**The bank's response.** Deutsche Bank did not dispute that the records are genuine but described them as purported internal documents. It said the matters date back many years, in some cases two decades, and that several were reviewed with supervisors at the time. It said it is \"a different bank today\", pointing to €7 billion invested in control systems between 2019 and 2025 and record profits in 2025, when pre-tax profit reached €9.7 billion.\n\n**Background.** The bank says some of the incidents described were examined with supervisors when they occurred. The early coverage did not report any new regulatory investigation linked to the leak.\n\n### What this means for legal and compliance leaders\nThe leak is a reminder that the internal record of compliance debates, including warnings that were raised and overruled, can become public long after the decisions were made. It also shows how a whistleblower who sees no internal resolution may go to the press rather than to a regulator. For a large financial institution, the reputational cost arrives immediately, while any regulatory consequences may take years to emerge.\n\n### Questions you may hear\n- How would our own records look if a decade of compliance escalations were published tomorrow?\n- Do people who raise sanctions or AML concerns internally see what happened to their warnings?\n- Could regulators reopen matters the bank says were already reviewed?\n",
+   "sources": [
+    {
+     "title": "Deutsche Bank shares drop after reports on mass data leak",
+     "publisher": "Yahoo Finance UK",
+     "url": "https://uk.finance.yahoo.com/news/deutsche-bank-shares-drop-reports-093608610.html"
+    },
+    {
+     "title": "Deutsche Bank defends itself from media reports based on leaks",
+     "publisher": "Global Banking & Finance Review (Reuters)",
+     "url": "https://www.globalbankingandfinance.com/deutsche-bank-defends-itself-media-reports-based-leaks/"
+    }
+   ],
+   "prompted_by": {
+    "title": "Deutsche Bank Shares Drop After Wide-Ranging Whistleblower Leaks",
+    "publisher": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemthcWFzbFdXOUIzNFRNZGFQRkJHbkZTYVVkNHZYcUlwd2x3U2YwMGZfejhwTDJ5bzV1Zk5ydGJfRVdsSXg2eDZqYmtJOWhtcnNtR2ZoM3V6eThuWHNiMmduRmNrQkd4d2hodEZPdmJ4Y3YzVDd6V0FiS1g1Ym1tN3BKYnJSNkxFSDRlaUNOOHZBRkxYdHdTUG5lQTNfSkZUVG9z?oc=5"
+   }
+  },
+  "974587f2c7e5": {
+   "headline": "SEC actions against public companies fall to a record low in fiscal 2026",
+   "dek": "Two independent tallies show the SEC bringing far fewer cases, with no FCPA actions at all, as Chair Paul Atkins stresses quality over quantity.",
+   "body_md": "The US Securities and Exchange Commission brought fewer enforcement cases against public companies in fiscal 2026 than in any year on record, according to new research, part of a broader slowdown in the agency's enforcement work under Chair Paul Atkins.\n\n**The numbers.** A report from Cornerstone Research and the NYU Pollack Center for Law & Business, released on 12 November, counts 16 SEC actions against public companies and their subsidiaries in the year to 30 September 2026. That is down 71% from 56 the year before, the lowest total since the authors' database began in fiscal 2010 and the steepest annual drop it has recorded. Monetary settlements totalled $184 million, also a record low and more than $600 million below fiscal 2025. Disgorgement and interest made up just $1 million of that figure.\n\nFor the first time in the database's history, there were no Foreign Corrupt Practices Act actions against public companies or subsidiaries. Over fiscal 2017 to 2025, FCPA matters had averaged about one in ten such cases. No corporate defendant admitted wrongdoing, and only 63% of settling defendants paid any money, against an average of 92% in recent years. Issuer reporting and disclosure cases made up half of the year's actions, and individuals were named alongside companies more often than in any of the previous ten years.\n\n**The wider picture.** Separate tallies summarised by The D&O Diary point the same way across the SEC's whole docket. Brattle Group counted 308 total actions in fiscal 2026, while a Covington count of stand-alone actions fell to 232, from 303 a year earlier and 431 in fiscal 2024. Activity was heavily back-loaded, with 69 stand-alone actions in the first half and 163 in the second.\n\n**Why.** Atkins has said the agency will move away from \"regulation by enforcement\" and focus on fraud, market manipulation and abuses of trust rather than case counts. Enforcement Director David Woodcock, who took over in May after Margaret Ryan's resignation in March, has pointed to a roughly 20% staff reduction in 2025 and a 43-day government shutdown early in the fiscal year. An executive order issued in February 2025 that paused FCPA enforcement has, in practice, halted new SEC foreign bribery cases.\n\n### What this means for legal and compliance leaders\nFewer SEC cases do not change the underlying law or the exposure companies face from the Justice Department, state attorneys general, foreign authorities and shareholder suits. The shift toward naming individuals, and the concentration on disclosure cases, indicates where the agency's remaining attention is directed. A future change in leadership could also bring a quick rebound.\n\n### Questions you may hear\n- If the SEC is bringing so few cases, where is our real enforcement exposure now?\n- Does the absence of FCPA cases mean foreign bribery risk has gone down?\n- Why are more executives being named personally even as corporate cases fall?\n",
+   "sources": [
+    {
+     "title": "SEC Enforcement Actions Against Public Companies and Subsidiaries Fall to Record Low in FY 2026",
+     "publisher": "Cornerstone Research (PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/sec-enforcement-actions-against-public-companies-and-subsidiaries-fall-to-record-low-in-fy-2026-302937263.html"
+    },
+    {
+     "title": "Reduced SEC Enforcement Activity in the 2026 Fiscal Year",
+     "publisher": "The D&O Diary",
+     "url": "https://www.dandodiary.com/2026/11/articles/securities-enforcement/reduced-sec-enforcement-activity-in-the-2026-fiscal-year/"
+    }
+   ],
+   "prompted_by": {
+    "title": "SEC enforcement drops to new low",
+    "publisher": "Global Investigations Review",
+    "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/sec-enforcement-drops-new-low"
+   }
+  }
+ }
+}
