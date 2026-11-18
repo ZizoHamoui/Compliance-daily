@@ -1,0 +1,650 @@
+{
+ "date": "2026-11-18",
+ "lead_id": "ef0c19fcf32d",
+ "editor_note": "Speak-up keeps driving enforcement: former employees sit behind a $36 million senior-care settlement as DOJ speeds up whistleblower payouts. Meanwhile FinCEN rewrites beneficial ownership checks and Brussels centralises sanctions enforcement.",
+ "bottom_line": [
+  {
+   "id": "ef0c19fcf32d",
+   "text": "InnovAge pays $36 million over alleged delays in specialist care for seniors; two former employees who filed qui tam suits share $4.5 million."
+  },
+  {
+   "id": "8f6f8840942d",
+   "text": "FinCEN proposes reworking beneficial ownership due diligence, ending re-verification at every new account and barring ITINs as owner identifiers."
+  },
+  {
+   "id": "45fe0716dcb3",
+   "text": "The European Commission creates an EU Sanctions Office spanning policy, enforcement and anti-circumvention, and names a new sanctions envoy."
+  }
+ ],
+ "stat": {
+  "id": "ef0c19fcf32d",
+  "text": "$36 million: InnovAge's False Claims Act settlement, with about $25.7 million to the US and $10.3 million to four states."
+ },
+ "podcast_brief": "## The day in one line\n\nToday's paper is about what happens when warnings inside an organisation go unheard, and how governments are building faster channels to hear them instead. A senior-care company pays $36 million in a case started by two former employees, the Justice Department is paying fraud tipsters at the moment of charging, and on both sides of the Atlantic regulators are reworking the plumbing of due diligence and sanctions enforcement.\n\n## Story 1 — InnovAge pays $36 million over missed specialist care for seniors\n\n**The facts.**\n- On 17 November 2026 the Justice Department announced that InnovAge Holding Corporation, a Denver-based operator of PACE programmes, agreed to pay $36 million to resolve allegations under the federal False Claims Act and state laws.\n- The government alleged that, from May 2016 to October 2022, InnovAge failed to provide required comprehensive medical services and timely specialist referrals at its PACE centres in California, Colorado, New Mexico and Virginia.\n- According to the allegations, the company did not maintain adequate specialist networks and, in thousands of instances, failed to schedule specialist care on time, including oncology, cardiology, surgery and neurology.\n- The allegations also describe a trail of internal warning signs: internal reports showing recurring overdue referrals, senior physicians complaining about scheduling practices and delays, and internal audits finding significant backlogs, many referrals outstanding for more than a year.\n- About $25.7 million goes to the United States, and a combined $10.3 million to Colorado, California, New Mexico and Virginia.\n- The case began with two whistleblower lawsuits filed by former employees, Monita Poudyal and Karen Lapcewich. They will share $4.5 million of the federal recovery.\n\n**Background.**\n- PACE (Program of All-Inclusive Care for the Elderly) is a capitated model paid by Medicare and Medicaid: the provider is paid a set amount per member, so the financial incentive runs toward delivering less care, not more. That makes access to care, rather than overbilling, the core fraud theory.\n- InnovAge has faced earlier scrutiny. It went public in 2021, and in late 2025 a court approved a $27 million settlement of a securities class action brought by investors after its IPO. Federal and state regulators had also previously restricted enrollment at some of its centres over care-quality concerns.\n- The whistleblower suits were filed in federal court in Colorado in 2021 and 2022, so the resolution comes about five years after the first complaint. DOJ notes the claims are allegations only, with no determination of liability.\n\n**Who's affected.**\n- Healthcare providers paid through Medicare Advantage, Medicaid managed care and similar capitated or value-based arrangements.\n- Compliance, quality and clinical operations teams who own referral tracking, network adequacy and internal audit follow-up.\n\n**Why it matters.** This is a False Claims Act case built on care that was not delivered, rather than on inflated bills. The allegations rest heavily on the company's own records: audits, internal reports and physician complaints that identified the problem. Two former employees took those concerns to court, and they share in the recovery. It is a clear example of how a quality issue becomes a fraud issue once a company is paid to provide a service and the evidence shows it knew the service was lagging.\n\n**How this comes up with a GC or CLO.** Healthcare general counsel are likely to raise this as an example of exposure under value-based payment models, where the question is whether the company delivered what it was paid for. Compliance leaders may point to the internal audit trail as the heart of the case: the issue was found, but the findings allegedly did not lead to timely correction.\n\n**Questions a buyer might ask.**\n- When an internal audit flags a backlog that persists for months, who owns closing it, and how would we show that it was escalated?\n- What is our exposure under capitated contracts if access-to-care metrics slip?\n\n## Story 2 — FinCEN proposes overhaul of beneficial ownership due diligence\n\n**The facts.**\n- On 17 November 2026 FinCEN, the Treasury's financial-crimes unit, proposed changes to its customer due diligence rule, which requires financial institutions to identify and verify the beneficial owners of their legal-entity customers.\n- The proposal would codify relief granted in February 2026 so institutions no longer have to re-identify and verify beneficial owners every time an existing customer opens a new account.\n- It would spell out the data required for each beneficial owner: name, date of birth, address and an identifying number, and it would bar using an individual taxpayer identification number (ITIN) as that number.\n- It would make explicit that institutions may collect additional information on owners where it helps manage risk or address supervisory concerns.\n- Treasury frames this as implementing Executive Order 14406, issued in May 2026. Comments are due 60 days after Federal Register publication; FinCEN's own analysis counts about 14,554 covered institutions.\n\n**Background.**\n- The CDD rule took effect in 2018 after being finalised in 2016. Banks have long argued that repeated ownership collection for the same customer adds cost without adding much insight.\n\n**Who's affected.**\n- Banks, broker-dealers, mutual funds and futures firms, and the onboarding, KYC and financial-crime teams inside them.\n\n**Why it matters.** Beneficial ownership is where AML meets third-party risk: knowing who actually stands behind a counterparty. Moving from a fixed rule to triggers based on risk gives institutions flexibility but also puts more weight on their own judgement and records of when they refreshed information. The ITIN restriction is likely to be one of the more debated pieces.\n\n**How this comes up with a GC or CLO.** Bank general counsel and chief compliance officers will see this as a chance to cut repetitive work, paired with the question of how examiners will judge the new risk-based triggers.\n\n**Questions a buyer might ask.**\n- What events would trigger a refresh of ownership data, and how do we document that?\n- How do we handle onboarding when an owner only has an ITIN?\n\n## Story 3 — EU creates a central Sanctions Office\n\n**The facts.**\n- On 18 November 2026 the European Commission formally created an EU Sanctions Office to bring together its expertise across the whole sanctions lifecycle: policy design, implementation, enforcement and anti-circumvention.\n- The Commission also announced the appointment of a new EU Sanctions Envoy alongside the office.\n- Financial services commissioner Maria Luís Albuquerque had previewed the plan in early November, saying it would strengthen coordination, give member states faster guidance and improve data sharing and analysis. An informal crypto sanctions task force was announced at the same time, initially planned to run for about 12 months.\n\n**Background.**\n- The EU adopts sanctions together, but each member state enforces them on its own territory, which has produced uneven enforcement and gaps that intermediaries exploit.\n- Crypto has become a focus. The rouble-pegged stablecoin A7A5 reportedly moved more than $102 billion before coordinated US, UK and EU sanctions, according to blockchain analytics firm Elliptic.\n\n**Who's affected.**\n- Exporters, banks, shippers, insurers, traders and crypto firms with EU operations, and their sanctions screening and trade compliance teams.\n\n**Why it matters.** A single office that covers both rule-making and anti-circumvention suggests more consistent guidance and more data-driven attention to how goods and money reach Russia through third countries. For companies, circumvention risk usually lives in distributors, resellers and payment intermediaries, not in direct sales.\n\n**How this comes up with a GC or CLO.** Legal teams at EU-exposed companies are likely to ask whether centralisation means closer coordination between national enforcers and the Commission.\n\n**Questions a buyer might ask.**\n- Does a central office change who enforces sanctions against companies, or only how guidance is coordinated?\n\n## Story 4 — DOJ's fast-track fraud whistleblower awards\n\n**The facts.** The DOJ Fraud Division's Whistleblower Incentive Program, launched 20 October, pays $10,000 to $30,000 for original, written tips that lead to criminal charges in healthcare and government-programme fraud, with a focus on hospice, home health, daycare and special services. Awards are paid when charges are unsealed, not after conviction. Recipients can still seek larger awards under other DOJ programmes.\n\n**Background.** Older DOJ programmes pay only after cases fully resolve, which can take years.\n\n**Who's affected.** Healthcare and federally funded programme providers.\n\n**Why it matters.** Quick payment gives employees another reason to report directly to prosecutors, shortening the window for companies to find and self-report problems.\n\n**How this comes up.** Healthcare compliance leaders may connect it directly to cases like InnovAge.\n\n**One question.** Are our own compliance and audit staff eligible if they report externally?\n\n## Story 5 — California warns companies bribery is still a crime\n\n**The facts.** On 10 November California Attorney General Rob Bonta issued a legal alert reminding businesses that paying bribes or illegal gratuities to federal officials remains unlawful, citing federal bribery and fraud laws and California's Unfair Competition Law.\n\n**Background.** The alert explicitly responds to signals from the federal administration, which has narrowed some corruption enforcement priorities.\n\n**Who's affected.** Any company doing business in California that deals with government officials.\n\n**Why it matters.** States are positioning themselves as a backstop on corruption, and prosecutions can outlast an administration.\n\n**How this comes up.** GCs asking whether reduced federal focus lowers bribery risk will hear that state enforcers say no.\n\n**One question.** Does our anti-corruption programme treat gifts to domestic officials as seriously as foreign ones?\n\n## Story 6 — CNIL fines a company €5 million over plain-text passwords\n\n**The facts.** France's data protection authority fined an unnamed company €5 million in November for failing to secure customer data, including storing passwords in plain text, and for keeping data too long.\n\n**Background.** Security and retention are basic GDPR obligations and frequent fine triggers.\n\n**Who's affected.** Any organisation holding customer accounts in France or the EU.\n\n**Why it matters.** Fundamental failures, not novel ones, still produce seven-figure fines.\n\n**How this comes up.** Privacy counsel may cite it when discussing retention schedules.\n\n**One question.** Who signs off when data is kept beyond its retention period?\n\n## Story 7 — FCA sets expectations for car finance settlement offers\n\n**The facts.** The UK Financial Conduct Authority set expectations for lenders making compensation offers in the motor finance redress process, citing research that 89% of affected customers want the option of an offer now rather than waiting for legal challenges.\n\n**Background.** The car finance commission scandal is one of the largest UK consumer remediation exercises in years.\n\n**Who's affected.** UK lenders and their complaints teams.\n\n**Why it matters.** It tests how firms handle complaints fairly and at scale.\n\n**How this comes up.** UK compliance officers will see it as a model of regulator-supervised remediation.\n\n**One question.** Could we show a regulator how each complaint was handled and closed?\n\n## Story 8 — Assisted living facility settles EEOC pregnancy discrimination suit\n\n**The facts.** Prairie Green at Fay's Point, an assisted living facility in Blue Island, Illinois, will pay $160,000 and provide other relief to settle an EEOC pregnancy discrimination lawsuit.\n\n**Background.** Pregnancy discrimination remains a steady EEOC enforcement area.\n\n**Who's affected.** Employers in healthcare and beyond.\n\n**Why it matters.** EEOC settlements usually come with required policy and training changes.\n\n**How this comes up.** HR-facing counsel may raise it as a routine but costly risk.\n\n**One question.** How are accommodation requests tracked and resolved?\n\n## Story 9 — Labor Department proposes QPAM class exemption\n\n**The facts.** The Labor Department proposed a class exemption to streamline how qualified professional asset managers keep using the QPAM exemption, to protect retirement plans from disruption.\n\n**Background.** A criminal conviction of an asset manager or affiliate can disqualify it from QPAM status.\n\n**Who's affected.** Asset managers and financial groups with plan clients.\n\n**Why it matters.** It is a little-known collateral consequence of corporate criminal resolutions.\n\n**How this comes up.** GCs at financial groups may connect it to resolution negotiations.\n\n**One question.** What happens to our plan business if an affiliate pleads guilty?\n\n## Story 10 — FCA brings ESG rating providers into regulation\n\n**The facts.** The FCA finalised rules bringing ESG rating providers under its regulation for the first time.\n\n**Background.** Ratings have faced criticism for opacity and inconsistent methods.\n\n**Who's affected.** Rating providers, asset managers and rated companies.\n\n**Why it matters.** Third-party scores that investors rely on now face regulatory standards.\n\n**How this comes up.** Sustainability and compliance leaders may ask how ratings will change.\n\n**One question.** How much do our disclosures rely on third-party ESG scores?\n\n## Story 11 — CNIL issues 38 simplified sanctions\n\n**The facts.** Between June and October 2026 the CNIL issued 38 sanctions under its simplified procedure, on cookies, security, marketing and non-cooperation; 23 came from complaints.\n\n**Background.** The simplified procedure handles smaller cases quickly.\n\n**Who's affected.** Mid-sized companies operating in France.\n\n**Why it matters.** Complaints move quickly into sanctions.\n\n**How this comes up.** Privacy teams may use it to show volume of routine enforcement.\n\n**One question.** How fast do we respond to individual privacy complaints?\n\n## Story 12 — The compliance brain drain\n\n**The facts.** Corporate Compliance Insights reports that the departure of key compliance staff takes judgment and regulator relationships that take years to rebuild, and that Asia-Pacific regulators are now naming the problem.\n\n**Background.** Compliance teams are often thin, with knowledge held by individuals.\n\n**Who's affected.** Chief compliance officers and boards.\n\n**Why it matters.** Knowledge continuity is emerging as a governance risk.\n\n**How this comes up.** CCOs may raise succession planning and documentation.\n\n**One question.** If our lead regulatory specialist left, what would we lose?\n\n## Story 13 — Paris hosts shadow fleet conference\n\n**The facts.** France will host an international conference on Russia's shadow fleet and is pressing for restrictions on companies exporting petrol to Russia in the 22nd EU sanctions package.\n\n**Background.** Ageing tankers with opaque ownership carry Russian oil around price caps.\n\n**Who's affected.** Shippers, insurers, traders and energy firms.\n\n**Why it matters.** It widens the set of companies facing sanctions diligence questions.\n\n**How this comes up.** Trade compliance teams may cite it on vessel screening.\n\n**One question.** How do we verify vessel ownership and history?\n\n## Story 14 — EEOC releases fiscal 2026 financial report\n\n**The facts.** The EEOC released its fiscal 2026 Agency Financial Report, highlighting what it called strong enforcement results.\n\n**Background.** The agency has rolled back some guidance this year.\n\n**Who's affected.** Employers nationwide.\n\n**Why it matters.** It gives a read on enforcement activity as priorities shift.\n\n**How this comes up.** Employment counsel may use it to gauge risk.\n\n**One question.** Which charge types are rising?\n\n## Story 15 — OSHA cites pastry maker and staffing agency\n\n**The facts.** OSHA cited a New Jersey pastry manufacturer and a staffing agency for amputation and hazardous energy dangers after two injuries in three months, proposing $351,000 in penalties.\n\n**Background.** OSHA routinely holds both host employers and staffing agencies responsible.\n\n**Who's affected.** Manufacturers using temporary workers.\n\n**Why it matters.** Liability follows workers across contractor relationships.\n\n**How this comes up.** It illustrates shared responsibility with third parties.\n\n**One question.** Who trains temporary workers on safety?\n\n## Story 16 — EU ministers to discuss AI safety\n\n**The facts.** EU digital ministers will discuss AI safety in December, with countries asked for views on testing, cybersecurity and international cooperation.\n\n**Background.** The EU AI Act is being phased in.\n\n**Who's affected.** Technology companies and AI users.\n\n**Why it matters.** Ministerial views shape how AI rules are applied.\n\n**How this comes up.** Legal teams tracking AI governance will follow it.\n\n**One question.** How do we test AI tools before deployment?\n\n## Story 17 — FCA charges individual with laundering\n\n**The facts.** The FCA charged Raymond Fieldhouse with laundering more than £1.42 million from investment scams between 2017 and 2018.\n\n**Background.** The FCA uses criminal powers against investment fraud.\n\n**Who's affected.** Financial firms handling suspicious flows.\n\n**Why it matters.** It shows continued criminal enforcement around scam proceeds.\n\n**How this comes up.** It is a reminder of the money-mule problem.\n\n**One question.** How do we spot accounts receiving scam proceeds?\n",
+ "cards": [
+  {
+   "id": "ef0c19fcf32d",
+   "kind": "link",
+   "title": "PACE organisation InnovAge agrees to pay $36M to resolve False Claims Act allegations over missed specialist care for seniors",
+   "summary": "Denver-based InnovAge will pay $36 million to resolve allegations that it violated the False Claims Act and state laws by failing to provide required comprehensive medical services and timely specialist referrals to elderly PACE enrollees.",
+   "impact": "A care-quality failure became a False Claims Act case, brought by former employees, showing how unaddressed internal warnings turn into fraud exposure.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "senior care center building",
+   "url": "https://www.justice.gov/opa/pr/pace-organization-innovage-agrees-pay-36m-resolve-false-claims-act-allegations-failing",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-17T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tuba%2CBenguetjf9999_08.JPG/1280px-Tuba%2CBenguetjf9999_08.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Ramon FVelasquez",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tuba,Benguetjf9999_08.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Tuba,Benguetjf9999 08.JPG"
+   },
+   "tier": "official",
+   "topic": "false_claims",
+   "storyline": "whistleblower-rewards"
+  },
+  {
+   "id": "8f6f8840942d",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "FinCEN proposes overhaul of beneficial ownership rules for customer due diligence",
+   "summary": "FinCEN proposed revising its customer due diligence rule: codifying relief from re-collecting beneficial ownership at every new account, specifying required owner data, and barring ITINs as a beneficial owner's identifying number. Comments run 60 days.",
+   "impact": "The proposal resets how roughly 14,500 banks, broker-dealers, funds and futures firms verify who owns their corporate customers, a core third-party due diligence control.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst",
+    "gc"
+   ],
+   "item_type": "proposal",
+   "image_query": "Treasury Building Washington",
+   "source": "AI Briefing · FinCEN",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Us-treasury-building.jpg/1280px-Us-treasury-building.jpg",
+   "published": "2026-11-17",
+   "region": "US",
+   "lang": "en",
+   "topic": "due_diligence",
+   "image_credit": {
+    "kind": "commons",
+    "author": "MeanieHyaena",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Us-treasury-building.jpg"
+   }
+  },
+  {
+   "id": "45fe0716dcb3",
+   "kind": "link",
+   "title": "European Commission creates EU Sanctions Office and appoints a new EU Sanctions Envoy",
+   "summary": "The Commission has created an EU Sanctions Office bringing together its expertise across the full sanctions lifecycle, from policy design to implementation, enforcement and anti-circumvention, and appointed a new EU Sanctions Envoy.",
+   "impact": "A single Commission office covering enforcement and circumvention points to more consistent, data-driven sanctions scrutiny of EU companies and their intermediaries.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Berlaymont building Brussels",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-18T11:36+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "official",
+   "topic": "aml_sanctions"
+  },
+  {
+   "id": "bec5a3aaac8e",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "DOJ's new fraud whistleblower programme pays tipsters when charges are filed, not years later",
+   "summary": "The DOJ Fraud Division's Whistleblower Incentive Program pays $10,000 to $30,000 for original tips that lead to criminal charges in healthcare and government-programme fraud, without waiting for convictions or forfeiture.",
+   "impact": "Faster payouts shorten the gap between an employee's concern and a prosecutor's call, narrowing the window for companies to find and self-report problems first.",
+   "industries": [
+    "healthcare",
+    "public_sector"
+   ],
+   "personas": [
+    "cco",
+    "gc",
+    "clo"
+   ],
+   "item_type": "rule",
+   "image_query": "Robert F. Kennedy Department of Justice Building",
+   "source": "AI Briefing · Holland & Knight",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "published": "2026-10-20",
+   "region": "US",
+   "lang": "en",
+   "topic": "whistleblowing",
+   "storyline": "whistleblower-rewards",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "e59e087bd7ca",
+   "kind": "link",
+   "title": "California attorney general warns companies that bribing officials is still a crime",
+   "summary": "California Attorney General Rob Bonta published a legal bulletin on 10 November reminding the corporate community that bribery remains a crime.",
+   "impact": "A state attorney general stepping in on corruption signals that softer federal priorities do not close off bribery exposure for companies operating in California.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "rule",
+   "image_query": "California State Capitol Sacramento",
+   "url": "https://www.radicalcompliance.com/2026/11/17/california-warns-cos-bribery-still-bad/",
+   "source": "Radical Compliance",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-17T16:42+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Sacramento%2C-California---State-Capitol.jpg/1280px-Sacramento%2C-California---State-Capitol.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Andre m",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sacramento,-California---State-Capitol.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Sacramento,-California---State-Capitol.jpg"
+   },
+   "tier": "press",
+   "topic": "anti_bribery"
+  },
+  {
+   "id": "dfbf1b88b06c",
+   "kind": "link",
+   "title": "CNIL fines a company €5 million for storing customer passwords in plain text",
+   "summary": "France's data protection authority fined a company €5 million in November 2026 for insufficient measures to secure customer data and for keeping data for an excessive period.",
+   "impact": "Basic security and retention failures still draw seven-figure GDPR fines, keeping data governance on the agenda of legal and compliance leadership.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "server room data center",
+   "url": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
+   "source": "CNIL (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-18T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   },
+   "tier": "official",
+   "topic": "privacy"
+  },
+  {
+   "id": "1f148c2ee545",
+   "kind": "link",
+   "title": "FCA sets expectations for firms making car finance settlement offers",
+   "summary": "The FCA set out expectations for firms offering compensation in the motor finance redress process, citing research that 89% of complaining customers want an offer now rather than waiting for legal challenges to conclude.",
+   "impact": "The car finance redress saga remains one of the UK's largest conduct remediation exercises, testing how lenders handle complaints and fair treatment at scale.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "car dealership forecourt",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-sets-expectations-firms-making-car-finance-settlement-offers",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/1984_Lancia_Delta_HF_Turbo_16_M-T_%2814435226067%29.jpg/1280px-1984_Lancia_Delta_HF_Turbo_16_M-T_%2814435226067%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Charlie from United Kingdom",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1984_Lancia_Delta_HF_Turbo_16_M-T_(14435226067).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "1984 Lancia Delta HF Turbo 16 M-T (14435226067).jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement"
+  },
+  {
+   "id": "5ad99a324608",
+   "kind": "link",
+   "title": "Illinois assisted living facility to pay $160,000 to settle EEOC pregnancy discrimination suit",
+   "summary": "Prairie Green at Fay's Point, an assisted living facility in Blue Island, Illinois, will pay $160,000 and provide other relief to settle a pregnancy discrimination lawsuit filed by the EEOC.",
+   "impact": "Pregnancy discrimination remains an active EEOC enforcement area, with settlements that typically pair payments with required changes to workplace policies and training.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "assisted living facility building",
+   "url": "https://www.eeoc.gov/newsroom/prairie-green-fays-point-pay-160000-pregnancy-discrimination",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-17T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Embassy%2C_Mount_Lebanon%2C_2024-03-22%2C_02.jpg/1280px-The_Embassy%2C_Mount_Lebanon%2C_2024-03-22%2C_02.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Cbaile19",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Embassy,_Mount_Lebanon,_2024-03-22,_02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "The Embassy, Mount Lebanon, 2024-03-22, 02.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law"
+  },
+  {
+   "id": "cfc0bfc750ca",
+   "kind": "link",
+   "title": "Labor Department proposes new class exemption for asset managers facing disqualification",
+   "summary": "The Department of Labor's EBSA proposed a class exemption to streamline how qualified professional asset managers continue using the QPAM exemption, aimed at protecting retirement plans from disruptions.",
+   "impact": "QPAM status is where a corporate criminal conviction can spill into a firm's retirement-plan business, making this a quiet but material collateral-consequence issue.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "proposal",
+   "image_query": "Frances Perkins Building Washington",
+   "url": "http://www.dol.gov/newsroom/releases/ebsa/ebsa20261117",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-17T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg/1280px-Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Department of Labor sign Washington DC 2025-02-04 12-38-46.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law"
+  },
+  {
+   "id": "77a01e987f42",
+   "kind": "link",
+   "title": "New FCA rules bring ESG rating providers into UK regulation for the first time",
+   "summary": "The FCA finalised rules bringing environmental, social and governance rating providers into its regulation for the first time, aiming to raise standards in a market investors rely on.",
+   "impact": "Regulating ESG raters adds scrutiny to the third-party scores companies and investors use, tightening the link between sustainability claims and accountability.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "City of London skyline",
+   "url": "https://www.fca.org.uk/news/press-releases/new-fca-rules-bring-esg-rating-providers-uk-regulation-first-time",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg/1280px-City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "David Illif with image-alignment and Photoshoping by User:Colin and Kim Hansen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "City of London skyline from London City Hall - Oct 2008 - Aligned.jpg"
+   },
+   "tier": "official",
+   "topic": "esg"
+  },
+  {
+   "id": "1ad4a59c104b",
+   "kind": "link",
+   "title": "CNIL issues 38 new sanctions under its simplified procedure since June",
+   "summary": "Between June and October 2026, France's CNIL issued 38 sanctions under its simplified procedure covering cookies, data security, marketing and non-cooperation; 23 originated from complaints.",
+   "impact": "A steady flow of fast-track sanctions, most triggered by complaints, shows how ordinary privacy lapses now reach regulators quickly.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "analyst",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Paris rooftops",
+   "url": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
+   "source": "CNIL (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-17T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Paris_-_Rooftops_in_Paris_-_3052.jpg/1280px-Paris_-_Rooftops_in_Paris_-_3052.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jorge Royan",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Rooftops_in_Paris_-_3052.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Paris - Rooftops in Paris - 3052.jpg"
+   },
+   "tier": "official",
+   "topic": "privacy"
+  },
+  {
+   "id": "5a16cc6d9124",
+   "kind": "link",
+   "title": "Compliance brain drain: when the only person who understands the rules walks out the door",
+   "summary": "A departing compliance officer's qualifications can be rebuilt in months, but the judgment and regulator relationships that leave with them take years; Asia-Pacific regulators are now naming the knowledge drain outright.",
+   "impact": "Key-person dependency in compliance teams is becoming a supervisory concern, framing staffing and knowledge continuity as a governance risk.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "clo"
+   ],
+   "item_type": "analysis",
+   "image_query": "empty office desks",
+   "url": "https://www.corporatecomplianceinsights.com/compliance-brain-drain-when-only-person-who-understands-rules-walks-out-door/",
+   "source": "Corporate Compliance Insights",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-18T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/St._Louis_Police_Lantern_Slides-_Empty_office_room_associated_with_the_City_of_St._Louis_Police_Department._-_DPLA_-_d2ca27b3db11f4f86e16f52a01df412f.jpg/1280px-St._Louis_Police_Lantern_Slides-_Empty_office_room_associated_with_the_City_of_St._Louis_Police_Department._-_DPLA_-_d2ca27b3db11f4f86e16f52a01df412f.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Unknown",
+    "license": "No restrictions",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:St._Louis_Police_Lantern_Slides-_Empty_office_room_associated_with_the_City_of_St._Louis_Police_Department._-_DPLA_-_d2ca27b3db11f4f86e16f52a01df412f.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "St. Louis Police Lantern Slides- Empty office room associated with the City of St. Louis Police Department. - DPLA - d2ca27b3db11f4f86e16f52a01df412f.jpg"
+   },
+   "tier": "press",
+   "topic": "governance"
+  },
+  {
+   "id": "dfab01c5ed00",
+   "kind": "link",
+   "title": "Paris to host international conference on Russia's shadow fleet",
+   "summary": "France will host an international conference on Russia's shadow fleet and is calling for restrictions on entities exporting petrol to Russia in the EU's 22nd sanctions package.",
+   "impact": "Pressure on the shadow fleet and fuel exporters widens the circle of shippers, insurers and traders facing sanctions due diligence questions.",
+   "industries": [
+    "manufacturing_energy",
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "image_query": "oil tanker at sea",
+   "url": "https://www.rapporteur.com/news/paris-to-host-international-conference-on-russian-shadow-fleet/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-16T12:48+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Oil_Tanker_in_North_Sea_3928.jpg/1280px-Oil_Tanker_in_North_Sea_3928.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "ImagePerson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Oil_Tanker_in_North_Sea_3928.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Oil Tanker in North Sea 3928.jpg"
+   },
+   "tier": "press",
+   "topic": "aml_sanctions"
+  },
+  {
+   "id": "05718377d9e8",
+   "kind": "link",
+   "title": "EEOC releases fiscal year 2026 agency financial report",
+   "summary": "The EEOC released its fiscal 2026 Agency Financial Report, highlighting what it called sound financial stewardship and strong enforcement results.",
+   "impact": "The agency's own scorecard gives a read on how active federal workplace discrimination enforcement remains as its priorities shift.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "EEOC headquarters Washington",
+   "url": "https://www.eeoc.gov/newsroom/eeoc-releases-fiscal-year-2026-agency-financial-report",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-16T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "storyline": "eeoc-guidance-rollback"
+  },
+  {
+   "id": "63f93379e416",
+   "kind": "link",
+   "title": "OSHA cites New Jersey pastry maker and staffing agency, proposes $351K in fines after two injuries",
+   "summary": "The Labor Department cited a pastry manufacturer and a staffing agency in Pedricktown, New Jersey, for exposing workers to hazardous energy and amputation hazards after two injuries in three months, proposing $351,000 in penalties.",
+   "impact": "Citing both the host employer and the staffing agency shows how safety liability follows workers across contractor relationships.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "industrial bakery production line",
+   "url": "http://www.dol.gov/newsroom/releases/osha/osha20261116-0",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-16T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg/1280px-Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_-_Department_of_Labor_(53839145147).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building - Department of Labor (53839145147).jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement"
+  },
+  {
+   "id": "e49bebbf99a4",
+   "kind": "link",
+   "title": "EU digital ministers to discuss AI safety at December meeting",
+   "summary": "EU digital ministers will discuss AI safety at their December meeting, with countries asked to weigh in on testing, cybersecurity and international cooperation.",
+   "impact": "Ministerial attention to AI testing and safety shapes how the EU's AI governance regime is applied, an expanding area for legal departments.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "proposal",
+   "image_query": "Justus Lipsius building Brussels",
+   "url": "https://www.rapporteur.com/news/digital-ministers-to-discuss-ai-safety-at-december-meeting/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-17T14:23+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Justus_Lipsius_building%2C_2010%2C_Brussels_-_panoramio.jpg/1280px-Justus_Lipsius_building%2C_2010%2C_Brussels_-_panoramio.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Aulo Aasmaa",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Justus_Lipsius_building,_2010,_Brussels_-_panoramio.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Justus Lipsius building, 2010, Brussels - panoramio.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance"
+  },
+  {
+   "id": "54eb19fbaf3d",
+   "kind": "link",
+   "title": "FCA charges individual with laundering £1.42m from investment scams",
+   "summary": "The FCA charged Raymond Fieldhouse with a money laundering offence, accusing him of laundering more than £1.42 million from investment scams between June 2017 and August 2018.",
+   "impact": "The FCA continues to use its criminal powers against laundering of scam proceeds, part of its wider push on investment fraud.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Stockport town hall",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-charges-individual-money-laundering",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Stockport_town_hall_2009_001.jpg/1280px-Stockport_town_hall_2009_001.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zzztriple2000",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stockport_town_hall_2009_001.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Stockport town hall 2009 001.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement"
+  }
+ ],
+ "briefings": {
+  "8f6f8840942d": {
+   "headline": "FinCEN proposes overhaul of beneficial ownership rules for customer due diligence",
+   "dek": "Treasury's financial-crimes unit wants to codify relief from repeated ownership checks while spelling out exactly what data banks must collect.",
+   "body_md": "The Financial Crimes Enforcement Network (FinCEN) on 17 November 2026 proposed changes to its customer due diligence (CDD) rule, the regulation that requires banks and other financial institutions to identify and verify the people who own and control their legal-entity customers. Treasury presented the proposal as part of its implementation of Executive Order 14406, \"Restoring Integrity to America's Financial System,\" signed in May 2026.\n\n### Key facts\n\nThe proposal makes three main changes. First, it would codify exceptive relief FinCEN granted in February 2026, so that institutions no longer have to identify and verify a legal-entity customer's beneficial owners every time that customer opens a new account. According to a summary of the notice, collection would instead be tied to the first account opening, to facts that call earlier information into question, and to risk-based ongoing due diligence.\n\nSecond, it would write into the rule text the specific information required for each beneficial owner: name, date of birth, address and an identifying number. An individual taxpayer identification number (ITIN) could not serve as that identifying number for a beneficial owner, following a joint advisory issued in June.\n\nThird, it would make explicit that institutions may gather additional beneficial owner information when it helps them manage risk or address supervisory concerns. Treasury Secretary Scott Bessent said the rule cuts unnecessary burden while giving institutions more flexibility.\n\nComments are due 60 days after publication in the Federal Register. FinCEN's analysis puts the covered population at roughly 14,554 institutions, including about 8,988 banks and 3,277 broker-dealers, and the proposed effective date is 90 days after a final rule is published.\n\n### Background\n\nThe CDD rule dates from 2016 and added beneficial ownership verification as a core element of anti-money-laundering programmes. Banks have long complained about re-collecting the same ownership data for repeat customers. The proposal follows FinCEN's broader April 2026 plan to reform AML programme requirements around effectiveness rather than box-ticking.\n\n### What this means for legal and compliance leaders\n\nBeneficial ownership is where AML compliance meets third-party due diligence: knowing who actually stands behind a counterparty. The proposal trades a uniform, repetitive collection duty for a more risk-based one, which places more weight on institutions' own judgement and documentation of when ownership information needs refreshing. The ITIN exclusion and the optional collection of further information also show the rule being aligned with the administration's wider policy priorities, a point likely to draw comment.\n\n### Questions you may hear\n\n- If we no longer re-verify owners at each account opening, what triggers a refresh and how is that evidenced to examiners?\n- How does the ITIN restriction affect onboarding of entities with non-US owners?\n- When would any of this actually take effect, and what stays the same in the meantime?",
+   "sources": [
+    {
+     "title": "FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions",
+     "publisher": "FinCEN",
+     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-proposed-rule-strengthen-customer-due-diligence-requirements-covered-financial-institutions"
+    },
+    {
+     "title": "FinCEN CDD Proposed Rule: ITIN Bar and Beneficial Owner Data",
+     "publisher": "RegReportingDesk",
+     "url": "https://regreportingdesk.com/fincen-cdd-proposed-rule-beneficial-ownership-itin/"
+    },
+    {
+     "title": "FinCEN Proposes Rule to Strengthen Customer Due Diligence Requirements",
+     "publisher": "Newsroom America",
+     "url": "https://newsroomamerica.com/a/6YPlC13H7FBADMUwVAQwTXgTiyz/fincen_issues_a_proposed_rule_to_strengthen_customer_due_diligence_codify_beneficial_ownership_relief_and_cut_burden_as_part_of_treasury_s_implementation_of_executive_order_14406.html"
+    }
+   ],
+   "prompted_by": {
+    "title": "FinCEN Proposes Customer Due Diligence Rule Changes",
+    "publisher": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOEF3cWRUcjRoUjJZWTkyN01GTWJzSlpoN2JlMGlNdy1LazBKc1ZCbFMzUEJnRTN3X3NmUG41cS00VzktTFFaSHh3N2N5YUN5ZWE5OTNyel9CNXNjZEw1VFBWWENUTmdEY2QyWTN4M0ZzRHlhRk5TNlRjb0UzSXliaVV5YkRXNEptTFd5RzlQU0VGZ01QWTBxdlVyMm1oSVdFOC1GM9IBVkFVX3lxTE1EZ0lhdF9GQllMeXBvMWV3WVdTTDZ2R0tjSzNCbGppU0pNbU9GdU1VbGhoUHJhcnlDLWpob1NvTTFaLUFzSlNyNTNDVkRrbEszejUyNXhR?oc=5"
+   }
+  },
+  "bec5a3aaac8e": {
+   "headline": "DOJ's new fraud whistleblower programme pays tipsters when charges are filed, not years later",
+   "dek": "The Fraud Division's pilot offers modest but fast awards for tips on healthcare and government-programme fraud.",
+   "body_md": "The Justice Department's National Fraud Enforcement Division has launched a Fraud Whistleblower Incentive Program (WHIP), a pilot that pays awards of $10,000 to $30,000 to people whose tips lead to criminal charges. Announced on 20 October 2026, it is drawing attention from practitioners because of its timing: awards are paid once DOJ files and unseals charges, rather than after convictions, appeals and forfeiture are complete.\n\n### Key facts\n\nThe programme covers federal healthcare offences and fraud on programmes run by the Departments of Agriculture, Labor, Health and Human Services, Housing and Urban Development, Education, Veterans Affairs and Defense, as well as the Small Business Administration. DOJ has said it will prioritise hospice, home healthcare, daycare and special services fraud, and that coverage could expand.\n\nTo qualify, a tip must be voluntary, original, specific, truthful and in writing, and the whistleblower must cooperate with any investigation and prosecution. Information already known to DOJ, drawn from privileged communications, or obtained through certain compliance, audit or legal roles generally does not count. People who meaningfully participated in the misconduct are excluded, with a carve-out for minimal participants. Awards are discretionary and not subject to appeal or judicial review.\n\nA WHIP award does not prevent a whistleblower from later seeking potentially larger awards under other DOJ programmes, including the Criminal Division's Corporate Whistleblower Awards Pilot Program.\n\n### Background\n\nThe Fraud Division was created in April 2026. DOJ's corporate whistleblower pilot, launched in 2024, pays a share of forfeitures but only after a matter is fully resolved, which can take years. WHIP is designed to reward tipsters much earlier in a case, at smaller amounts.\n\n### What this means for legal and compliance leaders\n\nSpeed is the point. A fast, predictable payout for reporting healthcare or programme fraud directly to prosecutors gives employees another reason to go outside the company, and the ability to stack awards means an early WHIP tip can be the first step in a larger claim. Law firms note that the value of self-disclosure falls sharply once DOJ hears about conduct from a whistleblower, so the programme raises the stakes on how quickly internal reports are triaged and investigated in healthcare and federally funded sectors.\n\n### Questions you may hear\n\n- Can an employee collect a WHIP award and still pursue a qui tam or a larger DOJ award later?\n- Are compliance and audit staff eligible if they report what they find?\n- How does this change the timing pressure around voluntary self-disclosure?",
+   "sources": [
+    {
+     "title": "DOJ Launches First Fast-Track Whistleblower Rewards Program",
+     "publisher": "Holland & Knight",
+     "url": "https://www.hklaw.com/en/insights/publications/2026/10/doj-launches-first-fast-track-whistleblower-rewards"
+    },
+    {
+     "title": "DOJ's Fraud Division Launches New Whistleblower Program",
+     "publisher": "Debevoise & Plimpton",
+     "url": "https://www.debevoise.com/insights/publications/2026/10/dojs-fraud-division-launches-new-whistleblower"
+    }
+   ],
+   "prompted_by": {
+    "title": "What To Know About DOJ's Fast-Track Whistleblower Awards",
+    "publisher": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JTFVteXRXdXgxX2ZLdU9MdkI3THNpdEY5Y3VUTkxyMUxNMDh4UmJsUi1kZDVpT2NmTXJZQzREMlJSLUJYNUNEdFpmWkQtdy1hVlhOV2FR0gFWQVVfeXFMTklMVW15dFd1eDFfZkt1T0x2QjdMc2l0RjljdVROTHIxTE0wOHhSYmxSLWRkNWlPY2ZNcllDNEQyUlItQlg1Q0R0WmZaRC13LWFWWE5XYVE?oc=5"
+   }
+  }
+ }
+}

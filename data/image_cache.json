@@ -11492,5 +11492,599 @@
    }
   }
  ],
- "v2|industrial spray painting booth": []
+ "v2|industrial spray painting booth": [],
+ "v2|senior care center building": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tuba%2CBenguetjf9999_08.JPG/1280px-Tuba%2CBenguetjf9999_08.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Ramon FVelasquez",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tuba,Benguetjf9999_08.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Tuba,Benguetjf9999 08.JPG"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Tuba%2CBenguetjf9999_03.JPG/1280px-Tuba%2CBenguetjf9999_03.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Ramon FVelasquez",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tuba,Benguetjf9999_03.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Tuba,Benguetjf9999 03.JPG"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/TubaBenguetjf0030_04.JPG/1280px-TubaBenguetjf0030_04.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Ramon FVelasquez",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:TubaBenguetjf0030_04.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "TubaBenguetjf0030 04.JPG"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Margar%C3%A9tastrasse_2%2C_2026_Kecskem%C3%A9t.jpg/1280px-Margar%C3%A9tastrasse_2%2C_2026_Kecskem%C3%A9t.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Globetrotter19",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Margar%C3%A9tastrasse_2,_2026_Kecskem%C3%A9t.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Margarétastrasse 2, 2026 Kecskemét.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/D%C3%BClmen%2C_Combi-Markt_--_2014_--_4334.jpg/1280px-D%C3%BClmen%2C_Combi-Markt_--_2014_--_4334.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Combi-Markt_--_2014_--_4334.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Dülmen, Combi-Markt -- 2014 -- 4334.jpg"
+   }
+  }
+ ],
+ "v2|treasury building washington": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Us-treasury-building.jpg/1280px-Us-treasury-building.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "MeanieHyaena",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Us-treasury-building.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/U.S._Treasury_Building_and_Albert_Gallatin_Statue.jpg/1280px-U.S._Treasury_Building_and_Albert_Gallatin_Statue.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Sealy j",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:U.S._Treasury_Building_and_Albert_Gallatin_Statue.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "U.S. Treasury Building and Albert Gallatin Statue.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Construction_of_the_United_States_Treasury_Building%2C_Washington%2C_D.C._LCCN00652413.jpg/1280px-Construction_of_the_United_States_Treasury_Building%2C_Washington%2C_D.C._LCCN00652413.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Construction_of_the_United_States_Treasury_Building,_Washington,_D.C._LCCN00652413.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Construction of the United States Treasury Building, Washington, D.C. LCCN00652413.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Construction_of_the_United_States_Treasury_Building%2C_Washington%2C_D.C._LCCN00652407.jpg/1280px-Construction_of_the_United_States_Treasury_Building%2C_Washington%2C_D.C._LCCN00652407.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Construction_of_the_United_States_Treasury_Building,_Washington,_D.C._LCCN00652407.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Construction of the United States Treasury Building, Washington, D.C. LCCN00652407.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Construction_of_the_United_States_Treasury_Building%2C_Washington%2C_D.C._LCCN00652410.jpg/1280px-Construction_of_the_United_States_Treasury_Building%2C_Washington%2C_D.C._LCCN00652410.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Construction_of_the_United_States_Treasury_Building,_Washington,_D.C._LCCN00652410.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Construction of the United States Treasury Building, Washington, D.C. LCCN00652410.jpg"
+   }
+  }
+ ],
+ "v2|california state capitol sacramento": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Sacramento%2C-California---State-Capitol.jpg/1280px-Sacramento%2C-California---State-Capitol.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Andre m",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sacramento,-California---State-Capitol.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Sacramento,-California---State-Capitol.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/World_Peace_Rose_Garden%2C_California_State_Capitol_Park-3966.jpg/1280px-World_Peace_Rose_Garden%2C_California_State_Capitol_Park-3966.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Frank Schulenburg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:World_Peace_Rose_Garden,_California_State_Capitol_Park-3966.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "World Peace Rose Garden, California State Capitol Park-3966.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Sacramento%2C-California---State-Capitol_%28cropped%29.jpg/1280px-Sacramento%2C-California---State-Capitol_%28cropped%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Andre m",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sacramento,-California---State-Capitol_(cropped).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Sacramento,-California---State-Capitol (cropped).jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/California_State_Capitol_from_Capitol_Mall_-_Sacramento_%2826429122855%29.jpg/1280px-California_State_Capitol_from_Capitol_Mall_-_Sacramento_%2826429122855%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Tony Webster from Minneapolis, Minnesota, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:California_State_Capitol_from_Capitol_Mall_-_Sacramento_(26429122855).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "California State Capitol from Capitol Mall - Sacramento (26429122855).jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/State_Capitol_Building_Sacramento.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Goeggel & Weidner",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:State_Capitol_Building_Sacramento.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "State Capitol Building Sacramento.jpg"
+   }
+  }
+ ],
+ "v2|car dealership forecourt": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/1984_Lancia_Delta_HF_Turbo_16_M-T_%2814435226067%29.jpg/1280px-1984_Lancia_Delta_HF_Turbo_16_M-T_%2814435226067%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Charlie from United Kingdom",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1984_Lancia_Delta_HF_Turbo_16_M-T_(14435226067).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "1984 Lancia Delta HF Turbo 16 M-T (14435226067).jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Morris_cars_on_the_forecourt_of_Mr_J._Kellys_garage_at_Catherine_Street%2C_Waterford.jpg/1280px-Morris_cars_on_the_forecourt_of_Mr_J._Kellys_garage_at_Catherine_Street%2C_Waterford.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "National Library of Ireland on The Commons",
+    "license": "No restrictions",
+    "license_url": "https://www.flickr.com/commons/usage/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Morris_cars_on_the_forecourt_of_Mr_J._Kellys_garage_at_Catherine_Street,_Waterford.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Morris cars on the forecourt of Mr J. Kellys garage at Catherine Street, Waterford.jpg"
+   }
+  }
+ ],
+ "v2|assisted living facility building": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Embassy%2C_Mount_Lebanon%2C_2024-03-22%2C_02.jpg/1280px-The_Embassy%2C_Mount_Lebanon%2C_2024-03-22%2C_02.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Cbaile19",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Embassy,_Mount_Lebanon,_2024-03-22,_02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "The Embassy, Mount Lebanon, 2024-03-22, 02.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/The_Embassy%2C_Mount_Lebanon%2C_2024-03-22%2C_01.jpg/1280px-The_Embassy%2C_Mount_Lebanon%2C_2024-03-22%2C_01.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Cbaile19",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Embassy,_Mount_Lebanon,_2024-03-22,_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "The Embassy, Mount Lebanon, 2024-03-22, 01.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Union_Warehouse_Hotel_Barth.jpg/1280px-Union_Warehouse_Hotel_Barth.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Nyttend",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Union_Warehouse_Hotel_Barth.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Union Warehouse Hotel Barth.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Lobby_of_Academy_Point_Assisted_Living_Facility.jpg/1280px-Lobby_of_Academy_Point_Assisted_Living_Facility.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Funforme3",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lobby_of_Academy_Point_Assisted_Living_Facility.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Lobby of Academy Point Assisted Living Facility.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Sarah_Daft_Home.JPG/1280px-Sarah_Daft_Home.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Bobshaw25",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sarah_Daft_Home.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Sarah Daft Home.JPG"
+   }
+  }
+ ],
+ "v2|city of london skyline": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg/1280px-City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "David Illif with image-alignment and Photoshoping by User:Colin and Kim Hansen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "City of London skyline from London City Hall - Oct 2008 - Aligned.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/City_of_London_skyline_from_London_City_Hall_-_Sept_2015_-_Crop_Aligned.jpg/1280px-City_of_London_skyline_from_London_City_Hall_-_Sept_2015_-_Crop_Aligned.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "User:Colin and Kim Hansen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Sept_2015_-_Crop_Aligned.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "City of London skyline from London City Hall - Sept 2015 - Crop Aligned.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg/1280px-City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "City of London skyline from London City Hall - Oct 2008.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/City_of_London_skyline_from_Tower_Bridge.jpg/1280px-City_of_London_skyline_from_Tower_Bridge.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "VirtuallyLondonBecky",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_Tower_Bridge.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "City of London skyline from Tower Bridge.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/City_of_London_skyline_22.12.2019.jpg/1280px-City_of_London_skyline_22.12.2019.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "QuintusPetillius",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_22.12.2019.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "City of London skyline 22.12.2019.jpg"
+   }
+  }
+ ],
+ "v2|paris rooftops": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Paris_-_Rooftops_in_Paris_-_3052.jpg/1280px-Paris_-_Rooftops_in_Paris_-_3052.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jorge Royan",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Rooftops_in_Paris_-_3052.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Paris - Rooftops in Paris - 3052.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/H._Lyman_Sa%C3%BFen_-_Rooftops%2C_Paris_-_1967.6.15_-_Smithsonian_American_Art_Museum.jpg/1280px-H._Lyman_Sa%C3%BFen_-_Rooftops%2C_Paris_-_1967.6.15_-_Smithsonian_American_Art_Museum.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Henry Lyman Saÿen",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:H._Lyman_Sa%C3%BFen_-_Rooftops,_Paris_-_1967.6.15_-_Smithsonian_American_Art_Museum.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "H. Lyman Saÿen - Rooftops, Paris - 1967.6.15 - Smithsonian American Art Museum.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rooftops_seen_from_Notre-Dame_de_Paris%2C_29_May_2009.jpg/1280px-Rooftops_seen_from_Notre-Dame_de_Paris%2C_29_May_2009.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Sharon Mollerus",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rooftops_seen_from_Notre-Dame_de_Paris,_29_May_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Rooftops seen from Notre-Dame de Paris, 29 May 2009.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/H._Lyman_Sa%C3%BFen_-_Rooftops_and_Clouds%2C_Paris_-_1967.6.14_-_Smithsonian_American_Art_Museum.jpg/1280px-H._Lyman_Sa%C3%BFen_-_Rooftops_and_Clouds%2C_Paris_-_1967.6.14_-_Smithsonian_American_Art_Museum.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Henry Lyman Saÿen",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:H._Lyman_Sa%C3%BFen_-_Rooftops_and_Clouds,_Paris_-_1967.6.14_-_Smithsonian_American_Art_Museum.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "H. Lyman Saÿen - Rooftops and Clouds, Paris - 1967.6.14 - Smithsonian American Art Museum.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Paris_Rooftops_of_Rue_Danielle_Casanova.jpg/1280px-Paris_Rooftops_of_Rue_Danielle_Casanova.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Ben Garrett from London, U.K.",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris_Rooftops_of_Rue_Danielle_Casanova.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Paris Rooftops of Rue Danielle Casanova.jpg"
+   }
+  }
+ ],
+ "v2|empty office desks": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/St._Louis_Police_Lantern_Slides-_Empty_office_room_associated_with_the_City_of_St._Louis_Police_Department._-_DPLA_-_d2ca27b3db11f4f86e16f52a01df412f.jpg/1280px-St._Louis_Police_Lantern_Slides-_Empty_office_room_associated_with_the_City_of_St._Louis_Police_Department._-_DPLA_-_d2ca27b3db11f4f86e16f52a01df412f.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Unknown",
+    "license": "No restrictions",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:St._Louis_Police_Lantern_Slides-_Empty_office_room_associated_with_the_City_of_St._Louis_Police_Department._-_DPLA_-_d2ca27b3db11f4f86e16f52a01df412f.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "St. Louis Police Lantern Slides- Empty office room associated with the City of St. Louis Police Department. - DPLA - d2ca27b3db11f4f86e16f52a01df412f.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Empty_Oval_Office_in_The_White_House_-_DPLA_-_a210b70429be57def74b3c6c603b6d89.jpg/1280px-Empty_Oval_Office_in_The_White_House_-_DPLA_-_a210b70429be57def74b3c6c603b6d89.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "President (1981-1989 : Reagan). White House Photographic Office. 1981-1989",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Empty_Oval_Office_in_The_White_House_-_DPLA_-_a210b70429be57def74b3c6c603b6d89.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Empty Oval Office in The White House - DPLA - a210b70429be57def74b3c6c603b6d89.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/LOOM_office_workspaces.jpg/1280px-LOOM_office_workspaces.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Loominade",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:LOOM_office_workspaces.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "LOOM office workspaces.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Empty_set_of_the_Ride_Musical.jpg/1280px-Empty_set_of_the_Ride_Musical.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Alex Chan",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Empty_set_of_the_Ride_Musical.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Empty set of the Ride Musical.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/EFTA00002901-Pool-House_-_Black_office_desk_with_an_open_drawer_revealing_its_empty_interior_sits_on_a_light_wood_floor_beside_a_rolling_chair_and_a_white_cloth.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Federal Bureau of Investigation",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:EFTA00002901-Pool-House_-_Black_office_desk_with_an_open_drawer_revealing_its_empty_interior_sits_on_a_light_wood_floor_beside_a_rolling_chair_and_a_white_cloth.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "EFTA00002901-Pool-House - Black office desk with an open drawer revealing its empty interior sits on a light wood floor beside a rolling chair and a white cloth.jpg"
+   }
+  }
+ ],
+ "v2|eeoc headquarters washington": [],
+ "v2|industrial bakery production line": [],
+ "v2|justus lipsius building brussels": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Justus_Lipsius_building%2C_2010%2C_Brussels_-_panoramio.jpg/1280px-Justus_Lipsius_building%2C_2010%2C_Brussels_-_panoramio.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Aulo Aasmaa",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Justus_Lipsius_building,_2010,_Brussels_-_panoramio.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Justus Lipsius building, 2010, Brussels - panoramio.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Justus_Lipsius_building_on_Rond_point_Schuman_2005-06.jpg/1280px-Justus_Lipsius_building_on_Rond_point_Schuman_2005-06.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Zinneke",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Justus_Lipsius_building_on_Rond_point_Schuman_2005-06.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Justus Lipsius building on Rond point Schuman 2005-06.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Secretary_Kerry_Looks_at_a_Flying_Car_on_Display_in_the_Justus_Lipsius_Building_in_Brussels_%2827793906993%29.jpg/1280px-Secretary_Kerry_Looks_at_a_Flying_Car_on_Display_in_the_Justus_Lipsius_Building_in_Brussels_%2827793906993%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "U.S. Department of State from United States",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Looks_at_a_Flying_Car_on_Display_in_the_Justus_Lipsius_Building_in_Brussels_(27793906993).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Secretary Kerry Looks at a Flying Car on Display in the Justus Lipsius Building in Brussels (27793906993).jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Justus_Lipsius_Building.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Gellerj",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Justus_Lipsius_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Justus Lipsius Building.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Justus_Lipsius_building_2007-05-08.jpg/1280px-Justus_Lipsius_building_2007-05-08.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Szilas",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Justus_Lipsius_building_2007-05-08.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Justus Lipsius building 2007-05-08.jpg"
+   }
+  }
+ ],
+ "v2|stockport town hall": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Stockport_town_hall_2009_001.jpg/1280px-Stockport_town_hall_2009_001.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Zzztriple2000",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stockport_town_hall_2009_001.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Stockport town hall 2009 001.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Stockport_Town_Hall%2C_main_entrance.jpg/1280px-Stockport_Town_Hall%2C_main_entrance.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Zzztriple2000",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stockport_Town_Hall,_main_entrance.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Stockport Town Hall, main entrance.jpg"
+   }
+  }
+ ]
 }
