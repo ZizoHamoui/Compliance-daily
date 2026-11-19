@@ -1,0 +1,534 @@
+{
+ "date": "2026-11-19",
+ "lead_id": "b317abb47f13",
+ "editor_note": "A rebound in SEC and CFTC whistleblower payouts leads a day about where accountability is coming from: a marketplace pleading guilty over its sellers, a new Chinese anti-corruption regime, and regulators on both sides of the Atlantic studying AI.",
+ "bottom_line": [
+  {
+   "id": "b317abb47f13",
+   "text": "SEC whistleblower awards rose to more than $158 million for 65 people in fiscal 2026, from about $60 million in 2025."
+  },
+  {
+   "id": "942907778158",
+   "text": "Online marketplace eWorldTrade pleaded guilty to conspiring to distribute synthetic opioids and agreed to a $1.35 million criminal fine."
+  },
+  {
+   "id": "430073670ac5",
+   "text": "China's new anti-corruption law adds an extraterritorial bribery regime that multinationals cannot dismiss as politics."
+  }
+ ],
+ "stat": {
+  "id": "b317abb47f13",
+  "text": "65 whistleblowers received SEC awards in fiscal 2026, the most since fiscal 2023, from roughly 26,000 tips."
+ },
+ "podcast_brief": "## The day in one line\n\nToday is about the pull between internal and external accountability. The SEC and CFTC are paying whistleblowers more again, an online marketplace has pleaded guilty as a company over opioid trafficking, and China has put a sweeping cross-border anti-corruption law on the books.\n\n## Story 1 — SEC and CFTC whistleblower payouts climb back after 2025 slump\n\n**The facts.**\n- The Securities and Exchange Commission says it paid more than $158 million to 65 individual whistleblowers in fiscal year 2026, which ran to 30 September.\n- In fiscal 2025 it paid roughly $60 million to 48 people, so both the money and the number of recipients rose. The SEC says 65 is the highest count of award recipients since fiscal 2023.\n- The agency logged about 26,000 whistleblower tips during the year.\n- The figures came out with the SEC's annual enforcement results on 10 November: 348 enforcement actions in total, 235 of them stand-alone cases, and about $1.095 billion in ordered monetary relief, including $343 million in civil penalties.\n- The Commodity Futures Trading Commission announced on 14 September that it had granted ten whistleblower awards worth more than $150 million, all decided between July and September 2026. Its general counsel called it a record year under new leadership and said the whistleblower office had cleared an inherited backlog.\n- Since its first award in 2014, the CFTC programme has paid more than $580 million, tied to enforcement actions that brought in more than $5.1 billion in sanctions.\n\n**Background.**\n- Both programmes, created under the Dodd-Frank Act, pay eligible whistleblowers between 10 and 30 percent of the sanctions collected when original information leads to a successful enforcement action.\n- Annual totals swing a lot. The SEC paid about $600 million to 68 people in fiscal 2023 and $255 million to 47 in fiscal 2024, before the drop to around $60 million in 2025.\n- Totals are heavily shaped by a few very large awards. Whistleblower Network News reported in August that three people accounted for nearly 90 percent of the SEC's awards to that point in the year, and that the median award was below half a million dollars.\n\n**Who's affected.**\n- Financial services first: broker-dealers, investment advisers, public companies, commodity and derivatives firms, and crypto businesses within CFTC reach.\n- Compliance teams running hotlines and investigations, employment lawyers handling retaliation, and audit committees.\n\n**Why it matters.** The 2025 slump led some observers to wonder whether US whistleblower programmes were losing momentum. These numbers point the other way: more people paid, larger totals and a CFTC office describing a record year. Each award is evidence that a problem ended up outside the company. Strong payouts keep that route visible to employees.\n\n**How this comes up with a GC or CLO.** Legal leaders tend to read these figures as a gauge of external pressure on their reporting systems. Expect it to come up when boards ask how many internal reports concern matters that could also go to the SEC or CFTC,.\n\n**Questions a buyer might ask.**\n- What share of our internal reports involve the kind of misconduct that could qualify for an SEC or CFTC award?\n- How does our average investigation time compare with how quickly an employee could take a concern outside?\n- If a reporter of ours later received an award, would our record of how we treated them stand up?\n\n## Story 2 — Texas-based online marketplace eWorldTrade pleads guilty to trafficking synthetic opioids\n\n**The facts.**\n- eWorldTrade LLC, a business-to-business online marketplace headquartered in Texas, pleaded guilty to one count of conspiracy to distribute synthetic opioids for unlawful importation into the United States.\n- The company agreed to pay a criminal fine of $1.35 million. The Justice Department said the amount was based on the company's ability to pay.\n- The Justice Department announced the plea on 18 November.\n\n**Background.**\n- The Justice Department had earlier announced charges against the US operator of the online marketplace, describing the drugs involved as synthetic opioids stronger than fentanyl.\n- A corporate plea over what passed through a platform is the kind of case in-house counsel at marketplace and e-commerce businesses tend to follow closely.\n\n**What it does not change.**\n- The plea concerns one company and one count; it creates no new legal duties for marketplaces generally.\n\n**Who's affected.**\n- Online marketplaces, e-commerce platforms and B2B trade portals, and the trust and safety, legal and compliance teams that police third-party sellers.\n\n**Why it matters.** This is a clear story about third-party risk turning into corporate criminal liability. A platform's business model depends on outside sellers, and here the company itself has pleaded guilty. The ability-to-pay fine also shows that a smaller company's balance sheet can set the size of the penalty, which is separate from how serious prosecutors consider the conduct to be.\n\n**How this comes up with a GC or CLO.** General counsel at platform businesses are likely to raise it when discussing seller vetting, listing controls and what the company knows about who uses its services.\n\n**Questions a buyer might ask.**\n- At what point does a platform become responsible for what third-party sellers do on it?\n- How would we show prosecutors that we acted on red flags about a seller or a product category?\n- What does an ability-to-pay fine tell us about how DOJ weighs company size against conduct?\n\n## Story 3 — China's new anti-corruption law: what multinational compliance teams need to know\n\n**The facts.**\n- China's National People's Congress Standing Committee has passed the Anti-Cross-Border Corruption Law at the close of its 25th session, and the South China Morning Post reports that it took effect immediately.\n- According to analysis of the draft by Morgan Lewis, the law covers Chinese citizens and China-based companies, including their branches and subsidiaries, that bribe foreign public officials. It also covers foreign individuals and companies that bribe Chinese officials, state bodies and state-owned enterprises.\n- The draft set out compliance expectations for companies doing cross-border business: integrity and compliance systems, risk assessments, internal reporting channels, accurate books and records, due diligence and supervision of third-party agents, and training for overseas staff. It also described a duty to report suspected cross-border corruption to Chinese authorities.\n- The law contains blocking and countermeasure provisions. Foreign bodies may not carry out corruption investigations inside China without consent, Chinese parties may not hand evidence to foreign authorities without consent, and China can use its Anti-Foreign Sanctions Law where it views foreign anti-corruption action as a pretext.\n\n**Background.**\n- The draft had its first reading on 25 August 2026 and was open for public comment until 26 September.\n- It arrives at a time when US FCPA enforcement has been narrowed by an executive order and Justice Department guidelines from June 2025 that focus on cases with clear US interests.\n- The final text may differ from the draft; analysis of the final version is still emerging.\n\n**Who's affected.**\n- Multinationals with operations, joint ventures, distributors or state-owned customers in China.\n- Chinese companies operating abroad.\n\n**Why it matters.** For years the main question for multinationals in China was how US or UK enforcers might view their conduct there. Now there is an assertive regime on the other side, with its own expectations for compliance programmes and its own limits on sharing evidence. A company may be pressed to cooperate with a foreign investigation while Chinese law limits what it can hand over.\n\n**How this comes up with a GC or CLO.** Legal leaders with China exposure are likely to raise it in discussions about cross-border investigations, data and evidence transfer, and how a global programme fits local rules.\n\n**Questions a buyer might ask.**\n- Can our headquarters still run an internal investigation into our China business, and what can leave the country?\n- How do we handle a reporting duty to Chinese authorities alongside self-disclosure expectations elsewhere?\n- Does our third-party due diligence in China meet what this law expects?\n\n## Story 4 — FCA launches AI Spotlight Observatory showing how financial firms use AI\n\n**The facts.** The UK Financial Conduct Authority launched what it calls a world-first AI Spotlight Observatory, a resource collecting real-world examples of AI adoption in financial services for firms, academics and innovators.\n\n**Background.** The FCA has favoured testing and evidence-gathering over new AI-specific rules.\n\n**Who's affected.** UK banks, insurers, asset managers and fintechs, and their risk and compliance teams.\n\n**Why it matters.** The regulator is building its own evidence base on how AI is used, which is the groundwork for future supervisory expectations.\n\n**How it comes up.** Compliance leaders may cite it when explaining how UK AI oversight is forming without a single statute.\n\n**Question.** How will the FCA use these examples when it supervises firms' own AI use?\n\n## Story 5 — Dutch data protection authority advises against buying AI camera glasses\n\n**The facts.** The Netherlands' Autoriteit Persoonsgegevens advised consumers not to buy AI camera glasses for general use. Its own study of six models found risks to bystanders' privacy and to the safety of users and people nearby.\n\n**Background.** European data protection authorities have increasingly studied AI devices directly rather than waiting for complaints.\n\n**Who's affected.** Device makers, technology companies and employers whose staff may wear such devices at work.\n\n**Why it matters.** It shows privacy regulators treating always-on wearable recording as a serious risk.\n\n**How it comes up.** Privacy and legal teams may raise it when setting rules for personal devices in offices and meetings.\n\n**Question.** Would recording by an employee's glasses in a meeting create a data protection issue for us?\n\n## Story 6 — Russian national indicted for acting as a foreign agent to target a Silicon Valley technology and defence company\n\n**The facts.** A federal grand jury indicted Russian national Igor D'iu on charges including conspiring to act, and acting, as an unregistered agent of a foreign government, interstate stalking and fraud, over targeting a Silicon Valley technology and defence company.\n\n**Background.** The charge of acting as an unregistered agent of a foreign government applies to people who work for a foreign state in the US without notifying the Attorney General.\n\n**Who's affected.** Technology and defence companies, their security, legal and export-control teams.\n\n**Why it matters.** It is a reminder that companies with sensitive technology can be direct targets of foreign intelligence activity.\n\n**How it comes up.** GCs may raise it in discussions about insider threats and protecting staff who are targeted.\n\n**Question.** How would we know if an employee was being approached by a foreign agent?\n\n## Story 7 — Commission marks European Equal Pay Day as gender pay gap persists\n\n**The facts.** Ahead of European Equal Pay Day, Executive Vice-President Mînzatu and Commissioner Lahbib said women still earn less than men across the EU, more than six decades after equal pay entered the Treaties.\n\n**Background.** The EU Pay Transparency Directive was due to be written into national law by June 2026.\n\n**Who's affected.** Employers across EU member states, HR and employment law teams.\n\n**Why it matters.** Political attention keeps pay transparency enforcement on the agenda.\n\n**How it comes up.** Legal teams may raise it when discussing pay reporting and how pay complaints are handled.\n\n**Question.** Are pay complaints treated as speak-up reports in our process?\n\n## Story 8 — Miami hotel marketing agency to pay $45,000 to settle EEOC age discrimination charge\n\n**The facts.** All Inclusive Collection LLC, a Miami sales and marketing agency for hotel chains, agreed to pay $45,000 to conciliate an age discrimination charge with the EEOC.\n\n**Background.** Conciliation is the EEOC's voluntary settlement step before litigation.\n\n**Who's affected.** Employers in hospitality and sales, and HR teams.\n\n**Why it matters.** Age bias claims remain an active enforcement area even when amounts are small.\n\n**How it comes up.** Employment counsel may use it as an example of how one complaint becomes an agency matter.\n\n**Question.** How do our hiring and termination records hold up against an age claim?\n\n## Story 9 — NJ construction contractor ordered to pay $2.2 million in back wages, damages and penalties\n\n**The facts.** The US Department of Labor obtained a consent judgment, entered on 16 November in New Jersey federal court, requiring a construction contractor to pay more than $2 million in back wages and damages to 323 workers, with a total of $2.2 million including penalties.\n\n**Background.** Wage-and-hour enforcement often targets construction, where subcontracting is common.\n\n**Who's affected.** Construction firms and companies that rely on contractors.\n\n**Why it matters.** It shows how pay practices across a large workforce add up to major liability.\n\n**How it comes up.** GCs may raise it in reviews of contractor labour practices.\n\n**Question.** Do we know how our contractors pay their workers?\n\n## Story 10 — FCAC Commissioner speaks to financial institutions on regulatory compliance\n\n**The facts.** Financial Consumer Agency of Canada Commissioner Shereen Benzvy Miller spoke at the Canadian Institute's 32nd Conference on Regulatory Compliance for Financial Institutions.\n\n**Background.** The FCAC supervises consumer protection obligations of federally regulated financial institutions.\n\n**Who's affected.** Canadian banks and their compliance teams.\n\n**Why it matters.** Speeches like this often preview supervisory priorities.\n\n**How it comes up.** Canadian compliance leaders may quote it when setting programme priorities.\n\n**Question.** Which consumer-protection areas is the FCAC focusing on next?\n\n## Story 11 — Competition Bureau's Old Navy and Gap marketing practices investigation advances on court order\n\n**The facts.** Canada's Competition Bureau said its investigation into Old Navy and Gap marketing practices will move forward following a court order.\n\n**Background.** The Bureau can seek court orders to compel information in investigations.\n\n**Who's affected.** Retailers and consumer brands selling in Canada, and their marketing and legal teams.\n\n**Why it matters.** It shows the Bureau using its formal powers against major brands.\n\n**How it comes up.** GCs may raise it when discussing approval of marketing claims.\n\n**Question.** Who signs off on the claims in our advertising?\n\n## Story 12 — Commission isn't closing door to further privacy rule cuts, says McGrath\n\n**The facts.** Justice Commissioner Michael McGrath told Euractiv that the Commission is not ruling out further cuts to EU privacy rules, and defended the independence of Ireland's data protection watchdog.\n\n**Background.** The Commission has been pursuing simplification of EU digital rules.\n\n**Who's affected.** Companies processing personal data in the EU, privacy and legal teams.\n\n**Why it matters.** Privacy obligations may keep shifting.\n\n**How it comes up.** Privacy leaders may raise it when planning compliance budgets.\n\n**Question.** Which GDPR changes are actually likely to happen?\n\n## Story 13 — Michigan pharmacy owner sentenced to 82 months for $5.6M health care fraud and oxycodone distribution\n\n**The facts.** A Michigan pharmacy owner was sentenced to 82 months in prison and three years' supervised release for a $5.6 million health care fraud scheme and illegal oxycodone distribution.\n\n**Background.** Pharmacy billing and controlled substances are frequent targets of health care fraud enforcement.\n\n**Who's affected.** Pharmacies, health care providers and payers.\n\n**Why it matters.** It keeps billing integrity and dispensing controls in focus.\n\n**How it comes up.** Healthcare compliance teams may cite it as an example of combined fraud and diversion risk.\n\n**Question.** How do we spot unusual dispensing patterns?\n\n## Story 14 — EU agrees two-year delay to methane leakage crackdown\n\n**The facts.** EU negotiators agreed a two-year delay to the bloc's methane leakage rules, even as Europe pushes for climate action at COP31.\n\n**Background.** The methane regulation imposes monitoring and reporting duties on energy producers and importers.\n\n**Who's affected.** Energy companies and gas importers.\n\n**Why it matters.** It continues a pattern of the EU easing sustainability obligations.\n\n**How it comes up.** Legal teams may raise it when adjusting compliance timelines.\n\n**Question.** Which deadlines in the methane rules move, and which stay?\n",
+ "cards": [
+  {
+   "id": "b317abb47f13",
+   "kind": "briefing",
+   "tier": "ai",
+   "topic": "whistleblowing",
+   "region": "US",
+   "lang": "en",
+   "source": "AI Briefing · U.S. SEC",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg/1280px-Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
+   "published": "2026-11-10T12:00+00:00",
+   "title": "SEC and CFTC whistleblower payouts climb back after 2025 slump",
+   "summary": "The SEC paid more than $158 million to 65 whistleblowers in fiscal 2026, up from about $60 million to 48 a year earlier, while the CFTC granted over $150 million in a single quarter.",
+   "impact": "Larger, more frequent awards keep the external route to regulators attractive, raising the stakes for how internal speak-up channels handle concerns first.",
+   "industries": [
+    "financial_services",
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "gc",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "SEC headquarters Washington building",
+   "storyline": "whistleblower-rewards",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Seattle (WA, USA), HomeStreet Bank Headquarters -- 2022 -- 1454.jpg"
+   }
+  },
+  {
+   "id": "942907778158",
+   "url": "https://www.justice.gov/opa/pr/texas-based-company-pleads-guilty-trafficking-deadly-synthetic-opioids",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-18T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Line3174_-_Shipping_Containers_at_the_terminal_at_Port_Elizabeth%2C_New_Jersey_-_NOAA.jpg/1280px-Line3174_-_Shipping_Containers_at_the_terminal_at_Port_Elizabeth%2C_New_Jersey_-_NOAA.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Captain Albert E. Theberge, NOAA Corps (ret.)",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Line3174_-_Shipping_Containers_at_the_terminal_at_Port_Elizabeth,_New_Jersey_-_NOAA.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Line3174 - Shipping Containers at the terminal at Port Elizabeth, New Jersey - NOAA.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Texas-based online marketplace eWorldTrade pleads guilty to trafficking synthetic opioids",
+   "summary": "eWorldTrade LLC, a business-to-business online marketplace headquartered in Texas, pleaded guilty to conspiring to distribute synthetic opioids for unlawful importation and agreed to a $1.35 million criminal fine set by its ability to pay.",
+   "impact": "A corporate guilty plea by an online marketplace shows prosecutors holding platform operators criminally accountable for trafficking conducted through their business.",
+   "industries": [
+    "tech",
+    "healthcare"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "clo"
+   ],
+   "item_type": "enforcement",
+   "image_query": "shipping containers port terminal"
+  },
+  {
+   "id": "430073670ac5",
+   "url": "https://www.corporatecomplianceinsights.com/chinas-new-anti-corruption-law-what-multinational-compliance-teams-need-know/",
+   "source": "Corporate Compliance Insights",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/One_stands_out_002_2025_01_01.jpg/1280px-One_stands_out_002_2025_01_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Friedrich Haag",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:One_stands_out_002_2025_01_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "One stands out 002 2025 01 01.jpg"
+   },
+   "tier": "press",
+   "topic": "anti_bribery",
+   "kind": "link",
+   "title": "China's new anti-corruption law: what multinational compliance teams need to know",
+   "summary": "Corporate Compliance Insights examines China's new cross-border anti-corruption law and argues that companies treating it as a political response to US enforcement would be making a mistake.",
+   "impact": "Multinationals now face a second, assertive anti-bribery regime with extraterritorial reach, complicating investigations and evidence-sharing that touch China.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "Great Hall of the People Beijing"
+  },
+  {
+   "id": "bf2b0938d16d",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg/1280px-Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_Skyline_2,_London_UK_-_Oct_2012.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Canary Wharf Skyline 2, London UK - Oct 2012.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "FCA launches AI Spotlight Observatory showing how financial firms use AI",
+   "summary": "The UK Financial Conduct Authority launched an AI Spotlight Observatory, a resource gathering real-world examples of AI adoption across financial services for firms, academics and innovators to identify emerging trends.",
+   "impact": "The regulator is building its own evidence base on AI use, a signal that supervisory expectations for AI governance in UK finance are taking shape.",
+   "industries": [
+    "financial_services",
+    "tech"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Canary Wharf London skyline"
+  },
+  {
+   "id": "480d838e1166",
+   "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-raadt-aankoop-ai-camerabrillen-af-ernstige-risicos-voor-gebruikers-en-omstanders",
+   "source": "Autoriteit Persoonsgegevens (NL)",
+   "region": "EU",
+   "lang": "nl",
+   "published": "2026-11-19T05:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Dutch data protection authority advises against buying AI camera glasses",
+   "summary": "The Dutch Autoriteit Persoonsgegevens advised consumers not to buy AI camera glasses for general use after its own study of six models found they endanger bystanders' privacy and the safety of users and people around them.",
+   "impact": "A regulator's study of wearable AI devices points to scrutiny of always-on recording, relevant to workplace device policies and products built on similar technology.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "smart glasses wearable camera"
+  },
+  {
+   "id": "7c0a9602aaf4",
+   "url": "https://www.justice.gov/opa/pr/russian-national-indicted-acting-foreign-agent-russia-target-silicon-valley-technology-and",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-18T12:00+00:00",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dfj_office_sandhill.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Innar Liiv at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dfj_office_sandhill.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Dfj office sandhill.JPG"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Russian national indicted for acting as a foreign agent to target a Silicon Valley technology and defence company",
+   "summary": "A federal grand jury indicted Russian national Igor D'iu on charges including conspiring to act as an agent of a foreign government without notice to the Attorney General, interstate stalking and fraud, over targeting a Silicon Valley technology and defence company.",
+   "impact": "Foreign-state targeting of a defence-linked tech company underlines insider-threat and economic-espionage exposure that sits alongside export-control obligations.",
+   "industries": [
+    "tech",
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Silicon Valley office park"
+  },
+  {
+   "id": "013956c71baf",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2503",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-18T23:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Commission marks European Equal Pay Day as gender pay gap persists",
+   "summary": "Ahead of European Equal Pay Day, Executive Vice-President Mînzatu and Commissioner Lahbib said equal pay is a fundamental right, yet women still earn less than men across the EU more than six decades after it entered the Treaties.",
+   "impact": "Commission attention to the persistent gap keeps pay transparency obligations in focus for employers across the EU's member states.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Berlaymont building Brussels"
+  },
+  {
+   "id": "ae0bbd81bea5",
+   "url": "https://www.eeoc.gov/newsroom/all-inclusive-collection-llc-pay-45000-eeoc-age-discrimination-charge",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-17T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Miami_-_Lobby_of_Hotel_Leamington.jpg/1280px-Miami_-_Lobby_of_Hotel_Leamington.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Curt Teich & Co.",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Miami_-_Lobby_of_Hotel_Leamington.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Miami - Lobby of Hotel Leamington.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Miami hotel marketing agency to pay $45,000 to settle EEOC age discrimination charge",
+   "summary": "All Inclusive Collection LLC, a Miami-based sales and marketing agency for hotel chains, agreed to pay $45,000 to conciliate an age discrimination charge filed with the US Equal Employment Opportunity Commission.",
+   "impact": "Even small conciliations show the EEOC still pursuing age bias charges, keeping hiring and termination decisions a live source of employment exposure.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Miami hotel lobby"
+  },
+  {
+   "id": "11297a361753",
+   "url": "http://www.dol.gov/newsroom/releases/whd/whd20261118",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-18T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/D%C3%BClmen%2C_Br%C3%BCckenbaustelle_der_Deutschen_Bahn_--_2016_--_2011.jpg/1280px-D%C3%BClmen%2C_Br%C3%BCckenbaustelle_der_Deutschen_Bahn_--_2016_--_2011.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Br%C3%BCckenbaustelle_der_Deutschen_Bahn_--_2016_--_2011.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Dülmen, Brückenbaustelle der Deutschen Bahn -- 2016 -- 2011.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "NJ construction contractor ordered to pay $2.2 million in back wages, damages and penalties",
+   "summary": "The US Department of Labor obtained a consent judgment, entered on 16 November in New Jersey federal court, requiring a construction contractor to pay more than $2 million in back wages and damages to 323 workers.",
+   "impact": "Wage-and-hour judgments of this size show how pay practices across a large workforce can turn into seven-figure liability.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "construction site crane"
+  },
+  {
+   "id": "8cd38e020c1d",
+   "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/11/speech-at-the-canadian-institutes-32nd-conference-on-regulatory-compliance-for-financial-institutions-by-commissioner-shereen-benzvy-miller.html",
+   "source": "Financial Consumer Agency of Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-18T21:03+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "FCAC Commissioner speaks to financial institutions on regulatory compliance",
+   "summary": "Financial Consumer Agency of Canada Commissioner Shereen Benzvy Miller addressed the Canadian Institute's 32nd Conference on Regulatory Compliance for Financial Institutions.",
+   "impact": "Speeches to compliance audiences often signal the consumer-protection priorities Canada's financial regulator intends to supervise against.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Parliament Hill Ottawa"
+  },
+  {
+   "id": "ad5546afb484",
+   "url": "https://www.canada.ca/en/competition-bureau/news/2026/11/old-navy-and-gap-marketing-practices-investigation-to-advance-upon-court-order.html",
+   "source": "Competition Bureau Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-18T18:59+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham%2C_Alabama.jpg/1280px-A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham%2C_Alabama.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Harrison Keely",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham,_Alabama.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "A Williams Sonoma retail store at The Summit shopping mall in Birmingham, Alabama.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Competition Bureau's Old Navy and Gap marketing practices investigation advances on court order",
+   "summary": "The Competition Bureau said its investigation into the marketing practices of Old Navy and Gap will advance following a court order.",
+   "impact": "Court-backed investigative powers against major retailers show Canada's competition watchdog pressing marketing-claims cases harder.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "shopping mall retail store"
+  },
+  {
+   "id": "5c4b4b40ee2f",
+   "url": "https://www.rapporteur.com/news/interview-commission-isnt-closing-door-to-further-privacy-rule-cuts/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-19T03:04+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/European_Parliament_building_in_Brussels%2C_Belgium%2C_July_2026_03.jpg/1280px-European_Parliament_building_in_Brussels%2C_Belgium%2C_July_2026_03.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dev Jadiya",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_building_in_Brussels,_Belgium,_July_2026_03.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Parliament building in Brussels, Belgium, July 2026 03.jpg"
+   },
+   "tier": "press",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "Commission isn't closing door to further privacy rule cuts, says McGrath",
+   "summary": "In an interview, Justice Commissioner Michael McGrath said the Commission is not ruling out further cuts to EU privacy rules, and defended the independence of Ireland's data protection watchdog.",
+   "impact": "Possible further loosening of EU privacy rules leaves data protection obligations a moving target for legal teams planning compliance programmes.",
+   "industries": [
+    "tech",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "European Parliament Brussels building"
+  },
+  {
+   "id": "d082bc03e4a8",
+   "url": "https://www.justice.gov/opa/pr/pharmacy-owner-sentenced-82-months-prison-56m-health-care-fraud-scheme-and-illegal",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-18T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/NanningTianchiShanPharmacy.jpg/1280px-NanningTianchiShanPharmacy.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Félix An",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:NanningTianchiShanPharmacy.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "NanningTianchiShanPharmacy.jpg"
+   },
+   "tier": "official",
+   "topic": "false_claims",
+   "kind": "link",
+   "title": "Michigan pharmacy owner sentenced to 82 months for $5.6M health care fraud and oxycodone distribution",
+   "summary": "A Michigan pharmacy owner was sentenced to 82 months in prison and three years' supervised release for a $5.6 million health care fraud scheme and illegally distributing oxycodone.",
+   "impact": "Pharmacy fraud prosecutions keep billing integrity and controlled-substance controls at the centre of healthcare compliance exposure.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "pharmacy shelves medicine"
+  },
+  {
+   "id": "af5e6e8001ed",
+   "url": "https://www.rapporteur.com/news/two-year-delay-for-eu-crackdown-on-methane-leakage/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-19T02:26+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Natural_Gas_Pipeline_Station.jpg/1280px-Natural_Gas_Pipeline_Station.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Mbrickn",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Natural_Gas_Pipeline_Station.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Natural Gas Pipeline Station.jpg"
+   },
+   "tier": "press",
+   "topic": "esg",
+   "kind": "link",
+   "title": "EU agrees two-year delay to methane leakage crackdown",
+   "summary": "EU negotiators agreed a two-year delay to the bloc's crackdown on methane leakage, a rollback of a key climate law at home while Europe pushes for action at COP31.",
+   "impact": "The delay continues the EU's pattern of easing sustainability obligations, shifting compliance timelines for energy companies and importers.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "image_query": "natural gas pipeline"
+  }
+ ],
+ "briefings": {
+  "b317abb47f13": {
+   "headline": "SEC and CFTC whistleblower payouts climb back after 2025 slump",
+   "dek": "Fiscal 2026 figures show both US market regulators paying more tipsters, and more money, after a sharp drop the year before.",
+   "body_md": "Whistleblower payouts from the two main US market regulators have recovered after a steep fall in 2025. The Securities and Exchange Commission says it awarded more than $158 million to 65 individual whistleblowers in fiscal year 2026, which ended on 30 September. That compares with roughly $60 million paid to 48 people in fiscal 2025, and the number of recipients is the highest since fiscal 2023.\n\nThe figures appeared in the SEC's annual enforcement results, published on 10 November. The agency also reported about 26,000 whistleblower tips during the year. Across its wider enforcement programme it brought 348 actions, 235 of them stand-alone cases, and obtained orders for about $1.095 billion in monetary relief, including $343 million in civil penalties.\n\nThe Commodity Futures Trading Commission has its own rebound story. On 14 September it announced ten whistleblower awards worth more than $150 million, covering determinations made between July and September 2026. The agency's general counsel described a \"record year under new leadership\" and said the office had worked through an inherited backlog. Since its first award in 2014, the CFTC programme has paid more than $580 million, linked to enforcement actions that produced over $5.1 billion in sanctions.\n\n### Background\n\nBoth programmes pay eligible tipsters between 10% and 30% of sanctions collected in successful actions based on their original information. Payouts swing widely because a handful of large cases can dominate a year. The SEC paid about $600 million in fiscal 2023 and $255 million in fiscal 2024 before the 2025 drop. Commentators at Whistleblower Network News noted in August that awards were heavily concentrated: three individuals accounted for nearly 90% of the SEC's total at that point in the year, and the median award was below $500,000.\n\nFull-year figures on award sizes were not available in the free sources consulted, so the concentration pattern above reflects only part of the year.\n\n### What this means for legal and compliance leaders\n\nThe rebound restores a clear financial incentive for employees to take concerns about fraud, disclosures or trading misconduct directly to regulators. More recipients, rather than only a few headline awards, signals that the programmes are paying out across a broader range of cases. It means internal reporting channels compete with well-funded external routes. How quickly and credibly a company responds to an internal report becomes part of whether the issue stays inside at all.\n\n### Questions you may hear\n\n- How many of our internal reports involve matters an employee could also take to the SEC or CFTC?\n- Do we know how long our investigations take compared with how fast a tipster could go external?\n- Would our anti-retaliation protections hold up if a reporter later received a regulatory award?\n",
+   "sources": [
+    {
+     "title": "SEC Announces Enforcement Results for Fiscal Year 2026",
+     "publisher": "U.S. Securities and Exchange Commission",
+     "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
+    },
+    {
+     "title": "SEC Enforcement: 2026 Year in Review",
+     "publisher": "Holland & Knight",
+     "url": "https://www.hklaw.com/en/insights/publications/2026/11/sec-enforcement-2026-year-in-review"
+    },
+    {
+     "title": "CFTC Grants Multiple Whistleblower Awards Totaling Over $150 Million",
+     "publisher": "U.S. Commodity Futures Trading Commission",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9298-26"
+    },
+    {
+     "title": "SEC Whistleblower Awards in FY 2026 Reach Historic Low in Average Size",
+     "publisher": "Whistleblower Network News",
+     "url": "https://whistleblowersblog.org/corporate-whistleblowers/sec-whistleblowers/sec-whistleblower-awards-reach-historic-low-in-award-size/"
+    }
+   ],
+   "prompted_by": {
+    "title": "SEC, CFTC Whistleblower Awards Rebound From 2025 Lows",
+    "publisher": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qcVZzR0taVXJRZE1TNlNnblpid3RSZUlsTnViVGNoXzloWGxQWTZEbFgxeGRvVFhNNUlaUmt3ZTJmY21Vak1PRVlORVNIRXU4dUozM0FR0gFWQVVfeXFMTWpxVnNHS1pVclFkTVM2U2duWmJ3dFJlSWxOdWJUY2hfOWhYbFBZNkRsWDF4ZG9UWE01SVpSa3dlMmZjbVVqTU9FWU5FU0hFdTh1SjMzQVE?oc=5"
+   }
+  }
+ }
+}
