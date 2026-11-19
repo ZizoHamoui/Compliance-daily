@@ -12086,5 +12086,72 @@
     "title": "Stockport Town Hall, main entrance.jpg"
    }
   }
+ ],
+ "v2|place du portage gatineau": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Place_du_Portage_model_1970.jpg/1280px-Place_du_Portage_model_1970.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Victoriaedwards",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Place_du_Portage_model_1970.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Place du Portage model 1970.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Place_du_Portage_I_et_II.jpg/1280px-Place_du_Portage_I_et_II.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jeangagnon",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Place_du_Portage_I_et_II.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Place du Portage I et II.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Place_du_Portage_I_et_II_-_L_Amour.jpg/1280px-Place_du_Portage_I_et_II_-_L_Amour.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jeangagnon",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Place_du_Portage_I_et_II_-_L_Amour.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Place du Portage I et II - L Amour.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Boulevard_Maisonneuve%2C_Gatineau_-_06.jpg/1280px-Boulevard_Maisonneuve%2C_Gatineau_-_06.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jeangagnon",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boulevard_Maisonneuve,_Gatineau_-_06.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boulevard Maisonneuve, Gatineau - 06.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Boulevard_Maisonneuve%2C_Gatineau_-_04.jpg/1280px-Boulevard_Maisonneuve%2C_Gatineau_-_04.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jeangagnon",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boulevard_Maisonneuve,_Gatineau_-_04.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boulevard Maisonneuve, Gatineau - 04.jpg"
+   }
+  }
  ]
 }
