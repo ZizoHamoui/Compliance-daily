@@ -1,0 +1,639 @@
+{
+ "date": "2026-11-20",
+ "lead_id": "4b06e0cb9443",
+ "editor_note": "Enforcement with teeth runs through today's paper: the SFO collects a DPA penalty a company tried to let lapse, New York staffs up to police AI, and FinCEN redraws the beneficial-ownership rules banks onboard by.",
+ "bottom_line": [
+  {
+   "id": "4b06e0cb9443",
+   "text": "Güralp Systems will pay its full £2.5m SFO penalty with interest and costs, after courts ruled DPA payment terms survive expiry."
+  },
+  {
+   "id": "668d99afbba1",
+   "text": "New York's attorney general created a dedicated AI enforcement unit ahead of the RAISE Act taking effect on 1 January 2027."
+  },
+  {
+   "id": "ce8ebacc71ff",
+   "text": "FinCEN proposed revising its customer due diligence rule, changing when banks must identify and verify beneficial owners of business customers."
+  }
+ ],
+ "stat": {
+  "id": "bb47c686710e",
+  "text": "Nearly 6 in 10 legal leaders say AI governance is falling behind AI adoption, as shadow AI rivals phishing as a cause of major incidents."
+ },
+ "podcast_brief": "## The day in one line\n\nToday is about enforcement that actually lands. A British technology company that let its deferred prosecution agreement run out without paying has now been made to pay in full, New York has built a standing team to police artificial intelligence, and the US Treasury is redrawing the beneficial-ownership rules that sit behind every business bank account.\n\n## Story 1 — SFO secures full £2.5m penalty from Güralp Systems\n\n**The facts.**\n- The UK Serious Fraud Office announced on 20 November that Güralp Systems Ltd, a maker of seismic monitoring equipment, will pay its full penalty of about £2.5 million, which includes interest and the SFO's costs.\n- The first £400,000 is due within days, according to the SFO.\n- The underlying sum in the 2019 deferred prosecution agreement was £2,069,861, which represented the company's gross profit from the alleged corrupt conduct. The figure now being collected is higher because interest and costs have been added.\n\n**Background.**\n- The SFO opened its investigation in August 2018. In October 2019 the company entered a deferred prosecution agreement, accepting conspiracy to make corrupt payments and failure to prevent bribery under the UK Bribery Act.\n- That same autumn, three individuals linked to the company, including its founder, stood trial at Southwark Crown Court and were all acquitted in December 2019.\n- The agreement ran for five years and expired in October 2024. The company had met its other obligations but had not paid the money. Its argument was simple: once the agreement expired, it could no longer be enforced.\n- In November 2024 the SFO told the court it believed the terms had been breached. The case became the first appeal on a deferred prosecution agreement to reach the courts. The SFO argued the agreement works like a contract, and that a company cannot escape payment just by waiting out the clock.\n- The court agreed with the SFO. It found nothing in the agreement that released the company from paying, held that the agreement stays in force after five years for this purpose, and noted the SFO could also lift the suspension of the indictment and revive the prosecution. In January 2026 the High Court confirmed the agreement was enforceable, and in February it refused the company permission to take the matter to the Supreme Court.\n\n**Who's affected.**\n- Any company that has entered, or is negotiating, a deferred prosecution agreement in the UK, and the lawyers who draft them.\n- Smaller exporters and manufacturers, the kind of company that often makes payments through agents in overseas markets.\n\n**Why it matters.** Deferred prosecution agreements only work if their terms are credible. This case tested whether a company could treat the expiry date as an escape hatch, and the answer is a firm no, and the SFO was willing to litigate for years to establish it.\n\n**How this comes up with a GC or CLO.** A general counsel weighing whether to self-report to the SFO will want to know what an agreement really commits the company to, and for how long. This case is a clean example that the obligations outlast the formal term, and that a prosecution can come back to life if the company does not deliver.\n\n**Questions a buyer might ask.**\n- If we entered a deferred prosecution agreement, which obligations would survive its expiry?\n- How did a small company end up accepting failure to prevent bribery when its own people were acquitted?\n\n## Story 2 — New York's attorney general sets up a dedicated AI enforcement unit\n\n**The facts.**\n- On 17 November New York Attorney General Letitia James announced the AI Safety, Standards, Enforcement, and Transparency unit, known as ASSET. It is described as the first state attorney general's unit focused only on enforcing AI laws.\n- It sits in the office's Economic Justice Division, works with the Bureau of Internet and Technology, and is led by Cristy Phillips, a former special counsel in that division. Hiring is still under way.\n- Its remit covers AI-driven scams, cybersecurity threats and misuse of personal information, plus policy work and technical help for other investigations.\n\n**Background.**\n- New York's RAISE Act takes effect on 1 January 2027. Large frontier AI developers must register with the state and report critical safety incidents within 72 hours. Reported penalties in actions brought by the attorney general run up to $1 million for a first violation and $3 million for later ones.\n- The unit will also use existing tools: the SHIELD Act on data security, deceptive-practices law, chatbot and synthetic-performer disclosure rules, and a chatbot child-protection law due in mid-2027.\n- In September the attorney general invited workers at AI companies to report unsafe practices through a confidential whistleblower portal.\n\n**Who's affected.**\n- Frontier AI developers directly; any company deploying chatbots or AI tools to New York consumers indirectly.\n\n**Why it matters.** AI enforcement at state level now has a named team, a deadline and penalty figures. With federal AI rules still thin, states are filling the gap, and New York is turning its consumer-protection and data-security powers towards AI.\n\n**How this comes up with a GC or CLO.** Legal leaders will raise it as a sign that AI governance is moving from voluntary principles to investigations. The worker reporting channel also connects AI safety to speak-up programmes.\n\n**Questions a buyer might ask.**\n- Does the RAISE Act reach companies that only use AI models rather than build them?\n- How does a 72-hour incident report sit alongside our breach-notification process?\n\n## Story 3 — FinCEN proposes changes to customer due diligence requirements\n\n**The facts.**\n- FinCEN published a proposed rule on 17 November to revise its customer due diligence rule for banks and other covered financial institutions. Comments are due by 19 January 2027.\n- It is part of Treasury's implementation of Executive Order 14406, Restoring Integrity to America's Financial System, which called for a more effective, risk-based rule.\n\n**Background.**\n- The customer due diligence rule, in force since 2018, requires institutions to identify and verify the beneficial owners of business customers.\n- The proposal would end the need to re-verify owners each time an existing business customer opens a new account. Instead, identification would happen at the first account opening, when there is reason to doubt earlier information, and under risk-based ongoing monitoring. This codifies relief FinCEN granted earlier this year.\n- It would write the required data for each beneficial owner into the rule itself, allow information from third-party sources, and let institutions collect extra information to manage risk, including, where relevant to fraud or sanctions evasion, immigration and work-authorisation status.\n\n**Who's affected.**\n- Banks, credit unions, broker-dealers and other covered institutions, and their onboarding and know-your-customer teams.\n\n**Why it matters.** The proposal trims some repetitive checks while widening what institutions may ask. It is still a proposal, and the immigration-status element is likely to draw debate during the comment period.\n\n**How this comes up with a GC or CLO.** Compliance leaders at banks will see it as the next step in a broader rewrite of anti-money laundering programme rules this year, and will ask how it changes onboarding workflows and data retention.\n\n**Questions a buyer might ask.**\n- Would we still need to collect beneficial ownership data for every new account?\n- How does this interact with the separate proposal to overhaul AML programme requirements?\n\n## Story 4 — Cyber and the False Claims Act, yet again\n\n**The facts.** Radical Compliance examines the Justice Department's latest False Claims Act settlement with a government contractor over weak cybersecurity, highlighting who the whistleblower was. Recent public reporting shows this month's settlements include a $13 million resolution with a defence contractor described as the largest of its kind.\n**Background.** The department has been bringing these cases since launching its civil cyber-fraud initiative in 2021.\n**Who's affected.** Defence, aerospace and technology contractors.\n**Why it matters.** Insiders, often IT staff, keep bringing these cases, so cyber controls have become a compliance and speak-up matter.\n**How this comes up with a GC or CLO.** As proof that security certifications in contracts are legal representations.\n**Questions a buyer might ask.** Who inside the company knows whether our security claims to the government are accurate?\n\n## Story 5 — France's AMF fines Auris Gestion and two executives €700,000\n\n**The facts.** The French markets regulator's enforcement committee fined asset manager Auris Gestion and two of its executives a combined €700,000 for breaching their professional obligations.\n**Background.** The AMF regularly sanctions managers for failures in their duties to clients.\n**Who's affected.** Asset managers and their senior leaders.\n**Why it matters.** Naming and fining individuals alongside the firm reflects a European trend towards personal accountability.\n**How this comes up with a GC or CLO.** As an example of executives sharing liability for control failures.\n**Questions a buyer might ask.** When does a regulator decide to pursue individuals as well as the firm?\n\n## Story 6 — Nevada manufacturer pays over $250,600 to resolve EEOC harassment charges\n\n**The facts.** Tripp Enterprises, a plastics maker in Sparks, Nevada, agreed to pay more than $250,600 in damages and back pay, plus other relief, to settle sexual harassment claims investigated by the EEOC.\n**Background.** EEOC settlements usually add training, policy and reporting requirements.\n**Who's affected.** Manufacturers and HR and legal teams.\n**Why it matters.** Harassment cases still hinge on whether complaints were heard and acted on.\n**How this comes up with a GC or CLO.** As a reminder that weak complaint handling turns misconduct into liability.\n**Questions a buyer might ask.** How would we show that harassment complaints were handled promptly?\n\n## Story 7 — EDPB publishes final guidelines on legitimate interest\n\n**The facts.** The European Data Protection Board adopted final guidelines on when and how organisations may process personal data based on legitimate interest under the GDPR, as reported by the Dutch data protection authority.\n**Background.** The guidelines follow a draft and public consultation.\n**Who's affected.** Any organisation processing personal data in the EU.\n**Why it matters.** Legitimate interest underpins much internal processing, including investigations and monitoring.\n**How this comes up with a GC or CLO.** In discussions about lawful bases for whistleblowing and investigation data.\n**Questions a buyer might ask.** Can we rely on legitimate interest to process data in internal investigations?\n\n## Story 8 — Labor Department finalises rule on independent contractor status\n\n**The facts.** The US Labor Department issued a final rule revising how it distinguishes employees from independent contractors under the Fair Labor Standards Act and two related laws.\n**Background.** The test has changed with each administration.\n**Who's affected.** Employers relying on contractors and gig workers.\n**Why it matters.** Classification shapes wage, benefit and retaliation exposure.\n**How this comes up with a GC or CLO.** As another shift in a long-running policy swing.\n**Questions a buyer might ask.** Do our contractor arrangements hold up under the new test?\n\n## Story 9 — Shadow AI rivals phishing as a cause of major security incidents\n\n**The facts.** New research rounded up by Corporate Compliance Insights finds unsanctioned AI use rivals phishing as a cause of major incidents; nearly six in ten legal leaders say governance trails AI adoption, and data breach class-action settlements have totalled $3.2 billion since 2010.\n**Background.** Employees adopt AI tools faster than policies are written.\n**Who's affected.** Every organisation.\n**Why it matters.** It puts numbers on the AI governance gap.\n**How this comes up with a GC or CLO.** As a benchmark for AI policy discussions.\n**Questions a buyer might ask.** How would we even know which AI tools staff are using?\n\n## Story 10 — European Commission confirms AI-boosted cyberattack\n\n**The facts.** The European Commission confirmed an AI-boosted cyberattack; a spokesperson could not say whether the attacks were over.\n**Background.** Attackers increasingly use AI to scale and refine attacks.\n**Who's affected.** Public bodies and their suppliers.\n**Why it matters.** Even the EU executive is exposed, which sharpens disclosure and oversight questions.\n**How this comes up with a GC or CLO.** As a real-world example of AI misuse.\n**Questions a buyer might ask.** Would our incident process recognise an AI-assisted attack?\n\n## Story 11 — Five questions a defensible Mexican supplier file must answer\n\n**The facts.** Corporate Compliance Insights argues the records that show a Mexican supplier's ownership, authority and capacity rarely appear in public searches.\n**Background.** Nearshoring has moved more supply chains to Mexico.\n**Who's affected.** Manufacturers and importers.\n**Why it matters.** It exposes the limits of desk-based due diligence.\n**How this comes up with a GC or CLO.** When discussing supplier onboarding.\n**Questions a buyer might ask.** What evidence beyond public records would prove who owns a supplier?\n\n## Story 12 — EU turns up the heat on social media 'rabbit holes'\n\n**The facts.** Brussels is increasing pressure over recommendation \"rabbit holes\" after researchers found TikTok's algorithm pushes harmful content to children.\n**Background.** The Digital Services Act already requires large platforms to assess systemic risks.\n**Who's affected.** Social media and tech platforms.\n**Why it matters.** Algorithm design itself is becoming a regulated risk.\n**How this comes up with a GC or CLO.** In product risk assessments.\n**Questions a buyer might ask.** Who signs off on the risks of a recommendation system?\n\n## Story 13 — SEC charges eight entities over fake crypto platforms\n\n**The facts.** The SEC charged eight Colorado-based entities, likely run from overseas, with taking more than $37 million from US investors through fake crypto trading platforms.\n**Background.** Investment scams increasingly use local shell companies.\n**Who's affected.** Banks, payment firms and investors.\n**Why it matters.** It shows why knowing who controls a counterparty matters.\n**How this comes up with a GC or CLO.** As a beneficial-ownership example.\n**Questions a buyer might ask.** Would our onboarding catch a shell run from abroad?\n\n## Story 14 — Further EU privacy rule cuts not ruled out\n\n**The facts.** Euractiv reports that further cuts to EU privacy rules have not been ruled out.\n**Background.** Brussels is pursuing a broad simplification agenda.\n**Who's affected.** Companies with EU privacy programmes.\n**Why it matters.** Obligations may keep shifting.\n**How this comes up with a GC or CLO.** In planning for EU compliance budgets.\n**Questions a buyer might ask.** Which GDPR obligations are likely to change?\n\n## Story 15 — Federal Reserve acts against former First Security Bancorp employee\n\n**The facts.** The Federal Reserve Board issued an enforcement action against a former employee of First Security Bancorp.\n**Background.** Such actions can bar individuals from banking.\n**Who's affected.** Bank staff and compliance teams.\n**Why it matters.** Regulators keep pursuing individuals.\n**How this comes up with a GC or CLO.** As an individual accountability example.\n**Questions a buyer might ask.** What happens when a former employee's misconduct surfaces later?\n\n## Story 16 — Canada's privacy commissioner at the Global Privacy Assembly\n\n**The facts.** Canada's privacy commissioner promoted his priorities at the 48th Global Privacy Assembly.\n**Background.** Regulators coordinate there on joint work.\n**Who's affected.** Multinationals handling Canadian data.\n**Why it matters.** It can foreshadow joint investigations.\n**How this comes up with a GC or CLO.** In cross-border privacy planning.\n**Questions a buyer might ask.** Are privacy regulators coordinating more on enforcement?\n\n## Story 17 — Canada and Japan reaffirm battery supply chain commitments\n\n**The facts.** Canadian and Japanese officials and industry met in Ottawa for their third battery supply chain dialogue.\n**Background.** Both governments want secure, sustainable supply chains.\n**Who's affected.** Battery, auto and mining companies.\n**Why it matters.** Sourcing and traceability expectations follow public support.\n**How this comes up with a GC or CLO.** In supply-chain sourcing discussions.\n**Questions a buyer might ask.** How far down our supply chain can we trace battery materials?\n",
+ "cards": [
+  {
+   "id": "4b06e0cb9443",
+   "url": "https://www.gov.uk/government/news/technology-company-to-pay-25m-penalty-to-taxpayers",
+   "source": "UK Serious Fraud Office",
+   "region": "UK",
+   "lang": "en",
+   "published": "2026-11-20T11:44+00:00",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Inner_london_crown_court_southwark.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "MRSC at English Wikipedia",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Inner_london_crown_court_southwark.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Inner london crown court southwark.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "SFO secures full £2.5m penalty from Güralp Systems",
+   "summary": "The Serious Fraud Office says Güralp Systems Ltd will pay its full £2.5m penalty, with interest and costs, and that the first £400,000 is due within days.",
+   "impact": "It closes the first test of whether a company can let a deferred prosecution agreement lapse unpaid, confirming that DPA financial terms survive their expiry date.",
+   "industries": [
+    "manufacturing_energy",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Southwark Crown Court London"
+  },
+  {
+   "id": "668d99afbba1",
+   "kind": "briefing",
+   "tier": "ai",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lower_Manhattan%2C_New_York_skyline_from_Liberty_Island_2021.jpg/1280px-Lower_Manhattan%2C_New_York_skyline_from_Liberty_Island_2021.jpg",
+   "source": "AI Briefing · EconoTimes",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-17",
+   "topic": "ai_governance",
+   "title": "New York's attorney general sets up a dedicated AI enforcement unit",
+   "summary": "Letitia James created the ASSET unit to enforce New York's AI laws, including the RAISE Act on frontier model developers, which takes effect on 1 January 2027.",
+   "impact": "A state regulator building a standing AI enforcement team signals that AI governance failures will be investigated like consumer-protection and data-security breaches.",
+   "industries": [
+    "tech",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "rule",
+   "image_query": "Manhattan skyline New York",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Percival Kestreltail",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan,_New_York_skyline_from_Liberty_Island_2021.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Lower Manhattan, New York skyline from Liberty Island 2021.jpg"
+   }
+  },
+  {
+   "id": "ce8ebacc71ff",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23614/customer-due-diligence-requirements-for-covered-financial-institutions",
+   "source": "Federal Register",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T05:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Us-treasury-building.jpg/1280px-Us-treasury-building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "MeanieHyaena",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Us-treasury-building.jpg"
+   },
+   "tier": "official",
+   "topic": "due_diligence",
+   "kind": "link",
+   "title": "FinCEN proposes changes to customer due diligence requirements",
+   "summary": "FinCEN has published a proposed rule to strengthen customer due diligence requirements for covered financial institutions, as directed by Executive Order 14406, Restoring Integrity to America's Financial System.",
+   "impact": "The beneficial-ownership regime at the heart of bank onboarding is being rewritten again, shifting how institutions verify legal-entity owners and when they must refresh that data.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst",
+    "gc"
+   ],
+   "item_type": "proposal",
+   "image_query": "Treasury Building Washington"
+  },
+  {
+   "id": "aaaa96f11aad",
+   "url": "https://www.radicalcompliance.com/2026/11/19/cyber-and-false-claims-act-yet-again/",
+   "source": "Radical Compliance",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T16:25+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Aerial_view_of_the_Pentagon_during_rescue_operations_post-September_11_attack.JPEG/1280px-Aerial_view_of_the_Pentagon_during_rescue_operations_post-September_11_attack.JPEG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "TSGT CEDRIC H. RUDISILL, USAF",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Pentagon_during_rescue_operations_post-September_11_attack.JPEG",
+    "provider": "Wikimedia Commons",
+    "title": "Aerial view of the Pentagon during rescue operations post-September 11 attack.JPEG"
+   },
+   "tier": "press",
+   "topic": "false_claims",
+   "kind": "link",
+   "title": "Cyber and the False Claims Act, yet again",
+   "summary": "Radical Compliance looks at last week's latest Justice Department settlement with a government contractor over poor cybersecurity, focusing on who the whistleblower was and the IT issues involved.",
+   "impact": "Cybersecurity representations in government contracts have become a steady source of whistleblower-driven False Claims Act liability, putting IT controls squarely inside the compliance programme.",
+   "industries": [
+    "manufacturing_energy",
+    "tech",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Pentagon building Arlington",
+   "storyline": "doj-civil-cyber-fraud"
+  },
+  {
+   "id": "82d0e4f0437a",
+   "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-la-commission-des-sanctions/la-commission-des-sanctions-de-lamf-sanctionne-auris-gestion-et-deux-de-ses-dirigeants-pour-un#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "source": "AMF (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-20T08:07+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg/1280px-Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "JLPC",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Paris Palais Brongniart détail 2012.jpg"
+   },
+   "tier": "official",
+   "topic": "aml_sanctions",
+   "kind": "link",
+   "title": "France's AMF fines Auris Gestion and two executives €700,000 for breaching professional obligations",
+   "summary": "The AMF Enforcement Committee has sanctioned asset manager Auris Gestion and two of its executives a total of €700,000 for failing to meet their professional obligations.",
+   "impact": "Sanctioning named executives alongside the firm reflects European regulators' growing appetite for personal accountability when an investment firm's controls fail.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "gc",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Palais Brongniart Paris"
+  },
+  {
+   "id": "35f37eae4527",
+   "url": "https://www.eeoc.gov/newsroom/nevada-manufacturer-pay-over-250600-resolve-eeoc-sexual-harassment-charges",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Nevada manufacturer to pay over $250,600 to resolve EEOC sexual harassment charges",
+   "summary": "Tripp Enterprises, a plastics manufacturer in Sparks, Nevada, agreed to pay more than $250,600 in compensatory damages and back pay, plus injunctive relief, to resolve sexual harassment claims investigated by the EEOC.",
+   "impact": "Settlements like this pair money with mandated reporting, training and complaint-handling changes, showing how harassment cases still reach into the design of speak-up channels.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "plastics factory injection molding"
+  },
+  {
+   "id": "c28a60b824fd",
+   "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/edpb-publiceert-definitieve-guidelines-over-gerechtvaardigd-belang",
+   "source": "Autoriteit Persoonsgegevens (NL)",
+   "region": "EU",
+   "lang": "nl",
+   "published": "2026-11-19T13:30+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "official",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "EDPB publishes final guidelines on legitimate interest",
+   "summary": "The European Data Protection Board has adopted final guidelines on processing personal data on the basis of legitimate interest, setting out when and how organisations can rely on this GDPR legal basis.",
+   "impact": "Legitimate interest underpins much internal processing, including investigations and monitoring, so the EDPB's final word shapes how European privacy authorities will judge those choices.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Berlaymont building Brussels"
+  },
+  {
+   "id": "7938ba985b25",
+   "url": "http://www.dol.gov/newsroom/releases/whd/whd20261119",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg/1280px-Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Department of Labor sign Washington DC 2025-02-04 12-38-46.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Labor Department finalises rule on employee versus independent contractor status",
+   "summary": "The Department of Labor's Wage and Hour Division announced a final rule revising how it distinguishes employees from independent contractors under the Fair Labor Standards Act and two related federal laws.",
+   "impact": "Worker classification drives wage, benefit and retaliation exposure, and this is the latest federal reversal on the test, keeping the rules unsettled for employers using contractors.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Frances Perkins Building Washington"
+  },
+  {
+   "id": "bb47c686710e",
+   "url": "https://www.corporatecomplianceinsights.com/news-roundup-november-19-2026/",
+   "source": "Corporate Compliance Insights",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T16:30+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Shadow AI rivals phishing as a cause of major security incidents",
+   "summary": "A roundup of new research finds unsanctioned AI use rivals phishing as a cause of major security incidents; nearly six in ten legal leaders say governance is falling behind AI adoption.",
+   "impact": "The numbers frame shadow AI as a policy-compliance and oversight gap, not only an IT problem, adding pressure on legal departments to own AI use rules.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "server room data center"
+  },
+  {
+   "id": "50a7cc544406",
+   "url": "https://www.rapporteur.com/news/european-commission-confirms-ai-boosted-cyberattack/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-19T12:43+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "European Commission confirms AI-boosted cyberattack",
+   "summary": "The European Commission confirmed it was hit by a cyberattack boosted by artificial intelligence; a spokesperson could not say on Thursday whether the attacks were over.",
+   "impact": "An AI-assisted attack on the EU executive itself sharpens the debate over how AI misuse figures in cyber-risk oversight and incident disclosure.",
+   "industries": [
+    "public_sector",
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Berlaymont building Brussels"
+  },
+  {
+   "id": "850002a0611b",
+   "url": "https://www.corporatecomplianceinsights.com/five-questions-defensible-mexican-supplier-file-must-answer/",
+   "source": "Corporate Compliance Insights",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-20T12:02+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/US_Navy_100620-N-5319A-067_The_amphibious_transport_dock_ship_USS_New_Orleans_%28LPD_18%29_moors_pierside_in_Manzanillo%2C_Mexico.jpg/1280px-US_Navy_100620-N-5319A-067_The_amphibious_transport_dock_ship_USS_New_Orleans_%28LPD_18%29_moors_pierside_in_Manzanillo%2C_Mexico.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "U.S. Navy photo by Mass Communication Specialist 1st Class Brien Aho",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:US_Navy_100620-N-5319A-067_The_amphibious_transport_dock_ship_USS_New_Orleans_(LPD_18)_moors_pierside_in_Manzanillo,_Mexico.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "US Navy 100620-N-5319A-067 The amphibious transport dock ship USS New Orleans (LPD 18) moors pierside in Manzanillo, Mexico.jpg"
+   },
+   "tier": "press",
+   "topic": "third_party_risk",
+   "kind": "link",
+   "title": "Five questions a defensible Mexican supplier file must answer",
+   "summary": "The records that answer the hardest questions about a Mexican supplier, such as ownership, authority and capacity, often never appear in a public search, Corporate Compliance Insights argues.",
+   "impact": "With nearshoring moving more supply chains to Mexico, the gap between public-record checks and real ownership knowledge is becoming a live third-party risk.",
+   "industries": [
+    "manufacturing_energy",
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Port of Manzanillo Mexico"
+  },
+  {
+   "id": "c67ca8d8161d",
+   "url": "https://www.rapporteur.com/news/the-eu-is-turning-up-the-heat-on-social-media-rabbit-holes/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-20T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Parliament Strasbourg Hemicycle - Diliff.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "EU turns up the heat on social media 'rabbit holes'",
+   "summary": "Brussels is stepping up pressure over social media recommendation 'rabbit holes' after researchers found TikTok's algorithm pushes harmful content towards children.",
+   "impact": "Algorithm design is now treated as a regulated risk in Europe, extending platform compliance from content moderation to how recommendation systems are built.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "European Parliament Strasbourg",
+   "storyline": "tiktok-digital-services-act"
+  },
+  {
+   "id": "3a68823c8dae",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+   "source": "U.S. SEC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T14:39+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Colorado_State_Capitol_ceiling.jpg/1280px-Colorado_State_Capitol_ceiling.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Colorado_State_Capitol_ceiling.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Colorado State Capitol ceiling.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "SEC charges eight entities over fake crypto trading platforms that took more than $37 million",
+   "summary": "The SEC charged eight Colorado-based entities, likely operated by individuals overseas, with defrauding US investors of more than $37 million through fake crypto asset trading platforms.",
+   "impact": "Shell entities registered in the US but run from abroad show why verifying who really controls a counterparty remains central to fraud and onboarding controls.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Colorado State Capitol Denver"
+  },
+  {
+   "id": "8de7fadb2444",
+   "url": "https://www.rapporteur.com/news/the-hack-further-privacy-rule-cuts-not-ruled-out/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-19T06:39+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Berlaymont_building_1974.jpg/1280px-Berlaymont_building_1974.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "European Commission",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_1974.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building 1974.jpg"
+   },
+   "tier": "press",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "Further EU privacy rule cuts not ruled out",
+   "summary": "Euractiv's tech newsletter reports that further cuts to EU privacy rules have not been ruled out, alongside items on MSS delays, OVHcloud and the Space Act.",
+   "impact": "Brussels' simplification drive is reopening rules companies built programmes around, so privacy obligations may keep shifting through the coming legislative cycle.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "Berlaymont building Brussels"
+  },
+  {
+   "id": "241d9c35f2a8",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+   "source": "Federal Reserve Board",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T16:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-12-17_13-25-19.jpg/1280px-2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-12-17_13-25-19.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-12-17_13-25-19.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2025 construction Eccles Federal Reserve Building Washington DC 2025-12-17 13-25-19.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "Federal Reserve takes enforcement action against former First Security Bancorp employee",
+   "summary": "The Federal Reserve Board issued an enforcement action against a former employee of First Security Bancorp.",
+   "impact": "Actions against individual former employees show bank regulators pursuing personal accountability, which can include bans from working in the industry.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Eccles Building Washington"
+  },
+  {
+   "id": "6a27a611129b",
+   "url": "/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119/",
+   "source": "Privacy Commissioner of Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-19T05:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   },
+   "tier": "official",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "Canada's privacy commissioner advances data protection priorities at Global Privacy Assembly",
+   "summary": "The Privacy Commissioner of Canada promoted his privacy and data protection priorities at the 48th Global Privacy Assembly annual conference.",
+   "impact": "Coordination among privacy regulators at the assembly tends to foreshadow joint investigations and shared enforcement priorities affecting multinational companies.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Parliament Hill Ottawa"
+  },
+  {
+   "id": "ec58b254feaf",
+   "url": "https://www.canada.ca/en/global-affairs/news/2026/11/canada-and-japan-reaffirm-commitment-to-strengthening-battery-supply-chains.html",
+   "source": "Global Affairs Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-17T18:35+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/18650_and_21700_lithium_ion_battery_cell.jpg/1280px-18650_and_21700_lithium_ion_battery_cell.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sevenethics",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "18650 and 21700 lithium ion battery cell.jpg"
+   },
+   "tier": "official",
+   "topic": "third_party_risk",
+   "kind": "link",
+   "title": "Canada and Japan reaffirm commitment to strengthening battery supply chains",
+   "summary": "Canadian and Japanese government and industry leaders met in Ottawa for the third Canada-Japan Battery Supply Chain Dialogue, reaffirming their commitment to resilient, secure and sustainable battery supply chains.",
+   "impact": "Government-backed battery supply chains come with sourcing, traceability and sustainability expectations that reach every supplier in the chain.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "lithium-ion battery cells"
+  }
+ ],
+ "briefings": {
+  "668d99afbba1": {
+   "headline": "New York's attorney general sets up a dedicated AI enforcement unit",
+   "dek": "The ASSET unit will enforce the RAISE Act from January and pursue AI-related scams, data misuse and safety failures under existing law.",
+   "body_md": "New York Attorney General Letitia James has set up a unit dedicated to artificial intelligence, the AI Safety, Standards, Enforcement, and Transparency (ASSET) Unit. Announced on 17 November, it is described as the first state attorney general's unit focused solely on enforcing AI laws.\n\nThe unit sits within the office's Economic Justice Division and will work with the Bureau of Internet and Technology. Cristy Phillips, previously special counsel in the Economic Justice Division, will lead it, and the office says it is still hiring. Its mandate covers investigating AI-related harms such as digital scams, cybersecurity threats and misuse of personal information, enforcing AI-specific statutes, developing policy proposals and giving technical support to investigations across the office.\n\nThe centrepiece is New York's RAISE Act, which takes effect on 1 January 2027. Large frontier AI developers must register with the state by that date and report critical safety incidents within 72 hours, and they must disclose their safety measures. According to EconoTimes, civil penalties in actions brought by the attorney general are capped at $1 million for a first violation and $3 million for later violations. The unit will also draw on existing laws, including the SHIELD Act on data security, deceptive-practices law, disclosure rules for chatbots and synthetic performers, and a chatbot child-protection law due to take effect in June 2027.\n\nThe move builds on earlier steps. In September the attorney general issued an industry alert inviting workers at AI companies to report unsafe practices through the office's confidential whistleblower portal.\n\n### What this means for legal and compliance leaders\nState enforcement of AI is moving from statements of intent to dedicated staff with specific statutes to apply. For frontier developers, the RAISE Act creates registration, disclosure and incident-reporting duties backed by meaningful penalties. For other companies, the broader mandate means AI-enabled scams, data misuse and misleading chatbot behaviour can be pursued under existing consumer-protection and data-security laws. The open invitation to AI-company insiders also puts internal speak-up channels into the frame: concerns about AI safety now have a ready external route.\n\n### Questions you may hear\n- Does the RAISE Act cover our models, or only the largest frontier developers?\n- How would a 72-hour incident-reporting duty fit with our existing breach-notification process?\n- If employees raise AI safety concerns with the attorney general, what retaliation protections apply?\n",
+   "sources": [
+    {
+     "title": "New York Attorney General Creates AI Unit to Enforce RAISE Act",
+     "publisher": "EconoTimes",
+     "url": "https://econotimes.com/New-York-Attorney-General-Creates-AI-Unit-to-Enforce-RAISE-Act-1778735"
+    },
+    {
+     "title": "New York creates AI enforcement unit to target scams and privacy threats",
+     "publisher": "FingerLakes1",
+     "url": "https://www.fingerlakes1.com/2026/11/18/new-york-creates-ai-enforcement-unit-to-target-scams-and-privacy-threats/"
+    },
+    {
+     "title": "Letitia James gründet ASSET: New York baut eigene KI-Ermittlungseinheit auf",
+     "publisher": "Born City",
+     "url": "https://borncity.com/news/letitia-james-gruendet-asset-new-york-baut-eigene-ki-ermittlungseinheit-auf/"
+    },
+    {
+     "title": "Industry alert: Attorney General James urges workers with knowledge of unsafe AI to come forward",
+     "publisher": "New York State Attorney General",
+     "url": "https://ag.ny.gov/press-release/2026/industry-alert-attorney-general-james-urges-workers-knowledge-unsafe-ai"
+    }
+   ],
+   "prompted_by": {
+    "title": "New York AG launches AI enforcement unit as states crack down on AI risks",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/artificial-intelligence/new-york-ag-launches-ai-enforcement-unit-as-states-crack-down-on-ai-risks/"
+   }
+  }
+ }
+}
