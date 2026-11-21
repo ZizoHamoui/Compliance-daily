@@ -1,0 +1,1132 @@
+{
+ "date": "2026-11-21",
+ "generated": "2026-11-21T12:33:01+00:00",
+ "count": 41,
+ "by_region": {
+  "US": 13,
+  "CA": 2,
+  "EU": 16,
+  "UK": 2
+ },
+ "paywalled": 8,
+ "items": [
+  {
+   "id": "a3b9343a93e7",
+   "title": "Northeast Georgia Man Charged with International Money Laundering and Destroying Evidence Tied to ISIS",
+   "snippet": "A Lavonia, Georgia, resident is in federal custody charged by criminal complaint with international money laundering and destruction of evidence following an FBI investigation into allegations of sending more than $26,000 to individuals and groups affiliated with a designated…",
+   "url": "https://www.justice.gov/opa/pr/northeast-georgia-man-charged-international-money-laundering-and-destroying-evidence-tied-0",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-19T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "aml_sanctions"
+   ],
+   "score": 14.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "cd25d90e80eb",
+   "title": "CFTC Charges 11 Companies and Two Indiana Executives in $550 Million Fraud Scheme",
+   "snippet": "",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9328-26",
+   "paywall_url": "",
+   "source": "U.S. CFTC Enforcement",
+   "source_id": "cftc-enf",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-20T16:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 10.64,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "8cf63b9f3cc1",
+   "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
+   "snippet": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its co-founders Phillip Williams and Devin…",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+   "paywall_url": "",
+   "source": "U.S. SEC",
+   "source_id": "sec-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-20T14:28+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 10.36,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Courthouse_Polk_County_Texas.jpg/1280px-Courthouse_Polk_County_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jim Evans",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Courthouse_Polk_County_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Courthouse Polk County Texas.jpg"
+   }
+  },
+  {
+   "id": "7374a59a9807",
+   "title": "Louisiana Woman Convicted of Fraud, Obstruction, and Money Laundering in Nearly $10M Tax Refund Scheme",
+   "snippet": "A federal jury in the Western District of Louisiana convicted Jane Frances Pierce, 64, of Boyce, Louisiana, of mail fraud, filing false tax returns, corruptly interfering with an IRS investigation, and money laundering.",
+   "url": "https://www.justice.gov/opa/pr/louisiana-woman-convicted-fraud-obstruction-and-money-laundering-17m-tax-refund-scheme",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-19T12:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 9.6,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "558b976a3cc3",
+   "title": "Government of Canada appoints new Master of the Royal Canadian Mint and members to the Board of Directors",
+   "snippet": "The Government of Canada is committed to appointing highly qualified candidates who are able to best serve the interests of Canadians through open, competency-based selection processes for all Governor-in-Council appointments.",
+   "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-appoints-new-master-of-the-royal-canadian-mint-and-members-to-the-board-of-directors.html",
+   "paywall_url": "",
+   "source": "Department of Finance Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-17T20:51+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 9.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   }
+  },
+  {
+   "id": "e2e036de13af",
+   "title": "Justice Department Secures Permanent Injunction Against California Laws Restricting Federal Law Enforcement Operations",
+   "snippet": "The United States District Judge Christina A. Snyder of the United States District Court for the Central District of California entered a permanent injunction prohibiting the State of California, Gavin Newsom in his official capacity as Governor of California, and Rob Bonta in…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-secures-permanent-injunction-against-california-laws-restricting-federal",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-19T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 8.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "aa07cbfd8794",
+   "title": "Statement on Proposal to Restructure the Governance and Funding of the Consolidated Audit Trail",
+   "snippet": "Commissioner Mark T. Uyeda",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-consolidated-audit-trail-112026",
+   "paywall_url": "",
+   "source": "U.S. SEC (speeches & statements)",
+   "source_id": "sec-speech",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-20T19:04+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 8.5,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-01.jpg/1280px-Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jacklee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Singapore_Surrender_table,_Singapore_History_Gallery,_National_Museum_of_Singapore_-_20151125-01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Singapore Surrender table, Singapore History Gallery, National Museum of Singapore - 20151125-01.jpg"
+   }
+  },
+  {
+   "id": "d040d37cd846",
+   "title": "Décision de la Commission des sanctions du 18 novembre 2026 à l'égard de la société Auris Gestion et de MM. Marc de Saint Denis et Sébastien Grasset",
+   "snippet": "Décision Commission des sanctions SAN-2026-08 - Décision de la commission des sanctions du 18 novembre 2026 à l'égard de la société Auris Gestion et de MM. Marc de Saint Denis et Sébastien Grasset",
+   "url": "https://www.amf-france.org/fr/sanctions-transactions/decisions-de-la-commission-des-sanctions/san-2026-08#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-20T08:02+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   }
+  },
+  {
+   "id": "16e6b076083b",
+   "title": "The not-so-fine print: making consumer contracts fair",
+   "snippet": "How many of us read the terms and conditions of a contract before buying a financial product?Contracts hold the detail that shapes everyone's financial life, whether you're taking out a loan, insuring your holiday, or signing up for a crypto wallet.All firms are responsible for…",
+   "url": "https://www.fca.org.uk/news/blogs/not-so-fine-print-making-consumer-contracts-fair",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 7.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hall_County_Courthouse_Memphis%2C_Texas%2C_United_States.jpg/1280px-Hall_County_Courthouse_Memphis%2C_Texas%2C_United_States.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Huggums537",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hall_County_Courthouse_Memphis,_Texas,_United_States.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Hall County Courthouse Memphis, Texas, United States.jpg"
+   }
+  },
+  {
+   "id": "31dfa678a4d1",
+   "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+   "snippet": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind Rule 613 of Regulation NMS, which…",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+   "paywall_url": "",
+   "source": "U.S. SEC",
+   "source_id": "sec-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-20T18:03+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 4.25,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-02.jpg/1280px-Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-02.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jacklee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Singapore_Surrender_table,_Singapore_History_Gallery,_National_Museum_of_Singapore_-_20151125-02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Singapore Surrender table, Singapore History Gallery, National Museum of Singapore - 20151125-02.jpg"
+   }
+  },
+  {
+   "id": "d4c125325293",
+   "title": "Factsheet EU-Indonesia - Sustainability",
+   "snippet": "European Commission Factsheet Brussels, 23 Sep 2025 Factsheet EU-Indonesia - Sustainability Factsheet EU-Indonesia - Sustainability",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2171",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-20T23:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 3.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   }
+  },
+  {
+   "id": "dc7cf5d2873c",
+   "title": "Webinaire - Préparer son reporting CSRD",
+   "snippet": "Support événement Finance durable Info périodique & permanente CSDR Webinaire - Préparer son reporting CSRD",
+   "url": "https://www.amf-france.org/fr/actualites-publications/evenements-de-lamf/colloques-et-conferences-de-lamf/webinaire-preparer-son-reporting-csrd#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-18T07:18+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 3.2,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Towards_Nanterre_%40_Grande_Arche_%40_La_D%C3%A9fense_%40_Paris_%2835053726941%29.jpg/1280px-Towards_Nanterre_%40_Grande_Arche_%40_La_D%C3%A9fense_%40_Paris_%2835053726941%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Towards_Nanterre_@_Grande_Arche_@_La_D%C3%A9fense_@_Paris_(35053726941).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Towards Nanterre @ Grande Arche @ La Défense @ Paris (35053726941).jpg"
+   }
+  },
+  {
+   "id": "7b5a830d3f40",
+   "title": "Biographical Notes – Ellen Yifan Chen",
+   "snippet": "Ms. Ellen Yifan Chen is a corporate executive, trilingual lawyer, and governance specialist with extensive experience in enterprise risk management, digital transformation, and finance, bringing over a decade of board-level stewardship.",
+   "url": "https://www.canada.ca/en/department-finance/news/2026/11/biographical-notes--ellen-yifan-chen.html",
+   "paywall_url": "",
+   "source": "Department of Finance Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-17T20:50+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 3.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Invertebrate_reef_life_at_Boardroom_pinnacle_P1040172.jpg/1280px-Invertebrate_reef_life_at_Boardroom_pinnacle_P1040172.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Peter Southwood",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Invertebrate_reef_life_at_Boardroom_pinnacle_P1040172.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Invertebrate reef life at Boardroom pinnacle P1040172.jpg"
+   }
+  },
+  {
+   "id": "5d7b7a7bbcca",
+   "title": "Law Firm Owner Indicted for Willful Failure to File Tax Returns",
+   "snippet": "An indictment was unsealed today in the District of Colorado charging a Colorado Springs, Colorado, man with willfully failing to file individual and corporate tax returns for the years 2020 to 2025.",
+   "url": "https://www.justice.gov/opa/pr/law-firm-owner-indicted-willful-failure-file-tax-returns",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-20T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Plato inscription - 2714.jpg"
+   }
+  },
+  {
+   "id": "3637861a20c4",
+   "title": "Kansas Realtor Indicted for Tax Evasion, Failure to File Tax Returns, and Pandemic Relief Fraud",
+   "snippet": "A federal grand jury in Kansas City, Kansas, returned a superseding indictment yesterday charging a Louisburg, Kansas, woman with tax evasion, wire fraud, and willful failure to file personal and corporate income tax returns.",
+   "url": "https://www.justice.gov/opa/pr/kansas-realtor-indicted-tax-evasion-failure-file-tax-returns-and-pandemic-relief-fraud",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-19T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Office of AG signage - 2723.jpg"
+   }
+  },
+  {
+   "id": "0f5511f17ec0",
+   "title": "Michigan Home Health Care Agency Owner Sentenced to 4 Years in Prison for $1.6M Medicare Fraud Scheme Fueled by Illegal Kickbacks",
+   "snippet": "A Michigan nurse and home health agency owner was sentenced today to 4 years in prison for a $1.6 million scheme to defraud Medicare. She was also ordered to pay $1,652,130.67 in restitution to Medicare, and to pay $1,652,130.67 in forfeiture.",
+   "url": "https://www.justice.gov/opa/pr/michigan-home-health-care-agency-owner-sentenced-4-years-prison-16m-medicare-fraud-scheme",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-19T12:00+00:00",
+   "topic": "false_claims",
+   "tags": [
+    "false_claims"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg/1280px-Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "W.carter",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corridor on the second level - NÄL hospital 1.jpg"
+   }
+  },
+  {
+   "id": "5a35d6741a6c",
+   "title": "Peruvian National Sentenced in Transnational Government Imposter Scheme that Defrauded Thousands of U.S. Consumers",
+   "snippet": "Carla Magaly Alcedo Mendoza (Alcedo), 45, of Lima, Peru, was sentenced today to eight years in prison and three years of supervised release for overseeing a years-long transnational fraud conspiracy that used government impersonation tactics to defraud thousands of consumers…",
+   "url": "https://www.justice.gov/opa/pr/peruvian-national-sentenced-transnational-government-imposter-scheme-defrauded-thousands-us",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-18T12:00+00:00",
+   "topic": "false_claims",
+   "tags": [
+    "false_claims"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "",
+   "image_credit": null
+  },
+  {
+   "id": "1667609fd222",
+   "title": "Indian National Sentenced to Over 19 Years in Prison for Plotting to Assassinate U.S. Citizen In New York City",
+   "snippet": "Nikhil Gupta, also known as “Nick,” 55, an Indian national, was sentenced today to 235 months in prison for his participation in a scheme directed by a government of India employee to assassinate an attorney and political activist in the United States. In February 2026, Gupta…",
+   "url": "https://www.justice.gov/opa/pr/indian-national-sentenced-over-19-years-prison-plotting-assassinate-us-citizen-new-york-city",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-20T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   }
+  },
+  {
+   "id": "e6caaf7f1b23",
+   "title": "Helping more people break the cycle of persistent credit card debt",
+   "snippet": "Credit cards are a useful financial tool for many – offering flexibility and helping people manage spending and cash flow.But if customers only make low repayments over a long period, they can end up in debt for years while racking up interest and charges.The persistent debt…",
+   "url": "https://www.fca.org.uk/news/blogs/helping-more-people-break-cycle-persistent-credit-card-debt",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Legal_Gavel_%2827571702173%29.jpg/1280px-Legal_Gavel_%2827571702173%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Blogtrepreneur",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Legal_Gavel_(27571702173).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Legal Gavel (27571702173).jpg"
+   }
+  },
+  {
+   "id": "e39c03bb2c1c",
+   "title": "How long will we let Big Meat and Dairy derail climate action?",
+   "snippet": "Over thirty years into climate negotiations and agriculture is still off the table",
+   "url": "https://www.rapporteur.com/opinion/how-long-will-we-let-big-meat-and-dairy-derail-climate-action/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-18T03:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "fcf38ccfc9a5",
+   "title": "THE HACK: Capitals remix satellite services law",
+   "snippet": "In today's edition: AI agents, Commission cyberattack, Kids Act",
+   "url": "https://www.rapporteur.com/news/the-hack-capitals-remix-satellite-services-law/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-20T08:13+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.54,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "ded89692983c",
+   "title": "THE HACK: How many cloud sovereignty tiers?",
+   "snippet": "In today's edition: AI safety, Kids Act, data transfers",
+   "url": "https://www.rapporteur.com/news/the-hack-how-many-cloud-sovereignty-tiers/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-18T06:31+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.54,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "641ca28fde40",
+   "title": "3 Mexican Nationals Plead Guilty to Laundering Millions of Dollars in Drug Proceeds from the United States to Mexico",
+   "snippet": "Three Mexican nationals pleaded guilty for their roles in the collection of millions in drug proceeds in the United States and the return of those proceeds via cryptocurrency or wire transfers to Mexico as part of a money laundering conspiracy.",
+   "url": "https://www.justice.gov/opa/pr/3-mexican-nationals-plead-guilty-laundering-millions-dollars-drug-proceeds-united-states",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-19T12:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 2.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "id": "92b13b422923",
+   "title": "IA et éducation : une résolution mondiale pour la protection des données",
+   "snippet": "En novembre 2026, l’Assemblée mondiale pour la protection de la vie privée (Global Privacy Assembly) a adopté une résolution sur l’intelligence artificielle dans le secteur de l’éducation. La CNIL revient sur les onze principes clés et les engagements pris.",
+   "url": "https://www.cnil.fr/fr/gpa-ia-education",
+   "paywall_url": "",
+   "source": "CNIL (France)",
+   "source_id": "cnil-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-20T12:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "privacy"
+   ],
+   "score": 2.39,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Skyline_in_Paris%2C_12_July_2017.jpg/1280px-Skyline_in_Paris%2C_12_July_2017.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christer Gundersen",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_in_Paris,_12_July_2017.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Skyline in Paris, 12 July 2017.jpg"
+   }
+  },
+  {
+   "id": "273e9c9aab7f",
+   "title": "48e Assemblée mondiale pour la protection de la vie privée (GPA)",
+   "snippet": "L’Assemblée mondiale pour la protection de la vie privée (ou Global Privacy Assembly), qui rassemble plus de 130 autorités de protection des données de plus de 80 pays, a adopté cinq résolutions dont deux sur l’Intelligence artificielle lors de sa réunion annuelle de novembre…",
+   "url": "https://www.cnil.fr/fr/48e-gpa",
+   "paywall_url": "",
+   "source": "CNIL (France)",
+   "source_id": "cnil-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-20T12:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "privacy"
+   ],
+   "score": 2.39,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Chinatown_skyline_in_Paris%2C_19_June_2015.jpg/1280px-Chinatown_skyline_in_Paris%2C_19_June_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Thibauld Nion",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chinatown_skyline_in_Paris,_19_June_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Chinatown skyline in Paris, 19 June 2015.jpg"
+   }
+  },
+  {
+   "id": "cd1bf25256d4",
+   "title": "Cornélie Koguciuk wint AP-scriptieprijs 2026",
+   "snippet": "Cornélie Koguciuk (Tilburg University) heeft met haar masterscriptie ‘Sensitive Data, Vulnerable Bodies: Assessing GDPR Protections for Privacy And Autonomy in Reproductive Health Apps’ de tweede editie van de AP-scriptieprijs gewonnen. Dit werd bekendgemaakt tijdens de…",
+   "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/cornelie-koguciuk-wint-ap-scriptieprijs-2026",
+   "paywall_url": "",
+   "source": "Autoriteit Persoonsgegevens (NL)",
+   "source_id": "ap-nl",
+   "region": "EU",
+   "lang": "nl",
+   "tier": "official",
+   "published": "2026-11-18T10:30+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 2.34,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Padlock_with_chain.jpg/1280px-Padlock_with_chain.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lacz02",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Padlock_with_chain.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Padlock with chain.jpg"
+   }
+  },
+  {
+   "id": "ea54e81243b4",
+   "title": "Webinaire - L'actualité du financement participatif à destination des professionnels",
+   "snippet": "Support événement Prestataires financiers Services d'investissement Lutte anti blanchiment Webinaire - L'actualité du financement participatif à destination des professionnels",
+   "url": "https://www.amf-france.org/fr/actualites-publications/evenements-de-lamf/colloques-et-conferences-de-lamf/webinaire-lactualite-du-financement-participatif-destination-des-professionnels#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-19T14:11+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 2.0,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Parvis_%40_La_D%C3%A9fense_%40_Paris_%2835056735311%29.jpg/1280px-Parvis_%40_La_D%C3%A9fense_%40_Paris_%2835056735311%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Parvis_@_La_D%C3%A9fense_@_Paris_(35056735311).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Parvis @ La Défense @ Paris (35056735311).jpg"
+   }
+  },
+  {
+   "id": "5c5c25844615",
+   "title": "Poland seeks more NATO support after Russian missile incursion",
+   "snippet": "Warsaw called for additional NATO support on Friday after Russian missiles and a drone violated its airspace during a major attack on Ukraine, raising fears of deliberate provocation. A Russian cruise missile crashed in southeastern Poland on Friday during a Russian airstrike on…",
+   "url": "https://www.rapporteur.com/news/poland-seeks-more-nato-support-after-russian-missile-incursion/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-20T14:06+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Wooden_gavel_20170417.jpg/1280px-Wooden_gavel_20170417.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Santeri Viinamäki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wooden_gavel_20170417.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wooden gavel 20170417.jpg"
+   }
+  },
+  {
+   "id": "6e1a408c0eb2",
+   "title": "COP31: EU battles to get climate reports out sooner",
+   "snippet": "Brussels is courting Beijing, whose backing would leave Saudi Arabia and India with few allies in the dispute",
+   "url": "https://www.rapporteur.com/news/cop31-eu-battles-to-get-climate-reports-out-sooner/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-18T14:39+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "47d5e71b9c22",
+   "title": "INTERVIEW: The EU’s carbon tariff is here to stay, lead MEP says at COP31",
+   "snippet": "Europe's negotiators won’t let UN climate talks close with attack on CBAM, parliamentary negotiator Mohammed Chahim says",
+   "url": "https://www.rapporteur.com/news/interview-the-eus-carbon-tariff-is-here-to-stay-lead-mep-says-at-cop31/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-20T11:02+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "00251770f9ad",
+   "title": "Crises force a rethink of cancer care, experts warn",
+   "snippet": "The EU’s cybersecurity agency counted 300 cyberattacks on hospitals in 2023 alone",
+   "url": "https://www.rapporteur.com/news/crises-force-a-rethink-of-cancer-care-experts-warn/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-20T03:00+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Server_Room_%2822397102849%29.jpg/1280px-Server_Room_%2822397102849%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Server_Room_(22397102849).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Server Room (22397102849).jpg"
+   }
+  },
+  {
+   "id": "551faad03b10",
+   "title": "COP31: EU just ‘buying time’ with methane rules delay, Hoekstra says",
+   "snippet": "Europe 'not wavering at all', EU climate commissioner insists while critics accuse Brussels of caving in",
+   "url": "https://www.rapporteur.com/news/cop31-eu-just-buying-time-with-methane-rules-delay-hoekstra-says/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-19T11:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg"
+   }
+  },
+  {
+   "id": "c090c43f8b79",
+   "title": "Key cloud lawmaker mulls deleting highest sovereignty tier",
+   "snippet": "Sustainability data is also needed to boost public trust, warns ECR's Diego Solier",
+   "url": "https://www.rapporteur.com/news/key-cloud-lawmaker-mulls-deleting-highest-sovereignty-tier/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-18T03:01+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/1280px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Matthew T Rader",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roscoe_Wind_Farm_in_West_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Roscoe Wind Farm in West Texas.jpg"
+   }
+  },
+  {
+   "id": "15e195c8fc0c",
+   "title": "Zimmer Biomet Seeks Redo Of False Claims Act Ruling",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWhiVVNCZzJoSE1YTDlLNExxVmJJbGxRT2pabjk2N19mREcwMFBidjVXS2RIU1ZlTHdIMVpCenR0b1VTRkhaOXJTemQ2cEtCc0Z6d0ZBWmkzNDQzS0RsSEszNENNRHNDX1VEeVltQ2JmbFkxSmd1d01oeXpManJud3Y5VnM5Z29qQTI4MDhfVWxxMFhDNDBkd3VLWGtKblRHWURj0gFWQVVfeXFMTXZvdW9ScXZmM09QUGZ3VS1Kek0zVmwxVm5wSGFLb3dneUhUZWw5WE53TjFDWXBDMXdvVTMxZ19uaXlYWHFSekh1WkpTLWVESFBpTVl3d1E?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-19T23:06+00:00",
+   "topic": "false_claims",
+   "tags": [
+    "false_claims"
+   ],
+   "score": 16.8,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "15b7af55d296",
+   "title": "ECI Compliance Week Monthly Membership Spotlight: Effective AI Governance",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/webcast/eci-compliance-week-monthly-membership-spotlight-effective-ai-governance/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-18T15:05+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "ai_governance"
+   ],
+   "score": 13.08,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "ae73bf8ac823",
+   "title": "UK court approves varied SFO DPA with Güralp Systems",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/uk-court-approves-varied-sfo-dpa-guralp-systems",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-20T15:30+00:00",
+   "topic": "enforcement_policy",
+   "tags": [
+    "enforcement_policy",
+    "enforcement"
+   ],
+   "score": 12.84,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "46f7306275d7",
+   "title": "DOJ leadership greenlit Berko case after FCPA revamp",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-leadership-greenlit-berko-case-after-fcpa-revamp",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-18T22:03+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery",
+    "enforcement"
+   ],
+   "score": 12.84,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "299ead28c16f",
+   "title": "Deutsche Bank executive was reprimanded over treatment of whistleblower",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1Q0X0tQUnN0bF96dHlJU3FHTk1IV2NnNGZFX0ZqZ0IyZjFuTDRDQkZaeTFhb3VKLXFaR1BGSjZxaEVTSkQ5UHFhaW9oZElPaFo5VGdMNERrandPYW1rX3Z1dkI1a2tGd0lQRDJrR2VtMG41Z3AwdDQ5MlZaZUVGZ3NVV1U?oc=5",
+   "source": "Financial Times",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-20T05:09+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "3a0697b1f4ee",
+   "title": "Investigations of Nvidia mount amid growing questions of AI chip sales and governance",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/technology/investigations-of-nvidia-mount-amid-growing-questions-of-ai-chip-sales-and-governance/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-20T20:39+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "governance"
+   ],
+   "score": 11.43,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "ee9941811656",
+   "title": "Governance and culture failings at UK power grid operator putting network supply transparency at risk",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/energy-and-utilities/governance-and-culture-failings-at-uk-power-grid-operator-putting-network-supply-transparency-at-risk/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-19T16:00+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 10.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e82a41f460f6",
+   "title": "Compliance and governance underpin C-suite confidence in firms’ ability to be agile and resilient",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/risk-management/compliance-and-governance-underpin-c-suite-confidence-in-firms-ability-to-be-agile-and-resilient/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-18T23:43+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 10.0,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
