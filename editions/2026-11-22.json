@@ -1,0 +1,380 @@
+{
+ "date": "2026-11-22",
+ "lead_id": "ae73bf8ac823",
+ "editor_note": "A quiet weekend edition led by a reminder that UK bribery settlements do not expire unpaid, alongside a $560 million US offering fraud and fresh UK guidance on AI and auditor independence.",
+ "bottom_line": [
+  {
+   "id": "ae73bf8ac823",
+   "text": "A UK court approved a varied DPA forcing Güralp Systems to pay its overdue £2.07 million bribery penalty with interest and costs."
+  },
+  {
+   "id": "8cf63b9f3cc1",
+   "text": "The SEC froze assets of Backward Hat Capital and its co-founders over an alleged $560 million offering fraud, winning emergency relief."
+  },
+  {
+   "id": "7218e3758c63",
+   "text": "The UK's FRC warned that auditors sharing AI-driven insights with audited companies risk independence and self-interest threats."
+  }
+ ],
+ "stat": {
+  "id": "ae73bf8ac823",
+  "text": "£2,069,861: the DPA sum Güralp Systems agreed in 2019 and must now pay in full, with interest and costs."
+ },
+ "podcast_brief": "## The day in one line\n\nIt's a quiet weekend edition, and one thread runs through it: an agreement with a regulator doesn't fade away because time passes or the technology changes. A British company has learned that an unpaid bribery settlement still has to be paid, a US investment firm has had its assets frozen over a half-billion-dollar offering, and the UK's audit regulator has reminded firms that AI tools don't loosen the old rules on independence.\n\n## Story 1 — Court approves new payment deal after Güralp Systems failed to pay its SFO bribery penalty\n\n**The facts.**\n- On Friday 20 November 2026, Southwark Crown Court in London approved a varied deferred prosecution agreement, or DPA, between the Serious Fraud Office and Güralp Systems Limited, a British maker of seismic monitoring equipment.\n- Under the new terms the company must pay the outstanding balance of its original penalty in full, plus interest and the SFO's costs, on an agreed schedule.\n- The original agreement, finalised on 22 October 2019, required the company to pay £2,069,861. In court that figure was described as the gross profit from the conduct. The company accepted charges of conspiracy to make corrupt payments and failure to prevent bribery.\n- City AM reports the new plan adds up to £400,000 for interest and legal costs, and that the first instalment of £400,000 falls due on 1 December. Those figures come from that one outlet; the SFO's own case page confirms the structure but not the amounts.\n- An SFO head of division described the outcome as the company \"committing to pay in full with interest and costs.\"\n\n**Background.**\n- A DPA is a court-approved deal under which a company admits facts, accepts conditions and pays a financial penalty, and in return prosecution is suspended. If the company keeps its side of the bargain, the charges are dropped at the end of the term.\n- Güralp's 2019 agreement gave the company five years to pay but set no payment timetable. The company met its other obligations but didn't pay the money.\n- The DPA's term ended in October 2024. In November 2024 the SFO told the court it believed the terms had been breached and asked for a hearing.\n- Güralp argued that once the agreement had expired, the SFO had no power to enforce it. On 13 January 2026 the High Court, with Lord Justice Edis and Mr Justice Calver sitting, rejected that argument. The judges found nothing in the agreement that released the company from unpaid sums, so the SFO could still seek full payment, either through a variation or by going back to court.\n- On 10 February 2026 the High Court refused the company permission to take the case to the Supreme Court. That cleared the way for Friday's variation.\n- Three individuals linked to the original conduct, including the company's founder, were tried at Southwark Crown Court in 2019 and acquitted.\n\n**Who's affected.**\n- Any company that has settled, or is negotiating, a DPA with the SFO, in any industry.\n- General counsel and finance teams who agree the payment terms in those deals, and boards who sign them off.\n- Defence lawyers who had wondered whether an expiry date gave companies any leverage over unpaid sums.\n\n**Why it matters.** The case gave UK courts a rare chance to say what happens when a DPA's term ends with money still owed, and the answer is clear: the debt survives, and it now carries interest and costs. That closes off any idea that a company could quietly run down the clock. It also shows the SFO pressing hard on enforcement while being willing to let a court reschedule payments rather than tear up the deal and prosecute. For a regime that relies on companies trusting the bargain, both points matter.\n\n**How this comes up with a GC or CLO.** A general counsel who has negotiated or is negotiating a corporate resolution in the UK may cite Güralp as proof that every term of a DPA is enforceable, not only the monitoring and cooperation parts. It also fits the wider conversation about the SFO's tougher posture since the UK's new \"failure to prevent fraud\" offence came into force, where leaders ask how credible the agency's threats are.\n\n**Questions a buyer might ask.**\n- Does a DPA's end date end any of our obligations, or only the prosecutor's ability to bring the charges back?\n- If we can't meet a payment term, is a variation the likely route, or would the SFO revive the prosecution?\n- How did the court handle interest when the original agreement set no timetable?\n\n## Story 2 — SEC charges Indianapolis-based Backward Hat Capital and its co-founders over a $560 million offering fraud\n\n**The facts.**\n- On 20 November 2026 the Securities and Exchange Commission announced it had obtained a temporary restraining order, an asset freeze, expedited discovery and other emergency relief against Backward Hat Capital, an Indianapolis-based firm, and its co-founders, Phillip Williams and Devin Johns.\n- The SEC describes the case as a $560 million offering fraud.\n- The same day, the Commodity Futures Trading Commission announced charges against 11 companies and two Indiana executives over a $550 million fraud scheme. Local press coverage names the same two men and describes an alleged foreign-exchange trading scheme that took in more than 2,000 investors. It's reasonable to read the two releases as parallel actions over the same conduct, though the detail of how the agencies divided the case isn't confirmed here.\n- These are allegations. No court has ruled on the merits, and the defendants haven't had their day in court.\n\n**Background.**\n- Emergency relief such as an asset freeze is reserved for cases where regulators believe money could disappear before a case is heard. Getting it at the filing stage tells you the agencies thought the risk was immediate.\n- When the SEC and CFTC act together, it usually means the products sit across both agencies' territory: securities offerings on one side, commodity or currency trading on the other.\n\n**Who's affected.**\n- Investors in the funds, and the banks, brokers and administrators that handled their money.\n- Financial advisers who referred clients, and compliance teams at firms that onboard private funds.\n\n**Why it matters.** A half-billion-dollar alleged fraud built in a mid-sized American city is a reminder that very large investor losses don't need a Wall Street address. The coordinated, emergency approach shows how quickly US regulators can move when they think investors are at risk, and how much an early case leans on the records a firm kept, or failed to keep.\n\n**How this comes up with a GC or CLO.** Compliance leaders at banks and wealth platforms are likely to raise it in the context of third-party and counterparty risk: who did their due diligence on this firm, and what warning signs were missed? It's also an easy demo example of how a scheme can grow for years when nobody connects the dots between the people raising money and the people moving it.\n\n**Questions a buyer might ask.**\n- How long had the scheme been running before regulators stepped in, and what triggered the action?\n- Which service providers handled investor money, and will they face questions?\n- Why did both the SEC and the CFTC bring cases?\n\n## Story 3 — UK audit regulator warns firms against using AI insights to win advisory work\n\n**The facts.**\n- On 16 November 2026 the UK's Financial Reporting Council published guidance on ethics and technology for audit firms. It covers what happens when auditors share insights from data analytics or AI tools with the companies they audit, and when they give those companies access to the tools themselves.\n- The FRC says those insights can threaten integrity, objectivity or independence, especially when the work goes beyond the audit of the financial statements.\n- City AM reports the regulator warns against using advanced technology as a basis for winning future work. Sharing commercially valuable insights can create a self-interest threat, and analysis is expected to be framed in neutral, fact-based language. The risk is higher when an insight touches a subject on which the firm also sells consulting.\n- The FRC's executive director of regulatory standards, Mark Babington, said independence \"is and must remain at the heart of audits.\"\n- The guidance carries no penalties and announces no enforcement action.\n\n**Background.**\n- The guidance builds on earlier FRC material on generative and agentic AI in audit, and on AI use cases in audit work.\n- Big audit firms now run analytics over a client's entire transaction ledger. That can surface process failures or cost savings that management would pay to fix, which creates a natural pull toward selling follow-on advice. UK ethical standards already limit non-audit services for the largest audited companies.\n- The FRC's chief executive said in March that the regulator's job is not to regulate algorithms. This guidance follows that line by focusing on how firms use the outputs, not on the tools.\n\n**Who's affected.**\n- Audit committees, the general counsel and company secretaries who support them, and finance leaders who manage the auditor relationship.\n- Audit firms, especially those with large advisory practices.\n\n**Why it matters.** It's a clear example of a regulator handling AI through duties that already exist, independence and objectivity, rather than writing new technology rules. It also puts a name on a quiet tension: the better the auditor's tools get, the more tempting it becomes to turn audit findings into a sales pitch.\n\n**How this comes up with a GC or CLO.** A general counsel who sits close to the audit committee may raise it when the auditor presents a polished dashboard of findings, asking whether that's part of the audit or the start of a proposal. It also comes up in wider conversations about AI governance, as evidence that regulators expect human judgement and clear lines of responsibility around AI outputs.\n\n**Questions a buyer might ask.**\n- Where does the FRC draw the line between a helpful audit finding and a self-interest threat?\n- Does it matter if our team uses the auditor's analytics tool directly?\n- How does this sit alongside the existing limits on non-audit services?\n\n## Story 4 — France's AMF sanctions committee rules on asset manager Auris Gestion and two executives\n\n**The facts.** France's financial markets regulator, the AMF, published decision SAN-2026-08 of its enforcement committee, dated 18 November 2026, concerning the asset manager Auris Gestion and two of its executives, Marc de Saint Denis and Sébastien Grasset. The release doesn't summarise the findings or any penalty.\n\n**Background.** The AMF's enforcement committee is separate from its investigators and rules on cases they bring, much like a tribunal.\n\n**Who's affected.** French and EU asset managers and their senior managers.\n\n**Why it matters.** The decision names the firm and individual executives together, which reflects European regulators' steady focus on personal accountability inside fund managers.\n\n**How this comes up with a GC or CLO.** Compliance leaders at asset managers watch AMF decisions for patterns in what draws sanctions, and for how individuals are treated.\n\n**Question a buyer might ask.** Were the executives sanctioned personally, and for what?\n\n## Story 5 — SEC proposes to restructure the governance and funding of the Consolidated Audit Trail\n\n**The facts.** On 20 November the SEC proposed rescinding Rule 613 of Regulation NMS to deal with what it called inefficiencies in the governance and funding model of the Consolidated Audit Trail, the database that tracks orders and trades across US markets. Commissioner Mark Uyeda issued a statement on the proposal.\n\n**Background.** The audit trail has been costly and contested for years, with arguments over who pays and how much sensitive customer data it holds.\n\n**Who's affected.** Broker-dealers, exchanges and their compliance and data teams.\n\n**Why it matters.** Changing who runs and pays for the system shifts cost and data responsibility across the industry, and signals the agency's appetite for scaling back large surveillance mandates.\n\n**How this comes up with a GC or CLO.** Legal teams at broker-dealers will track how the costs and data obligations land.\n\n**Question a buyer might ask.** What replaces Rule 613, and does the proposal change what customer data is collected?\n\n## Story 6 — Michigan home health agency owner sentenced to four years for $1.6 million Medicare kickback scheme\n\n**The facts.** A Michigan nurse who owned a home health agency was sentenced to four years in prison for a $1.6 million Medicare fraud scheme driven by illegal kickbacks. She must pay $1,652,130.67 in restitution and forfeit the same amount.\n\n**Background.** Paying for patient referrals is a long-standing pattern in home health fraud cases.\n\n**Who's affected.** Home health providers and healthcare compliance teams.\n\n**Why it matters.** It shows kickback schemes remain a core focus for healthcare fraud enforcement, and that referral relationships stay under scrutiny.\n\n**How this comes up with a GC or CLO.** Healthcare compliance leaders use cases like this to explain why referral sources need monitoring.\n\n**Question a buyer might ask.** How were the kickbacks paid, and how were they detected?\n\n## Story 7 — Global Privacy Assembly adopts five resolutions, two on artificial intelligence\n\n**The facts.** At its 48th annual meeting, the Global Privacy Assembly, which brings together more than 130 data protection authorities from over 80 countries, adopted five resolutions. Two deal with artificial intelligence, one of them on AI in education, France's CNIL reports.\n\n**Background.** The assembly's resolutions aren't binding law, but they set out shared positions that national regulators draw on.\n\n**Who's affected.** Organisations building or deploying AI that handles personal data, especially in education technology.\n\n**Why it matters.** Coordinated positions from privacy regulators set a common baseline for how AI is examined in investigations around the world.\n\n**How this comes up with a GC or CLO.** Privacy and legal leaders follow these resolutions as early signals of where regulators will focus.\n\n**Question a buyer might ask.** What principles did the regulators agree on AI in education?\n\n## Story 8 — FCA: the not-so-fine print, making consumer contracts fair\n\n**The facts.** The UK Financial Conduct Authority published a piece on fairness in consumer contract terms across financial products, from loans and travel insurance to crypto wallets, noting that all firms are responsible for the fairness of their terms.\n\n**Background.** Unfair terms law and the FCA's Consumer Duty both apply to standard-form contracts.\n\n**Who's affected.** UK financial firms and their legal drafting teams.\n\n**Why it matters.** Contract terms remain a pressure point in supervision, putting the drafting work of in-house legal teams in the regulator's view.\n\n**How this comes up with a GC or CLO.** General counsel may point to it in discussions about how terms are approved and kept current.\n\n**Question a buyer might ask.** Is the FCA signalling a review of particular product terms?\n\n## Story 9 — FCA: helping more people break the cycle of persistent credit card debt\n\n**The facts.** The FCA set out its work on customers who make only low credit card repayments over long periods and stay in debt for years while paying interest and charges.\n\n**Background.** UK rules on persistent credit card debt have been in place for several years.\n\n**Who's affected.** Card issuers and their customer-outcomes and compliance teams.\n\n**Why it matters.** Persistent debt is a test of how firms show they treat customers fairly.\n\n**How this comes up with a GC or CLO.** Compliance leaders at lenders may raise it when discussing customer outcome evidence.\n\n**Question a buyer might ask.** Is the FCA planning new rules, or pressing firms to use the existing ones?\n",
+ "cards": [
+  {
+   "id": "ae73bf8ac823",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "Court approves new payment deal after Güralp Systems failed to pay its SFO bribery penalty",
+   "summary": "Southwark Crown Court on 20 November approved a varied deferred prosecution agreement requiring Güralp Systems to pay its unpaid £2.07 million penalty in full, plus interest and costs, on an agreed schedule.",
+   "impact": "The case confirms that a DPA's financial terms survive its expiry date, removing any idea that a company can simply run out the clock on an unpaid settlement.",
+   "industries": [
+    "manufacturing_energy",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "ruling",
+   "image_query": "Southwark Crown Court London",
+   "topic": "enforcement_policy",
+   "source": "AI Briefing · Serious Fraud Office",
+   "url": "",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Inner_london_crown_court_southwark.jpg",
+   "published": "2026-11-20",
+   "region": "UK",
+   "lang": "en",
+   "image_credit": {
+    "kind": "commons",
+    "author": "MRSC at English Wikipedia",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Inner_london_crown_court_southwark.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Inner london crown court southwark.jpg"
+   }
+  },
+  {
+   "id": "8cf63b9f3cc1",
+   "kind": "link",
+   "title": "SEC charges Indianapolis-based Backward Hat Capital and its co-founders over $560 million offering fraud",
+   "summary": "The SEC obtained a temporary restraining order, asset freeze and expedited discovery against Indianapolis-based Backward Hat Capital and its co-founders over an alleged $560 million offering fraud.",
+   "impact": "Emergency relief at the outset shows how fast agencies act when investor money is at risk, and how much the case depends on records kept from the start.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+   "source": "U.S. SEC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-20T14:28+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Indianapolis_skyline_at_night_-_Sarah_Stierch.jpg/1280px-Indianapolis_skyline_at_night_-_Sarah_Stierch.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sarah Stierch",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Indianapolis_skyline_at_night_-_Sarah_Stierch.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Indianapolis skyline at night - Sarah Stierch.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "image_query": "Indianapolis skyline Indiana"
+  },
+  {
+   "id": "7218e3758c63",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "UK audit regulator warns firms against using AI insights to win advisory work",
+   "summary": "The Financial Reporting Council issued guidance on 16 November warning that sharing technology-driven insights with audited companies can threaten auditor independence, especially where the topic overlaps with the firm's advisory services.",
+   "impact": "Audit committees and general counsel overseeing auditor relationships now have a regulator's line on when AI-generated insights cross from audit value into a self-interest threat.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "rule",
+   "image_query": "London office buildings City",
+   "topic": "ai_governance",
+   "source": "AI Briefing · Financial Reporting Council",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/King_Edward_Buildings%2C_London_01.jpg/1280px-King_Edward_Buildings%2C_London_01.jpg",
+   "published": "2026-11-16",
+   "region": "UK",
+   "lang": "en",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Paul the Archivist",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:King_Edward_Buildings,_London_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "King Edward Buildings, London 01.jpg"
+   }
+  },
+  {
+   "id": "d040d37cd846",
+   "kind": "link",
+   "title": "France's AMF sanctions committee issues decision against asset manager Auris Gestion and two executives",
+   "summary": "The enforcement committee of France's Autorité des marchés financiers published decision SAN-2026-08, dated 18 November 2026, against the asset management company Auris Gestion and two of its executives, Marc de Saint Denis and Sébastien Grasset.",
+   "impact": "Naming both the firm and individual executives in one decision reflects European regulators' continuing focus on personal accountability inside asset managers.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "url": "https://www.amf-france.org/fr/sanctions-transactions/decisions-de-la-commission-des-sanctions/san-2026-08#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "source": "AMF (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-20T08:02+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "image_query": "La Défense business district Paris"
+  },
+  {
+   "id": "31dfa678a4d1",
+   "kind": "link",
+   "title": "SEC proposes to restructure the governance and funding of the Consolidated Audit Trail",
+   "summary": "The SEC proposed rescinding Rule 613 of Regulation NMS to address inefficiencies in the governance and funding model of the Consolidated Audit Trail, the market-wide surveillance database. Commissioner Mark Uyeda issued a statement on the proposal.",
+   "impact": "A rethink of who runs and pays for the CAT shifts cost and data-governance exposure for broker-dealers and exchanges, and signals the agency's appetite for paring back large surveillance mandates.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+   "source": "U.S. SEC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-20T18:03+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_York_Stock_Exchange_August_2017_02.jpg/1280px-New_York_Stock_Exchange_August_2017_02.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "New York Stock Exchange August 2017 02.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "image_query": "New York Stock Exchange building"
+  },
+  {
+   "id": "0f5511f17ec0",
+   "kind": "link",
+   "title": "Michigan home health agency owner sentenced to four years for $1.6 million Medicare kickback scheme",
+   "summary": "A Michigan nurse who owned a home health agency was sentenced to four years in prison for a $1.6 million Medicare fraud scheme fuelled by illegal kickbacks, and ordered to pay $1,652,130.67 in restitution plus the same amount in forfeiture.",
+   "impact": "Kickback-driven referral schemes remain a staple of healthcare fraud enforcement, keeping referral-source and patient-recruitment controls under scrutiny across home health providers.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "url": "https://www.justice.gov/opa/pr/michigan-home-health-care-agency-owner-sentenced-4-years-prison-16m-medicare-fraud-scheme",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-19T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg/1280px-Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "W.carter",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corridor on the second level - NÄL hospital 1.jpg"
+   },
+   "tier": "official",
+   "topic": "false_claims"
+  },
+  {
+   "id": "273e9c9aab7f",
+   "kind": "link",
+   "title": "Global Privacy Assembly adopts five resolutions, two on artificial intelligence",
+   "summary": "At its 48th annual meeting, the Global Privacy Assembly, which brings together more than 130 data protection authorities from over 80 countries, adopted five resolutions, two of them on artificial intelligence, France's CNIL reports.",
+   "impact": "Coordinated positions from data protection authorities worldwide set the expectations AI deployers will meet in investigations, giving privacy regulators a shared baseline for AI scrutiny.",
+   "industries": [
+    "tech",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "url": "https://www.cnil.fr/fr/48e-gpa",
+   "source": "CNIL (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-20T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Skyline_in_Paris%2C_12_July_2017.jpg/1280px-Skyline_in_Paris%2C_12_July_2017.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christer Gundersen",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_in_Paris,_12_July_2017.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Skyline in Paris, 12 July 2017.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "image_query": "CNIL headquarters Paris"
+  },
+  {
+   "id": "16e6b076083b",
+   "kind": "link",
+   "title": "FCA: the not-so-fine print — making consumer contracts fair",
+   "summary": "The UK Financial Conduct Authority published a piece on fairness in consumer contract terms across financial products, from loans and travel insurance to crypto wallets, noting that all firms are responsible for the fairness of their terms.",
+   "impact": "Contract terms are a recurring Consumer Duty pressure point, and FCA attention to fine print puts legal teams' standard-form drafting squarely in the supervisory frame.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "url": "https://www.fca.org.uk/news/blogs/not-so-fine-print-making-consumer-contracts-fair",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "image_query": "Financial Conduct Authority Stratford London"
+  },
+  {
+   "id": "e6caaf7f1b23",
+   "kind": "link",
+   "title": "FCA: helping more people break the cycle of persistent credit card debt",
+   "summary": "The FCA set out its work on customers who make only low credit card repayments over long periods and stay in debt for years while paying interest and charges.",
+   "impact": "Persistent-debt outcomes remain a test of how card issuers evidence fair customer treatment under the UK's consumer protection regime.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "url": "https://www.fca.org.uk/news/blogs/helping-more-people-break-cycle-persistent-credit-card-debt",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/6._Wallet_-_Flickr_-_Saad.Akhtar.jpg/1280px-6._Wallet_-_Flickr_-_Saad.Akhtar.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saad Akhtar from New Delhi, India",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:6._Wallet_-_Flickr_-_Saad.Akhtar.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "6. Wallet - Flickr - Saad.Akhtar.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "image_query": "credit cards wallet"
+  }
+ ],
+ "briefings": {
+  "ae73bf8ac823": {
+   "headline": "Court approves new payment deal after Güralp Systems failed to pay its SFO bribery penalty",
+   "dek": "Seven years after its deferred prosecution agreement, the seismic-equipment maker must pay the full sum plus interest and costs.",
+   "body_md": "Southwark Crown Court on 20 November 2026 approved a variation to the deferred prosecution agreement (DPA) between the Serious Fraud Office and Güralp Systems Limited, the British maker of seismic monitoring equipment. Under the varied agreement the company must pay the outstanding balance of its 2019 penalty in full, plus interest and the SFO's costs, on an agreed schedule.\n\n**The key facts.** The SFO and Güralp Systems finalised their DPA on 22 October 2019. The company accepted charges of conspiracy to make corrupt payments and failure to prevent bribery, and agreed to pay £2,069,861, a sum described in court as the gross profit from the conduct. The agreement gave five years to pay but set no payment timetable. According to the SFO's case page, on 21 November 2024 the agency told the court it believed the terms had been breached. The company had met its other obligations but had not paid.\n\nCity AM reports that the new plan adds up to £400,000 for interest and the SFO's legal costs, with a first instalment of £400,000 due on 1 December. The SFO's head of division described the outcome as the company \"committing to pay in full with interest and costs.\"\n\n**How it got here.** Güralp argued that because the DPA had expired in October 2024, the SFO could no longer enforce it. On 13 January 2026 the High Court, sitting with Lord Justice Edis and Mr Justice Calver, disagreed. The Law Society Gazette reports the judges found the agreement contained \"no clear words\" releasing the company from unpaid sums, so the SFO could still seek full payment. On 10 February 2026 the court refused the company permission to appeal to the Supreme Court. Three individuals linked to the original conduct were tried at Southwark Crown Court in 2019 and acquitted.\n\nThe dispute produced a rare court ruling on what happens when a DPA's term ends with money still owed.\n\n### What this means for legal and compliance leaders\n\nThe case closes off a reading of DPAs as time-limited bargains that lapse if a company waits them out. A UK DPA's financial obligations now carry real enforcement weight after the term ends, with interest and costs as the price of delay. For companies negotiating resolutions with the SFO, it underlines that payment terms are as binding as monitoring or cooperation terms, and that a court can step in to vary an agreement rather than let it fail. It also fits the SFO's recent pattern of pressing hard on corporate resolutions while showing some flexibility on how they are delivered.\n\n### Questions you may hear\n\n- Does a DPA's expiry date end any of the company's obligations, or only the prosecutor's ability to revive charges?\n- How did the court treat interest and costs when the original agreement set no payment timetable?\n- Could the SFO have reinstated the bribery prosecution instead of seeking a variation?\n",
+   "sources": [
+    {
+     "title": "Guralp Systems Ltd (case page)",
+     "publisher": "Serious Fraud Office / GOV.UK",
+     "url": "https://www.gov.uk/sfo-cases/guralp-sytems-ltd"
+    },
+    {
+     "title": "Tech firm forced to pay SFO £2.5m after breaching bribery deal",
+     "publisher": "City AM",
+     "url": "https://www.cityam.com/tech-firm-forced-to-pay-sfo-2-5m-after-breaching-bribery-deal/"
+    },
+    {
+     "title": "SFO can pursue unpaid £2m DPA penalty, High Court finds",
+     "publisher": "Law Society Gazette",
+     "url": "https://www.lawgazette.co.uk/news/sfo-can-pursue-unpaid-2m-dpa-penalty-high-court-finds/5125590.article"
+    }
+   ],
+   "prompted_by": {
+    "title": "UK court approves varied SFO DPA with Güralp Systems",
+    "publisher": "Global Investigations Review",
+    "url": "https://globalinvestigationsreview.com/article/uk-court-approves-varied-sfo-dpa-guralp-systems"
+   }
+  },
+  "7218e3758c63": {
+   "headline": "UK audit regulator warns firms against using AI insights to win advisory work",
+   "dek": "New FRC guidance says technology-driven insights shared with audited companies can create independence and self-interest threats.",
+   "body_md": "The UK's Financial Reporting Council (FRC) published guidance on 16 November 2026 warning audit firms that the insights they generate with technology, including artificial intelligence, can threaten their independence when shared with the companies they audit.\n\n**The key facts.** The guidance, titled *Ethics and Technology: Ethical considerations relating to the provision of insights obtained through the use of technology to an audited entity*, covers two situations: when auditors pass on insights from data analytics or AI tools to management or to those charged with governance, and when auditors give audited companies access to the technology so they can draw insights themselves. The FRC says such insights can create threats to integrity, objectivity or independence, particularly where the work goes beyond the financial statement audit.\n\nCity AM reports that the FRC cautions firms against treating advanced technology as a basis for winning future work. Passing on commercially valuable insights can create a self-interest threat, the regulator says, and analysis is expected to be presented in neutral, fact-based language. A particular risk factor arises when the insight touches a topic on which the firm also sells advisory services. Mark Babington, the FRC's executive director of regulatory standards, said auditor independence \"is and must remain at the heart of audits.\"\n\n**Background.** The guidance builds on earlier FRC publications on the use of generative and agentic AI in audit and on AI use cases in audit work. Large audit firms have invested heavily in analytics platforms that can process a client's full transaction data, and the outputs often reveal process weaknesses or commercial opportunities that would interest management. That creates a natural pull toward selling follow-on consulting, which UK ethical standards already restrict for audited public-interest entities. The FRC's chief executive said earlier this year that the regulator's role is to oversee firms rather than algorithms, and this guidance follows that approach by focusing on how firms use the outputs.\n\nThe guidance carries no penalties of its own and announces no enforcement action.\n\n### What this means for legal and compliance leaders\n\nFor audit committees and the general counsel who support them, the guidance gives a regulator-backed reference point for judging whether an auditor's AI-driven observations are part of the audit or an opening pitch for advisory work. It sharpens the line between assurance and selling at a time when technology makes that line easier to blur. It also shows UK regulators addressing AI through existing ethical duties, such as independence and objectivity, rather than through new technology-specific rules.\n\n### Questions you may hear\n\n- Where does the FRC draw the line between useful audit findings and insights that create a self-interest threat?\n- Does the guidance apply when the audited company uses the auditor's analytics tool directly?\n- How does this interact with existing UK limits on non-audit services for public-interest entities?\n",
+   "sources": [
+    {
+     "title": "New guidance supports auditor independence when using technology, including AI",
+     "publisher": "Financial Reporting Council",
+     "url": "https://www.frc.org.uk/news-and-events/news/2026/11/new-guidance-supports-auditor-independence-when-using-technology-including-ai/"
+    },
+    {
+     "title": "Watchdog warns audit firms not to use AI to woo advisory clients",
+     "publisher": "City AM",
+     "url": "https://www.cityam.com/watchdog-warns-audit-firms-not-to-use-ai-to-woo-advisory-clients/"
+    }
+   ],
+   "prompted_by": {
+    "title": "UK regulator warns audit firms over independence risks of hyping AI insights to clients",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/accounting-auditing/uk-regulator-warns-audit-firms-over-independence-risks-of-hyping-ai-insights-to-clients/"
+   }
+  }
+ }
+}
