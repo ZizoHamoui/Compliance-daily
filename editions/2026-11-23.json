@@ -1,0 +1,295 @@
+{
+ "date": "2026-11-23",
+ "lead_id": "cd25d90e80eb",
+ "editor_note": "A $550 million CFTC fraud case leads a quiet Monday, while AI runs through the rest of the paper: agent-written hotline reports, Nvidia's governance saga, EU testing coordination and global privacy principles.",
+ "bottom_line": [
+  {
+   "id": "cd25d90e80eb",
+   "text": "The CFTC charged eleven companies and two Indiana executives over an alleged $550 million fraud, pairing corporate and individual accountability."
+  },
+  {
+   "id": "af321de4bf0b",
+   "text": "Compliance professionals are weighing how hotlines would cope with misconduct reports researched, drafted and submitted by whistleblowers' personal AI agents."
+  },
+  {
+   "id": "1af31f9ebf08",
+   "text": "Greece's AI chief urged EU capitals to coordinate AI security testing rather than each building its own institute."
+  }
+ ],
+ "stat": {
+  "id": "cd25d90e80eb",
+  "text": "$550 million: the alleged size of the fraud scheme in the CFTC's case against eleven companies and two Indiana executives."
+ },
+ "podcast_brief": "## The day in one line\n\nA quiet Monday edition is anchored by a large US derivatives regulator fraud case against eleven companies and two executives, while the rest of the day turns on how artificial intelligence is reshaping speak-up channels, corporate governance and regulatory coordination. Europe adds data protection, carbon border and health-sector cyber threads.\n\n## Story 1 — CFTC charges 11 companies and two Indiana executives in a $550 million fraud scheme\n\n**The facts.**\n- The US Commodity Futures Trading Commission announced on Friday, November 20, 2026, that it had charged eleven companies and two executives based in Indiana over what it describes as a fraud scheme worth about $550 million.\n- The announcement came from the agency's enforcement division and was published as a formal press release. The headline frames the case as a single scheme run through a network of corporate entities rather than a series of unrelated violations.\n- The detailed complaint, including the court, the specific products involved, the number of affected customers and the relief sought, was not available to us when this brief was prepared, so those details are not covered here. The charges are allegations; none of the defendants has been found liable.\n\n**Background.**\n- The CFTC polices fraud in commodity futures, swaps, commodity pools and certain retail commodity transactions under the Commodity Exchange Act. Its enforcement cases are civil: it typically files in federal district court and asks for injunctions, repayment to customers (restitution), surrender of profits (disgorgement) and civil monetary penalties.\n- Large CFTC fraud cases often share a recognisable pattern: money raised from customers or investors on the promise of trading returns, a web of affiliated companies through which funds move, and statements to investors that the agency alleges were false. Cases of this size also frequently run in parallel with criminal investigations by federal prosecutors, although whether that is true here is not stated in the material we had.\n- Charging companies and named executives together is a deliberate signal. Regulators on both sides of the Atlantic have spent several years stressing individual accountability, and pairing corporate defendants with the people who controlled them is the practical expression of that policy.\n- A scheme spread across eleven entities is also a reminder of how fraud hides in corporate structure. Multiple related companies can make it harder for banks, auditors, counterparties and investors to see the full picture of where money is going and who is ultimately in control.\n\n**Who's affected.**\n- Firms in commodities, derivatives, trading and investment services, and the banks, payment providers and introducing brokers that deal with them.\n- Compliance teams responsible for third-party and counterparty due diligence, especially where a customer or partner sits inside a group of related entities.\n- Boards and senior executives, given the agency's decision to name individuals alongside companies.\n- Retail customers and investors, who are usually the victims in schemes of this kind.\n\n**Why it matters.** A $550 million figure puts this case among the larger fraud actions the CFTC has announced this year, and it arrives at a time when attention in Washington has shifted toward fraud that harms ordinary investors. The structure of the case, many companies and a small number of controlling executives, shows the regulator following money through layers of entities and holding the people at the top personally responsible. For legal and compliance functions, it is another illustration that complex group structures and related-party flows are where large frauds tend to sit, and where enforcement agencies are increasingly looking.\n\n**How this comes up with a GC or CLO.** General counsel at financial firms are likely to raise it as a question about counterparty exposure: did we deal with any of these entities, and how would we know if a customer was part of a related network like this one. Chief compliance officers may use it as a talking point on individual accountability and on why beneficial ownership and related-party checks matter beyond the onboarding stage.\n\n**Questions a buyer might ask.**\n- How do we spot when several of our customers or vendors are in fact controlled by the same people?\n- If an agency names our executives alongside the company, what evidence would show our programme was working?\n- How quickly would concerns raised internally about a counterparty reach someone who could act on them?\n\n## Story 2 — AI agents calling your hotline, part two\n\n**The facts.**\n- Radical Compliance, the compliance commentary site, returned on Monday, November 23, to a question it first raised a week earlier: what happens when whistleblowers direct their own personal AI agents to research, draft and submit misconduct reports to a company's internal hotline.\n- The follow-up piece is built on feedback from compliance professionals who responded to the first article with views on how such reports could or could not work in practice.\n\n**Background.**\n- Internal reporting channels were designed around a human reporter typing a web form or calling a phone line. Many programmes measure success by report volume, substantiation rates and how quickly cases close.\n- Consumer AI agents can now gather documents, write polished narratives and file submissions with little effort. That could make reporting easier for people who struggle to put concerns into words, but it could also produce higher volumes, longer reports and submissions that are harder to verify or follow up.\n- Legal duties to reporters do not change because a machine wrote the text. In the EU, the Whistleblowing Directive requires organisations in scope to acknowledge a report within seven days and give feedback within three months. In the US, anti-retaliation protections and SEC rules on not impeding whistleblowers continue to apply.\n\n**Who's affected.**\n- Hotline and case-management teams, investigators, employee relations and privacy functions in every industry.\n\n**Why it matters.** The piece points to a practical stress test for speak-up programmes: intake processes, triage criteria and follow-up dialogue may all need to cope with a reporter who is partly or wholly automated. It also raises questions about authenticity, anonymity and how investigators ask clarifying questions when the first reply comes from software.\n\n**How this comes up with a GC or CLO.** Chief compliance officers are likely to raise it as a forward-looking question about hotline capacity and data quality. General counsel may see it through a legal lens: whether an AI-filed report still triggers the same deadlines and protections.\n\n**Questions a buyer might ask.**\n- If report volumes doubled because of AI drafting, how would we triage them?\n- Does a report submitted by an agent carry the same legal protections and response deadlines?\n- How would we follow up with an anonymous reporter whose agent made the submission?\n\n## Story 3 — The Nvidia affair and the US–China AI relationship\n\n**The facts.**\n- A Euractiv opinion piece published on November 23 argues that the scandal surrounding Nvidia chief executive Jensen Huang was expected to unravel the US–China détente on artificial intelligence, but instead shows how much the two countries' leaders need each other.\n- The column is commentary, not a news report, and its conclusions are the author's own.\n\n**Background.**\n- Nvidia's board has been examining reports concerning its chief executive; this paper first covered that inquiry a week ago. Trade press headlines over the past week describe investigations into the company mounting amid questions about AI chip sales and governance. We have not independently confirmed the scope of any government investigation, and none has resulted in charges against Nvidia.\n- Advanced AI chips sit at the centre of US export control policy toward China, which makes any question about who bought Nvidia hardware, and through which intermediaries, a matter of national security as well as corporate governance.\n\n**Who's affected.**\n- Technology and semiconductor companies, their distributors and resellers, and anyone in the supply chain for advanced chips.\n- Boards and audit committees overseeing a chief executive under scrutiny.\n\n**Why it matters.** The episode combines three themes that legal departments track closely: board oversight of a powerful chief executive, export controls that depend on knowing the end user, and geopolitics that can shift enforcement priorities. The column's argument, that political interests may soften the fallout, is a reminder that enforcement risk in export controls is shaped by policy as well as by law.\n\n**How this comes up with a GC or CLO.** General counsel at technology and manufacturing firms are likely to cite it when discussing distributor diligence and end-use checks. Board-facing legal leaders may use it as an example of how quickly a chief executive issue becomes a company-wide governance question.\n\n**Questions a buyer might ask.**\n- How confident are we that we know the final destination of products sold through distributors?\n- Who on our board would lead an inquiry if concerns arose about our chief executive?\n\n## Story 4 — Greek AI chief urges EU capitals to coordinate on security testing\n\n**The facts.** In a Euractiv interview, Vasilis Karkatzounis, Greece's AI chief, said not every EU country needs its own AI security institute and urged capitals to coordinate on security testing of AI models.\n\n**Background.** The EU AI Act is being implemented in stages, and member states are building supervisory and testing capacity at different speeds.\n\n**Who's affected.** Companies that build or deploy AI in the EU, and the legal teams that answer to national regulators.\n\n**Why it matters.** Coordinated testing could reduce fragmentation across 27 national approaches; divergence would mean different expectations in different markets.\n\n**How it comes up.** Legal leaders at multinationals often ask which European regulator will actually supervise their AI systems.\n\n**A question a buyer might ask.** Will we face one testing regime in Europe or several?\n\n## Story 5 — Global privacy regulators adopt a resolution on AI in education\n\n**The facts.** France's data protection authority, the CNIL, reported that the Global Privacy Assembly adopted a resolution in November 2026 on artificial intelligence in the education sector, setting out eleven key principles and commitments.\n\n**Background.** The Global Privacy Assembly brings together data protection authorities from around the world; its resolutions are not binding but signal shared regulatory priorities.\n\n**Who's affected.** Education providers, education technology vendors and any organisation processing students' data with AI.\n\n**Why it matters.** When regulators agree principles collectively, those principles tend to appear later in national guidance and enforcement.\n\n**How it comes up.** Privacy counsel may cite it as an early sign of how regulators will judge AI use involving young people.\n\n**A question a buyer might ask.** Which of the eleven principles are likely to become enforceable expectations in our markets?\n\n## Story 6 — SEC statement on restructuring the governance and funding of the Consolidated Audit Trail\n\n**The facts.** On November 20, SEC Commissioner Mark T. Uyeda issued a statement on a proposal to restructure the governance and funding of the Consolidated Audit Trail, the system that tracks orders and trades across US equity and options markets.\n\n**Background.** The audit trail has long been debated over its cost, who pays for it and how investor data is protected.\n\n**Who's affected.** Broker-dealers, exchanges and their compliance and regulatory reporting teams.\n\n**Why it matters.** Changes to governance and funding affect who bears the cost of a major surveillance system and how it is overseen.\n\n**How it comes up.** Compliance leaders at broker-dealers watch these proposals because they can change reporting costs.\n\n**A question a buyer might ask.** Would the restructuring change our share of the system's cost?\n\n## Story 7 — The EU's carbon tariff is here to stay, lead MEP says at COP31\n\n**The facts.** Mohammed Chahim, the European Parliament's negotiator on the EU's carbon border adjustment mechanism, told Euractiv at COP31 that European negotiators would not let the UN climate talks close with an attack on the measure. Separately, the talks ended in acrimony after running overtime.\n\n**Background.** The mechanism puts a carbon price on certain imports, such as steel, aluminium and cement, and requires importers to report embedded emissions.\n\n**Who's affected.** Importers into the EU, manufacturers and trade compliance teams.\n\n**Why it matters.** The position signals political commitment to the tariff despite international pressure, so the reporting obligations it creates are likely to stay.\n\n**How it comes up.** Trade and ESG compliance leaders may raise it when planning data collection from overseas suppliers.\n\n**A question a buyer might ask.** How reliable is the emissions data we get from our suppliers?\n\n## Story 8 — Crises force a rethink of cancer care, with 300 cyberattacks on hospitals in a year\n\n**The facts.** A Euractiv report on European cancer care noted that ENISA, the EU's cybersecurity agency, counted 300 cyberattacks on hospitals in 2023 alone, as experts warned that crises are forcing a rethink of how care is delivered.\n\n**Background.** Hospitals hold sensitive data and run critical systems, which makes them frequent ransomware targets.\n\n**Who's affected.** Healthcare providers, their technology suppliers and their legal and risk functions.\n\n**Why it matters.** The figure illustrates how cyber risk has become a patient-safety and continuity issue, not just an IT problem.\n\n**How it comes up.** Healthcare general counsel may cite such numbers when discussing board oversight of cyber resilience.\n\n**A question a buyer might ask.** How would our board learn of a cyber incident affecting patient care?\n",
+ "cards": [
+  {
+   "id": "cd25d90e80eb",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9328-26",
+   "source": "U.S. CFTC Enforcement",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-20T16:00+00:00",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "tier": "official",
+   "topic": "enforcement",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   },
+   "kind": "link",
+   "title": "CFTC charges 11 companies and two Indiana executives in $550 million fraud scheme",
+   "summary": "The Commodity Futures Trading Commission has charged eleven companies and two Indiana-based executives over an alleged fraud scheme it values at about $550 million.",
+   "impact": "Naming executives alongside a web of companies reflects regulators' push for individual accountability and their focus on fraud hidden in related-entity structures.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Commodity Futures Trading Commission building"
+  },
+  {
+   "id": "af321de4bf0b",
+   "url": "https://www.radicalcompliance.com/2026/11/23/ai-agents-calling-your-hotline-part-ii/",
+   "source": "Radical Compliance",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-23T05:07+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aspect_Tel-set_telephone_call_centre.jpg/1280px-Aspect_Tel-set_telephone_call_centre.jpg",
+   "tier": "press",
+   "topic": "ai_governance",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Petiatil",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aspect_Tel-set_telephone_call_centre.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Aspect Tel-set telephone call centre.jpg"
+   },
+   "kind": "link",
+   "title": "AI agents calling your hotline, part II",
+   "summary": "Radical Compliance revisits the prospect of whistleblowers directing personal AI agents to research, draft and submit misconduct reports to internal hotlines, drawing on feedback from compliance professionals.",
+   "impact": "AI-drafted reports could reshape hotline volumes, triage and follow-up, testing speak-up programmes built around human reporters and their legal response deadlines.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "call centre telephone headset"
+  },
+  {
+   "id": "ce35df08c305",
+   "url": "https://www.rapporteur.com/opinion/the-nvidia-affair-brings-trump-and-xi-closer/",
+   "source": "Euractiv",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-23T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Nvidia_sign.jpg/1280px-Nvidia_sign.jpg",
+   "tier": "press",
+   "topic": "ai_governance",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Will Buckner",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nvidia_sign.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Nvidia sign.jpg"
+   },
+   "kind": "link",
+   "title": "The Nvidia affair brings Trump and Xi closer",
+   "storyline": "nvidia-ceo-board-probe",
+   "summary": "A Euractiv opinion piece argues the scandal around Nvidia chief executive Jensen Huang, expected to unravel the US–China AI détente, instead shows how much the two leaders need each other.",
+   "impact": "The saga links chief-executive oversight, AI chip export controls and geopolitics, showing how political priorities can shape enforcement exposure for technology companies.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "analysis",
+   "image_query": "Nvidia headquarters Santa Clara"
+  },
+  {
+   "id": "1af31f9ebf08",
+   "url": "https://www.rapporteur.com/news/interview-greek-ai-chief-urges-eu-capitals-to-coordinate-on-security-testing/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-23T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg/1280px-Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg",
+   "tier": "press",
+   "topic": "ai_governance",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jebulon",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Detail main facade Building of Parliament of Greece Athens.jpg"
+   },
+   "kind": "link",
+   "title": "Greek AI chief urges EU capitals to coordinate on security testing",
+   "summary": "Vasilis Karkatzounis, Greece's AI chief, told Euractiv that not every EU country needs its own AI security institute and urged capitals to coordinate on AI security testing.",
+   "impact": "Coordination would shape whether companies face one or many national AI testing approaches as the EU AI Act's supervisory machinery takes form.",
+   "industries": [
+    "tech",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "Athens Parliament building"
+  },
+  {
+   "id": "92b13b422923",
+   "url": "https://www.cnil.fr/fr/gpa-ia-education",
+   "source": "CNIL (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-20T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Acer_desktop_computers_in_computer_classroom_of_Baozhong_Junior_High_School_20121009.jpg/1280px-Acer_desktop_computers_in_computer_classroom_of_Baozhong_Junior_High_School_20121009.jpg",
+   "tier": "official",
+   "topic": "ai_governance",
+   "image_credit": {
+    "kind": "commons",
+    "author": "褒忠國中 雲端網",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Acer_desktop_computers_in_computer_classroom_of_Baozhong_Junior_High_School_20121009.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Acer desktop computers in computer classroom of Baozhong Junior High School 20121009.jpg"
+   },
+   "kind": "link",
+   "title": "AI and education: a global resolution on data protection",
+   "summary": "The CNIL reports that the Global Privacy Assembly adopted a resolution in November 2026 on artificial intelligence in education, and outlines its eleven key principles and commitments.",
+   "impact": "Shared principles from privacy regulators worldwide tend to resurface in national guidance and enforcement on AI systems that process young people's data.",
+   "industries": [
+    "tech",
+    "public_sector"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "school classroom computers"
+  },
+  {
+   "id": "aa07cbfd8794",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-consolidated-audit-trail-112026",
+   "source": "U.S. SEC (speeches & statements)",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-20T19:04+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_York_Stock_Exchange_August_2017_02.jpg/1280px-New_York_Stock_Exchange_August_2017_02.jpg",
+   "tier": "official",
+   "topic": "governance",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_02.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "New York Stock Exchange August 2017 02.jpg"
+   },
+   "kind": "link",
+   "title": "SEC Commissioner Uyeda's statement on restructuring Consolidated Audit Trail governance and funding",
+   "summary": "SEC Commissioner Mark T. Uyeda issued a statement on a proposal to restructure the governance and funding of the Consolidated Audit Trail.",
+   "impact": "Changes to the audit trail's governance and funding affect who bears the cost of a major market surveillance system and how its data is overseen.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "image_query": "New York Stock Exchange building"
+  },
+  {
+   "id": "47d5e71b9c22",
+   "url": "https://www.rapporteur.com/news/interview-the-eus-carbon-tariff-is-here-to-stay-lead-mep-says-at-cop31/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-20T11:02+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sendzimir%27s_%28Nowa_Huta%29_steel_mill%2C_blast_furnace%2C_1_Ujastek_street%2C_Nowa_Huta%2C_Krakow%2C_Poland.jpg/1280px-Sendzimir%27s_%28Nowa_Huta%29_steel_mill%2C_blast_furnace%2C_1_Ujastek_street%2C_Nowa_Huta%2C_Krakow%2C_Poland.jpg",
+   "tier": "press",
+   "topic": "esg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zygmunt Put Zetpe0202",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sendzimir%27s_(Nowa_Huta)_steel_mill,_blast_furnace,_1_Ujastek_street,_Nowa_Huta,_Krakow,_Poland.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Sendzimir's (Nowa Huta) steel mill, blast furnace, 1 Ujastek street, Nowa Huta, Krakow, Poland.jpg"
+   },
+   "kind": "link",
+   "title": "The EU's carbon tariff is here to stay, lead MEP says at COP31",
+   "summary": "Mohammed Chahim, the European Parliament's negotiator on the carbon border adjustment mechanism, said European negotiators would not let the UN climate talks close with an attack on the measure.",
+   "impact": "Political commitment to the carbon tariff signals that its import reporting obligations and supplier emissions data demands are here to stay.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "steel mill blast furnace"
+  },
+  {
+   "id": "00251770f9ad",
+   "url": "https://www.rapporteur.com/news/crises-force-a-rethink-of-cancer-care-experts-warn/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-20T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg/1280px-Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+   "tier": "press",
+   "topic": "cybersecurity",
+   "image_credit": {
+    "kind": "commons",
+    "author": "W.carter",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Corridor on the second level - NÄL hospital 1.jpg"
+   },
+   "kind": "link",
+   "title": "Crises force a rethink of cancer care, experts warn",
+   "summary": "Experts warn that crises are forcing a rethink of cancer care in Europe; the EU's cybersecurity agency counted 300 cyberattacks on hospitals in 2023 alone.",
+   "impact": "Hospital cyberattacks have become a patient-safety and continuity issue, raising the stakes of board-level oversight of cyber resilience in healthcare.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "gc",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "hospital corridor"
+  }
+ ],
+ "briefings": {}
+}
