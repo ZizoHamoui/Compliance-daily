@@ -1,0 +1,459 @@
+{
+ "date": "2026-11-24",
+ "lead_id": "cb988245067b",
+ "editor_note": "Governance under pressure leads a quiet day: Nvidia's board brings back its CEO mid-investigation, a London court dissects a failed compliance review in a $1 billion bribery scheme, and the CFTC pays tipsters again.",
+ "bottom_line": [
+  {
+   "id": "cb988245067b",
+   "text": "Nvidia reinstated Jensen Huang as CEO, while its independent investigation continues and it creates an export-control committee and seeks a new chief compliance officer."
+  },
+  {
+   "id": "eb6ad1ce83ad",
+   "text": "A London court held Man Group units liable for about $155 million over secret commissions paid to Kuwait's pension fund chief."
+  },
+  {
+   "id": "62850a54d9c3",
+   "text": "The CFTC granted more than $11 million in whistleblower awards, extending a steady run of payouts under its programme."
+  }
+ ],
+ "stat": {
+  "id": "cb988245067b",
+  "text": "Nvidia shares closed up more than 31% on the day its board reinstated Jensen Huang, 11 days after he resigned."
+ },
+ "podcast_brief": "## The day in one line\n\nIt is a quiet news day, but the stories that did land are about governance tested under pressure. Nvidia's board brought back its chief executive while its own investigation is still running, a London court picked apart a compliance review that missed bribery by an intermediary, and the CFTC paid whistleblowers again.\n\n## Story 1 — Nvidia reinstates Jensen Huang, adds export-control committee and seeks a new chief compliance officer\n\n**The facts.**\n- On November 23, Nvidia's board voted unanimously to reinstate Jensen Huang as president, chief executive and board director, effective immediately. The company announced it in a release filed with the Securities and Exchange Commission.\n- Huang had resigned all three roles on November 12. At that point chief financial officer Colette Kress became interim CEO while keeping her CFO job, and Harvey C. Jones was named the company's first-ever board chair. Kress now goes back to being CFO, and Jones remains chair.\n- The board said it was satisfied with Huang's candor and ability to lead, that it had received input from senior levels of the US government, and that it was confident his return poses no national security risk.\n- Markets reacted sharply. ABC News reported that Nvidia shares closed up more than 31% on the day of the announcement, after falling heavily during his absence.\n- The board's earlier investigation continues. Nvidia says a committee made up entirely of independent directors, with its own independent counsel, is looking into reporting that Huang was the target of a foreign intelligence effort, and that this inquiry will proceed to conclusion. Huang says he supports it and will cooperate.\n- Two new governance steps came with the reinstatement. The board created a National Security and Export Control Committee of independent directors to oversee trade compliance and national-security risk, and it is engaging specialist national-security counsel. Nvidia is also recruiting a new chief compliance officer, who will report to the board's Nominating and Corporate Governance Committee. The Financial Times has carried the hiring as a news item in its own right.\n\n**Background.**\n- Huang's exit followed press reports of extramarital affairs, including one with a businesswoman whom US authorities reportedly suspected of ties to Chinese intelligence. ABC News identified her as a former chief executive of a company running data centres in Southeast Asia for China-based firms. Huang acknowledged infidelity in an internal message but did not name anyone. China denied the spying claims. All of this remains reported allegation; no official finding has been published.\n- ABC News Australia reports that Nvidia also faces inquiries by the SEC and the Justice Department covering potential accounting issues and alleged chip smuggling. Nvidia's own release does not name agencies but says it will continue cooperating with government investigations and inquiries.\n- Congress is involved too. ABC News reports that three House committees, covering foreign affairs, China and intelligence, plan closed-door transcribed interviews with Huang on December 1 and with general counsel Tim Teter on December 2. Several lawmakers from both parties have publicly questioned the reinstatement. President Trump publicly backed Huang's return.\n\n**Who's affected.**\n- Boards and nominating and governance committees at large technology and semiconductor companies.\n- General counsel and chief compliance officers responsible for export controls and trade compliance.\n- Investors and audit committees watching how internal investigations interact with leadership decisions.\n\n**Why it matters.** This is a rare live case of a board restoring a chief executive while an independent investigation into the circumstances of his departure is still open. The credibility of that investigation, and of the board itself, now depends on how independently it is seen to finish. At the same time Nvidia is rebuilding its compliance architecture in public: a dedicated board committee for export control and national security, and a chief compliance officer with a direct line to a board committee. Those are structures regulators have long encouraged, and they are being stood up at the most closely watched company in the AI industry.\n\n**How this comes up with a GC or CLO.** Legal leaders are likely to raise Nvidia as the example when boards ask how to run an investigation into a senior executive, and who decides what happens to that executive while it runs. Compliance leaders at companies exposed to export controls may point to the new committee as a sign that trade compliance is moving from a management function to a board responsibility.\n\n**Questions a buyer might ask.**\n- Can an internal investigation stay independent once the executive under review is back in charge?\n- Should export-control and national-security risk have its own board committee rather than sit with audit?\n- What changes in practice when the chief compliance officer reports directly to a board committee?\n\n## Story 2 — CFTC grants over $11 million in whistleblower awards\n\n**The facts.**\n- On November 23 the Commodity Futures Trading Commission announced whistleblower awards totalling more than $11 million.\n- According to Bloomberg reporting republished by Insurance Journal, the money is split among 14 people. The agency did not identify them or name the underlying matter, which is standard practice because the programme keeps identities confidential.\n- The director of the CFTC's Whistleblower Office described the underlying work as an unusually challenging investigation and lawsuit, and said the awardees stood out from dozens of other witnesses to the defendants' wrongdoing.\n\n**Background.**\n- Under the programme, eligible tipsters can receive between 10% and 30% of the sanctions collected in a successful case.\n- The CFTC made its first award in 2014 and, by Insurance Journal's count, has now paid out more than $590 million in total.\n- This paper has tracked a steady run of award announcements across US agencies this autumn.\n\n**Who's affected.**\n- Banks, brokers, commodity traders, energy firms and crypto businesses within CFTC jurisdiction.\n- Employees and other insiders who witness misconduct in derivatives markets.\n\n**Why it matters.** A single announcement covering 14 people is unusual and shows that a case can produce many rewarded tipsters at once. Every large award reminds insiders that reporting to a regulator can pay, which raises the stakes for how well a company's own speak-up channel handles concerns first.\n\n**How this comes up with a GC or CLO.** Compliance leaders often cite award announcements when explaining why internal reporting has to be trusted and fast, since employees who feel ignored have a paid alternative outside the company.\n\n**Questions a buyer might ask.**\n- How many people inside a firm could independently qualify for an award in a single case?\n- Does an employee have to report internally before going to the CFTC?\n\n## Story 3 — London judgment details how fund managers' payments reached Kuwait pension chief\n\n**The facts.**\n- On November 5, Mr Justice Richard Jacobs in London's Commercial Court ruled that Fahad Al Rajaan, director general of Kuwait's Public Institution for Social Security from 1984 to 2012, took secret commissions of roughly $1 billion on the fund's investments over about 30 years.\n- The trial ran for 133 sitting days, which the barristers' chambers involved say made it the longest Commercial Court trial since the BCCI litigation. The judgment runs to around 800 pages.\n- Two Man Group subsidiaries were found liable, and Bloomberg reporting puts the fund's recovery from Man at around $155 million, a number that may change because other defendants settled. Man's former Middle East head, Antoine Massad, was found personally liable.\n- Two Swiss banks, Union Bancaire Privée and EFG Bank, settled before judgment.\n- The court found that payments from firms seeking the fund's business went through an intermediary, and that two former Man employees knew the intermediary was bribing Al Rajaan. Man had reviewed the relationship internally, cleared everyone, and kept working with the intermediary. The judge criticised the compliance officers who ran that review for confirmation bias.\n\n**Background.**\n- Al Rajaan was suspended in 2012, convicted in Kuwait in 2016 and died in London in 2022; his estate was a defendant.\n- Man said it disagrees with the ruling and is weighing its options, including an appeal. Its shares fell as much as 5.9% the following day. A further hearing will fix the final amount. Compliance Week returned to the case this week.\n\n**Who's affected.**\n- Asset managers, private banks and placement agents that seek mandates from sovereign and public pension funds.\n- Compliance teams that run reviews of third-party intermediaries.\n\n**Why it matters.** The case shows a sovereign client using the civil courts to recover bribes from the financial firms that facilitated them, years after the fact. And it puts the quality of an internal review on trial: the existence of a compliance check did not help when the court concluded it was designed to reach a comfortable answer.\n\n**How this comes up with a GC or CLO.** General counsel at financial firms are likely to cite this judgment when discussing how intermediary due diligence would look if a judge read every page, and why staff knowledge of red flags becomes the company's knowledge.\n\n**Questions a buyer might ask.**\n- Would our reviews of intermediaries survive the kind of scrutiny this court applied?\n- How long can a public client wait before suing to recover bribes paid through a fund manager?\n\n## Story 4 — US files action to recover more than $1 billion in crypto stolen by North Korean actors in Binance hack\n\n**The facts.**\n- The Justice Department announced actions to forfeit more than $1.1 billion in cryptocurrency it says North Korean actors stole from Binance last month.\n\n**Background.**\n- The department presents this as part of a broader government effort against North Korean cyber theft.\n\n**Who's affected.** Crypto exchanges, custodians and the sanctions and anti-money-laundering teams that trace illicit funds.\n\n**Why it matters.** A forfeiture of this size shows how far asset tracing against state-backed hackers has come, and it keeps exchange security and sanctions controls in the federal spotlight.\n\n**How this comes up with a GC or CLO.** It is a ready example when discussing how stolen funds move through the financial system and why screening matters.\n\n**Questions a buyer might ask.**\n- How do exchanges spot and freeze funds linked to a sanctioned state?\n\n## Story 5 — EU presents its 22nd sanctions package against Russia\n\n**The facts.**\n- On November 23 in Strasbourg, Commission President Ursula von der Leyen presented the EU's 22nd package of sanctions against Russia, saying the aim is to keep up pressure on Moscow to end its war against Ukraine. Press coverage reports that the package targets Russian athletes and soldiers among others.\n\n**Background.**\n- The EU has added packages regularly since 2022, each expanding listings and trade restrictions.\n\n**Who's affected.** Any company trading with or through the EU, plus sanctions screening teams.\n\n**Why it matters.** Every package widens the lists firms must screen against and adds to a compliance burden that never resets.\n\n**How this comes up with a GC or CLO.** It is likely to come up as another update that screening lists and third-party checks must absorb.\n\n**Questions a buyer might ask.**\n- How quickly do new listings reach the screening tools we rely on?\n\n## Story 6 — AMF's 2026 corporate governance report puts AI, cyber, geopolitics and board parity at its heart\n\n**The facts.**\n- France's financial markets authority, the AMF, published the 2026 edition of its annual report on corporate governance and executive pay at listed companies. Its focus areas are artificial intelligence, cybersecurity, geopolitics and gender parity on governing bodies.\n\n**Background.**\n- The AMF reviews listed companies' governance disclosures every year.\n\n**Who's affected.** Boards, company secretaries and general counsel at French-listed companies.\n\n**Why it matters.** A securities regulator grouping AI and cyber risk with board composition signals that these are now seen as board oversight duties.\n\n**How this comes up with a GC or CLO.** It is a useful example when boards ask what regulators expect them to oversee on AI.\n\n**Questions a buyer might ask.**\n- What does a regulator expect a board to know about the company's use of AI?\n\n## Story 7 — Canada's Competition Bureau speaks to Parliament on algorithmic pricing\n\n**The facts.**\n- Mike Hollingworth, acting deputy commissioner at Canada's Competition Bureau, gave an opening statement to the House of Commons ethics committee's study on the use of artificial intelligence in algorithmic pricing. Canada's privacy commissioner also appeared before the same study.\n\n**Background.**\n- Pricing algorithms have drawn antitrust attention in several countries.\n\n**Who's affected.** Retailers, platforms, landlords and any business using automated pricing.\n\n**Why it matters.** It shows AI pricing tools moving onto Canada's competition and privacy agenda at the same time.\n\n**How this comes up with a GC or CLO.** Legal teams may raise it when asked who reviews the rules an automated pricing tool follows.\n\n**Questions a buyer might ask.**\n- Could a pricing algorithm create competition law risk without anyone intending it?\n\n## Story 8 — Irish privacy regulator in talks with Meta over EU launch of Muse\n\n**The facts.**\n- Ireland's data protection regulator is in talks with Meta about launching Muse, its AI agent technology, in the EU. Muse rolled out in the UK on Tuesday, where regulators have signalled they are watching.\n\n**Background.**\n- Ireland leads EU privacy oversight of Meta because the company's European base is in Dublin.\n\n**Who's affected.** Technology companies deploying AI agents and their privacy teams.\n\n**Why it matters.** Regulators are engaging before AI products reach EU users, not only after complaints.\n\n**How this comes up with a GC or CLO.** Privacy leaders may cite it when discussing how early to involve regulators in an AI launch.\n\n**Questions a buyer might ask.**\n- When does an AI launch need a conversation with the privacy regulator first?\n\n## Story 9 — US Labor Department proposes update to ERISA fiduciary rule\n\n**The facts.**\n- The Labor Department's Employee Benefits Security Administration proposed amendments to its investment duties regulation to clarify the fiduciary duty of loyalty under the Employee Retirement Income Security Act, affirming its exclusive purpose rule.\n\n**Background.**\n- The rule governing how plan fiduciaries weigh factors such as ESG has changed with successive administrations.\n\n**Who's affected.** Employers that sponsor retirement plans, plan committees and their advisers.\n\n**Why it matters.** Changing the definition of loyalty shapes how plan committees justify investment choices.\n\n**How this comes up with a GC or CLO.** General counsel who sit on or advise plan committees are likely to follow the comment period.\n\n**Questions a buyer might ask.**\n- Does this change how our plan committee documents investment decisions?\n\n## Story 10 — CNIL publishes a charter explaining its inspections\n\n**The facts.**\n- France's data protection authority, the CNIL, published a charter describing how its inspections of organisations that process personal data work, to improve transparency and help investigations run smoothly.\n\n**Background.**\n- The CNIL can inspect any organisation that processes personal data.\n\n**Who's affected.** Data protection officers and privacy teams at organisations operating in France.\n\n**Why it matters.** It sets clearer expectations for what happens when inspectors arrive.\n\n**How this comes up with a GC or CLO.** It is a practical reference when teams discuss readiness for a regulator's visit.\n\n**Questions a buyer might ask.**\n- What rights does an organisation have during a CNIL inspection?\n\n## Story 11 — External users of EU website caught up in Commission cyberattack\n\n**The facts.**\n- A cyberattack on the European Commission has affected external users of an EU website, and it is still unclear whether the incident is over.\n\n**Background.**\n- The attack on the EU's executive was reported earlier and its scope is still emerging.\n\n**Who's affected.** Organisations and individuals who use EU online services.\n\n**Why it matters.** It shows how a breach at a public body can reach the data of outside users.\n\n**How this comes up with a GC or CLO.** It may come up in discussions about exposure through counterparties and public portals.\n\n**Questions a buyer might ask.**\n- What data do we share with public-sector portals, and who would tell us if it was exposed?\n",
+ "cards": [
+  {
+   "id": "cb988245067b",
+   "kind": "briefing",
+   "tier": "ai",
+   "region": "US",
+   "lang": "en",
+   "topic": "governance",
+   "published": "2026-11-23",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Nvidia_sign.jpg/1280px-Nvidia_sign.jpg",
+   "source": "AI Briefing · NVIDIA (SEC filing)",
+   "title": "Nvidia reinstates Jensen Huang, adds export-control committee and seeks a new chief compliance officer",
+   "summary": "Nvidia's board unanimously reinstated Jensen Huang as CEO 11 days after he resigned, while an independent-director investigation into a reported foreign intelligence effort targeting him continues and a new chief compliance officer is sought.",
+   "impact": "A board restoring a departed CEO mid-investigation, while building new national-security oversight and compliance reporting lines, puts board independence and compliance structure under unusual public scrutiny.",
+   "industries": [
+    "tech",
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Nvidia headquarters Santa Clara",
+   "storyline": "nvidia-ceo-board-probe",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Will Buckner",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nvidia_sign.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Nvidia sign.jpg"
+   }
+  },
+  {
+   "id": "62850a54d9c3",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9329-26",
+   "source": "U.S. CFTC Enforcement",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-23T19:14+00:00",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   },
+   "tier": "official",
+   "topic": "whistleblowing",
+   "kind": "link",
+   "title": "CFTC grants over $11 million in whistleblower awards",
+   "summary": "The Commodity Futures Trading Commission announced whistleblower awards totalling more than $11 million.",
+   "impact": "Another eight-figure payout keeps the CFTC programme visible to potential tipsters in derivatives and commodities markets, sustaining the incentive to report externally as well as internally.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "gc",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "CFTC Three Lafayette Centre Washington",
+   "storyline": "whistleblower-rewards"
+  },
+  {
+   "id": "eb6ad1ce83ad",
+   "kind": "briefing",
+   "tier": "ai",
+   "region": "UK",
+   "lang": "en",
+   "topic": "anti_bribery",
+   "published": "2026-11-05",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/HM_Courts_%26_Tribunal_Service_Rolls_Building_-01.jpg/1280px-HM_Courts_%26_Tribunal_Service_Rolls_Building_-01.jpg",
+   "source": "AI Briefing · Fountain Court Chambers",
+   "title": "London judgment details how fund managers' payments reached Kuwait pension chief",
+   "summary": "London's Commercial Court found Kuwait's former social security chief took secret commissions of about $1 billion over three decades, holding two Man Group subsidiaries liable for roughly $155 million and criticising an internal review that cleared an intermediary.",
+   "impact": "The ruling shows civil courts attaching nine-figure liability to asset managers for intermediary bribery, and scrutinising the quality of internal compliance reviews, not just their existence.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "ruling",
+   "image_query": "Rolls Building London",
+   "storyline": "pifss-man-group-bribery",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Roger Green",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:HM_Courts_%26_Tribunal_Service_Rolls_Building_-01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "HM Courts & Tribunal Service Rolls Building -01.jpg"
+   }
+  },
+  {
+   "id": "be8a5a1d4b03",
+   "url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-23T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   },
+   "tier": "official",
+   "topic": "aml_sanctions",
+   "kind": "link",
+   "title": "US files action to recover more than $1 billion in crypto stolen by North Korean actors in Binance hack",
+   "summary": "The Justice Department announced actions to forfeit over $1.1 billion in cryptocurrency it says North Korean actors obtained from Binance last month, as part of a wider government effort.",
+   "impact": "A record-scale forfeiture tied to state-sponsored theft keeps crypto exchanges' security and sanctions controls under federal scrutiny, and signals aggressive asset-tracing against North Korean networks.",
+   "industries": [
+    "financial_services",
+    "tech"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Robert F. Kennedy Department of Justice Building"
+  },
+  {
+   "id": "020327bdba30",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2563",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-23T11:51+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "official",
+   "topic": "aml_sanctions",
+   "kind": "link",
+   "title": "Statement by President von der Leyen on the 22nd package of sanctions against Russia",
+   "summary": "Commission President Ursula von der Leyen presented the EU's 22nd package of sanctions against Russia in Strasbourg, saying the aim is to keep pressure on Moscow to end its war against Ukraine.",
+   "impact": "Each new package widens the lists and trade restrictions that EU-linked firms screen against, adding another layer to an already dense sanctions compliance burden.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Berlaymont building Brussels"
+  },
+  {
+   "id": "ff97605e9c72",
+   "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/lia-la-cybersecurite-et-la-geopolitique-ainsi-que-la-parite-dans-les-instances-de-gouvernance-au#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "source": "AMF (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-24T08:15+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg/1280px-Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "JLPC",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Paris Palais Brongniart détail 2012.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "kind": "link",
+   "title": "AI, cybersecurity, geopolitics and board gender parity at the heart of the AMF's 2026 corporate governance report",
+   "summary": "France's market regulator, the AMF, published the 2026 edition of its annual report on corporate governance, focusing on artificial intelligence, cybersecurity, geopolitics and gender parity on governing bodies.",
+   "impact": "A securities regulator putting AI and cyber risk alongside board composition in its governance review signals these are now treated as board-level oversight duties for listed companies.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "Palais Brongniart Paris"
+  },
+  {
+   "id": "d6f603000ca8",
+   "url": "https://www.canada.ca/en/competition-bureau/news/2026/11/study-on-the-use-of-artificial-intelligence-in-algorithmic-pricing.html",
+   "source": "Competition Bureau Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-23T20:23+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Algorithmic pricing and the Competition Act",
+   "summary": "Mike Hollingworth, Acting Deputy Commissioner at Canada's Competition Bureau, addressed the House of Commons ethics committee's study on the use of AI in algorithmic pricing.",
+   "impact": "Canada's competition regulator engaging Parliament on algorithmic pricing shows AI-driven pricing tools moving onto the antitrust compliance agenda for consumer-facing businesses.",
+   "industries": [
+    "tech",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Parliament Hill Ottawa"
+  },
+  {
+   "id": "633746f61d07",
+   "url": "https://www.rapporteur.com/news/irish-privacy-regulator-in-talks-with-meta-over-eu-launch-of-muse/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-24T11:27+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/North_Wall_Quay%2C_Dublin_20150809_1.jpg/1280px-North_Wall_Quay%2C_Dublin_20150809_1.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "DXR",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:North_Wall_Quay,_Dublin_20150809_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "North Wall Quay, Dublin 20150809 1.jpg"
+   },
+   "tier": "press",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "Irish privacy regulator in talks with Meta over EU launch of Muse",
+   "summary": "Ireland's data protection regulator is in talks with Meta over the EU launch of Muse, its AI agent technology, which rolled out in the UK on Tuesday, where regulators signalled they are watching.",
+   "impact": "Pre-launch regulator engagement on AI agents shows privacy authorities shaping deployment before products reach EU users, a pattern likely to extend to enterprise AI tools.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Dublin Docklands office buildings"
+  },
+  {
+   "id": "4bc51aebe846",
+   "url": "http://www.dol.gov/newsroom/releases/ebsa/ebsa20261123",
+   "source": "U.S. Department of Labor",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-23T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg/1280px-Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Department_of_Labor_sign_Washington_DC_2025-02-04_12-38-46.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Department of Labor sign Washington DC 2025-02-04 12-38-46.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "kind": "link",
+   "title": "US Department of Labor proposes to update fiduciary rule to affirm ERISA's exclusive purpose rule",
+   "summary": "The Labor Department's Employee Benefits Security Administration proposed amendments to its investment duties regulation to clarify the fiduciary duty of loyalty under the Employee Retirement Income Security Act.",
+   "impact": "Redefining the duty of loyalty for retirement plan fiduciaries changes how plan committees document investment decisions, and how ESG factors may figure in them.",
+   "industries": [
+    "financial_services",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "proposal",
+   "image_query": "Frances Perkins Building Washington"
+  },
+  {
+   "id": "0e0c2dd30403",
+   "url": "https://www.cnil.fr/fr/controles-de-la-cnil-une-charte-pour-tout-comprendre",
+   "source": "CNIL (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-23T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/P1120648_Paris_VII_place_de_Fontenoy_rwk.JPG/1280px-P1120648_Paris_VII_place_de_Fontenoy_rwk.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Mbzt",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:P1120648_Paris_VII_place_de_Fontenoy_rwk.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "P1120648 Paris VII place de Fontenoy rwk.JPG"
+   },
+   "tier": "official",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "CNIL inspections: a charter to explain the process",
+   "summary": "France's data protection authority, the CNIL, published a charter explaining how its inspections of organisations that process personal data work, aiming for greater transparency and smoother investigations.",
+   "impact": "A published inspection charter clarifies what organisations can expect when regulators arrive on site, setting a clearer baseline for privacy investigation readiness in France.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Place de Fontenoy Paris"
+  },
+  {
+   "id": "793e6e5db1e8",
+   "url": "https://www.rapporteur.com/news/external-users-of-eu-website-caught-up-in-commission-cyberattack/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-23T12:53+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Tunnel_Belliard%2C_coming_out_on_Rue_de_la_Loi.jpg/1280px-Tunnel_Belliard%2C_coming_out_on_Rue_de_la_Loi.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tunnel_Belliard,_coming_out_on_Rue_de_la_Loi.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Tunnel Belliard, coming out on Rue de la Loi.jpg"
+   },
+   "tier": "press",
+   "topic": "cybersecurity",
+   "kind": "link",
+   "title": "External users of EU website caught up in Commission cyberattack",
+   "summary": "External users of an EU website were affected by a cyberattack on the European Commission, and it remains unclear whether the incident is over.",
+   "impact": "A breach at the EU executive that reaches outside users illustrates how incidents at counterparties and public bodies can expose organisations' own data.",
+   "industries": [
+    "public_sector",
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Berlaymont building Brussels night"
+  }
+ ],
+ "briefings": {
+  "cb988245067b": {
+   "headline": "Nvidia reinstates Jensen Huang, adds export-control committee and seeks a new chief compliance officer",
+   "dek": "Eleven days after accepting his resignation, Nvidia's board brought its founder back, while an independent investigation and several government inquiries continue.",
+   "body_md": "Nvidia's board voted unanimously on November 23 to reinstate Jensen Huang as president, chief executive and a director, effective immediately. The decision reverses his resignation on November 12, when chief financial officer Colette Kress became interim CEO and Harvey C. Jones was named the company's first board chair. Kress returns to the CFO role and Jones stays on as chair.\n\nIn its announcement, filed with the Securities and Exchange Commission, the board said it had received input from senior levels of the US government and was confident the reinstatement \"poses no national security risk.\" Shares closed up more than 31% on the day, according to ABC News.\n\nHuang's departure followed press reports of extramarital affairs, including one with a businesswoman whom US authorities reportedly suspected of links to Chinese intelligence. Huang acknowledged infidelity in an internal message; China denied the spying claims. These remain allegations, and no finding of wrongdoing has been published.\n\nThe governance response is what stands out. Nvidia says a committee made up entirely of independent directors, advised by independent counsel, was formed to investigate reporting that Huang was the target of a foreign intelligence effort, and that this investigation will proceed to conclusion with Huang's cooperation. The board has also created a National Security and Export Control Committee of independent directors to oversee trade compliance and national-security risk, which is engaging specialist counsel. And Nvidia is recruiting a new chief compliance officer who will report to the board's Nominating and Corporate Governance Committee.\n\nScrutiny continues outside the boardroom. ABC News Australia reports inquiries by the SEC and the Justice Department touching on potential accounting issues and alleged chip smuggling, and ABC News reports that three House committees plan closed-door interviews with Huang on December 1 and with general counsel Tim Teter on December 2. Nvidia says it will keep cooperating with government investigations. Several members of Congress have publicly questioned the reinstatement.\n\n### What this means for legal and compliance leaders\nThe case puts several board-level questions in public view at once: whether an investigation run by independent directors stays credible when the subject is restored to office before it ends; how export-control oversight is organised at board level for a company at the centre of AI chip trade; and where the chief compliance officer reports. Nvidia's choice of a direct line to a board committee reflects a model that regulators have long favoured, and it is now being tested under intense attention.\n\n### Questions you may hear\n- Can an internal investigation remain independent once the executive under review is reinstated?\n- Should export-control and national-security risk sit with a dedicated board committee rather than audit?\n- What does a compliance officer reporting directly to the board change in practice?",
+   "sources": [
+    {
+     "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director (Form 8-K exhibit)",
+     "publisher": "NVIDIA / SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+    },
+    {
+     "title": "NVIDIA Announces CEO Transition (Form 8-K exhibit)",
+     "publisher": "NVIDIA / SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+    },
+    {
+     "title": "Jensen Huang reinstated as Nvidia CEO; board confident 'no national security risk'",
+     "publisher": "ABC News",
+     "url": "https://abcnews.com/Business/nvidia-reinstates-jensen-huang-ceo/story?id=138375516"
+    },
+    {
+     "title": "Nvidia says 'no national security risk' reinstating Jensen Huang as CEO",
+     "publisher": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102"
+    }
+   ],
+   "prompted_by": {
+    "title": "Hiring: Nvidia Chief Compliance Officer",
+    "publisher": "Financial Times",
+    "url": ""
+   }
+  },
+  "eb6ad1ce83ad": {
+   "headline": "London judgment details how fund managers' payments reached Kuwait pension chief",
+   "dek": "A year-long Commercial Court trial found Kuwait's former social security chief took about $1 billion in secret commissions, and held two Man Group subsidiaries liable.",
+   "body_md": "London's Commercial Court has ruled that Fahad Al Rajaan, who ran Kuwait's Public Institution for Social Security (PIFSS) from 1984 to 2012, procured secret commissions of about $1 billion on the fund's investments with managers around the world over roughly three decades. The judgment, handed down on November 5 by Mr Justice Richard Jacobs, followed a trial of 133 sitting days, which Fountain Court Chambers describes as the longest in the Commercial Court since the BCCI litigation.\n\nAl Rajaan was suspended in 2012, convicted in Kuwait in 2016 and died in London in 2022; his estate was held liable. According to Bloomberg reporting republished by Insurance Journal, two Man Group subsidiaries were found liable, with PIFSS entitled to recover around $155 million from Man, a figure that may move because other defendants settled. Antoine Massad, Man's former head of Middle East business, was found personally liable. Two Swiss banks, Union Bancaire Privée and EFG Bank, settled before judgment for undisclosed sums.\n\nThe court found that payments from firms seeking PIFSS mandates were routed through an intermediary, and that two former Man employees knew the intermediary was bribing Al Rajaan. Man had run an internal review of that relationship which cleared everyone involved, and the relationship continued. The judge criticised the compliance officers who conducted it for confirmation bias.\n\nMan said it disagrees with the decision and is evaluating its options, including appeal. Its shares fell as much as 5.9% the day after the ruling. A further hearing is due to fix the amount Man must pay.\n\n### What this means for legal and compliance leaders\nThe case is a civil, not criminal, outcome, but it carries the same lessons enforcement agencies stress: liability flowed from what employees knew about a third-party intermediary, and an internal review that existed on paper did not protect the firm because the court found it reached its conclusion too readily. For asset managers and banks that win mandates from sovereign and public funds, the judgment adds a private-law route to recovery alongside regulatory exposure.\n\n### Questions you may hear\n- How would our intermediary reviews stand up if a court examined them line by line?\n- Can a sovereign client recover bribes from a fund manager years after the payments?\n- What escalation is expected when staff suspect an intermediary is paying an official?",
+   "sources": [
+    {
+     "title": "Kuwait's Public Institution for Social Security succeeds in USD 1 billion fraud claim in the Commercial Court",
+     "publisher": "Fountain Court Chambers",
+     "url": "https://fountaincourt.uk/2026/11/kuwaits-public-institution-for-social-security-succeeds-in-usd-1-billion-fraud-claim-in-the-commercial-court/"
+    },
+    {
+     "title": "Man Group Found Liable by Judge for 'Breathtaking' Kuwaiti Bribery",
+     "publisher": "Insurance Journal (Bloomberg)",
+     "url": "https://www.insurancejournal.com/news/international/2026/11/06/891797.htm"
+    }
+   ],
+   "prompted_by": {
+    "title": "Financial firms facilitated 'breathtaking' corrupt payments to director of Kuwait public pension fund",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/regulatory-enforcement/financial-firms-facilitated-breathtaking-corrupt-payments-to-director-of-kuwait-public-pension-fund/"
+   }
+  }
+ }
+}
