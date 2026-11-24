@@ -1,0 +1,792 @@
+{
+ "date": "2026-11-24",
+ "generated": "2026-11-24T12:33:17+00:00",
+ "count": 29,
+ "by_region": {
+  "US": 5,
+  "EU": 14,
+  "CA": 2
+ },
+ "paywalled": 8,
+ "items": [
+  {
+   "id": "62850a54d9c3",
+   "title": "CFTC Grants over $11M in Whistleblower Awards",
+   "snippet": "",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9329-26",
+   "paywall_url": "",
+   "source": "U.S. CFTC Enforcement",
+   "source_id": "cftc-enf",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T19:14+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.8,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   }
+  },
+  {
+   "id": "ff97605e9c72",
+   "title": "L'IA, la cybersécurité et la géopolitique, ainsi que la parité dans les instances de gouvernance, au cœur de l’édition 2026 du rapport annuel de l’AMF sur le gouvernement d’entreprise",
+   "snippet": "Communiqué AMF Gouvernance Rapport annuel Intelligence artificielle L'IA, la cybersécurité et la géopolitique, ainsi que la parité dans les instances de gouvernance, au cœur de l’édition 2026 du rapport annuel de l’AMF sur le gouvernement d’entreprise",
+   "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/lia-la-cybersecurite-et-la-geopolitique-ainsi-que-la-parite-dans-les-instances-de-gouvernance-au#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-24T08:15+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 11.89,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   }
+  },
+  {
+   "id": "4bc51aebe846",
+   "title": "US Department of Labor proposes to update fiduciary rule to affirm Employee Retirement Income Security Act’s exclusive purpose rule",
+   "snippet": "WASHINGTON – The U.S. Department of Labor’s Employee Benefits Security Administration today issued proposed amendments to the investment duties regulation to clarify the fiduciary duty of loyalty under the Employee Retirement Income Security Act.The proposed rule seeks to end…",
+   "url": "http://www.dol.gov/newsroom/releases/ebsa/ebsa20261123",
+   "paywall_url": "",
+   "source": "U.S. Department of Labor",
+   "source_id": "dol",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law"
+   ],
+   "score": 9.68,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg/1280px-Frances_Perkins_Building_-_Department_of_Labor_%2853839145147%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_-_Department_of_Labor_(53839145147).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Frances Perkins Building - Department of Labor (53839145147).jpg"
+   }
+  },
+  {
+   "id": "020327bdba30",
+   "title": "Statement by President von der Leyen on the 22nd package of sanctions against Russia",
+   "snippet": "European Commission Statement Strasbourg, 23 Nov 2026 Good afternoon. Today, we present our 22nd package of sanctions. The aim is to keep pressure on Russia to end their war of aggression in Ukraine. And we will co...",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2563",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T11:51+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.8,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   }
+  },
+  {
+   "id": "d835e041e3d8",
+   "title": "Department of Justice Announces Nearly $150 Million to Hire Over 1,000 Law Enforcement Officers and Deputies",
+   "snippet": "Through the Office of Community Oriented Policing Services (COPS Office), the Department of Justice today announced it has awarded nearly $150 million under the 2026 COPS Hiring Program (CHP). CHP is a competitive grant program that provides funding directly to state, local,…",
+   "url": "https://www.justice.gov/opa/pr/department-justice-announces-nearly-150-million-hire-over-1000-law-enforcement-officers-and",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 8.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "6cab1c3ef193",
+   "title": "News release: Privacy Commissioner of Canada appears before Standing Committee on Access to Information, Privacy and Ethics on its study of the Use of Artificial Intelligence in Algorithmic Pricing",
+   "snippet": "News release",
+   "url": "/en/opc-news/news-and-announcements/2026/nr-c_261123/",
+   "paywall_url": "",
+   "source": "Privacy Commissioner of Canada",
+   "source_id": "opc",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T05:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "privacy"
+   ],
+   "score": 7.97,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   }
+  },
+  {
+   "id": "56460b71630c",
+   "title": "THE HACK: Greece pushes coordinated AI testing",
+   "snippet": "In today's edition: Kids Act, AI copyright, EU–UK tech ties",
+   "url": "https://www.rapporteur.com/news/the-hack-greece-pushes-coordinated-ai-testing/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-23T08:59+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 7.71,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "d6f603000ca8",
+   "title": "Algorithmic pricing and the Competition Act",
+   "snippet": "Remarks by Mike Hollingworth, Acting Deputy Commissioner, Competition Promotion Branch - Opening Statement to the House of Commons Standing Committee on Access to Information, Privacy and Ethics (ETHI): Study on the Use of Artificial Intelligence in Algorithmic Pricing",
+   "url": "https://www.canada.ca/en/competition-bureau/news/2026/11/study-on-the-use-of-artificial-intelligence-in-algorithmic-pricing.html",
+   "paywall_url": "",
+   "source": "Competition Bureau Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T20:23+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "privacy"
+   ],
+   "score": 7.19,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Place_du_Portage_model_1970.jpg/1280px-Place_du_Portage_model_1970.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Victoriaedwards",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Place_du_Portage_model_1970.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Place du Portage model 1970.jpg"
+   }
+  },
+  {
+   "id": "deda61d45297",
+   "title": "EU targets Russian athletes, soldiers in fresh sanctions package",
+   "snippet": "Brussels pledges to continue to propose sanctions ‘until Russia shows genuine intent for lasting peace in Ukraine‘",
+   "url": "https://www.rapporteur.com/news/eu-targets-russian-athletes-soldiers-in-fresh-sanctions-package/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-23T16:28+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 6.4,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg/1280px-Main_facade_of_First_National_Bank_Building_in_Portland_%282018%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steve Morgan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_facade_of_First_National_Bank_Building_in_Portland_(2018).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Main facade of First National Bank Building in Portland (2018).jpg"
+   }
+  },
+  {
+   "id": "3018085f70da",
+   "title": "Overtime COP31 talks end in acrimony amid EU ‘profound disappointment’",
+   "snippet": "Longest-ever global climate talks failed to tackle climate crisis, Europe said",
+   "url": "https://www.rapporteur.com/news/overtime-cop31-talks-end-in-acrimony-amid-eu-profound-disappointment/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-22T11:38+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "esg"
+   ],
+   "score": 5.5,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   }
+  },
+  {
+   "id": "633746f61d07",
+   "title": "Irish privacy regulator in talks with Meta over EU launch of Muse",
+   "snippet": "AI agent tech rolled out to UK on Tuesday, where regulators signal they're on watch",
+   "url": "https://www.rapporteur.com/news/irish-privacy-regulator-in-talks-with-meta-over-eu-launch-of-muse/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-24T11:27+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy",
+    "ai_governance"
+   ],
+   "score": 3.74,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Padlock_with_chain.jpg/1280px-Padlock_with_chain.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lacz02",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Padlock_with_chain.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Padlock with chain.jpg"
+   }
+  },
+  {
+   "id": "e4bf047cf970",
+   "title": "Rapport 2026 sur le gouvernement d'entreprise et la rémunération des dirigeants des sociétés cotées",
+   "snippet": "Rapport / étude Gouvernance Rapport annuel Intelligence artificielle Rapport 2026 sur le gouvernement d'entreprise et la rémunération des dirigeants des sociétés cotées",
+   "url": "https://www.amf-france.org/fr/actualites-publications/publications/rapports-etudes-et-analyses/rapport-2026-sur-le-gouvernement-dentreprise-et-la-remuneration-des-dirigeants-des-societes-cotees#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-24T08:10+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "ai_governance"
+   ],
+   "score": 3.27,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Towards_Nanterre_%40_Grande_Arche_%40_La_D%C3%A9fense_%40_Paris_%2835053726941%29.jpg/1280px-Towards_Nanterre_%40_Grande_Arche_%40_La_D%C3%A9fense_%40_Paris_%2835053726941%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Towards_Nanterre_@_Grande_Arche_@_La_D%C3%A9fense_@_Paris_(35053726941).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Towards Nanterre @ Grande Arche @ La Défense @ Paris (35053726941).jpg"
+   }
+  },
+  {
+   "id": "0cd36717c0ad",
+   "title": "9 Illegal Aliens from Venezuela Sentenced for Roles in Nashville Sex Trafficking Organization as Part of Homeland Security Task Force Initiative",
+   "snippet": "The last of nine illegal aliens from Venezuela were sentenced after they pleaded guilty to human trafficking and alien smuggling charges related to a sex trafficking ring that operated in several motels across Nashville, Tennessee. These defendants were sentenced in the U.S.…",
+   "url": "https://www.justice.gov/opa/pr/9-illegal-aliens-venezuela-sentenced-roles-nashville-sex-trafficking-organization-part",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "be8a5a1d4b03",
+   "title": "United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Stolen by North Korean Cyber Actors in Binance Hack",
+   "snippet": "Today, the Justice Department announced actions taken to forfeit over $1.1 billion in cryptocurrency that was criminally obtained by North Korean actors from Binance last month. This is part of the greater government effort to assist Binance in recovering over $6 billion in…",
+   "url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "8d03a4567526",
+   "title": "‘This COP did not fail because of climate finance’",
+   "snippet": "The European Commission hits back at criticism of EU funding after COP31 collapsed",
+   "url": "https://www.rapporteur.com/news/this-cop-did-not-fail-because-of-climate-finance/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-24T11:44+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "b9b81a437f3d",
+   "title": "THE HACK: Digital tax plan back in play",
+   "snippet": "In today's edition: fibre, Commission cyberattack, media ads",
+   "url": "https://www.rapporteur.com/news/the-hack-digital-tax-plan-back-in-play/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-24T09:25+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "9e34dfd0349c",
+   "title": "France risks economic recession as Le Pen presidency looms",
+   "snippet": "New business survey suggests ‘eurozone economy is doing just fine, with France the odd one out’",
+   "url": "https://www.rapporteur.com/news/france-risks-economic-recession-as-le-pen-presidency-looms/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-23T10:29+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "5c5c25844615",
+   "title": "Poland seeks more NATO support after Russian missile incursion",
+   "snippet": "Warsaw called for additional NATO support on Friday after Russian missiles and a drone violated its airspace during a major attack on Ukraine, raising fears of deliberate provocation. A Russian cruise missile crashed in southeastern Poland on Friday during a Russian airstrike on…",
+   "url": "https://www.rapporteur.com/news/poland-seeks-more-nato-support-after-russian-missile-incursion/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-20T14:06+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Courthouse_Polk_County_Texas.jpg/1280px-Courthouse_Polk_County_Texas.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jim Evans",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Courthouse_Polk_County_Texas.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Courthouse Polk County Texas.jpg"
+   }
+  },
+  {
+   "id": "d4bb98af80b2",
+   "title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
+   "snippet": "Le ministère de l’Éducation nationale et la CNIL organisent le concours Trophées des classes dont la thématique, pour cette édition 2027, est&nbsp;: «&nbsp;Comment je sécurise mes données personnelles en ligne&nbsp;?&nbsp;».",
+   "url": "https://www.cnil.fr/fr/trophees-des-classes-2027",
+   "paywall_url": "",
+   "source": "CNIL (France)",
+   "source_id": "cnil-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 1.17,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Skyline_in_Paris%2C_12_July_2017.jpg/1280px-Skyline_in_Paris%2C_12_July_2017.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christer Gundersen",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_in_Paris,_12_July_2017.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Skyline in Paris, 12 July 2017.jpg"
+   }
+  },
+  {
+   "id": "0e0c2dd30403",
+   "title": "Contrôles de la CNIL : une charte pour tout comprendre",
+   "snippet": "La CNIL peut effectuer des contrôles auprès de l’ensemble des organismes qui traitent des données personnelles. Afin d’assurer une plus grande transparence sur cette activité et favoriser le bon déroulement des investigations, la CNIL présente une charte des contrôles.",
+   "url": "https://www.cnil.fr/fr/controles-de-la-cnil-une-charte-pour-tout-comprendre",
+   "paywall_url": "",
+   "source": "CNIL (France)",
+   "source_id": "cnil-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 1.17,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Chinatown_skyline_in_Paris%2C_19_June_2015.jpg/1280px-Chinatown_skyline_in_Paris%2C_19_June_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Thibauld Nion",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chinatown_skyline_in_Paris,_19_June_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Chinatown skyline in Paris, 19 June 2015.jpg"
+   }
+  },
+  {
+   "id": "793e6e5db1e8",
+   "title": "External users of EU website caught up in Commission cyberattack",
+   "snippet": "It's still not clear if cyber incident that targeted EU's executive is over or not",
+   "url": "https://www.rapporteur.com/news/external-users-of-eu-website-caught-up-in-commission-cyberattack/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-23T12:53+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "cb988245067b",
+   "title": "Hiring: Nvidia Chief Compliance Officer",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyRGp4UGYtbEFvMHJjaWFOR0twMS1iYjJFbkY1SDgzdEVzRkVRa2VTOU5kcTViQ0dwT1ZDX2VlY0txWHhlX0paZm1WR1JwcmdfWXdMSHFzSlFfdW5vWW1ZUFRQWlY1Q0xJcGd4NDNQa3I?oc=5",
+   "source": "Financial Times",
+   "source_id": "gn-tprm",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-23T14:19+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance"
+   ],
+   "score": 17.5,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "fcbde3969b70",
+   "title": "Wells Fargo Whistleblower Can't Be Anonymous, Judge Says",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXhqMDdVV3NHTVV3NjVCNEJ4cU9MSUNER1N3SmtNSFp3Ny1KbTY3SHRJcVFQZXk3djU0Y3VoS3RrdjVPUDAyN2ZIX2FUMjV2cTF2cGZFclhVNVVFUGZvcEtrUGE1b2lPVEozajVtTGZSQlZPRmY1WHgybVZWY1NoZzdOX1ZJVDRhUlRHd1kybnBQSVkzdkxDZWxvUlhOQW15REt1cjRialfSAVZBVV95cUxQT3VyY0ZBYmszY1JsVEliSTZQVXRMdS1yTXRKSUJHX1h0NTZDQWdBNWdtbVJ4VVU2ODZFc0s4WmxncnY0bGtaY2FfSG5GbTdzbFVJTkNhUQ?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-23T23:21+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "3a0697b1f4ee",
+   "title": "Investigations of Nvidia mount amid growing questions of AI chip sales and governance",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/technology/investigations-of-nvidia-mount-amid-growing-questions-of-ai-chip-sales-and-governance/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-20T20:39+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "governance"
+   ],
+   "score": 11.43,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "eb6ad1ce83ad",
+   "title": "Financial firms facilitated ‘breathtaking’ corrupt payments to director of Kuwait public pension fund",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/regulatory-enforcement/financial-firms-facilitated-breathtaking-corrupt-payments-to-director-of-kuwait-public-pension-fund/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-24T00:37+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "2d278059b6bc",
+   "title": "Construction Sector At Risk Of Tougher Labor Enforcement",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemhxWE5WdkxNYzhDcFpMZlZWamdRMUFZTDFmcnFVVHZWdjVnYUF5eF9tbXdoQmJMdnRWVzJGTzBUTXFpWm1YekNIZ0JPZU13MmxVYll1NkxLMHg3c09sWEczeXJwb3ZZaWc2dzMwMGdxZmxmVzJUY0JmZnI1ZnZmQ1RTUWN5aHFjbko4NEFMTjhPZ2xkbVpPWkxGbVHSAVZBVV95cUxQMHZlSlpSRHpiQVNSR1VQTHpHeGRfYjlyY3ZMU0t4bmhQQWNTQXZsc3l3ZVc0Um9PcG9lOU14cnAxdlBpU21nRUZBVXhrY3FWZVJRN19zQQ?oc=5",
+   "source": "Law360",
+   "source_id": "gn-employ",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-23T18:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e231898cf07e",
+   "title": "Australia Bolsters Online Safety Law With Tougher Big Tech Fine",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGFzSW5kN3FvVWhTcjM5SEJCZ1pKM0Q3X0UyWFNFY1M4Q1lKZlRVZUVOMjRvWU40dmNNeXF0Rl9FaFRvR3Y4c2pLb0ZQeVJGTjNCSkt6dHNzUVBiNlBhdHNaaTZnYlBLX1JialBNWGxxZEl5bXNsRVMwWUpjVTZ5cDFtcTlUWDNqN0xrMnZKRzFOMXdfeExvRTBhaXJtT3hyTGQzTUhiVWlUQnVueS1YUlNIN2M?oc=5",
+   "source": "Bloomberg.com",
+   "source_id": "gn-eu",
+   "region": "EU",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-24T07:49+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e0c111379c34",
+   "title": "The cross-border consequences are not over for an unravelling Brazilian corruption case",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/the-cross-border-consequences-are-not-over-unravelling-brazilian-corruption-case",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-23T11:00+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery",
+    "enforcement"
+   ],
+   "score": 8.04,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1618369e1ebb",
+   "title": "NCA targets fourth person linked to Singapore money laundering case",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/nca-targets-fourth-person-linked-singapore-money-laundering-case",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-23T17:30+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
