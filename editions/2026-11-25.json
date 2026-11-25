@@ -1,0 +1,501 @@
+{
+ "date": "2026-11-25",
+ "lead_id": "12e087c6a965",
+ "editor_note": "A Brooklyn jury convicts Huawei on most counts and the SFO puts former Petrofac executives on trial, as corporate crime cases reach verdict stage on both sides of the Atlantic. Sanctions, fraud and harassment settlements round out a quieter pre-holiday day.",
+ "bottom_line": [
+  {
+   "id": "12e087c6a965",
+   "text": "Huawei and three subsidiaries were convicted of sanctions violations, bank fraud, money laundering and trade secret conspiracy after a three-month trial."
+  },
+  {
+   "id": "c7066ab6b1c8",
+   "text": "Two former Petrofac executives went on trial in London over alleged $23 million in bribes to win about $3.4 billion of ADNOC contracts."
+  },
+  {
+   "id": "0b92a6b3d185",
+   "text": "Elderwood will pay $450,000 plus injunctive relief to settle an EEOC race harassment suit, keeping its harassment response under supervision."
+  }
+ ],
+ "stat": {
+  "id": "e6b4aaddd9e3",
+  "text": "More than 8,000 fraudulent returns claiming Covid employment tax credits sought over $600 million, a New York father and son admitted."
+ },
+ "storylines": {
+  "huawei-us-prosecution": "The U.S. criminal case against Huawei",
+  "petrofac-sfo-bribery": "The SFO's Petrofac bribery prosecutions"
+ },
+ "podcast_brief": "## The day in one line\n\nTwo long-running corporate crime cases reached the courtroom stage on the same day: a New York jury convicted Huawei on most of the charges it faced, and in London the Serious Fraud Office began its trial of two former Petrofac executives. Around them sit a harassment settlement, pandemic-era fraud, fresh sanctions activity and a handful of European governance and privacy updates on a quiet pre-holiday news day.\n\n## Story 1 — Huawei and three subsidiaries convicted of sanctions violations, fraud and trade secret conspiracy\n\n**The facts.**\n- On Tuesday 24 November a federal jury in Brooklyn, in the Eastern District of New York, returned guilty verdicts against Huawei Technologies and three of its subsidiaries after a trial that lasted about three months, having opened in September.\n- According to the Justice Department, the convictions cover violating U.S. sanctions involving Iran, lying to banks, money laundering and conspiring to steal trade secrets. Press coverage reports guilty verdicts on 10 of the 12 counts.\n- The two counts that did not result in convictions, according to press reports, were racketeering conspiracy, the charge that tied the case together, and conspiracy to obstruct justice. Huawei welcomed that part of the outcome.\n- The bank fraud theory centres on Skycom, a company that handled Huawei's business in Iran. Prosecutors said Huawei told HSBC and other lenders that Skycom was an independent partner, and that those statements helped it keep access to billions of dollars in banking services and loans.\n- The trade secret allegations involved five American companies: Cisco, T-Mobile, Fujitsu, CNEX and Quintel. Prosecutors described Huawei engineers copying Cisco router source code, and Huawei staff gathering details of a T-Mobile phone-testing robot known as \"Tappy\" that it had seen under a non-disclosure agreement.\n- The head of the Justice Department's Criminal Division said Huawei had built its business over two decades on fraud, theft and deception.\n- Huawei called the remaining charges without legal or factual merit, argued that the trade secret disputes were civil matters settled long ago, and said it would review the verdicts and take legal action to protect its rights. Whether it will formally appeal is not yet clear.\n- Possible penalties include criminal fines, forfeiture and restitution. Sentencing is reported to be set for September 2027.\n\n**Background.**\n- The charges date back to 2018 and the case has run for about eight years. The U.S. placed Huawei on a trade blacklist in 2019 on national security grounds.\n- The case is unusual because it went to a jury: most large corporate criminal cases in the U.S. end in plea agreements, deferred prosecution agreements or declinations rather than a full trial and verdict against the company itself.\n\n**Who's affected.**\n- Banks and other financial institutions that onboard and lend to multinational groups, particularly where affiliates operate in sanctioned countries.\n- Technology companies that share confidential information with partners under non-disclosure agreements.\n- Multinationals with complex group structures that include separately branded or nominally independent affiliates.\n\n**Why it matters.** The conviction shows how a sanctions problem can grow into bank fraud and money laundering liability once a company is found to have misled its banks about who it really controls. It is also a reminder that prosecutors are willing to take a global company all the way to verdict. The acquittal on racketeering shows juries do not accept every theory, but the remaining convictions carry significant financial exposure.\n\n**How this comes up with a GC or CLO.** Legal and compliance leaders at banks will see this as a case about what customers tell them regarding ownership and control of affiliates. At technology and manufacturing companies, it is more likely to come up as a story about partner relationships, where confidential information shared during testing or collaboration became evidence in a criminal trial.\n\n**Questions a buyer might ask.**\n- How did a dispute over an Iran affiliate become a bank fraud and money laundering case?\n- Why did this case go to a jury rather than end in a corporate resolution?\n- What does the racketeering acquittal mean for the overall weight of the verdict?\n\n## Story 2 — Former Petrofac executives go on trial over alleged $23 million in UAE bribes\n\n**The facts.**\n- On 24 November, two former Petrofac executives went on trial at Southwark Crown Court in London: Marwan Chedid, the group's former chief operating officer, and George Salibi, former chief operating officer of its engineering and construction division.\n- Each faces two counts of bribery covering 2012 to 2018, tied to the Upper Zakum offshore oilfield in the United Arab Emirates. Both pleaded not guilty.\n- The prosecution says about $23 million in bribes helped Petrofac win roughly $3.4 billion of contracts from the Abu Dhabi National Oil Company. The money was allegedly disguised through false invoices and third-party companies, routed through an agent who died in 2021, and on to people linked to ADNOC.\n- The prosecutor told the jury the defendants seemed to accept that payments were made, but disputed that they were bribes or that they knew about them. The trial is expected to run until March.\n\n**Background.**\n- The SFO opened its investigation in 2017. Petrofac itself pleaded guilty in 2021 to seven counts of failing to prevent bribery and paid a fine of about £47 million plus confiscation and costs. A former head of sales pleaded guilty, received a suspended sentence, and is now a prosecution witness.\n\n**Who's affected.**\n- Energy, engineering and construction contractors that use agents to win state-owned business, and the boards and senior managers who oversee them.\n\n**Why it matters.** This is a test of whether the SFO can convict senior individuals after a corporate guilty plea, something it has struggled with in the past. The evidence turns on how intermediary payments were documented and what senior managers knew.\n\n**How this comes up with a GC or CLO.** Leaders will see it as a story about personal exposure: the company settled years ago, and its executives are still facing a jury.\n\n**Questions a buyer might ask.**\n- Why are individuals being tried five years after the company pleaded guilty?\n- How do prosecutors prove an executive knew that agent payments were bribes?\n\n## Story 3 — Elderwood to pay $450,000 to settle EEOC race harassment lawsuit\n\n**The facts.**\n- The Equal Employment Opportunity Commission announced that Elderwood at Burlington, a care operator in Burlington, Vermont, and Elderwood Administrative Services will pay $450,000 to settle a race harassment lawsuit the agency brought.\n- The settlement also includes what the EEOC called substantial injunctive relief, and it resolves the case before trial.\n\n**Background.**\n- The EEOC sues employers when its investigation finds reasonable cause and conciliation fails. Settlements in harassment cases typically pair money with obligations that last for a period of years, such as training, policy changes and reporting to the agency. The detailed terms here are in the EEOC's release.\n\n**Who's affected.**\n- Healthcare and long-term care employers, HR and employee relations teams, and the managers who receive harassment complaints.\n\n**Why it matters.** Race harassment remains a steady part of the EEOC's litigation docket. The injunctive relief is often the more lasting part of a settlement because it puts an employer's complaint handling under outside oversight.\n\n**How this comes up with a GC or CLO.** Employment counsel and compliance leaders tend to discuss cases like this in terms of how complaints were raised and handled, and what happens when internal reporting does not stop the behaviour.\n\n**Questions a buyer might ask.**\n- What does injunctive relief usually require in an EEOC harassment settlement?\n- How long does an employer stay under the agency's oversight after a deal like this?\n\n## Story 4 — New York father and son plead guilty in $600 million Covid tax fraud\n\n**The facts.** A father and son from New York pleaded guilty to conspiring to defraud the U.S. by filing more than 8,000 fraudulent returns claiming Covid-19 employment tax credits, seeking over $600 million.\n**Background.** Pandemic-era employment tax credits drew large volumes of false claims, many filed through preparers on behalf of businesses.\n**Who's affected.** Businesses that claimed pandemic credits, tax preparers and finance teams.\n**Why it matters.** It shows pandemic relief fraud remains an enforcement priority years later, at very large scale.\n**How it comes up.** Finance and compliance leaders may raise it when discussing third-party advisers who file claims in a company's name.\n**Question.** Can a business be exposed when a preparer files false claims on its behalf?\n\n## Story 5 — Four family members charged in $55 million Medicare and Medicaid pharmacy fraud\n\n**The facts.** A federal grand jury in Brooklyn indicted four members of a Queens family on 20 November over an alleged $55 million pharmacy fraud scheme against Medicare and Medicaid.\n**Background.** Pharmacy billing fraud is a recurring focus of federal health care fraud enforcement.\n**Who's affected.** Pharmacies, payers and pharmacy benefit managers.\n**Why it matters.** Schemes of this size test the audit and network-monitoring controls of payers who reimburse pharmacies.\n**How it comes up.** Healthcare compliance leaders tend to discuss it in terms of provider oversight.\n**Question.** How do payers spot billing fraud by network pharmacies?\n\n## Story 6 — Russian national pleads guilty to evading sanctions on Russia\n\n**The facts.** Alexander Suvorov, a 52-year-old Russian national who had lived in Sweden, pleaded guilty to conspiracy to violate the Export Control Reform Act.\n**Background.** The U.S. has steadily prosecuted intermediaries who route controlled goods to Russia through other countries.\n**Who's affected.** Exporters, distributors and logistics providers.\n**Why it matters.** It shows the continued focus on third-country routing of goods to Russia.\n**How it comes up.** Trade compliance teams raise it when discussing end-user screening.\n**Question.** How do exporters detect a buyer acting as a front for Russian end users?\n\n## Story 7 — EU targets Russian athletes and soldiers in fresh sanctions package\n\n**The facts.** The EU's new Russia sanctions package lists athletes and soldiers, and Brussels says more packages will follow until Russia shows real intent for a lasting peace in Ukraine.\n**Background.** The EU has adopted a long series of Russia packages since 2022.\n**Who's affected.** Banks, payment firms and any company screening EU sanctions lists.\n**Why it matters.** The direction of travel is further expansion, not easing.\n**How it comes up.** Screening teams see each package as more names to process.\n**Question.** How quickly do new EU listings need to be reflected in screening?\n\n## Story 8 — Privacy Commissioner of Canada testifies on AI in algorithmic pricing\n\n**The facts.** Canada's Privacy Commissioner appeared before the House of Commons ethics committee for its study of artificial intelligence in algorithmic pricing.\n**Background.** Pricing based on personal data has drawn growing attention from regulators in several countries.\n**Who's affected.** Retailers, platforms and financial firms using automated pricing.\n**Why it matters.** Parliamentary scrutiny is often an early step toward regulator action or legislation.\n**How it comes up.** Legal teams may raise it as an AI governance issue tied to personal data.\n**Question.** Does using personal data to set prices raise privacy obligations in Canada?\n\n## Story 9 — AMF publishes 2026 report on governance and executive pay\n\n**The facts.** France's markets regulator released its 2026 report on corporate governance and executive remuneration at listed companies, with artificial intelligence among its themes.\n**Background.** The AMF publishes this review every year.\n**Who's affected.** Boards and general counsel at French listed companies.\n**Why it matters.** It frames what the regulator expects from listed boards, now including technology oversight.\n**How it comes up.** Company secretaries and general counsel follow it ahead of annual meetings.\n**Question.** What does the AMF expect boards to say about AI?\n\n## Story 10 — EEOC adopts Management Directive 716\n\n**The facts.** The EEOC adopted Management Directive 716, which governs federal agencies' equal employment opportunity programmes and replaces Management Directive 715 from October 2003.\n**Background.** The old directive had been in place for more than two decades.\n**Who's affected.** Federal agencies and their EEO offices.\n**Why it matters.** It resets how agencies run and report on their programmes.\n**How it comes up.** Mainly with public sector clients.\n**Question.** What changes for federal agencies under the new directive?\n\n## Story 11 — CNIL clarifies GDPR roles in the delivery sector\n\n**The facts.** France's CNIL says the carrier is usually the data controller for personal data processed in deliveries, but not always, and explains how players can clarify their roles.\n**Background.** Controller and processor roles decide who carries GDPR liability.\n**Who's affected.** Retailers, carriers and logistics subcontractors.\n**Why it matters.** It brings clarity to responsibility in outsourced delivery chains.\n**How it comes up.** As a third-party contracting question.\n**Question.** When is a retailer, rather than the carrier, the controller?\n\n## Story 12 — Simplified ESRS standards enter into force\n\n**The facts.** The AMF reports that the new, simplified European Sustainability Reporting Standards used under the CSRD have entered into force.\n**Background.** The EU has been scaling back sustainability reporting requirements.\n**Who's affected.** EU companies in scope of the CSRD.\n**Why it matters.** It changes what companies must disclose.\n**How it comes up.** As a question of reporting scope.\n**Question.** What do the simplified standards no longer require?\n\n## Story 13 — AMF dossier on the EU Women on Boards directive\n\n**The facts.** The AMF published a governance dossier on the EU Women on Boards directive.\n**Background.** The directive sets gender balance objectives for boards of listed companies.\n**Who's affected.** Listed companies' boards and nomination committees.\n**Why it matters.** Board composition becomes a reportable compliance matter.\n**How it comes up.** In board governance discussions.\n**Question.** How do companies report progress on board balance?\n",
+ "cards": [
+  {
+   "id": "12e087c6a965",
+   "url": "https://www.justice.gov/opa/pr/chinese-tech-giant-huawei-and-subsidiaries-convicted-sanctions-violations-fraud-conspiracy",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-24T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/ShenzhenAirlinesHQ0.jpg/1280px-ShenzhenAirlinesHQ0.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "WhisperToMe",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ShenzhenAirlinesHQ0.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "ShenzhenAirlinesHQ0.jpg"
+   },
+   "tier": "official",
+   "topic": "aml_sanctions",
+   "kind": "link",
+   "title": "Huawei and subsidiaries convicted of sanctions violations, fraud, trade secret theft conspiracy and money laundering",
+   "summary": "A federal jury in Brooklyn found Huawei Technologies and three subsidiaries guilty after a three-month trial of violating U.S. sanctions involving Iran, lying to banks, money laundering and stealing trade secrets.",
+   "impact": "A rare jury conviction of a global corporation shows how misleading banks about a related entity can turn sanctions exposure into fraud and laundering liability.",
+   "industries": [
+    "tech",
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Huawei headquarters Shenzhen",
+   "storyline": "huawei-us-prosecution"
+  },
+  {
+   "id": "c7066ab6b1c8",
+   "kind": "briefing",
+   "tier": "ai",
+   "region": "UK",
+   "lang": "en",
+   "published": "2026-11-24T12:00+00:00",
+   "topic": "anti_bribery",
+   "url": "",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Inner_london_crown_court_southwark.jpg",
+   "source": "AI Briefing · Reuters",
+   "storyline": "petrofac-sfo-bribery",
+   "title": "Former Petrofac executives go on trial over alleged $23m in UAE bribes",
+   "summary": "Two former Petrofac chief operating officers pleaded not guilty at Southwark Crown Court to bribery charges tied to about $3.4 billion of ADNOC contracts, in an SFO trial due to run until March.",
+   "impact": "The SFO is testing whether disguised agent payments can convict individual executives years after the company itself pleaded guilty to failing to prevent bribery.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Southwark Crown Court London",
+   "image_credit": {
+    "kind": "commons",
+    "author": "MRSC at English Wikipedia",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Inner_london_crown_court_southwark.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Inner london crown court southwark.jpg"
+   }
+  },
+  {
+   "id": "0b92a6b3d185",
+   "url": "https://www.eeoc.gov/newsroom/elderwood-pay-450000-settle-eeoc-race-harassment-lawsuit-avoiding-trial",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-24T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lockwood-Boynton_House%2C_School_Street_Side.JPG/1280px-Lockwood-Boynton_House%2C_School_Street_Side.JPG",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Tyler Goodrich",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lockwood-Boynton_House,_School_Street_Side.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Lockwood-Boynton House, School Street Side.JPG"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Elderwood to pay $450,000 to settle EEOC race harassment lawsuit, avoiding trial",
+   "summary": "Elderwood at Burlington, a Vermont care operator, and Elderwood Administrative Services will pay $450,000 and provide substantial injunctive relief to settle an EEOC race harassment lawsuit.",
+   "impact": "Settlements pairing payouts with court-supervised injunctive relief keep harassment reporting and response processes under regulator scrutiny long after the cheque clears.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "nursing home building Vermont"
+  },
+  {
+   "id": "e6b4aaddd9e3",
+   "url": "https://www.justice.gov/opa/pr/new-york-father-and-son-plead-guilty-600m-covid-tax-fraud-scheme",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-24T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-52_1.jpg/1280px-Sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-52_1.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-52_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Sign for the Internal Revenue Service building Washington DC 2025-02-07 13-21-52 1.jpg"
+   },
+   "tier": "official",
+   "topic": "false_claims",
+   "kind": "link",
+   "title": "New York father and son plead guilty in $600M Covid tax fraud scheme",
+   "summary": "A New York father and son pleaded guilty to conspiring to defraud the United States of more than $600 million by filing over 8,000 fraudulent returns claiming Covid-19 employment tax credits.",
+   "impact": "Pandemic-era employment credit fraud remains an active enforcement priority, keeping claims filed by advisers and preparers on behalf of businesses under scrutiny.",
+   "industries": [
+    "financial_services",
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Internal Revenue Service building Washington"
+  },
+  {
+   "id": "e678d934f090",
+   "url": "https://www.justice.gov/opa/pr/four-family-members-including-two-chinese-nationals-charged-55m-medicare-and-medicaid",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-24T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves%2C_S%C3%A3o_Paulo.jpg/1280px-Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves%2C_S%C3%A3o_Paulo.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Wilfredor",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Generic medicines with the yellow G stripe on pharmacy shelves, São Paulo.jpg"
+   },
+   "tier": "official",
+   "topic": "false_claims",
+   "kind": "link",
+   "title": "Four family members charged in $55M Medicare and Medicaid pharmacy fraud scheme",
+   "summary": "A federal grand jury in Brooklyn indicted four Queens family members on charges tied to a $55 million Medicare and Medicaid pharmacy fraud scheme.",
+   "impact": "Pharmacy billing fraud on this scale keeps payers, PBMs and network pharmacies focused on audit controls and on who actually owns and runs contracted providers.",
+   "industries": [
+    "healthcare"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "pharmacy shelves medicines"
+  },
+  {
+   "id": "c183c5328d35",
+   "url": "https://www.justice.gov/opa/pr/russian-national-pleads-guilty-evading-economic-sanctions-russia",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-24T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Shipping_container_-_Port_of_Rotterdam_-_2017_-_3.jpg/1280px-Shipping_container_-_Port_of_Rotterdam_-_2017_-_3.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "AgainErick",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shipping_container_-_Port_of_Rotterdam_-_2017_-_3.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Shipping container - Port of Rotterdam - 2017 - 3.jpg"
+   },
+   "tier": "official",
+   "topic": "aml_sanctions",
+   "kind": "link",
+   "title": "Russian national pleads guilty to evading economic sanctions on Russia",
+   "summary": "Alexander Suvorov, a 52-year-old Russian national formerly living in Sweden, pleaded guilty to conspiracy to violate the Export Control Reform Act.",
+   "impact": "Export control prosecutions of intermediaries operating through third countries underline why end-user and transshipment screening remains a core sanctions exposure.",
+   "industries": [
+    "manufacturing_energy",
+    "tech"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "shipping containers port"
+  },
+  {
+   "id": "deda61d45297",
+   "url": "https://www.rapporteur.com/news/eu-targets-russian-athletes-soldiers-in-fresh-sanctions-package/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-23T16:28+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "press",
+   "topic": "aml_sanctions",
+   "kind": "link",
+   "title": "EU targets Russian athletes and soldiers in fresh sanctions package",
+   "summary": "The EU's latest Russia sanctions package lists athletes and soldiers, and Brussels says it will keep proposing sanctions until Russia shows genuine intent for lasting peace in Ukraine.",
+   "impact": "Each new package widens the EU list that screening teams must absorb, signalling sanctions pressure on Russia will keep expanding rather than easing.",
+   "industries": [
+    "financial_services",
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "Berlaymont building Brussels"
+  },
+  {
+   "id": "6cab1c3ef193",
+   "url": "/en/opc-news/news-and-announcements/2026/nr-c_261123/",
+   "source": "Privacy Commissioner of Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-23T05:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Privacy Commissioner of Canada appears before Commons ethics committee on AI in algorithmic pricing",
+   "summary": "The Privacy Commissioner of Canada appeared before the Standing Committee on Access to Information, Privacy and Ethics for its study of artificial intelligence in algorithmic pricing.",
+   "impact": "Parliamentary scrutiny of AI-driven pricing signals that personal data use in automated pricing models is becoming a legal and reputational issue in Canada.",
+   "industries": [
+    "tech",
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "Parliament Hill Ottawa"
+  },
+  {
+   "id": "e4bf047cf970",
+   "url": "https://www.amf-france.org/fr/actualites-publications/publications/rapports-etudes-et-analyses/rapport-2026-sur-le-gouvernement-dentreprise-et-la-remuneration-des-dirigeants-des-societes-cotees#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "source": "AMF (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-24T08:10+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "kind": "link",
+   "title": "AMF publishes its 2026 report on corporate governance and executive pay at listed companies",
+   "summary": "France's markets regulator released its 2026 annual report on corporate governance and executive remuneration at listed companies, with artificial intelligence among the themes covered.",
+   "impact": "The AMF's annual review sets expectations French listed boards are measured against, and its inclusion of AI shows board oversight of technology entering governance scrutiny.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "analysis",
+   "image_query": "La Défense Paris business district"
+  },
+  {
+   "id": "1725739e0b0c",
+   "url": "https://www.eeoc.gov/newsroom/eeoc-adopts-management-directive-716-strengthen-equal-employment-opportunity",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-24T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "EEOC adopts Management Directive 716 to modernise federal agencies' EEO programmes",
+   "summary": "The EEOC adopted Management Directive 716, a modernised directive governing federal agencies' equal employment opportunity programmes, replacing Management Directive 715 issued in October 2003.",
+   "impact": "The first rewrite of federal EEO programme rules in over two decades reshapes how agencies run and report on discrimination prevention and complaint handling.",
+   "industries": [
+    "public_sector"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "EEOC headquarters Washington"
+  },
+  {
+   "id": "f8c1236b452b",
+   "url": "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
+   "source": "CNIL (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-24T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Fresh%27n%27Local_delivery_van%2C_Neswick_Street%2C_Plymouth%2C_Devon_-_May_2025.jpg/1280px-Fresh%27n%27Local_delivery_van%2C_Neswick_Street%2C_Plymouth%2C_Devon_-_May_2025.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Mutney",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fresh%27n%27Local_delivery_van,_Neswick_Street,_Plymouth,_Devon_-_May_2025.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Fresh'n'Local delivery van, Neswick Street, Plymouth, Devon - May 2025.jpg"
+   },
+   "tier": "official",
+   "topic": "third_party_risk",
+   "kind": "link",
+   "title": "CNIL: how should responsibilities be allocated under GDPR in the delivery sector?",
+   "summary": "France's CNIL says that in most cases the carrier is the data controller for personal data processed in deliveries, but not always, and sets out how to clarify roles between delivery players.",
+   "impact": "Regulator guidance on controller and processor roles across delivery chains sharpens which party carries GDPR liability in outsourced logistics relationships.",
+   "industries": [
+    "manufacturing_energy",
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "delivery van street"
+  },
+  {
+   "id": "1774b3c97a2f",
+   "url": "https://www.amf-france.org/fr/actualites-publications/actualites/reporting-de-durabilite-des-entreprises-entree-en-vigueur-des-nouvelles-normes-esrs-simplifiees#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "source": "AMF (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-25T07:45+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Commission_building_%40_Brussels_%288177616130%29.jpg/1280px-European_Commission_building_%40_Brussels_%288177616130%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Annecy, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Commission_building_@_Brussels_(8177616130).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Commission building @ Brussels (8177616130).jpg"
+   },
+   "tier": "official",
+   "topic": "esg",
+   "kind": "link",
+   "title": "Corporate sustainability reporting: new simplified ESRS standards enter into force",
+   "summary": "France's AMF reports that the new, simplified European Sustainability Reporting Standards used under the CSRD have entered into force.",
+   "impact": "Simplified ESRS reset what EU companies disclose on sustainability, changing the scope of data legal and compliance teams help gather and certify.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "European Commission building Brussels"
+  },
+  {
+   "id": "d5d07186ed43",
+   "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/women-boards#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "source": "AMF (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-25T07:13+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   },
+   "tier": "official",
+   "topic": "governance",
+   "kind": "link",
+   "title": "AMF dossier on the EU \"Women on Boards\" directive",
+   "summary": "France's AMF has published a governance dossier on the EU Women on Boards directive for listed companies.",
+   "impact": "The directive's board-gender targets turn board composition into a reportable compliance matter for listed issuers across the EU.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "rule",
+   "image_query": "boardroom table chairs"
+  }
+ ],
+ "briefings": {
+  "c7066ab6b1c8": {
+   "headline": "Former Petrofac executives go on trial over alleged $23m in UAE bribes",
+   "dek": "The Serious Fraud Office's long-running Petrofac case reaches the individuals, five years after the company pleaded guilty.",
+   "body_md": "Two former senior executives of oil services group Petrofac went on trial at Southwark Crown Court in London on 24 November, accused by the Serious Fraud Office of bribery linked to contracts in the United Arab Emirates, Reuters reported.\n\nMarwan Chedid, Petrofac's former chief operating officer, and George Salibi, former chief operating officer of its engineering and construction division, each face two counts of bribery covering 2012 to 2018. Both pleaded not guilty. The charges relate to the Upper Zakum offshore oilfield: one count concerns a contract to expand capacity to 750,000 barrels a day, the other a variation order to raise it to one million barrels a day.\n\nProsecutors say about $23 million was paid to win roughly $3.4 billion of work from the Abu Dhabi National Oil Company (ADNOC). According to the prosecution, the money was disguised through false invoices and third-party companies and routed via an agent, Basim Al-Shaikh, a British national who died in 2021, before reaching people linked to ADNOC. Opening the case, prosecutor Jonathan Kinnear said the defendants appeared to accept the payments were made but disputed that they were bribes or that they knew bribes were being paid. He described the concealment as being \"at the very heart of the case\". The trial is expected to run until March.\n\n### Background\n\nThe SFO opened its Petrofac investigation in May 2017. When it charged the two men in February 2024, it said they had allegedly been involved in offering and paying agents more than $30 million to influence contracts worth about $3.3 billion. The company itself pleaded guilty in October 2021 to seven offences of failing to prevent bribery between 2011 and 2017 and was ordered to pay a fine of about £47.2 million, confiscation of about £22.8 million and £7 million in SFO costs. David Lufkin, Petrofac's former global head of sales, pleaded guilty to 14 bribery counts, received a suspended sentence and is due to give evidence for the prosecution.\n\n### What this means for legal and compliance leaders\n\nThe case is a test of the SFO's ability to convict senior individuals after a corporate resolution, an area where the agency has had mixed results. The prosecution's theory rests on how agent payments were structured and documented, which places third-party intermediary controls, invoicing and the knowledge of senior managers at the centre of the evidence. A verdict will also be read alongside the UK's expanding corporate liability regime, including the new failure to prevent fraud offence.\n\n### Questions you may hear\n\n- Does a corporate guilty plea for failing to prevent bribery make later prosecution of individual executives more or less likely?\n- How much weight do prosecutors place on false invoices and third-party structures as evidence of knowledge?\n- What role do cooperating former employees play in SFO cases against senior management?",
+   "sources": [
+    {
+     "title": "Two former Petrofac executives face trial over alleged $23m bribes for $3.4b ADNOC deals",
+     "publisher": "Reuters via Baird Maritime",
+     "url": "https://www.bairdmaritime.com/security/incidents/piracy/two-former-petrofac-executives-face-trial-over-alleged-23m-bribes-for-34b-adnoc-deals"
+    },
+    {
+     "title": "SFO charges two former Petrofac senior executives with bribery",
+     "publisher": "Serious Fraud Office (GOV.UK)",
+     "url": "https://www.gov.uk/government/news/sfo-charges-two-former-petrofac-senior-executives-with-bribery"
+    },
+    {
+     "title": "Petrofac Limited case page",
+     "publisher": "Serious Fraud Office (GOV.UK)",
+     "url": "https://www.gov.uk/sfo-cases/petrofac-limited"
+    }
+   ],
+   "prompted_by": {
+    "title": "SFO: Petrofac execs paid London businessman to “grease the wheels in the UAE”",
+    "publisher": "Global Investigations Review",
+    "url": "https://globalinvestigationsreview.com/article/sfo-petrofac-execs-paid-london-businessman-grease-the-wheels-in-the-uae"
+   }
+  }
+ }
+}

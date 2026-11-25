@@ -13645,5 +13645,333 @@
     "title": "Berlaymont in Brussels (51892897680).jpg"
    }
   }
+ ],
+ "v2|huawei headquarters shenzhen": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/ShenzhenAirlinesHQ0.jpg/1280px-ShenzhenAirlinesHQ0.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "WhisperToMe",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ShenzhenAirlinesHQ0.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "ShenzhenAirlinesHQ0.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/ShenzhenAirlinesHQ1.jpg/1280px-ShenzhenAirlinesHQ1.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "WhisperToMe",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ShenzhenAirlinesHQ1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "ShenzhenAirlinesHQ1.jpg"
+   }
+  }
+ ],
+ "v2|nursing home building vermont": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lockwood-Boynton_House%2C_School_Street_Side.JPG/1280px-Lockwood-Boynton_House%2C_School_Street_Side.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Tyler Goodrich",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lockwood-Boynton_House,_School_Street_Side.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Lockwood-Boynton House, School Street Side.JPG"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Lockwood-Boynton_House%2C_Main_Street_Side.JPG/1280px-Lockwood-Boynton_House%2C_Main_Street_Side.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Tyler Goodrich",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lockwood-Boynton_House,_Main_Street_Side.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Lockwood-Boynton House, Main Street Side.JPG"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sheldon_Boright_House.JPG/1280px-Sheldon_Boright_House.JPG",
+   "credit": {
+    "kind": "commons",
+    "author": "Mfwills",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sheldon_Boright_House.JPG",
+    "provider": "Wikimedia Commons",
+    "title": "Sheldon Boright House.JPG"
+   }
+  }
+ ],
+ "v2|internal revenue service building washington": [
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-52_1.jpg/1280px-Sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-52_1.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-52_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Sign for the Internal Revenue Service building Washington DC 2025-02-07 13-21-52 1.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Close-up_of_sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-58_1.jpg/1280px-Close-up_of_sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-58_1.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Close-up_of_sign_for_the_Internal_Revenue_Service_building_Washington_DC_2025-02-07_13-21-58_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Close-up of sign for the Internal Revenue Service building Washington DC 2025-02-07 13-21-58 1.jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Washington_DC_national_Mall.jpg/1280px-Washington_DC_national_Mall.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Shashi Bellamkonda",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Washington_DC_national_Mall.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Washington DC national Mall.jpg"
+   }
+  }
+ ],
+ "v2|pharmacy shelves medicines": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves%2C_S%C3%A3o_Paulo.jpg/1280px-Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves%2C_S%C3%A3o_Paulo.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Wilfredor",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Generic medicines with the yellow G stripe on pharmacy shelves, São Paulo.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Former_pharmacy%2C_shelves_with_medicines.jpg/1280px-Former_pharmacy%2C_shelves_with_medicines.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Zalasem1",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Former_pharmacy,_shelves_with_medicines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Former pharmacy, shelves with medicines.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/NanningTianchiShanPharmacy.jpg/1280px-NanningTianchiShanPharmacy.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Félix An",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:NanningTianchiShanPharmacy.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "NanningTianchiShanPharmacy.jpg"
+   }
+  }
+ ],
+ "v2|shipping containers port": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Shipping_container_-_Port_of_Rotterdam_-_2017_-_3.jpg/1280px-Shipping_container_-_Port_of_Rotterdam_-_2017_-_3.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "AgainErick",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shipping_container_-_Port_of_Rotterdam_-_2017_-_3.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Shipping container - Port of Rotterdam - 2017 - 3.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Shipping_container_-_Eimskip_-_Port_of_Rotterdam_-_2017_-_2.jpg/1280px-Shipping_container_-_Eimskip_-_Port_of_Rotterdam_-_2017_-_2.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "AgainErick",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shipping_container_-_Eimskip_-_Port_of_Rotterdam_-_2017_-_2.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Shipping container - Eimskip - Port of Rotterdam - 2017 - 2.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Shipping_container_-_Eimskip_-_Port_of_Rotterdam_-_2014_-_1.jpg/1280px-Shipping_container_-_Eimskip_-_Port_of_Rotterdam_-_2014_-_1.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "AgainErick",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shipping_container_-_Eimskip_-_Port_of_Rotterdam_-_2014_-_1.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Shipping container - Eimskip - Port of Rotterdam - 2014 - 1.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Shipping_container_stacks_-_Port_of_Rotterdam_-_2014_-_4.jpg/1280px-Shipping_container_stacks_-_Port_of_Rotterdam_-_2014_-_4.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "AgainErick",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shipping_container_stacks_-_Port_of_Rotterdam_-_2014_-_4.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Shipping container stacks - Port of Rotterdam - 2014 - 4.jpg"
+   }
+  },
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Shipping_container_stacks_-_Port_of_Rotterdam_-_2017_-_5.jpg/1280px-Shipping_container_stacks_-_Port_of_Rotterdam_-_2017_-_5.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "AgainErick",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shipping_container_stacks_-_Port_of_Rotterdam_-_2017_-_5.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Shipping container stacks - Port of Rotterdam - 2017 - 5.jpg"
+   }
+  }
+ ],
+ "v2|delivery van street": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Fresh%27n%27Local_delivery_van%2C_Neswick_Street%2C_Plymouth%2C_Devon_-_May_2025.jpg/1280px-Fresh%27n%27Local_delivery_van%2C_Neswick_Street%2C_Plymouth%2C_Devon_-_May_2025.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Mutney",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fresh%27n%27Local_delivery_van,_Neswick_Street,_Plymouth,_Devon_-_May_2025.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Fresh'n'Local delivery van, Neswick Street, Plymouth, Devon - May 2025.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/DHL_delivery_van_in_a_street_in_Tokyo.jpg/1280px-DHL_delivery_van_in_a_street_in_Tokyo.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "TPFUUT",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:DHL_delivery_van_in_a_street_in_Tokyo.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "DHL delivery van in a street in Tokyo.jpg"
+   }
+  }
+ ],
+ "v2|european commission building brussels": [
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Commission_building_%40_Brussels_%288177616130%29.jpg/1280px-European_Commission_building_%40_Brussels_%288177616130%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Annecy, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Commission_building_@_Brussels_(8177616130).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Commission building @ Brussels (8177616130).jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/World_AIDS_Day%2C_European_Commission_building%2C_Brussels.jpg/1280px-World_AIDS_Day%2C_European_Commission_building%2C_Brussels.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "User:Asterion",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:World_AIDS_Day,_European_Commission_building,_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "World AIDS Day, European Commission building, Brussels.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "EmDee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Belgique - Bruxelles - Schuman - Berlaymont - 01.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/European_Commission_in_Brussels.jpg/1280px-European_Commission_in_Brussels.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Jai79",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Commission_in_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Commission in Brussels.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/European_Commission%2C_Brussels_-_panoramio.jpg/1280px-European_Commission%2C_Brussels_-_panoramio.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Aulo Aasmaa",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Commission,_Brussels_-_panoramio.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Commission, Brussels - panoramio.jpg"
+   }
+  }
+ ],
+ "v2|boardroom table chairs": [
+  {
+   "score": 2,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   }
+  }
  ]
 }
