@@ -1,0 +1,981 @@
+{
+ "date": "2026-11-26",
+ "generated": "2026-11-26T12:33:26+00:00",
+ "count": 35,
+ "by_region": {
+  "US": 8,
+  "CA": 1,
+  "UK": 1,
+  "EU": 18
+ },
+ "paywalled": 7,
+ "items": [
+  {
+   "id": "bd4d1ecb0fd2",
+   "title": "Boss Man Tacos to Pay $42,000 in EEOC Sexual Harassment Suit",
+   "snippet": "INDIANAPOLIS — Bossman Tacos, LLC, which operates Boss Man Tacos in Highland, Indiana, agreed to pay $42,000 and implement significant policy and training reforms to settle a federal sexual harassment lawsuit filed by the U.S. Equal Employment Opportunity Commission (EEOC), the…",
+   "url": "https://www.eeoc.gov/newsroom/boss-man-tacos-pay-42000-eeoc-sexual-harassment-suit",
+   "paywall_url": "",
+   "source": "U.S. EEOC",
+   "source_id": "eeoc",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-25T12:00+00:00",
+   "topic": "employment_law",
+   "tags": [
+    "employment_law",
+    "enforcement"
+   ],
+   "score": 21.49,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   }
+  },
+  {
+   "id": "4a4694a26294",
+   "title": "Government of Canada to make announcement on AI compute",
+   "snippet": "The Honourable Evan Solomon, Minister of Artificial Intelligence and Digital Innovation and Minister responsible for the Federal Economic Development Agency for Southern Ontario, will make an announcement about helping Canadian companies build and scale AI in Canada.",
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-to-make-announcement-on-ai-compute.html",
+   "paywall_url": "",
+   "source": "Innovation, Science and Economic Development Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-25T15:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 13.2,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "83aea1af140f",
+   "title": "Check the firm before you invest, FCA warns, as AI scams rise",
+   "snippet": "A third (33%) of UK adults say they have seen an investment promotion in the past year that they believe used artificial intelligence (AI), new research from the FCA shows. Reports of investment fraud to Report Fraud that mention suspected use of AI have risen by nearly 400% in…",
+   "url": "https://www.fca.org.uk/news/press-releases/check-firm-you-invest-fca-warns-ai-scams-rise",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 12.1,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "5837cc1a37eb",
+   "title": "Federal Grand Jury Returns Indictment Against Greensburg Man for Crop Insurance Fraud",
+   "snippet": "A federal grand jury in Bowling Green returned an indictment charging a Greensburg man with one count of conspiracy and eight counts of crop insurance fraud.",
+   "url": "https://www.justice.gov/opa/pr/federal-grand-jury-returns-indictment-against-greensburg-man-crop-insurance-fraud",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-24T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "e074059d8a2c",
+   "title": "Colombian National Indicted in Scheme to Defraud Victims of Ransomware Attacks",
+   "snippet": "A federal grand jury in the District of Rhode Island returned an indictment charging Juan Ricardo Palacio Escobar, 52, a Colombian national, with defrauding individuals and companies who were victims of ransomware attacks.",
+   "url": "https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-25T12:00+00:00",
+   "topic": "false_claims",
+   "tags": [
+    "false_claims",
+    "cybersecurity",
+    "enforcement"
+   ],
+   "score": 10.99,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "458cfaad4bd2",
+   "title": "Hellenic DPA fines Teleperformance Greece EUR 100 000 for GDPR breaches",
+   "snippet": "Background information Date of final decision: 05/10/2026 National case Controller: TELEPERFORMANCE GREECE Legal References: Articles 5 (Principles relating to processing of personal data), 12 (Transparent information, communication and modalities for the exercise of the rights…",
+   "url": "https://www.edpb.europa.eu/news/hellenic-dpa-fines-teleperformance-greece-eur-100-000-for-gdpr-breaches_en",
+   "paywall_url": "",
+   "source": "European Data Protection Board",
+   "source_id": "edpb",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-25T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement",
+    "privacy"
+   ],
+   "score": 10.02,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg/1280px-Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rue_de_la_Loi,_European_Quarter_in_Brussels_during_civil_twilight_(DSCF6957).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Rue de la Loi, European Quarter in Brussels during civil twilight (DSCF6957).jpg"
+   }
+  },
+  {
+   "id": "5c2ce832dc49",
+   "title": "Peruvian National Extradited for Overseeing a Transnational Scheme to Impersonate Government Officials and Defraud U.S. Consumers",
+   "snippet": "Karount Jannet Toledo Vazquez, 49, of Lima, Peru, was extradited to the United States and made her initial appearance in Miami federal court to face charges for her role in operating a large fraud and extortion scheme. Toledo was arrested on Oct. 21 by Peruvian authorities…",
+   "url": "https://www.justice.gov/opa/pr/peruvian-national-extradited-overseeing-transnational-scheme-impersonate-government",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-24T12:00+00:00",
+   "topic": "false_claims",
+   "tags": [
+    "false_claims",
+    "enforcement"
+   ],
+   "score": 9.65,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "d835e041e3d8",
+   "title": "Department of Justice Announces Nearly $150 Million to Hire Over 1,000 Law Enforcement Officers and Deputies",
+   "snippet": "Through the Office of Community Oriented Policing Services (COPS Office), the Department of Justice today announced it has awarded nearly $150 million under the 2026 COPS Hiring Program (CHP). CHP is a competitive grant program that provides funding directly to state, local,…",
+   "url": "https://www.justice.gov/opa/pr/department-justice-announces-nearly-150-million-hire-over-1000-law-enforcement-officers-and",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 8.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Plato inscription - 2714.jpg"
+   }
+  },
+  {
+   "id": "9a0b4d21fdd5",
+   "title": "THE HACK: Large AI gigafactories delayed again",
+   "snippet": "In today's edition: AI safety, US tech sanctions, child abuse law",
+   "url": "https://www.rapporteur.com/news/the-hack-large-ai-gigafactories-delayed-again/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-26T08:30+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity",
+    "aml_sanctions"
+   ],
+   "score": 8.27,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Virginia_Tech_-_data_center.jpg/1280px-Virginia_Tech_-_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christopher Bowns",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Virginia Tech - data center.jpg"
+   }
+  },
+  {
+   "id": "2f3254bb7bbd",
+   "title": "Outdated security rules hinder NATO’s military AI, commander says",
+   "snippet": "AI can improve interoperability by linking different military systems, a senior NATO commander says",
+   "url": "https://www.rapporteur.com/news/outdated-security-rules-hold-back-natos-military-ai/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-26T03:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 7.04,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1280px-Data_center_roof.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Rsparks3",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Data center roof.jpg"
+   }
+  },
+  {
+   "id": "87885aadb3c3",
+   "title": "FIREPOWER: ECF governance to be key in trilogues",
+   "snippet": "In today's edition: Black Sea, NATO AI, defence MFF",
+   "url": "https://www.rapporteur.com/news/firepower-ecf-governance-to-be-key-in-trilogues/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-26T08:41+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "ai_governance"
+   ],
+   "score": 6.62,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   }
+  },
+  {
+   "id": "dd665a774ed4",
+   "title": "EU delays planned AI gigafactories again",
+   "snippet": "It’s at least the fifth setback the project has faced so far",
+   "url": "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T17:07+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.28,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Brazil_data_center_of_the_Wikimedia_Foundation.png/1280px-Brazil_data_center_of_the_Wikimedia_Foundation.png",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Arzhel Younsi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Brazil_data_center_of_the_Wikimedia_Foundation.png",
+    "provider": "Wikimedia Commons",
+    "title": "Brazil data center of the Wikimedia Foundation.png"
+   }
+  },
+  {
+   "id": "e2c0bcce5e21",
+   "title": "Enforce AI nudifier ban, MEPs warn",
+   "snippet": "Lawmakers are demanding that countries enforce the law to protect citizens",
+   "url": "https://www.rapporteur.com/news/enforce-ai-nudifier-ban-meps-warn/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T13:11+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.28,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "768ba8e5f529",
+   "title": "Le reporting de durabilité CSRD : se préparer aux nouvelles obligations",
+   "snippet": "Dossier Finance durable Info périodique & permanente",
+   "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/le-reporting-de-durabilite-csrd-se-preparer-aux-nouvelles-obligations#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-25T07:30+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 4.8,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   }
+  },
+  {
+   "id": "e031dde8b9ec",
+   "title": "Nvidia Hiring for Worst CCO Job Ever",
+   "snippet": "OK, so that happened: Nvidia chose a complete collapse of corporate governance under pressure from a corrupt U.S. president; and brought back a deeply flawed CEO, to run a business with export control issues and opaque accounting practices. Now the company wants to hire a chief…",
+   "url": "https://www.radicalcompliance.com/2026/11/25/nvidia-hiring-for-worst-cco-job-ever/",
+   "paywall_url": "",
+   "source": "Radical Compliance",
+   "source_id": "radical",
+   "region": "US",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T16:19+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "anti_bribery",
+    "aml_sanctions"
+   ],
+   "score": 4.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-01.jpg/1280px-Singapore_Surrender_table%2C_Singapore_History_Gallery%2C_National_Museum_of_Singapore_-_20151125-01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jacklee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Singapore_Surrender_table,_Singapore_History_Gallery,_National_Museum_of_Singapore_-_20151125-01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Singapore Surrender table, Singapore History Gallery, National Museum of Singapore - 20151125-01.jpg"
+   }
+  },
+  {
+   "id": "d05dd471257a",
+   "title": "Daily News 26/ 11/ 2026",
+   "snippet": "European Commission Daily news Brussels, 26 Nov 2026 EU launches Supply Chain Early Warning Network with Trans-Pacific bloc The EU and the members of the Comprehensive and Progressive Agreement for Trans-Pacific P...",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2595",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-26T10:51+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 3.08,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   }
+  },
+  {
+   "id": "ed96e5c08245",
+   "title": "Justice Department Clarifies Lawful Use of Drone Detection Technologies to Protect Americans from Emerging UAS Threats",
+   "snippet": "The Department of Justice today issued an opinion concluding that law enforcement may deploy a broad range of technologies to detect unmanned aircraft systems (“UAS,” commonly called drones) consistent with federal law. The opinion provides critical guidance to federal, state,…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-clarifies-lawful-use-drone-detection-technologies-protect-americans",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-25T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gregory Varnum",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building - Office of AG signage - 2723.jpg"
+   }
+  },
+  {
+   "id": "0cd36717c0ad",
+   "title": "9 Illegal Aliens from Venezuela Sentenced for Roles in Nashville Sex Trafficking Organization as Part of Homeland Security Task Force Initiative",
+   "snippet": "The last of nine illegal aliens from Venezuela were sentenced after they pleaded guilty to human trafficking and alien smuggling charges related to a sex trafficking ring that operated in several motels across Nashville, Tennessee. These defendants were sentenced in the U.S.…",
+   "url": "https://www.justice.gov/opa/pr/9-illegal-aliens-venezuela-sentenced-roles-nashville-sex-trafficking-organization-part",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garrett_County_Courthouse%2C_columns_%2821416552950%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Preservation Maryland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Garrett_County_Courthouse,_columns_(21416552950).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Garrett County Courthouse, columns (21416552950).jpg"
+   }
+  },
+  {
+   "id": "bd4e28f54c1f",
+   "title": "Speech by Commissioner Hoekstra in the European Parliament's Plenary debate on the Outcome of the Antalya UN climate summit (COP 31)",
+   "snippet": "European Commission Speech Strasbourg, 26 Nov 2026 Ladies and gentlemen, Good morning to all of you. In conversations and in negotiations you sometimes arrive at a moment where you simply have to say no. No, bec...",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2593",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-26T10:23+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building (DSCF7542-DSCF7548).jpg"
+   }
+  },
+  {
+   "id": "83cf46342dfb",
+   "title": "From steel to coffee: why Europe needs an integrated climate-trade strategy [Promoted Content]",
+   "snippet": "Europe’s climate and trade tools have not always been coordinated. From Italy’s low-carbon steel to its coffee imports and quality food exports, similar tensions recur. An integrated framework that rewards cleaner production is possible.",
+   "url": "https://www.rapporteur.com/opinion/from-steel-to-coffee-why-europe-needs-an-integrated-climate-trade-strategy/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T15:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "c43bde2bf371",
+   "title": "THE HACK: EU’s quantum grab",
+   "snippet": "In today's edition: AI agents, DMA, spectrum licences",
+   "url": "https://www.rapporteur.com/news/the-hack-eus-quantum-grab/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T06:36+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.54,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "86270d30373d",
+   "title": "Lettre Epargne Info Service n°55 - Novembre 2026",
+   "snippet": "Lettre Epargne Info Service Bien investir Intelligence artificielle Actions Lettre Epargne Info Service n°55 - Novembre 2026",
+   "url": "https://www.amf-france.org/fr/actualites-publications/publications/lettre-epargne-info-service/lettre-epargne-info-service-ndeg55-novembre-2026#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-25T08:26+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 2.2,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Towards_Nanterre_%40_Grande_Arche_%40_La_D%C3%A9fense_%40_Paris_%2835053726941%29.jpg/1280px-Towards_Nanterre_%40_Grande_Arche_%40_La_D%C3%A9fense_%40_Paris_%2835053726941%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Towards_Nanterre_@_Grande_Arche_@_La_D%C3%A9fense_@_Paris_(35053726941).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Towards Nanterre @ Grande Arche @ La Défense @ Paris (35053726941).jpg"
+   }
+  },
+  {
+   "id": "8d03a4567526",
+   "title": "‘This COP did not fail because of climate finance’",
+   "snippet": "The European Commission hits back at criticism of EU funding after COP31 collapsed",
+   "url": "https://www.rapporteur.com/news/this-cop-did-not-fail-because-of-climate-finance/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-24T11:44+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "b9b81a437f3d",
+   "title": "THE HACK: Digital tax plan back in play",
+   "snippet": "In today's edition: fibre, Commission cyberattack, media ads",
+   "url": "https://www.rapporteur.com/news/the-hack-digital-tax-plan-back-in-play/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-24T09:25+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 1.92,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Server_Room_%2822397102849%29.jpg/1280px-Server_Room_%2822397102849%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Server_Room_(22397102849).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Server Room (22397102849).jpg"
+   }
+  },
+  {
+   "id": "ef334567b93a",
+   "title": "Which way, Weber Manfred?",
+   "snippet": "Also, in tonight’s edition: Germany and France get financial scolding, carbon scheme gets roasted, and AI agent goes through Ireland.",
+   "url": "https://www.rapporteur.com/news/which-way-weber-manfred/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-24T17:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 1.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Computer%2C_server_room%2C_engineer_Fortepan_76098.jpg/1280px-Computer%2C_server_room%2C_engineer_Fortepan_76098.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "FOTO:Fortepan — ID 76098 : Adományozó/Donor: Erdei Katalin. archive copy at the ",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Computer,_server_room,_engineer_Fortepan_76098.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Computer, server room, engineer Fortepan 76098.jpg"
+   }
+  },
+  {
+   "id": "d4bb98af80b2",
+   "title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
+   "snippet": "Le ministère de l’Éducation nationale et la CNIL organisent le concours Trophées des classes dont la thématique, pour cette édition 2027, est&nbsp;: «&nbsp;Comment je sécurise mes données personnelles en ligne&nbsp;?&nbsp;».",
+   "url": "https://www.cnil.fr/fr/trophees-des-classes-2027",
+   "paywall_url": "",
+   "source": "CNIL (France)",
+   "source_id": "cnil-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-23T12:00+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 1.17,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Skyline_in_Paris%2C_12_July_2017.jpg/1280px-Skyline_in_Paris%2C_12_July_2017.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christer Gundersen",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_in_Paris,_12_July_2017.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Skyline in Paris, 12 July 2017.jpg"
+   }
+  },
+  {
+   "id": "611964d370c0",
+   "title": "AP: Gemeenten, wijs bedreigde mensen op de mogelijkheid van een briefadres",
+   "snippet": "Wanneer door een datalek woonadressen bekend worden, is dat extra gevaarlijk voor mensen die worden bedreigd, gestalkt of die te maken hebben (gehad) met huiselijk geweld en zijn gevlucht. Op de Internationale Dag tegen Geweld tegen Vrouwen roept de Autoriteit Persoonsgegevens…",
+   "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-gemeenten-wijs-bedreigde-mensen-op-de-mogelijkheid-van-een-briefadres",
+   "paywall_url": "",
+   "source": "Autoriteit Persoonsgegevens (NL)",
+   "source_id": "ap-nl",
+   "region": "EU",
+   "lang": "nl",
+   "tier": "official",
+   "published": "2026-11-25T08:30+00:00",
+   "topic": "privacy",
+   "tags": [
+    "privacy"
+   ],
+   "score": 1.17,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Padlock_with_chain.jpg/1280px-Padlock_with_chain.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lacz02",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Padlock_with_chain.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Padlock with chain.jpg"
+   }
+  },
+  {
+   "id": "cb33e4b4df5a",
+   "title": "US pushes to kill shipping CO2 levy despite EU pressure",
+   "snippet": "Washington aims to to kill global shipping climate deal for good, IMO diplomats suggest",
+   "url": "https://www.rapporteur.com/news/us-pushes-to-kill-shipping-co2-levy-despite-eu-pressure/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T12:28+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 0.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barn_wind_turbines_0504.jpg/1280px-Barn_wind_turbines_0504.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dori",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Barn wind turbines 0504.jpg"
+   }
+  },
+  {
+   "id": "2800f3caa0dc",
+   "title": "ProPhase Entities Say Whistleblower Suit Lacks False Claims",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pUnBmNG1EaXo3U2NCMEdwamhyX0NYM3ZWQ2NEdWI5aWhQdjZtUUJveFhOUEZoRmJOZnF2bmJWd3JKUHl4czB4ZHJNek1tSEg4Y0lmSFdn0gFWQVVfeXFMTmlScGY0bURpejdTY0IwR3BqaHJfQ1gzdlZDY0R1YjlpaFB2Nm1RQm94WE5QRmhGYk5mcXZuYlZ3ckpQeXhzMHhkck16TW1ISDhjSWZIV2c?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-26T00:22+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing",
+    "false_claims"
+   ],
+   "score": 15.36,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "2424eb536076",
+   "title": "Oil rig maker avoids US prosecution for Mexico bribery scheme",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-anti-corruption/article/oil-rig-maker-avoids-us-prosecution-mexico-bribery-scheme",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-24T16:53+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery",
+    "enforcement",
+    "third_party_risk"
+   ],
+   "score": 9.86,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "07c43d815500",
+   "title": "EU Seeks to Fine Bulgaria On Deficit Months After Euro Entry",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWtxb3R2d0djY3Z5WmtNSVVvWGZETzRQRjQ1UmFOT2o2VDl5TXNqWkxZQ2FvZXByV3VfYXRUMzZ3V2xRYWRDV3VETmtld0Z4VVdpdElxRVZwQUhSQ2F2R3FhU1RneDdGUjhQQUNySk12OXRkTmVHNDFZQTVMY1BWUDBEb3BnREJHRXVWb3pQUUJUM0Q2S2RRdGlUVTNXS2lUZHBoaXF4NktOaEJEWm5SUV9qRQ?oc=5",
+   "source": "Bloomberg.com",
+   "source_id": "gn-eu",
+   "region": "EU",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-24T15:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 9.6,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "e0c111379c34",
+   "title": "The cross-border consequences are not over for an unravelling Brazilian corruption case",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/the-cross-border-consequences-are-not-over-unravelling-brazilian-corruption-case",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-23T11:00+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery",
+    "enforcement"
+   ],
+   "score": 8.04,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "28f4de319973",
+   "title": "The GIR Insight Sanctions Roundtable",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/the-gir-insight-sanctions-roundtable",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-26T09:00+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1618369e1ebb",
+   "title": "NCA targets fourth person linked to Singapore money laundering case",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/article/nca-targets-fourth-person-linked-singapore-money-laundering-case",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-23T17:30+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1029fab5a02a",
+   "title": "Enhanced AML/CFT regimes lift Monaco, Bulgaria, Côte d’Ivoire and the DRC off FATF ‘grey’ list",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/africa/enhanced-aml-cft-regimes-lift-monaco-bulgaria-cote-divoire-and-the-drc-off-fatf-grey-list/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-25T01:15+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions"
+   ],
+   "score": 8.0,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}

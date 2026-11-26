@@ -13973,5 +13973,72 @@
     "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
    }
   }
+ ],
+ "v2|european quarter brussels buildings": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg/1280px-Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rue_de_la_Loi,_European_Quarter_in_Brussels_during_civil_twilight_(DSCF6957).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Rue de la Loi, European Quarter in Brussels during civil twilight (DSCF6957).jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/European_Quarter_of_Brussels_%284257730091%29.jpg/1280px-European_Quarter_of_Brussels_%284257730091%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "William Murphy from Dublin, Ireland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Quarter_of_Brussels_(4257730091).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Quarter of Brussels (4257730091).jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/European_Quarter_%40_Brussels_%288177581679%29.jpg/1280px-European_Quarter_%40_Brussels_%288177581679%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Guilhem Vellut from Annecy, France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Quarter_@_Brussels_(8177581679).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Quarter @ Brussels (8177581679).jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/European_Quarter_of_Brussels_%284257851498%29.jpg/1280px-European_Quarter_of_Brussels_%284257851498%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "William Murphy from Dublin, Ireland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Quarter_of_Brussels_(4257851498).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Quarter of Brussels (4257851498).jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/European_Quarter_of_Brussels_%284258492770%29.jpg/1280px-European_Quarter_of_Brussels_%284258492770%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "William Murphy from Dublin, Ireland",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Quarter_of_Brussels_(4258492770).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Quarter of Brussels (4258492770).jpg"
+   }
+  }
  ]
 }
