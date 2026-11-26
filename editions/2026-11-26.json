@@ -1,0 +1,330 @@
+{
+ "date": "2026-11-26",
+ "lead_id": "e031dde8b9ec",
+ "editor_note": "A quiet Thanksgiving edition centred on accountability: Nvidia seeks a compliance chief after reinstating its CEO, a harassment settlement punishes ignored complaints, and European and UK regulators press on AI fraud, vendors and supply chains.",
+ "bottom_line": [
+  {
+   "id": "e031dde8b9ec",
+   "text": "Nvidia is hiring a chief compliance officer after reinstating its CEO, with export-control questions still unresolved."
+  },
+  {
+   "id": "bd4d1ecb0fd2",
+   "text": "An Indiana restaurant pays $42,000 and must reform policies and training to settle an EEOC sexual harassment suit."
+  },
+  {
+   "id": "83aea1af140f",
+   "text": "FCA research shows AI-linked investment fraud reports up nearly 400%, with a third of UK adults seeing AI-driven promotions."
+  }
+ ],
+ "stat": {
+  "id": "83aea1af140f",
+  "text": "Nearly 400%: the rise in UK investment-fraud reports to Report Fraud that mention suspected use of AI, per new FCA research."
+ },
+ "podcast_brief": "## The day in one line\n\nThanksgiving brings a thin news day, but the stories that did land share one thread: who is accountable when conduct goes wrong. Nvidia is looking for a chief compliance officer days after reinstating its chief executive, a small Indiana restaurant pays to settle a harassment case its owners allegedly ignored, and regulators in the UK and Europe press harder on AI-driven fraud, outsourced data handling and supply-chain shocks.\n\n## Story 1 — Nvidia goes looking for a chief compliance officer after reinstating its CEO\n\n**The facts.**\n- Radical Compliance, a compliance commentary site run by Matt Kelly, published a pointed piece on November 25 noting that Nvidia is now hiring a chief compliance officer, and calling it the hardest compliance job in corporate America.\n- The piece argues that Nvidia's board gave way under pressure from the US administration when it brought Jensen Huang back as chief executive, and that whoever takes the compliance role inherits a business with export-control problems and accounting practices the author describes as opaque. Those are the author's opinions, not findings by any regulator.\n- Nvidia announced Huang's reinstatement as chief executive and president on November 23, effective immediately, in a release also filed with the SEC. Press coverage, including CNBC and NBC News, reported that the shares jumped sharply and that US government input played a part in the board's decision.\n- Before the hire, Nvidia did not have a chief compliance officer at all. Its 2026 proxy statement said so plainly, according to Fortune. Compliance ran through an enterprise risk process reviewed by the chief executive, with the chief financial officer, the head of operations and the general counsel reporting into it, and board oversight of trade compliance sitting with the nominating and corporate governance committee.\n\n**Background.**\n- Huang stepped down in mid-November amid two overlapping problems. The first is an export-control question: whether advanced Nvidia chips supplied through Megaspeed, a Singapore-based partner, ended up in China. Investigations into that are described as ongoing. The second is a set of reports about Huang's personal relationship with a former Megaspeed executive. Huang has acknowledged infidelity; reports that US authorities examined her possible ties to Chinese intelligence remain unproven.\n- While Huang was out, chief financial officer Colette Kress served as interim chief executive and took on export compliance directly. Treasury Secretary Scott Bessent publicly questioned whether any violations were isolated or reached senior management.\n- The board has also set up a dedicated National Security and Export Control Oversight Committee. Senator Elizabeth Warren had already written to the company's general counsel and audit committee chair in June about export-control oversight.\n- This paper has followed the board inquiry as a running storyline; today's story is the next chapter: what the compliance function looks like after the leadership question was settled in the chief executive's favour.\n\n**What it does not change.**\n- The reinstatement does not end the export-control investigations, which remain open.\n- No regulator has made findings against Nvidia or Huang on the diversion questions.\n\n**Who's affected.**\n- Semiconductor and wider technology companies that depend on export licences and on distributors in Southeast Asia.\n- Boards and nominating committees weighing how much independence a compliance chief needs when the chief executive's own conduct was part of the problem.\n- Compliance officers themselves, since the role's reporting line, budget and access to the board will be watched closely.\n\n**Why it matters.** Nvidia is one of the most valuable companies in the world, and for years it operated without a dedicated compliance chief. Creating the role in the middle of an export-control inquiry, right after the board reversed itself on its chief executive, puts a spotlight on the question every compliance programme eventually faces: whether the function can challenge the most powerful person in the building. How Nvidia structures the job, and who takes it, will be read as a signal of whether the reform is substantive or cosmetic.\n\n**How this comes up with a GC or CLO.** Legal leaders are likely to raise Nvidia as the cautionary tale of the season: a company with sprawling third-party distribution, no named compliance chief and a governance crisis that ended with outside political pressure. Expect it in conversations about compliance reporting lines, whether the chief compliance officer reports to the board or the general counsel, and how distributor due diligence catches diversion.\n\n**Questions a buyer might ask.**\n- If our chief compliance officer had concerns about the chief executive, what path to the board would they actually use?\n- How would we know if a distributor in a high-risk region was diverting controlled products?\n- What does a regulator expect to see when a company creates a compliance role in response to an investigation?\n\n## Story 2 — Indiana taco restaurant pays $42,000 to settle EEOC sexual harassment suit\n\n**The facts.**\n- Bossman Tacos, LLC, which runs Boss Man Tacos in Highland, Indiana, has agreed to pay $42,000 and make significant policy and training changes to settle a sexual harassment lawsuit brought by the US Equal Employment Opportunity Commission. The EEOC announced the settlement on November 25.\n- The case was filed in the US District Court for the Northern District of Indiana, Hammond Division, under Title VII of the Civil Rights Act, after the agency failed to resolve it through its pre-litigation conciliation process.\n\n**Background.**\n- The EEOC announced the suit in July 2025. It alleged that since at least November 2021 the restaurant knew its head chef and other male cooks were sexually harassing female servers, some of them teenagers, and let it continue.\n- The alleged conduct included trapping women in restrooms and walk-in refrigerators, unwanted touching, propositions and sexual comments. Some employees quit.\n- According to trade press coverage of the complaint, the owners allegedly brushed off repeated complaints. One owner allegedly described it as typical behaviour for teenage boys, even though the alleged harassers were adult men.\n- The settlement amount is modest, but the case belongs to a steady run of EEOC harassment actions against small hospitality employers, often involving young workers.\n\n**Who's affected.**\n- Restaurants, retail and hospitality businesses with young, part-time workforces and thin management layers.\n- Any employer where complaints go to an owner or manager who is close to the people accused.\n\n**Why it matters.** The core failure alleged here is not the harassment alone but the response: complaints reached the owners and nothing happened. That is the pattern the EEOC repeatedly targets, and the required policy and training reforms show that the agency uses settlements to impose programme changes, not just payments. Even a $42,000 case carries the reputational cost of a federal press release.\n\n**How this comes up with a GC or CLO.** Employment counsel will see this as a clean example of why an internal complaint channel only works if someone acts on what comes through it. It tends to surface in conversations about frontline workforces that have no HR team on site and no confidential way to report.\n\n**Questions a buyer might ask.**\n- If a teenage employee wanted to report a manager, who would they tell, and would it reach anyone independent?\n- How do we show a regulator that complaints were investigated, not just received?\n\n## Story 3 — FCA warns AI scams are rising as a third of UK adults report seeing AI-driven investment promotions\n\n**The facts.**\n- The Financial Conduct Authority published new consumer research showing that 33% of UK adults say they saw an investment promotion in the past year that they believe used artificial intelligence.\n- The regulator also said that reports of investment fraud made to Report Fraud, the UK's national fraud reporting service, that mention suspected use of AI have risen by nearly 400%.\n- The FCA used the findings to urge people to check that a firm is authorised before investing, pointing them to its register and ScamSmart tools.\n\n**Background.**\n- The release builds on earlier FCA research this year showing that younger investors increasingly trust AI tools for investment information, sometimes more than traditional media or celebrities, while understanding little about which firms are regulated.\n- Deepfake videos of well-known figures and AI-generated adverts on social media have become a staple of investment scams, and UK banks and consumer groups have been warning about them for months.\n\n**Who's affected.**\n- Banks, investment platforms and payment firms, which bear reimbursement costs and reputational damage from authorised push payment fraud.\n- Online platforms that host paid promotions.\n- Legitimate firms whose names and brands are cloned by scammers.\n\n**Why it matters.** A near fourfold rise in AI-linked fraud reports is a hard number that shows how quickly generative tools have lowered the cost of convincing scams. For regulated firms the issue is two-sided: their customers are targets, and their own brands and staff are being impersonated. It also feeds the wider policy debate in the UK over how much responsibility tech platforms should carry for fraudulent adverts.\n\n**How this comes up with a GC or CLO.** In financial services, legal and compliance leaders are likely to bring this up when talking about fraud-prevention duties, clone-firm takedowns and the new failure-to-prevent-fraud offence. Outside finance, it comes up as part of the broader worry about deepfakes being used against a company's own executives.\n\n**Questions a buyer might ask.**\n- How would we find out if someone was impersonating our firm or our people in AI-generated promotions?\n- Does the rise in AI-enabled fraud change what regulators expect from our fraud-prevention controls?\n\n## Story 4 — Greek data protection authority fines Teleperformance Greece €100,000\n\n**The facts.** The Hellenic Data Protection Authority fined Teleperformance Greece €100,000 for breaching the GDPR, in a decision dated October 5, 2026 and published by the European Data Protection Board. The breaches cited involve Article 5 on processing principles and Article 12 on transparent information and how people exercise their rights.\n\n**Background.** Teleperformance is one of the largest outsourced customer-service operators in Europe, handling data on behalf of many clients.\n\n**Who's affected.** Companies that outsource call centres and customer support, and the processors themselves.\n\n**Why it matters.** A fine on a major outsourcing provider is a reminder that data handled by a vendor is still the client's exposure, and that transparency and rights-handling failures are enforced, not just breaches.\n\n**How it comes up.** Expect it in vendor-risk discussions about outsourced operations.\n\n**Question.** How much do we know about how our outsourced service providers handle data-subject requests?\n\n## Story 5 — EU and Trans-Pacific partners launch a Supply Chain Early Warning Network\n\n**The facts.** The European Commission announced on November 26 that the EU and the members of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, known as CPTPP, are launching a Supply Chain Early Warning Network.\n\n**Background.** The EU has spent several years building tools to spot supply-chain disruption after pandemic shortages and export restrictions on critical materials.\n\n**Who's affected.** Manufacturers, energy companies and anyone sourcing critical inputs from the Asia-Pacific region.\n\n**Why it matters.** Governments are formalising information-sharing on supply shocks, which signals that supply-chain resilience is now treated as a trade and security question, not only a procurement one.\n\n**How it comes up.** It tends to surface in third-party risk conversations about concentration and single points of failure.\n\n**Question.** Would we hear about a disruption at a critical supplier before it hit us?\n\n## Story 6 — MEPs press member states to enforce the AI nudifier ban\n\n**The facts.** Members of the European Parliament are calling on EU countries to enforce the law against AI \"nudifier\" tools, which generate fake sexual images, to protect citizens, Euractiv reported.\n\n**Background.** The lawmakers' point is that a legal ban already exists; their complaint is about enforcement by national authorities.\n\n**Who's affected.** AI developers, app stores, online platforms and hosting providers.\n\n**Why it matters.** Pressure from lawmakers often precedes enforcement action, and AI misuse is moving from a policy theme to an enforcement priority.\n\n**How it comes up.** As an example of AI misuse that legal teams at tech companies are expected to police.\n\n**Question.** How would we know if our platform or models were being used for this?\n\n## Story 7 — Colombian national indicted for defrauding ransomware victims\n\n**The facts.** A federal grand jury in Rhode Island indicted Juan Ricardo Palacio Escobar, 52, a Colombian national, on charges of defrauding individuals and companies that had already been hit by ransomware attacks.\n\n**Background.** Victims of cyberattacks are often targeted a second time by people posing as recovery specialists or negotiators.\n\n**Who's affected.** Any company responding to a ransomware incident, and its insurers and advisers.\n\n**Why it matters.** It shows that the period right after an attack is itself a fraud risk, when pressure is high and verification is weak.\n\n**How it comes up.** In incident-response planning and vendor vetting during a crisis.\n\n**Question.** How do we vet a third party that offers help in the middle of an incident?\n\n## Story 8 — Dutch privacy regulator urges councils to tell threatened people about postal addresses\n\n**The facts.** On the International Day for the Elimination of Violence against Women, the Dutch data protection authority, the Autoriteit Persoonsgegevens, called on municipalities to tell people who are threatened, stalked or have fled domestic violence that they can register a postal address instead of their home address.\n\n**Background.** The regulator warned that when home addresses leak in a data breach, the danger is greatest for these groups.\n\n**Who's affected.** Public bodies and any organisation holding home-address data.\n\n**Why it matters.** It frames data breaches as a safety issue, not just a compliance one, which shapes how regulators judge the harm.\n\n**How it comes up.** When privacy teams rank which data is most sensitive.\n\n**Question.** Do we treat employee home addresses as high-risk data?\n\n## Story 9 — France's AMF publishes guidance on preparing for CSRD sustainability reporting\n\n**The facts.** France's markets regulator, the AMF, published a dossier on CSRD sustainability reporting to help companies prepare for the new obligations.\n\n**Background.** The EU's Corporate Sustainability Reporting Directive has been scaled back and delayed for many companies, leaving uncertainty about who must report and when.\n\n**Who's affected.** Listed companies and large groups with French or EU operations.\n\n**Why it matters.** National regulators are still issuing practical guidance, a sign that reporting obligations remain live despite the EU's simplification push.\n\n**How it comes up.** In conversations about ESG disclosure controls and who owns the data.\n\n**Question.** Which of our EU entities are still in scope after the changes?\n",
+ "cards": [
+  {
+   "id": "e031dde8b9ec",
+   "url": "https://www.radicalcompliance.com/2026/11/25/nvidia-hiring-for-worst-cco-job-ever/",
+   "source": "Radical Compliance",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-25T16:19+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Nvidia_sign.jpg/1280px-Nvidia_sign.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Will Buckner",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nvidia_sign.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Nvidia sign.jpg"
+   },
+   "tier": "press",
+   "topic": "governance",
+   "kind": "link",
+   "title": "Nvidia Hiring for Worst CCO Job Ever",
+   "summary": "Commentary argues Nvidia's board gave way to political pressure in bringing back its chief executive, and that the company now seeks a chief compliance officer to oversee a business with export-control issues and opaque accounting.",
+   "impact": "A newly created compliance chief role at one of the world's most valuable companies tests whether compliance can hold real independence from a reinstated, powerful chief executive.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "analysis",
+   "image_query": "Nvidia headquarters Santa Clara",
+   "storyline": "nvidia-ceo-board-probe"
+  },
+  {
+   "id": "bd4d1ecb0fd2",
+   "url": "https://www.eeoc.gov/newsroom/boss-man-tacos-pay-42000-eeoc-sexual-harassment-suit",
+   "source": "U.S. EEOC",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-25T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Street_to_Kitchen_interior.jpg/1280px-Street_to_Kitchen_interior.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Valereee",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Street_to_Kitchen_interior.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Street to Kitchen interior.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "Boss Man Tacos to Pay $42,000 in EEOC Sexual Harassment Suit",
+   "summary": "Bossman Tacos, which operates Boss Man Tacos in Highland, Indiana, agreed to pay $42,000 and implement significant policy and training reforms to settle a federal sexual harassment lawsuit brought by the EEOC.",
+   "impact": "EEOC settlements routinely impose programme reforms alongside payments, keeping complaint handling and harassment training at small frontline employers under federal scrutiny.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "restaurant kitchen interior"
+  },
+  {
+   "id": "83aea1af140f",
+   "url": "https://www.fca.org.uk/news/press-releases/check-firm-you-invest-fca-warns-ai-scams-rise",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/London%2C_Canary_Wharf_--_2016_--_4752.jpg/1280px-London%2C_Canary_Wharf_--_2016_--_4752.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:London,_Canary_Wharf_--_2016_--_4752.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "London, Canary Wharf -- 2016 -- 4752.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Check the firm before you invest, FCA warns, as AI scams rise",
+   "summary": "New FCA research finds a third of UK adults saw an investment promotion in the past year they believe used AI, while investment fraud reports to Report Fraud mentioning suspected AI rose by nearly 400%.",
+   "impact": "A near fourfold rise in AI-linked fraud reports raises the stakes for firms' fraud-prevention controls and for brands cloned in AI-generated scam promotions.",
+   "industries": [
+    "financial_services",
+    "tech"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Canary Wharf office towers London"
+  },
+  {
+   "id": "458cfaad4bd2",
+   "url": "https://www.edpb.europa.eu/news/hellenic-dpa-fines-teleperformance-greece-eur-100-000-for-gdpr-breaches_en",
+   "source": "European Data Protection Board",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-25T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Haning_Hall.jpg/1280px-Haning_Hall.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jaknouse",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Haning_Hall.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Haning Hall.jpg"
+   },
+   "tier": "official",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "Hellenic DPA fines Teleperformance Greece EUR 100,000 for GDPR breaches",
+   "summary": "Greece's data protection authority fined Teleperformance Greece €100,000 for breaching GDPR principles and transparency and data-subject rights rules, in a final decision dated 5 October 2026.",
+   "impact": "Enforcement against a major outsourced customer-service provider keeps vendor data handling, and rights-request processes run by third parties, on the regulatory radar.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Athens office buildings"
+  },
+  {
+   "id": "d05dd471257a",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2595",
+   "source": "European Commission",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-26T10:51+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Container_ship_NYK_Themis_at_the_Port_of_Los_Angeles.jpg/1280px-Container_ship_NYK_Themis_at_the_Port_of_Los_Angeles.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Downtowngal",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Container_ship_NYK_Themis_at_the_Port_of_Los_Angeles.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Container ship NYK Themis at the Port of Los Angeles.jpg"
+   },
+   "tier": "official",
+   "topic": "third_party_risk",
+   "kind": "link",
+   "title": "EU launches Supply Chain Early Warning Network with Trans-Pacific bloc",
+   "summary": "The European Commission announced that the EU and members of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership are launching a Supply Chain Early Warning Network.",
+   "impact": "Formal government information-sharing on supply shocks signals that supply-chain resilience is now treated as a trade and security matter, not only a procurement issue.",
+   "industries": [
+    "manufacturing_energy",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "container ship port cranes"
+  },
+  {
+   "id": "e2c0bcce5e21",
+   "url": "https://www.rapporteur.com/news/enforce-ai-nudifier-ban-meps-warn/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-25T13:11+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "European Parliament Strasbourg Hemicycle - Diliff.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Enforce AI nudifier ban, MEPs warn",
+   "summary": "Members of the European Parliament are demanding that EU countries enforce the law against AI nudifier tools to protect citizens.",
+   "impact": "Lawmaker pressure on national enforcement marks AI misuse shifting from a policy theme to an enforcement priority for technology companies and platforms.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "proposal",
+   "image_query": "European Parliament Strasbourg hemicycle"
+  },
+  {
+   "id": "e074059d8a2c",
+   "url": "https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
+   "source": "U.S. Department of Justice",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-25T12:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   },
+   "tier": "official",
+   "topic": "cybersecurity",
+   "kind": "link",
+   "title": "Colombian National Indicted in Scheme to Defraud Victims of Ransomware Attacks",
+   "summary": "A federal grand jury in Rhode Island indicted Juan Ricardo Palacio Escobar, 52, a Colombian national, on charges of defrauding individuals and companies that had been victims of ransomware attacks.",
+   "impact": "The case shows the aftermath of a cyberattack is itself a fraud exposure, when companies under pressure deal with unfamiliar third parties offering help.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "analyst",
+    "cco"
+   ],
+   "item_type": "enforcement",
+   "image_query": "server room data center"
+  },
+  {
+   "id": "611964d370c0",
+   "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-gemeenten-wijs-bedreigde-mensen-op-de-mogelijkheid-van-een-briefadres",
+   "source": "Autoriteit Persoonsgegevens (NL)",
+   "region": "EU",
+   "lang": "nl",
+   "published": "2026-11-25T08:30+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/The_Hague_City_Hall_2019.jpg/1280px-The_Hague_City_Hall_2019.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Steven Lek",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Hague_City_Hall_2019.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "The Hague City Hall 2019.jpg"
+   },
+   "tier": "official",
+   "topic": "privacy",
+   "kind": "link",
+   "title": "Dutch privacy regulator urges municipalities to tell threatened people about the option of a postal address",
+   "summary": "Marking the day against violence against women, the Dutch data protection authority urged municipalities to tell people who are threatened, stalked or fleeing domestic violence they can use a postal address, as leaked home addresses endanger them.",
+   "impact": "Regulators increasingly frame data breaches as a physical-safety harm, raising the weight attached to leaks of home-address data.",
+   "industries": [
+    "public_sector",
+    "all"
+   ],
+   "personas": [
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "The Hague city hall"
+  },
+  {
+   "id": "768ba8e5f529",
+   "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/le-reporting-de-durabilite-csrd-se-preparer-aux-nouvelles-obligations#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "source": "AMF (France)",
+   "region": "EU",
+   "lang": "fr",
+   "published": "2026-11-25T07:30+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   },
+   "tier": "official",
+   "topic": "esg",
+   "kind": "link",
+   "title": "CSRD sustainability reporting: preparing for the new obligations",
+   "summary": "France's markets regulator AMF published a sustainable-finance dossier on CSRD sustainability reporting and preparing for the new periodic and ongoing disclosure obligations.",
+   "impact": "Continued national guidance shows CSRD reporting duties remain live for in-scope companies despite the EU's simplification push.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "analyst"
+   ],
+   "item_type": "rule",
+   "image_query": "La Défense business district Paris"
+  }
+ ],
+ "briefings": {}
+}
