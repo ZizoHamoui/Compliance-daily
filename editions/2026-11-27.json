@@ -1,0 +1,254 @@
+{
+ "date": "2026-11-27",
+ "lead_id": "8d04631f6070",
+ "editor_note": "A quiet holiday-week edition: the UK moves to shield whistleblowers and journalists from abusive lawsuits, banks get a shared route for vetting vendors, and Europe grapples with who writes AI rules and how AI is misused.",
+ "bottom_line": [
+  {
+   "id": "8d04631f6070",
+   "text": "The UK Government is backing legislation to protect whistleblowers, journalists and campaigners from abusive lawsuits designed to silence scrutiny."
+  },
+  {
+   "id": "8d6e6e67812f",
+   "text": "Bank and fintech groups launched T-PASC to create reusable third-party risk assessments; the FDIC and state supervisors will observe, not certify."
+  },
+  {
+   "id": "bdf9835db087",
+   "text": "The European Ombudsman pressed the Commission for more transparency in standards-writing after complaints about industry's role in AI Act standards."
+  }
+ ],
+ "podcast_brief": "## The day in one line\n\nIt is a short, holiday-week edition, but its threads are familiar ones: who gets protected when they speak up, who carries the risk when work is handed to outside vendors, and who gets to write the rules for artificial intelligence. The UK leads with new backing for laws against abusive lawsuits, U.S. banks get a shared route for vetting technology providers, and Europe faces questions about both AI standards and AI misuse.\n\n## Story 1 — New UK protections to stop powerful figures silencing scrutiny\n\n**The facts.**\n- On Friday 27 November 2026 the UK Government announced that it is backing new legislation aimed at what are widely known as SLAPPs, short for strategic lawsuits against public participation.\n- The Government says the legislation will better protect victims of abuse, campaigners, whistleblowers, journalists and academics from powerful individuals who use abusive legal action to silence scrutiny.\n- The announcement puts whistleblowers explicitly on the list of people the law is meant to shield, alongside the journalists and researchers who have usually been the focus of the SLAPP debate.\n- The detailed mechanics, such as how courts will identify an abusive claim, what early-dismissal tests apply and what costs protection is offered, are not set out in the announcement summary available to us, so those specifics should be treated as still to be confirmed as the bill's text and debates are published.\n- Coverage in the UK press described the move as ministers backing a crackdown on lawsuits aimed at intimidating critics, with at least one outlet noting warnings that the bill still needs more work.\n\n**Background.**\n- A SLAPP is a lawsuit, often for defamation or privacy, whose real purpose is not to win but to drain, scare and silence the person on the other side through cost, delay and stress. The classic target is a journalist or a campaigner, but the same tactic can be aimed at an employee or former employee who has raised concerns publicly.\n- The UK took a first step in 2023. The Economic Crime and Corporate Transparency Act introduced an early-dismissal mechanism and costs protection for SLAPPs, but only where the subject matter relates to economic crime. Critics argued that left out a large share of the cases that matter, including claims aimed at people speaking about abuse, harassment or misconduct that is not financial crime.\n- In 2024 the previous Government backed a private member's bill to extend protection more widely, but it did not complete its passage before Parliament was dissolved for the general election.\n- Campaign groups kept up pressure, and in 2026 private members' bills on the subject returned to Parliament. Today's announcement is the Government putting its weight behind broader legislation.\n- The European Union has moved in parallel. Its anti-SLAPP directive, adopted in 2024, covers cross-border cases and required member states to transpose it by May 2026, and the Council of Europe has issued its own recommendation. The UK step brings it closer to that wider European direction.\n\n**What it does not change.**\n- The announcement does not, on what we have seen, change UK whistleblowing law itself, which remains centred on the protected-disclosure rules in employment law.\n- It does not stop genuine legal claims. The whole design challenge of anti-SLAPP law is to filter out abusive claims while leaving legitimate defamation and privacy cases intact.\n\n**Who's affected.**\n- Whistleblowers, journalists, academics, campaigners and survivors of abuse who speak publicly about powerful people or organisations.\n- Companies and wealthy individuals who are criticised in public, and the law firms that advise them on reputation and litigation strategy.\n- General counsel and litigation teams, who decide whether and how to respond to public criticism, including criticism from current or former staff.\n- Compliance and ethics teams, whose speak-up programmes sit right next to this issue: if a concern is not handled well internally, it is more likely to surface externally.\n\n**Why it matters.** The speak-up conversation has mostly focused on the moment a concern is raised and on retaliation inside the workplace. SLAPPs are a different kind of pressure, applied in court and often after someone has gone public. Naming whistleblowers in this announcement signals that the UK sees aggressive litigation as part of the retaliation picture, not just a media-freedom issue. For organisations, it raises the reputational and legal cost of treating a lawsuit as a way to make criticism go away, and it adds weight to the argument that a credible internal channel is the better place for concerns to land.\n\n**How this comes up with a GC or CLO.** A general counsel is likely to see this through the lens of litigation strategy and reputation: what happens if a legal response to a critic is later labelled a SLAPP, and how that looks to a court, a regulator and the press. A chief compliance officer is more likely to connect it to the speak-up programme and to the UK's wider whistleblowing reform debate, where the question is whether people trust internal channels enough to use them first.\n\n**Questions a buyer might ask.**\n- How would a court decide whether a claim against a former employee who went public is abusive?\n- Does this sit alongside the 2023 economic-crime SLAPP rules or replace them?\n- How does the UK approach compare with the EU anti-SLAPP directive for a group operating in both?\n\n## Story 2 — Banks and fintechs launch shared standards council for third-party risk reviews\n\n**The facts.**\n- On 24 November 2026 three trade groups, the Independent Community Bankers of America, the American Fintech Council and the Financial Technology Association, announced a new non-profit called the Third-Party Assessments and Standards Council, or T-PASC.\n- Its aim is one common, voluntary set of third-party risk management standards for insured banks and the technology firms that serve them. A provider would be assessed independently once, and many banks could rely on the same result.\n- A provider would need a fresh assessment after a material change in its business or operations. The standards are to be made public once written.\n- The interim chief executive is Kayce Seifert, described in the announcement as a former FDIC regulatory attorney. Further announcements are expected in 2027.\n- The FDIC and the Conference of State Bank Supervisors said the same day that they would join as observers.\n\n**Background.**\n- Banks are expected to vet the vendors they rely on, and the founders say the current model, in which each bank separately reviews the same provider, is duplicative and weighs most on small community banks.\n- The FDIC had earlier floated the idea of an industry standards body for bank and fintech partnerships, and the federal banking agencies proposed revised third-party risk guidance in September 2026.\n\n**Who's affected.**\n- Banks, especially community banks with lean compliance teams; fintechs and other technology providers that sell to many banks; vendor-risk analysts; examiners.\n\n**Why it matters.** Third-party due diligence is one of the most repetitive tasks in bank compliance. A shared assessment could save time, but according to a Ballard Spahr analysis the regulators will not direct the standards, run assessments or certify anyone, participation is voluntary, and each bank still has to evaluate its own relationship. The model only works if banks and examiners come to trust the rigour of the standards, which remains unproven.\n\n**How this comes up with a GC or CLO.** Compliance leaders at banks are likely to ask how far they can lean on someone else's vendor review without weakening their own accountability. Leaders at fintechs will see it as a possible way to answer one assessment instead of dozens of questionnaires.\n\n**Questions a buyer might ask.**\n- If we rely on a shared assessment, what will examiners still expect us to document ourselves?\n- Who decides what counts as a material change that triggers a reassessment?\n- Will the other federal banking agencies treat these assessments the same way as the FDIC?\n\n## Story 3 — EU Ombudsman asks Commission to make standards-writing more transparent\n\n**The facts.**\n- The European Ombudsman has asked the European Commission to improve the transparency of the way the EU's technical standards are written.\n- The request follows complaints about the industry-led process for drafting the standards that will support the EU AI Act.\n- The precise recommendations and the Commission's response were not available to us, so the detail of what the Ombudsman wants changed should be treated as still to be confirmed.\n\n**Background.**\n- The AI Act sets out broad legal requirements, especially for high-risk AI systems, and relies on so-called harmonised standards to turn them into concrete technical specifications. Companies that follow those standards can benefit from a presumption that they comply with the law.\n- The Commission asked the European standards bodies, CEN and CENELEC, to draft these standards. That work is done in technical committees in which industry experts play a large part, which has drawn criticism from civil-society groups who say the process is hard to follow and tilted towards large companies.\n- The standards have also run behind schedule, which has fed the wider debate in Brussels about the timing of AI Act obligations.\n\n**Who's affected.**\n- Developers and deployers of AI systems in the EU, particularly anyone with high-risk use cases such as hiring, credit or critical services; legal and compliance teams preparing for the AI Act; standards bodies; civil-society groups.\n\n**Why it matters.** For companies, the harmonised standards are where the AI Act becomes practical: they decide what evidence of compliance looks like. Pressure on how those standards are written could affect both their content and their timing, and any perception that they were shaped behind closed doors could weaken their credibility with regulators and courts.\n\n**How this comes up with a GC or CLO.** Legal leaders tracking the AI Act are likely to raise this when asked when the detailed rules will be settled. Compliance analysts may ask whether to build to draft standards now or wait for final versions.\n\n**Questions a buyer might ask.**\n- What happens to our AI Act planning if the harmonised standards are delayed or reopened?\n- Does following the standards still give a presumption of compliance if their drafting is challenged?\n\n## Story 4 — Open-source platform ARTEX adds to AI-boosted cyber threat\n\n**The facts.** ARTEX, an open-source tool for orchestrating AI agents, was reportedly used to hack into EU systems, according to Euractiv. Details of which systems were affected and who was responsible were not in the material available to us.\n\n**Background.** AI agent tools, which chain models together to carry out multi-step tasks, have become widely available, and the same features that make them useful can be turned to automating parts of an attack.\n\n**Who's affected.** Public bodies and companies running EU-facing systems; security, risk and AI governance teams.\n\n**Why it matters.** It is a concrete example of AI misuse that moves the topic from theory to incident, and it links AI governance directly to cyber risk and board oversight.\n\n**How this comes up with a GC or CLO.** Expect it as an example when boards ask how AI risk is being overseen.\n\n**Question a buyer might ask.** Who in our organisation owns the risk of AI tools being used against us, not just by us?\n\n## Story 5 — FCA: building cyber resilience as threats evolve\n\n**The facts.** Mark Francis, director of specialists at the UK Financial Conduct Authority, spoke at the Cyber Security in Financial Services Summit. He said recent months had offered stark reminders of how interconnected the digital economy has become.\n\n**Background.** UK operational-resilience rules for financial firms required them to be able to stay within impact tolerances for important business services by March 2025, and regulators have also been building oversight of critical third parties such as large cloud providers.\n\n**Who's affected.** UK banks, insurers, investment firms and their technology suppliers; risk and compliance teams.\n\n**Why it matters.** Regulator speeches show where supervisory attention is heading, and the focus on interconnection points straight at third-party and supply-chain dependencies.\n\n**How this comes up with a GC or CLO.** A financial-services compliance leader may cite it alongside the T-PASC story as evidence that vendor risk is a supervisory priority on both sides of the Atlantic.\n\n**Question a buyer might ask.** How does the FCA expect firms to evidence resilience when a key supplier fails?\n\n## Story 6 — CBSA lays charges over illegal importation of cigarette manufacturing equipment\n\n**The facts.** The Canada Border Services Agency has laid charges in connection with the illegal importation of cigarette manufacturing equipment. The names of those charged and the details of the case were not in the material available to us.\n\n**Background.** Tobacco is heavily taxed and licensed in Canada, and equipment that can produce cigarettes outside that system is of particular interest to border authorities.\n\n**Who's affected.** Importers, customs brokers, logistics firms and manufacturers dealing in regulated goods.\n\n**Why it matters.** It is a reminder that customs and trade controls are a live enforcement area, and that what crosses a border is part of supply-chain compliance.\n\n**How this comes up with a GC or CLO.** Trade-compliance teams may raise it when discussing how they screen shipments and brokers.\n\n**Question a buyer might ask.** How do we know what our customs brokers are declaring on our behalf?\n",
+ "cards": [
+  {
+   "id": "8d04631f6070",
+   "url": "https://www.gov.uk/government/news/new-protections-will-stop-powerful-figures-silencing-scrutiny",
+   "source": "GOV.UK",
+   "region": "UK",
+   "lang": "en",
+   "published": "2026-11-27T09:40+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/1264258_I_Royal_Courts_of_Justice%2C_The_Strand_WC2A_2LL_London_20250615_0001.jpg/1280px-1264258_I_Royal_Courts_of_Justice%2C_The_Strand_WC2A_2LL_London_20250615_0001.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Tilman2007",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1264258_I_Royal_Courts_of_Justice,_The_Strand_WC2A_2LL_London_20250615_0001.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "1264258 I Royal Courts of Justice, The Strand WC2A 2LL London 20250615 0001.jpg"
+   },
+   "tier": "official",
+   "topic": "whistleblowing",
+   "kind": "link",
+   "title": "New UK protections to stop powerful figures silencing scrutiny",
+   "summary": "The UK Government is backing new legislation to protect victims of abuse, campaigners, whistleblowers, journalists and academics from powerful individuals who use abusive legal action to silence scrutiny.",
+   "impact": "Extending anti-SLAPP protection to whistleblowers narrows the legal tools available to pressure people who raise concerns, raising the stakes of how organisations respond to criticism.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "cco"
+   ],
+   "item_type": "proposal",
+   "image_query": "Royal Courts of Justice London",
+   "storyline": "uk-anti-slapp-bill"
+  },
+  {
+   "id": "8d6e6e67812f",
+   "kind": "briefing",
+   "tier": "ai",
+   "source": "AI Briefing · Financial Technology Association",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Federal_Deposit_Insurance_Corporation_%28FDIC%29_%2814123533587%29.jpg/1280px-Federal_Deposit_Insurance_Corporation_%28FDIC%29_%2814123533587%29.jpg",
+   "region": "US",
+   "lang": "en",
+   "published": "2026-11-24",
+   "topic": "third_party_risk",
+   "title": "Banks and fintechs launch shared standards council for third-party risk reviews",
+   "summary": "Bank and fintech trade groups formed T-PASC, a voluntary non-profit that will write common third-party risk standards so a technology provider is assessed once and the result reused by many banks. The FDIC and state supervisors will observe.",
+   "impact": "Shared vendor assessments could cut duplicated due diligence, but banks keep full accountability for their own third-party relationships, so reliance on a common report becomes a governance question.",
+   "industries": [
+    "financial_services",
+    "tech"
+   ],
+   "personas": [
+    "cco",
+    "analyst",
+    "gc"
+   ],
+   "item_type": "rule",
+   "image_query": "FDIC headquarters Washington building",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Tony Webster from Minneapolis, Minnesota, United States",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Federal_Deposit_Insurance_Corporation_(FDIC)_(14123533587).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Federal Deposit Insurance Corporation (FDIC) (14123533587).jpg"
+   }
+  },
+  {
+   "id": "bdf9835db087",
+   "url": "https://www.rapporteur.com/news/commission-asked-to-improve-transparency-of-blocs-standards-writing/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-27T11:37+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "EU Ombudsman asks Commission to make standards-writing more transparent",
+   "summary": "The European Ombudsman has asked the Commission to improve the transparency of the EU's standards-writing process, following complaints about the industry-led drafting of technical standards for the AI Act.",
+   "impact": "AI Act harmonised standards will shape what compliance looks like in practice, so scrutiny of who writes them affects the legitimacy and timing of the obligations companies face.",
+   "industries": [
+    "tech",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Berlaymont building Brussels"
+  },
+  {
+   "id": "fd4ef5b9a3bf",
+   "url": "https://www.rapporteur.com/news/open-source-platform-artex-adds-to-ai-boosted-cyber-threat/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-27T03:00+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Open-source platform ARTEX adds to AI-boosted cyber threat",
+   "summary": "ARTEX, an open-source AI agent orchestration tool, was reportedly used to hack into EU systems, adding to concerns about AI-enabled cyber threats.",
+   "impact": "Reported misuse of AI agent tools against public systems sharpens questions about AI governance, security oversight and board-level accountability for emerging technology risk.",
+   "industries": [
+    "all"
+   ],
+   "personas": [
+    "cco",
+    "analyst",
+    "gc"
+   ],
+   "item_type": "analysis",
+   "image_query": "data center server room"
+  },
+  {
+   "id": "d2985e457905",
+   "url": "https://www.fca.org.uk/news/speeches/cyber-resilience-building-confidence-threats-evolve",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": null,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Canary_Wharf_London_2025.png/1280px-Canary_Wharf_London_2025.png",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Dai Photo",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_London_2025.png",
+    "provider": "Wikimedia Commons",
+    "title": "Canary Wharf London 2025.png"
+   },
+   "tier": "official",
+   "topic": "cybersecurity",
+   "kind": "link",
+   "title": "FCA: building cyber resilience as threats evolve",
+   "summary": "In a speech at the Cyber Security in Financial Services Summit, FCA director of specialists Mark Francis said recent months had given stark reminders of how interconnected the digital economy has become.",
+   "impact": "Supervisory speeches signal where the FCA will press firms next, and interconnection points to third-party and supply-chain dependencies as a central operational-resilience concern.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "Canary Wharf London financial district"
+  },
+  {
+   "id": "99ca676605b2",
+   "url": "https://www.canada.ca/en/border-services-agency/news/2026/11/charges-laid-by-the-cbsa-in-connection-with-the-illegal-importation-of-cigarette-manufacturing-equipment.html",
+   "source": "Canada Border Services Agency",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-26T15:04+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Border_crossing_Canada_1959_%281%29.jpg/1280px-Border_crossing_Canada_1959_%281%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "David Hunter from Nashville, TN, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Border_crossing_Canada_1959_(1).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Border crossing Canada 1959 (1).jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "CBSA lays charges over illegal importation of cigarette manufacturing equipment",
+   "summary": "The Canada Border Services Agency has laid charges in connection with the illegal importation of cigarette manufacturing equipment.",
+   "impact": "Border enforcement against illicit tobacco equipment underlines the customs and trade-control exposure that sits within supply-chain and import compliance.",
+   "industries": [
+    "manufacturing_energy"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Canadian border crossing station"
+  }
+ ],
+ "briefings": {
+  "8d6e6e67812f": {
+   "headline": "Banks and fintechs launch shared standards council for third-party risk reviews",
+   "dek": "T-PASC promises one reusable vendor assessment for many banks, with the FDIC and state supervisors watching but not certifying.",
+   "body_md": "Three U.S. trade groups for banks and fintech companies have formed a non-profit body meant to end the practice of every bank separately vetting the same technology vendor. The Third-Party Assessments and Standards Council (T-PASC) announced its launch on November 24, 2026, and the Federal Deposit Insurance Corporation and state bank supervisors said the same day that they would take part as observers.\n\n**Who and what.** The founding members are the Independent Community Bankers of America, the American Fintech Council and the Financial Technology Association. The council's interim chief executive is Kayce Seifert, described in the launch announcement as a former FDIC regulatory attorney. T-PASC plans a single, voluntary set of third-party risk management standards for insured banks and the technology firms that serve them. A provider would be assessed independently once, and many institutions could rely on the result. A new assessment would be required after a material change in the provider's business or operations. The standards are to be published once developed, and the council says more announcements are expected in 2027.\n\n**The regulators' role.** According to an analysis by law firm Ballard Spahr, the FDIC and the Conference of State Bank Supervisors will observe but will not direct the standards, carry out assessments or certify providers, and they are not handing any supervisory responsibility to the council. Neither banks nor vendors are required to use T-PASC. An assessment does not limit any regulator's powers, and it does not remove a bank's duty to evaluate the risks of its own relationship with a provider.\n\n**Background.** The founders argue that today's approach, in which institutions individually evaluate the same service providers, is redundant and falls hardest on smaller community banks. The launch follows earlier FDIC interest in an industry standards body for bank–fintech partnerships and proposed revisions to the banking agencies' third-party risk management guidance published in September 2026.\n\n### What this means for legal and compliance leaders\nThird-party risk reviews are one of the most labour-intensive parts of a bank compliance programme, and a reusable assessment would change how that work is divided between banks and vendors. The open question, as Ballard Spahr notes, is whether the standards prove rigorous enough for banks and examiners to rely on. Until that is settled, accountability stays with each institution, which makes the decision to lean on a shared report a matter of documented judgement rather than a substitute for it. It also signals that regulators are willing to support industry-built infrastructure instead of writing every standard themselves.\n\n### Questions you may hear\n- If we rely on a T-PASC assessment, what will examiners still expect us to document ourselves?\n- What counts as a \"material change\" that triggers a vendor's reassessment?\n- Will larger banks and the other federal agencies accept these assessments, or only community banks?\n",
+   "sources": [
+    {
+     "title": "Industry Leaders Launch Third-Party Assessments and Standards Council (T-PASC)",
+     "publisher": "Financial Technology Association",
+     "url": "https://www.ftassociation.org/industry-leaders-launch-third-party-assessments-and-standards-council-t-pasc-to-establish-shared-voluntary-standards-for-banks-and-technology-providers/"
+    },
+    {
+     "title": "FDIC and State Banking Regulators Announce Support for T-PASC Initiative",
+     "publisher": "Ballard Spahr Consumer Finance Monitor",
+     "url": "https://www.consumerfinancemonitor.com/2026/11/25/fdic-and-state-banking-regulators-announce-support-for-t-pasc-initiative-to-develop-common-third-party-risk-management-standards/"
+    }
+   ],
+   "prompted_by": {
+    "title": "New standard-setting body created to streamline how financial institutions assess third-party technology service providers",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/third-party-risk/new-standard-setting-body-created-to-streamline-how-financial-institutions-assess-third-party-technology-service-providers/"
+   }
+  }
+ },
+ "storylines": {
+  "uk-anti-slapp-bill": "The UK's anti-SLAPP legislation"
+ }
+}
