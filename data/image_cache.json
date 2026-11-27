@@ -14297,5 +14297,72 @@
     "title": "The Hague City Hall 2017 3.jpg"
    }
   }
+ ],
+ "v2|canada border crossing": [
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Wild_Horse_Border_Crossing.jpg/1280px-Wild_Horse_Border_Crossing.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Qwexcxewq",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wild_Horse_Border_Crossing.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wild Horse Border Crossing.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Border_crossing_between_Stewart%2C_Canada_and_Hyder%2C_USA.jpg/1280px-Border_crossing_between_Stewart%2C_Canada_and_Hyder%2C_USA.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Isderion",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Border_crossing_between_Stewart,_Canada_and_Hyder,_USA.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Border crossing between Stewart, Canada and Hyder, USA.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Canada_-_United_States_border_crossing_at_Vanceboro%2C_Maine_from_St._Croix%2C_New_Brunswick.jpg/1280px-Canada_-_United_States_border_crossing_at_Vanceboro%2C_Maine_from_St._Croix%2C_New_Brunswick.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "DShaw20",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canada_-_United_States_border_crossing_at_Vanceboro,_Maine_from_St._Croix,_New_Brunswick.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Canada - United States border crossing at Vanceboro, Maine from St. Croix, New Brunswick.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Border_crossing_sign_to_Canada%2C_Northwest_Angle%2C_Minnesota.jpg/1280px-Border_crossing_sign_to_Canada%2C_Northwest_Angle%2C_Minnesota.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Lorie Shaull",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Border_crossing_sign_to_Canada,_Northwest_Angle,_Minnesota.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Border crossing sign to Canada, Northwest Angle, Minnesota.jpg"
+   }
+  },
+  {
+   "score": 3,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Border_crossing_Canada_1959.jpg/1280px-Border_crossing_Canada_1959.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "David Hunter from Nashville, TN, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Border_crossing_Canada_1959.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Border crossing Canada 1959.jpg"
+   }
+  }
  ]
 }

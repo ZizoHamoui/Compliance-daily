@@ -1,0 +1,853 @@
+{
+ "date": "2026-11-27",
+ "generated": "2026-11-27T12:33:40+00:00",
+ "count": 31,
+ "by_region": {
+  "CA": 4,
+  "US": 3,
+  "EU": 14,
+  "UK": 2
+ },
+ "paywalled": 8,
+ "items": [
+  {
+   "id": "4a4694a26294",
+   "title": "Government of Canada to make announcement on AI compute",
+   "snippet": "The Honourable Evan Solomon, Minister of Artificial Intelligence and Digital Innovation and Minister responsible for the Federal Economic Development Agency for Southern Ontario, will make an announcement about helping Canadian companies build and scale AI in Canada.",
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-to-make-announcement-on-ai-compute.html",
+   "paywall_url": "",
+   "source": "Innovation, Science and Economic Development Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-25T15:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 13.2,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg/1280px-Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Lapalmauz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_torrette_con_i_bocchettoni_per_il_raffreddamento_ad_aria_dei_server_in_un_data_center_attivo_dal_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Le torrette con i bocchettoni per il raffreddamento ad aria dei server in un data center attivo dal 2015.jpg"
+   }
+  },
+  {
+   "id": "5837cc1a37eb",
+   "title": "Federal Grand Jury Returns Indictment Against Greensburg Man for Crop Insurance Fraud",
+   "snippet": "A federal grand jury in Bowling Green returned an indictment charging a Greensburg man with one count of conspiracy and eight counts of crop insurance fraud.",
+   "url": "https://www.justice.gov/opa/pr/federal-grand-jury-returns-indictment-against-greensburg-man-crop-insurance-fraud",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-24T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Sdkb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building exterior door.jpg"
+   }
+  },
+  {
+   "id": "99ca676605b2",
+   "title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
+   "snippet": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
+   "url": "https://www.canada.ca/en/border-services-agency/news/2026/11/charges-laid-by-the-cbsa-in-connection-with-the-illegal-importation-of-cigarette-manufacturing-equipment.html",
+   "paywall_url": "",
+   "source": "Canada Border Services Agency",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-26T15:04+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 11.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Wild_Horse_Border_Crossing.jpg/1280px-Wild_Horse_Border_Crossing.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Qwexcxewq",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wild_Horse_Border_Crossing.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wild Horse Border Crossing.jpg"
+   }
+  },
+  {
+   "id": "27fd330968f9",
+   "title": "Government of Canada boosts AI innovation from Canadian SMEs with $700 million expansion of the AI Compute Access Fund",
+   "snippet": "Government of Canada announces support for 45 Canadian companies through the AI Compute Access Fund",
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/backgrounder-government-of-canada-announces-support-for-45-canadian-companies-through-the-ai-compute-access-fund.html",
+   "paywall_url": "",
+   "source": "Innovation, Science and Economic Development Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-26T16:57+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 10.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "BalticServers data center.jpg"
+   }
+  },
+  {
+   "id": "7f800e042cd0",
+   "title": "Backgrounder: Government of Canada supports 44 Canadian companies using AI to transform industries and create jobs",
+   "snippet": "Government of Canada supports 45 Canadian companies using AI to transform industries and create jobs",
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/backgrounder-government-of-canada-supports-44-canadian-companies-using-ai-to-transform-industries-and-create-jobs.html",
+   "paywall_url": "",
+   "source": "Innovation, Science and Economic Development Canada",
+   "source_id": "gc-news",
+   "region": "CA",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-26T16:57+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 10.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Virginia_Tech_-_data_center.jpg/1280px-Virginia_Tech_-_data_center.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Christopher Bowns",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Virginia Tech - data center.jpg"
+   }
+  },
+  {
+   "id": "5c2ce832dc49",
+   "title": "Peruvian National Extradited for Overseeing a Transnational Scheme to Impersonate Government Officials and Defraud U.S. Consumers",
+   "snippet": "Karount Jannet Toledo Vazquez, 49, of Lima, Peru, was extradited to the United States and made her initial appearance in Miami federal court to face charges for her role in operating a large fraud and extortion scheme. Toledo was arrested on Oct. 21 by Peruvian authorities…",
+   "url": "https://www.justice.gov/opa/pr/peruvian-national-extradited-overseeing-transnational-scheme-impersonate-government",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-24T12:00+00:00",
+   "topic": "false_claims",
+   "tags": [
+    "false_claims",
+    "enforcement"
+   ],
+   "score": 9.65,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg/1280px-2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+   }
+  },
+  {
+   "id": "9a0b4d21fdd5",
+   "title": "THE HACK: Large AI gigafactories delayed again",
+   "snippet": "In today's edition: AI safety, US tech sanctions, child abuse law",
+   "url": "https://www.rapporteur.com/news/the-hack-large-ai-gigafactories-delayed-again/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-26T08:30+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity",
+    "aml_sanctions"
+   ],
+   "score": 8.27,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1280px-Data_center_roof.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Rsparks3",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Data center roof.jpg"
+   }
+  },
+  {
+   "id": "fd4ef5b9a3bf",
+   "title": "Open-source platform ARTEX adds to AI-boosted cyber threat",
+   "snippet": "The AI agent orchestration tool was reportedly used to hack into EU systems",
+   "url": "https://www.rapporteur.com/news/open-source-platform-artex-adds-to-ai-boosted-cyber-threat/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-27T03:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 7.26,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Brazil_data_center_of_the_Wikimedia_Foundation.png/1280px-Brazil_data_center_of_the_Wikimedia_Foundation.png",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Arzhel Younsi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Brazil_data_center_of_the_Wikimedia_Foundation.png",
+    "provider": "Wikimedia Commons",
+    "title": "Brazil data center of the Wikimedia Foundation.png"
+   }
+  },
+  {
+   "id": "2f3254bb7bbd",
+   "title": "Outdated security rules hinder NATO’s military AI, commander says",
+   "snippet": "AI can improve interoperability by linking different military systems, a senior NATO commander says",
+   "url": "https://www.rapporteur.com/news/outdated-security-rules-hold-back-natos-military-ai/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-26T03:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 7.04,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "PDC server room.jpg"
+   }
+  },
+  {
+   "id": "87885aadb3c3",
+   "title": "FIREPOWER: ECF governance to be key in trilogues",
+   "snippet": "In today's edition: Black Sea, NATO AI, defence MFF",
+   "url": "https://www.rapporteur.com/news/firepower-ecf-governance-to-be-key-in-trilogues/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-26T08:41+00:00",
+   "topic": "governance",
+   "tags": [
+    "governance",
+    "ai_governance"
+   ],
+   "score": 6.62,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg/1280px-Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "James Petts from London, England",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boardroom_table_commissioned_by_Frank_Pick_-_Flickr_-_James_E._Petts.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Boardroom table commissioned by Frank Pick - Flickr - James E. Petts.jpg"
+   }
+  },
+  {
+   "id": "53bbb022a097",
+   "title": "THE HACK: AI-hacker-agents take hold",
+   "snippet": "In today's edition: Black Friday, scale-up fund, digital tax",
+   "url": "https://www.rapporteur.com/news/the-hack-ai-hacker-agents-take-hold/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-27T09:02+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "cybersecurity"
+   ],
+   "score": 5.95,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Computer%2C_server_room%2C_engineer_Fortepan_76098.jpg/1280px-Computer%2C_server_room%2C_engineer_Fortepan_76098.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "FOTO:Fortepan — ID 76098 : Adományozó/Donor: Erdei Katalin. archive copy at the ",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Computer,_server_room,_engineer_Fortepan_76098.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Computer, server room, engineer Fortepan 76098.jpg"
+   }
+  },
+  {
+   "id": "7d6b05828b1f",
+   "title": "Spain election candidates clash over economy, migration and corruption",
+   "snippet": "The main four candidates brought their differences to bear three days before the elections",
+   "url": "https://www.rapporteur.com/news/spain-election-candidates-clash-over-economy-migration-and-corruption/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-27T03:00+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery"
+   ],
+   "score": 5.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/One_stands_out_002_2025_01_01.jpg/1280px-One_stands_out_002_2025_01_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Friedrich Haag",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:One_stands_out_002_2025_01_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "One stands out 002 2025 01 01.jpg"
+   }
+  },
+  {
+   "id": "dd665a774ed4",
+   "title": "EU delays planned AI gigafactories again",
+   "snippet": "It’s at least the fifth setback the project has faced so far",
+   "url": "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T17:07+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 5.28,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/DHL_Netherlands_local_site_computer_room_server_racks_%282%29_-_IMG_3299.jpg/1280px-DHL_Netherlands_local_site_computer_room_server_racks_%282%29_-_IMG_3299.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Jemimus",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:DHL_Netherlands_local_site_computer_room_server_racks_(2)_-_IMG_3299.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "DHL Netherlands local site computer room server racks (2) - IMG 3299.jpg"
+   }
+  },
+  {
+   "id": "bdf9835db087",
+   "title": "Commission asked to improve transparency of bloc’s standards-writing",
+   "snippet": "Ombudswoman's request follows complaints about industry-led process for AI Act",
+   "url": "https://www.rapporteur.com/news/commission-asked-to-improve-transparency-of-blocs-standards-writing/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-27T11:37+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 3.52,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/NOIRLab_HQ_Server_Racks_%286V6A0375-CC%29.jpg/1280px-NOIRLab_HQ_Server_Racks_%286V6A0375-CC%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "NOIRLab/NSF/AURA/T. Slovinský",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0375-CC).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "NOIRLab HQ Server Racks (6V6A0375-CC).jpg"
+   }
+  },
+  {
+   "id": "ed96e5c08245",
+   "title": "Justice Department Clarifies Lawful Use of Drone Detection Technologies to Protect Americans from Emerging UAS Threats",
+   "snippet": "The Department of Justice today issued an opinion concluding that law enforcement may deploy a broad range of technologies to detect unmanned aircraft systems (“UAS,” commonly called drones) consistent with federal law. The opinion provides critical guidance to federal, state,…",
+   "url": "https://www.justice.gov/opa/pr/justice-department-clarifies-lawful-use-drone-detection-technologies-protect-americans",
+   "paywall_url": "",
+   "source": "U.S. Department of Justice",
+   "source_id": "doj-press",
+   "region": "US",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-25T12:00+00:00",
+   "topic": "enforcement",
+   "tags": [
+    "enforcement"
+   ],
+   "score": 2.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Robert F. Kennedy Department of Justice Building.jpg"
+   }
+  },
+  {
+   "id": "bd4e28f54c1f",
+   "title": "Speech by Commissioner Hoekstra in the European Parliament's Plenary debate on the Outcome of the Antalya UN climate summit (COP 31)",
+   "snippet": "European Commission Speech Strasbourg, 26 Nov 2026 Ladies and gentlemen, Good morning to all of you. In conversations and in negotiations you sometimes arrive at a moment where you simply have to say no. No, bec...",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2593",
+   "paywall_url": "",
+   "source": "European Commission",
+   "source_id": "ec-press",
+   "region": "EU",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-26T10:23+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.64,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "KenSwe72",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Berlaymont building Brussels.jpg"
+   }
+  },
+  {
+   "id": "83cf46342dfb",
+   "title": "From steel to coffee: why Europe needs an integrated climate-trade strategy [Promoted Content]",
+   "snippet": "Europe’s climate and trade tools have not always been coordinated. From Italy’s low-carbon steel to its coffee imports and quality food exports, similar tensions recur. An integrated framework that rewards cleaner production is possible.",
+   "url": "https://www.rapporteur.com/opinion/from-steel-to-coffee-why-europe-needs-an-integrated-climate-trade-strategy/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T15:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 2.56,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1280px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg"
+   }
+  },
+  {
+   "id": "c43bde2bf371",
+   "title": "THE HACK: EU’s quantum grab",
+   "snippet": "In today's edition: AI agents, DMA, spectrum licences",
+   "url": "https://www.rapporteur.com/news/the-hack-eus-quantum-grab/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-25T06:36+00:00",
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity",
+    "ai_governance"
+   ],
+   "score": 2.54,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Indrajit Das",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "139 Server Room 01.jpg"
+   }
+  },
+  {
+   "id": "86270d30373d",
+   "title": "Lettre Epargne Info Service n°55 - Novembre 2026",
+   "snippet": "Lettre Epargne Info Service Bien investir Intelligence artificielle Actions Lettre Epargne Info Service n°55 - Novembre 2026",
+   "url": "https://www.amf-france.org/fr/actualites-publications/publications/lettre-epargne-info-service/lettre-epargne-info-service-ndeg55-novembre-2026#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+   "paywall_url": "",
+   "source": "AMF (France)",
+   "source_id": "amf-fr",
+   "region": "EU",
+   "lang": "fr",
+   "tier": "official",
+   "published": "2026-11-25T08:26+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 2.2,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg/1280px-La_D%C3%A9fense%2C_the_business_district%2C_12_June_2014.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Connie Ma from Chicago, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense,_the_business_district,_12_June_2014.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "La Défense, the business district, 12 June 2014.jpg"
+   }
+  },
+  {
+   "id": "8d04631f6070",
+   "title": "New protections will stop powerful figures silencing scrutiny",
+   "snippet": "Victims of abuse, campaigners, whistleblowers, journalists and academics will be better protected from powerful individuals using abusive legal action to silence scrutiny, under new legislation backed by the Government today (Friday 27 November).",
+   "url": "https://www.gov.uk/government/news/new-protections-will-stop-powerful-figures-silencing-scrutiny",
+   "paywall_url": "",
+   "source": "GOV.UK",
+   "source_id": "govuk-wb",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": "2026-11-27T09:40+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 2.0,
+   "paywalled": false,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pea_Whistle.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Pea Whistle.jpg"
+   }
+  },
+  {
+   "id": "ef334567b93a",
+   "title": "Which way, Weber Manfred?",
+   "snippet": "Also, in tonight’s edition: Germany and France get financial scolding, carbon scheme gets roasted, and AI agent goes through Ireland.",
+   "url": "https://www.rapporteur.com/news/which-way-weber-manfred/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-24T17:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance"
+   ],
+   "score": 1.76,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Server_Room_-_DPLA_-_0a62d5947facc70bd04e6d169556a60c.jpg/1280px-Server_Room_-_DPLA_-_0a62d5947facc70bd04e6d169556a60c.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Columbus Metropolitan Library",
+    "license": "No restrictions",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Server_Room_-_DPLA_-_0a62d5947facc70bd04e6d169556a60c.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Server Room - DPLA - 0a62d5947facc70bd04e6d169556a60c.jpg"
+   }
+  },
+  {
+   "id": "b11bf53275ed",
+   "title": "Steel decarbonisation, measured",
+   "snippet": "Nine steel producers certified by the Global Steel Climate Council (GSCC) avoided 29.5 million tonnes of CO₂ emissions between 2023 and 2025. Together, they represent 2.2% of global steelmaking capacity. The emissions avoided are equivalent to taking every passenger car in the…",
+   "url": "https://www.rapporteur.com/video/steel-decarbonisation-measured/",
+   "paywall_url": "",
+   "source": "Euractiv",
+   "source_id": "euractiv",
+   "region": "EU",
+   "lang": "en",
+   "tier": "press",
+   "published": "2026-11-26T15:00+00:00",
+   "topic": "esg",
+   "tags": [
+    "esg"
+   ],
+   "score": 1.28,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Afsluitdijk_-_wind_turbines.jpg/1280px-Afsluitdijk_-_wind_turbines.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Denkrahm",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Afsluitdijk - wind turbines.jpg"
+   }
+  },
+  {
+   "id": "d2985e457905",
+   "title": "Cyber resilience: building confidence as threats evolve",
+   "snippet": "Speech by Mark Francis, director of specialists at the Cyber Security in Financial Services Summit. There is no shortage of material for a speech about cyber security at the moment.Recent months have provided some stark reminders of just how interconnected our digital economy…",
+   "url": "https://www.fca.org.uk/news/speeches/cyber-resilience-building-confidence-threats-evolve",
+   "paywall_url": "",
+   "source": "UK Financial Conduct Authority",
+   "source_id": "fca",
+   "region": "UK",
+   "lang": "en",
+   "tier": "official",
+   "published": null,
+   "topic": "cybersecurity",
+   "tags": [
+    "cybersecurity"
+   ],
+   "score": 0.88,
+   "paywalled": false,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Server_Room_%2822397102849%29.jpg/1280px-Server_Room_%2822397102849%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Server_Room_(22397102849).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Server Room (22397102849).jpg"
+   }
+  },
+  {
+   "id": "2800f3caa0dc",
+   "title": "ProPhase Entities Say Whistleblower Suit Lacks False Claims",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pUnBmNG1EaXo3U2NCMEdwamhyX0NYM3ZWQ2NEdWI5aWhQdjZtUUJveFhOUEZoRmJOZnF2bmJWd3JKUHl4czB4ZHJNek1tSEg4Y0lmSFdn0gFWQVVfeXFMTmlScGY0bURpejdTY0IwR3BqaHJfQ1gzdlZDY0R1YjlpaFB2Nm1RQm94WE5QRmhGYk5mcXZuYlZ3ckpQeXhzMHhkck16TW1ISDhjSWZIV2c?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-26T00:22+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing",
+    "false_claims"
+   ],
+   "score": 15.36,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "fc14d877b7ea",
+   "title": "The top AML fines 2020-26 and why compliance should brace for more",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/aml/the-top-aml-fines-2020-26-and-why-compliance-should-brace-for-more/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-26T21:25+00:00",
+   "topic": "aml_sanctions",
+   "tags": [
+    "aml_sanctions",
+    "enforcement"
+   ],
+   "score": 12.52,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "aecfd8a11c6f",
+   "title": "ASIC Reveals Whistleblower Complaint Against KPMG Deputy",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2hNbVl3T3hNSlpkcDZEY3lpcXlUelBMUGJkUkhqLUVwaER2bG9peUpjRElPMUVUelh6UlRnWnpodTRLQXJRT3NRd0hyRXBHS2FPTW56aFA3OWtsVm5maXBmTEtyN28tNHhRTzVXT25FeEtxVTZsekd3YURxem5leHNHQWlwTndPQVlUUV82eHFsLVVfdkNPaXY4WFXSAVhBVV95cUxOWVItRFFqV1RYUzJGRjR0dGpDakNGNURNamhhTVRaaHZBMmpVMS10emI2TEh4cjY0QnlzZVJTb2gtNmRjTThMdEVaR3ZGemFEMUswOTBBam1p?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-27T06:34+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "1f35e6165517",
+   "title": "Meta whistleblower: I feel like I’m living in Orwell’s 1984",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGs4VDFUdjRIa2g4X2tzV21pQ3FNZ2s2WWRyU2MwVFJHWVlvNF9RaWtLdGI5c0lsOGxlcmxqa3RwVFJvcS1sMXNzUUlTaG5MZEZDdnVmNHp2SHkxUE9NVW5wQm9sdVo5b281RE9aSXBGZF9tMktWUGxWX3lGOVFvNzZhT0FGNFpxVWhxdFdoZld3cmM5ZEpaWjNoc09DT1BwamlzalhsM2RqU1NfZkFuS09SRTNvcmo1Z09vcWdn?oc=5",
+   "source": "The Times",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-27T08:40+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "a2337fa37ca5",
+   "title": "Inside Allens' KPMG Bill: $6.6M For Whistleblower Advice",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmxhZVN5VThXX3pIOTFacDJEeDhRWnFGV0NNWE1lT3lSSFFZc0tkcHRlR3hiWDQxeEhXd3BWR0RIaWpSR0JBVXJZaVlHcmNvNEZvN0RGZlVsZ1JRT1V5WUo0cDhUMjFCemcybDhNUEdtODlWbzAxSmJyVVNNWWVHaXY1SUNHLThrQ2tTeTZNc3pTQ1BFY0xhLTMta9IBWEFVX3lxTE82OWp3ZWgybHYtWHhXcGVucDVka2ZMSUdJZHVoODg4OWRqRkN6YzlRQVZjUnE5UmUyZ1BXcUxhLVk1TXlLZ1JMYzlaRjlwMTdHc25Mck1xNzE?oc=5",
+   "source": "Law360",
+   "source_id": "gn-whistle",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-27T06:57+00:00",
+   "topic": "whistleblowing",
+   "tags": [
+    "whistleblowing"
+   ],
+   "score": 12.0,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "d2b692b4c63c",
+   "title": "Türkiye: protecting legal privilege amid AI and enforcement risks",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/market-review/market-review-privilege/2026/article/turkiye-protecting-legal-privilege-amid-ai-and-enforcement-risks",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-27T09:00+00:00",
+   "topic": "ai_governance",
+   "tags": [
+    "ai_governance",
+    "enforcement"
+   ],
+   "score": 11.32,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "8d6e6e67812f",
+   "title": "New standard-setting body created to streamline how financial institutions assess third-party technology service providers",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://www.complianceweek.com/third-party-risk/new-standard-setting-body-created-to-streamline-how-financial-institutions-assess-third-party-technology-service-providers/",
+   "source": "Compliance Week",
+   "source_id": "cw",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-26T22:10+00:00",
+   "topic": "third_party_risk",
+   "tags": [
+    "third_party_risk"
+   ],
+   "score": 11.2,
+   "paywalled": true,
+   "image": ""
+  },
+  {
+   "id": "2424eb536076",
+   "title": "Oil rig maker avoids US prosecution for Mexico bribery scheme",
+   "snippet": "",
+   "url": "",
+   "paywall_url": "https://globalinvestigationsreview.com/just-anti-corruption/article/oil-rig-maker-avoids-us-prosecution-mexico-bribery-scheme",
+   "source": "Global Investigations Review",
+   "source_id": "gir",
+   "region": "US",
+   "lang": "en",
+   "tier": "paywalled",
+   "published": "2026-11-24T16:53+00:00",
+   "topic": "anti_bribery",
+   "tags": [
+    "anti_bribery",
+    "enforcement",
+    "third_party_risk"
+   ],
+   "score": 9.86,
+   "paywalled": true,
+   "image": ""
+  }
+ ]
+}
