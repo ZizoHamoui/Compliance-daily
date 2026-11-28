@@ -1,0 +1,217 @@
+{
+ "date": "2026-11-28",
+ "lead_id": "42b4fda2d5e9",
+ "editor_note": "A quiet post-Thanksgiving edition. The SFO's charges over the London Capital & Finance collapse lead, alongside UK pension-fee reform and fresh public money for AI in Canada and Europe.",
+ "bottom_line": [
+  {
+   "id": "42b4fda2d5e9",
+   "text": "The SFO charged eight people over London Capital & Finance, nearly seven years after the mini-bond firm's collapse."
+  },
+  {
+   "id": "1481c7635aaf",
+   "text": "The FCA proposes exempting some performance fees from the workplace pension charge cap, opening default funds to private markets."
+  },
+  {
+   "id": "27fd330968f9",
+   "text": "Canada expands its AI Compute Access Fund by $700 million, backing 45 companies' AI adoption."
+  }
+ ],
+ "stat": {
+  "id": "42b4fda2d5e9",
+  "text": "£251 million: estimated losses for more than 11,200 London Capital & Finance investors, per the Serious Fraud Office."
+ },
+ "podcast_brief": "## The day in one line\n\nIt is a slow, post-Thanksgiving news day, and the clearest compliance story comes from London: the Serious Fraud Office has finally brought criminal charges over the collapse of London Capital & Finance, a mini-bond seller that failed in 2019. Around it sit quieter policy moves: the UK financial regulator rethinking pension fee rules to open the door to private markets, and governments in Canada and the EU pushing money and infrastructure into artificial intelligence.\n\n## Story 1 — SFO charges eight people over the London Capital & Finance collapse\n\n**The facts.**\n- On 16 November 2026 the UK Serious Fraud Office announced charges against eight individuals over the collapse of London Capital & Finance, usually shortened to LCF. Compliance trade press picked the story up again this week.\n- Seven are charged with conspiracy to defraud. The SFO names six of them: Michael Andrew Thomson, Simon Hume-Kendall, Elten Barker, Paul Careless, Robert Sedgwick and John Russell-Murphy. The seventh is not named, because that person's lawyers are expected to apply for anonymity at the first hearing. That person is also charged with acting in breach of a director disqualification undertaking, meaning they had previously agreed not to act as a company director.\n- An eighth defendant, Helen Hume-Kendall, is charged with concealing criminal property.\n- All eight are due at Westminster Magistrates' Court on 7 December 2026.\n- LCF was based in Tunbridge Wells in Kent. It raised money by selling mini-bonds to ordinary retail investors and marketed them as a route to high returns.\n- The SFO says more than 11,200 investors lost an estimated £251 million. City AM, covering the charges, describes the scheme as raising over £237 million from about 11,600 bondholders across roughly 16,000 bonds. The figures differ slightly by source, but the scale is the same: thousands of savers and a quarter of a billion pounds.\n- The SFO's head of division on the case described the charges as a significant step forward in the investigation.\n\n**Background.**\n- LCF went into administration in January 2019 after the Financial Conduct Authority stepped in. According to City AM, the regulator had found the firm was marketing unregulated mini-bonds with misleading promises about returns.\n- Mini-bonds are a kind of IOU issued by a company to the public. They are usually not transferable and often carry little or no investor protection, which is why the LCF case became a turning point in UK debates over how high-risk investments are sold to the public.\n- In 2020 LCF's administrators began a civil lawsuit against former executives and related companies. After a trial that started in February 2024, the High Court handed down a 341-page judgment in November 2024 finding fraudulent business practices. Several former executives were held liable for about £180 million, and two were also found liable on a separate dishonest-assistance claim worth about £211 million.\n- The criminal case is a separate process with a higher standard of proof. Nobody has been convicted, and the defendants have not yet entered pleas. The magistrates' hearing in December is only the first step; a case of this size would normally move to the Crown Court.\n\n**Who's affected.**\n- Financial services firms, especially those that issue, market or approve promotions for investment products aimed at retail customers.\n- Compliance teams responsible for financial promotions, customer communications and checks on who controls a business.\n- Boards and senior managers, who watch how long and how hard prosecutors pursue individuals after a corporate failure.\n\n**Why it matters.** This case is one of the clearest UK examples of how a corporate failure turns into personal criminal exposure for the people who ran a business. It also shows the timescale: almost seven years from collapse to charge, and more than two years after a civil court had already made fraud findings. The charge over a director disqualification undertaking is a reminder that disqualified people sometimes keep influencing companies behind the scenes, which is exactly what controller and beneficial-ownership checks are designed to catch. And it arrives as the SFO is working with new tools, including the corporate offence of failure to prevent fraud, which can make an organisation liable when someone acting for it commits fraud for its benefit.\n\n**How this comes up with a GC or CLO.** A general counsel at a financial firm is likely to bring up LCF when discussing how products are marketed, who signs off promotions, and whether the firm could be dragged into a third party's misconduct. Compliance leaders may use it as an example of why records of who approved what, and when, matter years after the fact.\n\n**Questions a buyer might ask.**\n- Why did it take nearly seven years to reach criminal charges after the firm collapsed?\n- How much responsibility sits with firms that market or approve other companies' investment promotions?\n- Could the new UK failure-to-prevent-fraud offence apply to a company in a situation like this?\n\n## Story 2 — FCA proposes exempting some performance fees from the workplace pension charge cap\n\n**The facts.**\n- The Financial Conduct Authority opened a consultation on 12 November 2026, numbered CP26/40, on exempting certain performance fees from the charge cap that applies to default funds in workplace pension schemes run by FCA-regulated providers.\n- The charge cap, in place since 2015, limits charges in those default funds to 0.75% of funds under management each year.\n- The consultation closes on 14 January 2027, and the FCA expects to publish final rules in summer 2027.\n- The regulator also proposes extra safeguards: firms must keep strong controls when they agree performance fees, and there are added requirements on transparency and on scrutiny of how private assets are valued.\n\n**Background.**\n- In 2023 the Department for Work and Pensions already exempted certain performance fees from the cap for trust-based schemes, which are governed by trustees. The FCA's proposals largely copy that approach for contract-based schemes, which are run by insurers and other providers it regulates, with some additions to reflect market changes since then.\n- The reasoning is that the cap discourages schemes from investing in asset classes where performance fees are common, such as private equity, venture capital and private credit.\n\n**Who's affected.**\n- Workplace pension providers, independent governance committees, private-market fund managers and the employers who choose pension schemes for staff.\n\n**Why it matters.** This is part of a broader UK policy push to steer pension savings into private markets and growth companies. Opening that door brings harder compliance questions with it: how fees are agreed, whether conflicts of interest are managed, and how illiquid assets are valued when there is no daily market price.\n\n**How this comes up with a GC or CLO.** Legal and compliance leaders at pension providers and asset managers are likely to see this as a governance and conflicts issue as much as an investment one, particularly the valuation safeguards.\n\n**Questions a buyer might ask.**\n- What new controls will providers need around performance fees and private-asset valuations?\n- How does this differ from the 2023 change for trust-based schemes?\n\n## Story 3 — Canada expands its AI Compute Access Fund by $700 million\n\n**The facts.**\n- Innovation, Science and Economic Development Canada announced a $700 million expansion of the AI Compute Access Fund.\n- The government also announced support for 45 Canadian companies through the fund, and a separate backgrounder describes support for companies using AI to change how their industries work.\n- The announcement was led by Evan Solomon, Canada's Minister of Artificial Intelligence and Digital Innovation.\n\n**Background.**\n- The fund helps small and mid-sized Canadian businesses pay for the computing power needed to build and run AI systems.\n- Canada has no federal AI law in force; an earlier proposal for an AI and data act died when Parliament was prorogued in early 2025, so AI governance for most companies still rests on privacy law, sector rules and internal policy.\n\n**Who's affected.**\n- Canadian technology companies and small businesses adopting AI, and the legal teams at larger firms that buy from them.\n\n**Why it matters.** Public funding speeds up AI adoption across the economy, which means more companies using AI in products and operations without a single federal rulebook. That pushes questions about data use, model risk and accountability onto company legal and compliance functions.\n\n**How this comes up with a GC or CLO.** A Canadian general counsel may raise this when discussing how their company governs AI use in the absence of a dedicated federal AI statute.\n\n**Questions a buyer might ask.**\n- With no federal AI law, what rules govern how funded companies use AI?\n\n## Story 4 — EU delays its planned AI gigafactories again\n\n**The facts.** Euractiv reports that the EU's planned AI gigafactories, large computing centres meant to train advanced AI models, have been delayed again. The outlet counts at least five setbacks so far.\n\n**Background.** The gigafactories are a central part of the EU's plan to build its own AI computing capacity rather than relying on providers outside Europe.\n\n**Who's affected.** Technology companies, cloud users and public bodies in the EU.\n\n**Why it matters.** Each delay keeps European companies dependent on non-EU computing providers, which feeds into ongoing debates about data transfers and digital sovereignty.\n\n**How this comes up with a GC or CLO.** Legal leaders may mention it when discussing where their AI workloads and data are hosted.\n\n**Questions a buyer might ask.**\n- What does continued reliance on non-EU providers mean for data-transfer risk?\n\n## Story 5 — Canada's financial consumer regulator appears before the Commons industry committee\n\n**The facts.** Shereen Benzvy Miller, Commissioner of the Financial Consumer Agency of Canada, delivered an opening statement to the House of Commons Standing Committee on Industry and Technology. Details of what she said were not available for this brief.\n\n**Background.** The agency supervises how federally regulated banks and other financial institutions treat consumers, and the commissioner appears before parliamentary committees regularly.\n\n**Who's affected.** Canadian banks and their compliance teams.\n\n**Why it matters.** These appearances tend to signal where the regulator's consumer-protection attention is heading.\n\n**How this comes up with a GC or CLO.** A bank's chief compliance officer may follow the testimony for hints of upcoming supervisory priorities.\n\n**Questions a buyer might ask.**\n- Which consumer-protection themes is the agency emphasising to Parliament?\n",
+ "cards": [
+  {
+   "id": "42b4fda2d5e9",
+   "kind": "briefing",
+   "tier": "ai",
+   "title": "SFO charges eight over London Capital & Finance mini-bond collapse",
+   "summary": "The Serious Fraud Office has charged eight people, mostly with conspiracy to defraud, over the 2019 collapse of London Capital & Finance, which cost more than 11,200 investors an estimated £251 million.",
+   "impact": "A seven-year path to charges shows how slowly complex UK fraud cases move, and keeps the marketing of high-risk investments and controller checks under scrutiny.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "gc",
+    "cco",
+    "analyst"
+   ],
+   "item_type": "enforcement",
+   "image_query": "Westminster Magistrates Court London",
+   "source": "AI Briefing · Serious Fraud Office",
+   "url": "",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Entrance_to_Westminster_Magistrates%27_Court%2C_March_2025.jpg/1280px-Entrance_to_Westminster_Magistrates%27_Court%2C_March_2025.jpg",
+   "published": "2026-11-16",
+   "region": "UK",
+   "lang": "en",
+   "topic": "enforcement_policy",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Entrance_to_Westminster_Magistrates%27_Court,_March_2025.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Entrance to Westminster Magistrates' Court, March 2025.jpg"
+   }
+  },
+  {
+   "id": "1481c7635aaf",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
+   "source": "UK Financial Conduct Authority",
+   "region": "UK",
+   "lang": "en",
+   "published": "2026-11-28",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   },
+   "tier": "official",
+   "topic": "employment_law",
+   "kind": "link",
+   "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
+   "summary": "The FCA is consulting on excluding certain performance-linked fees from the workplace pension charge cap, giving providers more room to invest for the long term while keeping savers' interests protected.",
+   "impact": "Loosening the fee cap opens default pension funds to private markets, putting valuation controls, fee governance and conflicts oversight at providers under closer regulatory attention.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "proposal",
+   "image_query": "Financial Conduct Authority Stratford London"
+  },
+  {
+   "id": "27fd330968f9",
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/backgrounder-government-of-canada-announces-support-for-45-canadian-companies-through-the-ai-compute-access-fund.html",
+   "source": "Innovation, Science and Economic Development Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-26T16:57+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Centre Block - Parliament Hill.jpg"
+   },
+   "tier": "official",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "Government of Canada boosts AI innovation from Canadian SMEs with $700 million expansion of the AI Compute Access Fund",
+   "summary": "Ottawa announced a $700 million expansion of the AI Compute Access Fund and support for 45 Canadian companies through the programme.",
+   "impact": "Public money is accelerating AI adoption among Canadian businesses, widening the pool of firms whose legal teams face AI use, data and governance questions.",
+   "industries": [
+    "tech",
+    "all"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "rule",
+   "image_query": "Parliament Hill Ottawa Centre Block"
+  },
+  {
+   "id": "dd665a774ed4",
+   "url": "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/",
+   "source": "Euractiv",
+   "region": "EU",
+   "lang": "en",
+   "published": "2026-11-25T17:07+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg/1280px-Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "Joël van der Loo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Duga-1_radar_data_center_inside_empty_server_racks_2018.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Duga-1 radar data center inside empty server racks 2018.jpg"
+   },
+   "tier": "press",
+   "topic": "ai_governance",
+   "kind": "link",
+   "title": "EU delays planned AI gigafactories again",
+   "summary": "The EU's planned AI gigafactories have been delayed again, at least the fifth setback the project has faced so far.",
+   "impact": "Repeated delays to Europe's flagship AI infrastructure keep companies reliant on non-EU compute providers, a recurring issue in data-transfer and digital sovereignty debates.",
+   "industries": [
+    "tech"
+   ],
+   "personas": [
+    "gc",
+    "clo"
+   ],
+   "item_type": "analysis",
+   "image_query": "data center server racks"
+  },
+  {
+   "id": "f0116efa405f",
+   "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/11/opening-statement-to-the-standing-committee-on-industry-and-technology-indu-by-commissioner-shereen-benzvy-miller.html",
+   "source": "Financial Consumer Agency of Canada",
+   "region": "CA",
+   "lang": "en",
+   "published": "2026-11-27T13:21+00:00",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/West_Block%2C_Parliament_of_Canada_%28April_2019%29.jpg/1280px-West_Block%2C_Parliament_of_Canada_%28April_2019%29.jpg",
+   "image_credit": {
+    "kind": "commons",
+    "author": "WildComet",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:West_Block,_Parliament_of_Canada_(April_2019).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "West Block, Parliament of Canada (April 2019).jpg"
+   },
+   "tier": "official",
+   "topic": "enforcement",
+   "kind": "link",
+   "title": "FCAC Commissioner delivers opening statement to the Commons industry committee",
+   "summary": "Financial Consumer Agency of Canada Commissioner Shereen Benzvy Miller delivered an opening statement to the House of Commons Standing Committee on Industry and Technology.",
+   "impact": "Parliamentary appearances by the financial consumer regulator signal where consumer-protection oversight of Canadian banks is heading.",
+   "industries": [
+    "financial_services"
+   ],
+   "personas": [
+    "cco",
+    "analyst"
+   ],
+   "item_type": "analysis",
+   "image_query": "House of Commons Canada West Block"
+  }
+ ],
+ "briefings": {
+  "42b4fda2d5e9": {
+   "headline": "SFO charges eight over London Capital & Finance mini-bond collapse",
+   "dek": "Nearly seven years after LCF failed, prosecutors bring fraud charges over losses the SFO puts at £251 million.",
+   "body_md": "The UK Serious Fraud Office has charged eight people over the 2019 collapse of London Capital & Finance (LCF), the mini-bond seller whose failure left thousands of retail investors out of pocket. The charges, announced on 16 November 2026, come almost seven years after the firm went into administration.\n\n**The key facts.** According to the SFO, seven of the eight face charges of conspiracy to defraud: Michael Andrew Thomson, Simon Hume-Kendall, Elten Barker, Paul Careless, Robert Sedgwick and John Russell-Murphy, plus an eighth person whose lawyers are expected to seek anonymity, and who is also charged with acting in breach of a director disqualification undertaking. Helen Hume-Kendall is charged with concealing criminal property. All eight are due before Westminster Magistrates' Court on 7 December 2026.\n\nThe SFO says LCF, based in Tunbridge Wells, sold mini-bonds to retail investors on the promise of high returns, and that more than 11,200 investors lost an estimated £251 million. City AM, reporting the charges, puts the amount raised at over £237 million from around 11,600 bondholders. The SFO's head of division, Emma Isaac, called the charges \"a significant step forward\" in the investigation.\n\n**Background.** LCF collapsed in January 2019 after the Financial Conduct Authority intervened over its marketing of unregulated mini-bonds and misleading promises of returns, City AM reports. The firm's administrators brought a civil claim in 2020. In November 2024 the High Court found fraudulent business practices and held several former executives liable for about £180 million, with further liability on a dishonest-assistance claim. The criminal charges are separate and none of the defendants has been convicted; the case is at its first stage.\n\n### What this means for legal and compliance leaders\nThe case shows how long a complex fraud prosecution can take in the UK, even after a civil court has already made findings. It also highlights the gatekeeping role of firms that market or approve financial promotions for other businesses: the LCF failure was a central example in debates over the FCA's supervision and the rules for promoting high-risk investments to retail customers. The charge of breaching a director disqualification undertaking points to the value of checks on who actually controls a business, not just who appears on the register. With the SFO also gaining new powers under the UK's failure-to-prevent-fraud offence, prosecutions like this one shape how boards view personal and corporate fraud exposure.\n\n### Questions you may hear\n- How long did it take from collapse to criminal charges, and why?\n- What role did the marketing of unregulated products play in the losses?\n- Could a company face liability for fraud committed by people acting on its behalf under the new UK offence?\n",
+   "sources": [
+    {
+     "title": "SFO charges eight over London Capital & Finance collapse",
+     "publisher": "Serious Fraud Office (GOV.UK)",
+     "url": "https://www.gov.uk/government/news/sfo-charges-eight-over-london-capital-finance-collapse"
+    },
+    {
+     "title": "SFO charges eight over £251m London Capital & Finance collapse",
+     "publisher": "City AM",
+     "url": "https://www.cityam.com/?p=2478269"
+    }
+   ],
+   "prompted_by": {
+    "title": "UK Serious Fraud Office charges eight people for $329M fraud seven years after minibond company collapse",
+    "publisher": "Compliance Week",
+    "url": "https://www.complianceweek.com/regulatory-enforcement/uk-serious-fraud-office-charges-eight-people-for-329m-fraud-seven-years-after-minibond-company-collapse/"
+   }
+  }
+ }
+}

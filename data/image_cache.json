@@ -14634,5 +14634,72 @@
     "title": "Old border inspection station - Porthill Idaho.jpg"
    }
   }
+ ],
+ "v2|house of commons canada west block": [
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/West_Block%2C_Parliament_of_Canada_%28April_2019%29.jpg/1280px-West_Block%2C_Parliament_of_Canada_%28April_2019%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "WildComet",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:West_Block,_Parliament_of_Canada_(April_2019).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "West Block, Parliament of Canada (April 2019).jpg"
+   }
+  },
+  {
+   "score": 5,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/House_of_Commons_at_West_Block.jpg/1280px-House_of_Commons_at_West_Block.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Takipoint123",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:House_of_Commons_at_West_Block.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "House of Commons at West Block.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/West_Block_Temp_House_of_Commons%2C_2022.jpg/1280px-West_Block_Temp_House_of_Commons%2C_2022.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Hutima",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:West_Block_Temp_House_of_Commons,_2022.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "West Block Temp House of Commons, 2022.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stripped_House_of_Commons%2C_December_2018.jpg/1280px-Stripped_House_of_Commons%2C_December_2018.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Leafsfan67",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stripped_House_of_Commons,_December_2018.jpg",
+    "provider": "Wikimedia Commons",
+    "title": "Stripped House of Commons, December 2018.jpg"
+   }
+  },
+  {
+   "score": 4,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/House_of_Commons_Foyer_%2814763463191%29.jpg/1280px-House_of_Commons_Foyer_%2814763463191%29.jpg",
+   "credit": {
+    "kind": "commons",
+    "author": "Tony Webster from Portland, Oregon, United States",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:House_of_Commons_Foyer_(14763463191).jpg",
+    "provider": "Wikimedia Commons",
+    "title": "House of Commons Foyer (14763463191).jpg"
+   }
+  }
  ]
 }
